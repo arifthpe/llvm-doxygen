@@ -1,0 +1,5 @@
+<map id="file_status" name="file_status">
+<area shape="rect" id="Node000001" title="Represents the result of a call to sys::fs::status()." alt="" coords="31,94,112,120"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sys_1_1fs_1_1basic__file__status.html" title="Represents the result of a call to directory_iterator::status()." alt="" coords="5,5,138,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,61,74,93,69,93,69,61"/>
+</map>

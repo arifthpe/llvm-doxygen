@@ -1,0 +1,25 @@
+<map id="llvm::AsmPrinterHandler" name="llvm::AsmPrinterHandler">
+<area shape="rect" id="Node000001" title="Collects and handles AsmPrinter objects required to build debug or EH information." alt="" coords="5,227,169,252"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DebugHandlerBase.html" title="Base class for debug information backends." alt="" coords="217,80,383,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,216,278,104,281,108,121,220"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1EHStreamer.html" title="Emits exception handling directives." alt="" coords="237,227,363,252"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="183,237,237,237,237,242,183,242"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1WinCFGuard.html" title=" " alt="" coords="235,276,365,302"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="160,254,242,273,241,278,159,259"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1BTFDebug.html" title="Collect and emit BTF information." alt="" coords="457,5,573,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,72,430,40,464,29,465,34,432,45,347,77"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1CodeViewDebug.html" title="Collects and handles line tables information in a CodeView format." alt="" coords="440,55,591,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="397,79,439,74,439,79,398,84"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DwarfDebug.html" title="Collects and handles dwarf debug information." alt="" coords="452,104,578,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="398,101,452,107,451,112,398,106"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1AIXException.html" title=" " alt="" coords="449,153,582,179"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="346,218,430,188,464,177,466,182,432,193,348,223"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ARMException.html" title=" " alt="" coords="445,203,586,228"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="376,228,444,221,444,226,377,234"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1DwarfCFIException.html" title=" " alt="" coords="431,252,599,278"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="377,246,431,252,430,258,377,251"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1WasmException.html" title=" " alt="" coords="441,301,589,327"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="368,255,384,261,408,275,432,288,462,298,460,303,430,293,406,279,382,266,366,260"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1WinException.html" title=" " alt="" coords="448,351,582,376"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="377,257,385,261,402,281,409,301,417,319,433,337,451,348,448,352,429,342,412,322,404,302,397,284,381,266,374,261"/>
+</map>

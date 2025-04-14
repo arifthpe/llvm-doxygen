@@ -1,0 +1,13 @@
+<map id="llvm::AnalysisManager&lt; IRUnitT, ExtraArgTs &gt;" name="llvm::AnalysisManager&lt; IRUnitT, ExtraArgTs &gt;">
+<area shape="rect" id="Node000001" title="A container for analyses that lazily runs them and caches their results." alt="" coords="5,165,167,206"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AnalysisManager.html" title=" " alt="" coords="416,5,577,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,152,148,122,189,96,246,73,306,56,415,37,416,42,307,61,248,78,192,101,152,127,118,156"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AnalysisManager.html" title=" " alt="" coords="397,85,596,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,164,190,163,396,127,397,132,191,168,182,170"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AnalysisManager.html" title=" " alt="" coords="420,165,573,206"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,183,419,183,419,188,181,188"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1AnalysisManager.html" title=" " alt="" coords="420,230,573,271"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="182,201,191,203,420,238,419,243,190,208,181,206"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1AnalysisManager.html" title=" " alt="" coords="420,296,573,336"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="125,213,157,234,192,252,250,273,310,288,420,306,419,312,309,293,248,278,190,257,154,239,122,217"/>
+</map>

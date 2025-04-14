@@ -1,0 +1,10 @@
+<map id="BuilderTy" name="BuilderTy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="69,259,145,285"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1IRBuilder.html" title=" " alt="" coords="5,184,209,210"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,225,110,259,104,259,104,225"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1IRBuilderBase.html" title="Common base class shared among various IRBuilders." alt="" coords="33,5,170,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,46,109,184,104,184,100,46"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1IRBuilder.html" title="This provides a uniform API for creating instructions and inserting them into a basic block: either a..." alt="" coords="124,80,296,121"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="131,38,185,78,182,82,128,42"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="180,133,122,186,118,182,176,129"/>
+</map>
