@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1DebugEpochBase_1_1HandleBase.html" title=" " alt="" coords="21,209,179,250"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1DenseMapIterator.html" title=" " alt="" coords="243,5,414,61"/>
+<area shape="poly" id="edge2290_Node000000_Node000001" title=" " alt="" coords="122,195,173,134,206,101,241,71,259,59,262,64,244,75,209,105,177,137,126,199"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DenseMapIterator.html" title=" " alt="" coords="243,85,414,141"/>
+<area shape="poly" id="edge2291_Node000000_Node000002" title=" " alt="" coords="150,199,241,151,265,139,267,144,244,156,153,204"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SmallPtrSetIterator.html" title=" " alt="" coords="246,245,411,286"/>
+<area shape="poly" id="edge2292_Node000000_Node000003" title=" " alt="" coords="194,241,246,250,245,255,193,247"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1SmallPtrSetIterator.html" title=" " alt="" coords="246,310,411,351"/>
+<area shape="poly" id="edge2293_Node000000_Node000005" title=" " alt="" coords="157,254,244,295,273,307,271,312,242,300,154,259"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1DenseMapIterator.html" title=" " alt="" coords="243,165,414,221"/>
+<area shape="poly" id="edge2294_Node000000_Node000007" title=" " alt="" coords="194,212,242,204,243,209,195,217"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SmallPtrSetIterator.html" title="SmallPtrSetIterator &#45; This implements a const_iterator for SmallPtrSet." alt="" coords="246,376,411,416"/>
+<area shape="poly" id="edge2295_Node000000_Node000006" title=" " alt="" coords="143,257,197,303,220,334,229,347,244,360,265,373,263,377,241,365,225,350,215,337,193,307,139,261"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SmallPtrSetIteratorImpl.html" title="SmallPtrSetIteratorImpl &#45; This is the common base class shared between all instances of SmallPtrSetIt..." alt="" coords="5,318,195,343"/>
+<area shape="poly" id="edge2296_Node000004_Node000003" title=" " alt="" coords="161,311,254,284,255,289,162,316"/>
+<area shape="poly" id="edge2297_Node000004_Node000005" title=" " alt="" coords="209,328,246,328,246,333,209,333"/>
+<area shape="poly" id="edge2298_Node000004_Node000006" title=" " alt="" coords="162,345,255,372,254,377,161,350"/>
+</map>

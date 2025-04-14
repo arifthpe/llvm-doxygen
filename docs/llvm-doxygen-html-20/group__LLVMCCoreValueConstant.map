@@ -1,0 +1,11 @@
+<map id="Constants" name="Constants">
+<area shape="rect" id="Node000001" title="This section contains APIs for interacting with LLVMValueRef that correspond to llvm::Constant instan..." alt="" coords="114,153,195,179"/>
+<area shape="rect" id="Node000004" href="$group__LLVMCCoreValueConstantComposite.html" title="Functions in this group operate on composite constants." alt="" coords="244,5,392,31"/>
+<area shape="rect" id="Node000005" href="$group__LLVMCCoreValueConstantExpressions.html" title="Functions in this group correspond to APIs on llvm::ConstantExpr." alt="" coords="243,55,393,80"/>
+<area shape="rect" id="Node000006" href="$group__LLVMCCoreValueConstantGlobals.html" title="This group contains functions that operate on global values." alt="" coords="268,104,369,130"/>
+<area shape="rect" id="Node000003" href="$group__LLVMCCoreValueConstantScalar.html" title="Functions in this group model LLVMValueRef instances that correspond to constants referring to scalar..." alt="" coords="259,153,378,179"/>
+<area shape="rect" id="Node000009" href="$group__LLVMCCoreValueFunction.html" title="Functions in this group operate on LLVMValueRef instances that correspond to llvm::Function instances..." alt="" coords="262,203,375,228"/>
+<area shape="rect" id="Node000008" href="$group__LLVMCoreValueConstantGlobalAlias.html" title="This group contains function that operate on global alias values." alt="" coords="266,252,370,278"/>
+<area shape="rect" id="Node000007" href="$group__LLVMCoreValueConstantGlobalVariable.html" title="This group contains functions that operate on global variable values." alt="" coords="261,301,376,327"/>
+<area shape="rect" id="Node000002" href="$group__LLVMCCoreValues.html" title="The bulk of LLVM&#39;s object model consists of values, which comprise a very rich type hierarchy." alt="" coords="5,153,66,179"/>
+</map>

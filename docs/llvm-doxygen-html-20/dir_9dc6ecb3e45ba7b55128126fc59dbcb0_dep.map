@@ -1,0 +1,10 @@
+<map id="lib/Transforms/Vectorize/SandboxVectorizer" name="lib/Transforms/Vectorize/SandboxVectorizer">
+<area shape="rect" id="node3" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="101,137,163,162"/>
+<area shape="poly" id="edge1" href="dir_000275_000144.html" alt="" coords="186,90,154,127,150,124,182,87"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000275_000144.html" title="52" alt="" coords="153,121,167,136"/>
+<area shape="rect" id="node2" href="dir_abcd194dc9edd7177a7ca8fce15b2b86.html" title="Passes" alt="" coords="38,63,103,89"/>
+<area shape="poly" id="edge2" href="dir_000255_000144.html" alt="" coords="83,87,114,124,110,127,79,91"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000255_000144.html" title="13" alt="" coords="109,109,123,124"/>
+<area shape="rect" id="clust2" href="dir_9dc6ecb3e45ba7b55128126fc59dbcb0.html" alt="" coords="27,52,269,99"/>
+<area shape="rect" id="clust1" href="dir_acb975f027bc8cf760392318543d920a.html" title="Vectorize" alt="" coords="16,16,280,110"/>
+</map>
