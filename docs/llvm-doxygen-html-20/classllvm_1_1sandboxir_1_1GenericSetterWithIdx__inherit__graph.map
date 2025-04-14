@@ -1,0 +1,5 @@
+<map id="llvm::sandboxir::GenericSetterWithIdx&lt; GetterFn, SetterFn &gt;" name="llvm::sandboxir::GenericSetterWithIdx&lt; GetterFn, SetterFn &gt;">
+<area shape="rect" id="Node000001" title="Similar to GenericSetter but the setters/getters have an index as their first argument." alt="" coords="24,79,193,135"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1IRChangeBase.html" title="The base class for IR Change classes." alt="" coords="5,5,212,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,46,111,78,106,78,106,46"/>
+</map>

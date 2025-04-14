@@ -1,0 +1,13 @@
+<map id="llvm::sandboxir::RegionPass" name="llvm::sandboxir::RegionPass">
+<area shape="rect" id="Node000001" title="A pass that runs on a sandbox::Region." alt="" coords="201,70,389,96"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1PassManager.html" title=" " alt="" coords="441,5,638,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="366,64,449,44,450,49,368,69"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1NullPass.html" title="A Region pass that does nothing, for use as a placeholder in tests." alt="" coords="455,70,625,96"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="404,80,454,80,454,86,404,86"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1PrintInstructionCount.html" title="A Region pass that prints the instruction count for the region to stdout." alt="" coords="437,120,642,161"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="368,97,450,117,449,122,366,102"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1Pass.html" title="The base class of a Sandbox IR Pass." alt="" coords="5,70,153,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,80,200,80,200,86,168,86"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1RegionPassManager.html" title=" " alt="" coords="690,5,879,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="653,23,690,23,690,28,653,28"/>
+</map>

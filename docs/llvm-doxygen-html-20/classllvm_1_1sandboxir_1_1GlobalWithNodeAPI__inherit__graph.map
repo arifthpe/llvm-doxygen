@@ -1,0 +1,21 @@
+<map id="llvm::sandboxir::GlobalWithNodeAPI&lt; GlobalT, LLVMGlobalT, ParentT, LLVMParentT &gt;" name="llvm::sandboxir::GlobalWithNodeAPI&lt; GlobalT, LLVMGlobalT, ParentT, LLVMParentT &gt;">
+<area shape="rect" id="Node000001" title="Provides API functions, like getIterator() and getReverseIterator() to GlobalIFunc,..." alt="" coords="122,161,339,217"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1GlobalWithNodeAPI.html" title=" " alt="" coords="616,5,798,76"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="274,149,315,120,362,96,427,74,493,59,616,42,616,48,494,64,428,79,364,100,318,125,277,154"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1GlobalWithNodeAPI.html" title=" " alt="" coords="615,100,799,171"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="354,168,363,167,614,141,615,146,364,173,355,174"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1sandboxir_1_1GlobalWithNodeAPI.html" title=" " alt="" coords="613,195,801,265"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="354,211,364,212,494,223,612,227,612,232,493,228,363,218,353,216"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1sandboxir_1_1GlobalWithNodeAPI.html" title=" " alt="" coords="593,289,821,360"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="276,224,318,253,364,277,421,295,480,307,593,320,593,325,480,313,420,300,362,281,315,257,273,228"/>
+<area shape="rect" id="Node000002" href="$classParentT.html" title=" " alt="" coords="5,176,73,202"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,186,122,186,122,191,88,191"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1Function.html" title=" " alt="" coords="887,28,1054,54"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="813,38,886,38,886,43,813,43"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1GlobalAlias.html" title=" " alt="" coords="879,123,1062,148"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="814,133,878,133,878,138,814,138"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1sandboxir_1_1GlobalIFunc.html" title=" " alt="" coords="877,217,1064,243"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="816,227,876,227,876,233,816,233"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1sandboxir_1_1GlobalVariable.html" title=" " alt="" coords="870,312,1070,338"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="835,322,869,322,869,327,835,327"/>
+</map>

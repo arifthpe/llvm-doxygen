@@ -1,0 +1,5 @@
+<map id="llvm::sandboxir::DGNode" name="llvm::sandboxir::DGNode">
+<area shape="rect" id="Node000001" title="A DependencyGraph Node that points to an Instruction and contains memory dependency edges." alt="" coords="20,5,188,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1MemDGNode.html" title="A DependencyGraph Node for instructions that may read/write memory, or have some ordering constraints..." alt="" coords="5,79,203,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,46,107,79,101,79,101,46"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="llvm::orc::LinkGraphLinkingLayer" name="llvm::orc::LinkGraphLinkingLayer">
+<area shape="rect" id="Node000001" title="LinkGraphLinkingLayer links LinkGraphs into the Executor using JITLink." alt="" coords="101,79,280,120"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1ObjectLinkingLayer.html" title="An ObjectLayer implementation built on JITLink." alt="" coords="111,168,270,208"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,134,193,167,188,167,188,134"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1LinkGraphLayer.html" title=" " alt="" coords="5,5,176,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,38,167,77,164,81,115,42"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1ResourceManager.html" title="Listens for ResourceTracker operations." alt="" coords="199,5,385,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,42,217,81,214,77,263,38"/>
+</map>

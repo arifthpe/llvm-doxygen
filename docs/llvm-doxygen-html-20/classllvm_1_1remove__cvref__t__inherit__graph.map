@@ -1,0 +1,7 @@
+<map id="llvm::remove_cvref_t" name="llvm::remove_cvref_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="76,5,219,31"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1detail_1_1Visitor_3_01HeadT_01_4.html" title=" " alt="" coords="5,79,135,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,44,91,80,87,77,124,40"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1Visitor_3_01HeadT_00_01TailTs_8_8_8_01_4.html" title=" " alt="" coords="158,79,294,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,40,208,77,205,81,168,44"/>
+</map>

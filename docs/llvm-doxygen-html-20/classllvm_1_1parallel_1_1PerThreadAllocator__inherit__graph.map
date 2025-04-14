@@ -1,0 +1,9 @@
+<map id="llvm::parallel::PerThreadAllocator&lt; AllocatorTy &gt;" name="llvm::parallel::PerThreadAllocator&lt; AllocatorTy &gt;">
+<area shape="rect" id="Node000001" title="PerThreadAllocator is used in conjunction with ThreadPoolExecutor to allow per&#45;thread allocations." alt="" coords="23,229,186,270"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1parallel_1_1PerThreadAllocator.html" title=" " alt="" coords="5,333,204,373"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="107,284,107,332,102,332,102,284"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AllocatorBase.html" title=" " alt="" coords="32,124,177,180"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,195,107,229,102,229,102,195"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AllocatorBase.html" title="CRTP base class providing obvious overloads for the core Allocate() methods of LLVM&#45;style allocators." alt="" coords="37,5,172,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,61,107,124,102,124,102,61"/>
+</map>

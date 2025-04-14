@@ -1,0 +1,14 @@
+<map id="llvm::sandboxir::OpaqueInst" name="llvm::sandboxir::OpaqueInst">
+<area shape="rect" id="Node000001" title="An LLLVM Instruction that has no SandboxIR equivalent class gets mapped to an OpaqueInstr." alt="" coords="37,424,221,450"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1SingleLLVMInstructionImpl.html" title=" " alt="" coords="5,334,253,375"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,390,132,424,126,424,126,390"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1Instruction.html" title="A sandboxir::User with operands, opcode and linked with previous/next instructions in an instruction ..." alt="" coords="35,155,213,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,196,131,334,126,334,122,196"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1SingleLLVMInstructionImpl.html" title="Instructions that contain a single LLVM Instruction can inherit from this." alt="" coords="145,230,393,271"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="160,186,235,228,232,232,157,191"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1User.html" title="A sandboxir::User has operands." alt="" coords="51,80,196,106"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="126,121,126,155,121,155,121,121"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1Value.html" title="A SandboxIR Value has users. This is the base class." alt="" coords="49,5,198,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="126,46,126,80,121,80,121,46"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="232,282,157,336,154,331,229,278"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="llvm::orc::SelfExecutorProcessControl" name="llvm::orc::SelfExecutorProcessControl">
+<area shape="rect" id="Node000001" title="A ExecutorProcessControl implementation targeting the current process." alt="" coords="466,71,668,111"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1ExecutorProcessControl.html" title="ExecutorProcessControl supports interaction with a JIT target process." alt="" coords="236,5,415,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,48,490,67,488,73,416,53"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1InProcessMemoryAccess.html" title=" " alt="" coords="233,71,418,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="433,88,466,88,466,94,433,94"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1ExecutorProcessControl_1_1MemoryAccess.html" title="APIs for manipulating memory in the target process." alt="" coords="5,71,185,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="199,88,232,88,232,94,199,94"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1orc_1_1DylibManager.html" title=" " alt="" coords="246,136,405,161"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="396,129,478,109,479,115,398,134"/>
+</map>

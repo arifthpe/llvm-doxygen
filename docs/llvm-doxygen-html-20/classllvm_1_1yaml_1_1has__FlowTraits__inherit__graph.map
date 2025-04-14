@@ -1,0 +1,10 @@
+<map id="llvm::yaml::has_FlowTraits&lt; T, Enabled &gt;" name="llvm::yaml::has_FlowTraits&lt; T, Enabled &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,65,184,106"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1has__FlowTraits_3_01T_00_01true_01_4.html" title=" " alt="" coords="353,5,531,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,65,352,38,353,44,199,70"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1yaml_1_1has__FlowTraits_3_01T_00_01true_01_4_1_1Derived.html" title=" " alt="" coords="580,100,759,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,89,580,112,580,118,198,95"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1yaml_1_1has__FlowTraits_3_01T_00_01true_01_4_1_1Fallback.html" title=" " alt="" coords="353,133,531,174"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,108,208,117,352,141,352,146,207,122,172,113"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="545,136,579,131,580,136,546,141"/>
+</map>

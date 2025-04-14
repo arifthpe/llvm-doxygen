@@ -1,0 +1,11 @@
+<map id="llvm::object::symbol_iterator" name="llvm::object::symbol_iterator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="99,184,237,225"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1object_1_1elf__symbol__iterator.html" title=" " alt="" coords="5,274,165,315"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,237,105,276,101,272,137,234"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1object_1_1xcoff__symbol__iterator.html" title=" " alt="" coords="189,274,314,315"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="198,234,235,272,231,276,195,237"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1object_1_1content__iterator.html" title=" " alt="" coords="94,109,242,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,150,170,184,165,184,165,150"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1object_1_1content__iterator.html" title=" " alt="" coords="84,5,251,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="170,61,170,109,165,109,165,61"/>
+</map>

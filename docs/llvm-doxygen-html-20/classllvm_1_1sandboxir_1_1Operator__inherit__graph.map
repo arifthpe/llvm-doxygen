@@ -1,0 +1,11 @@
+<map id="llvm::sandboxir::Operator" name="llvm::sandboxir::Operator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="140,153,308,178"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1FPMathOperator.html" title=" " alt="" coords="5,234,219,260"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,189,131,235,128,231,193,185"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1OverflowingBinaryOperator.html" title=" " alt="" coords="243,226,429,267"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="254,185,310,224,307,228,251,189"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1User.html" title="A sandboxir::User has operands." alt="" coords="151,79,297,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,119,227,152,221,152,221,119"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1Value.html" title="A SandboxIR Value has users. This is the base class." alt="" coords="149,5,299,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="227,46,227,79,221,79,221,46"/>
+</map>

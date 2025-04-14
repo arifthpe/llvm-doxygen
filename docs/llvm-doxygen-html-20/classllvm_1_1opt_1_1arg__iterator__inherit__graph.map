@@ -1,0 +1,15 @@
+<map id="llvm::opt::arg_iterator&lt; BaseIter, NumOptSpecifiers &gt;" name="llvm::opt::arg_iterator&lt; BaseIter, NumOptSpecifiers &gt;">
+<area shape="rect" id="Node000001" title="arg_iterator &#45; Iterates through arguments stored inside an ArgList." alt="" coords="5,197,214,238"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1opt_1_1arg__iterator.html" title=" " alt="" coords="405,5,565,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,183,174,129,204,101,236,78,277,59,321,45,404,28,405,34,322,50,279,64,239,83,207,105,178,132,134,187"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1opt_1_1arg__iterator.html" title=" " alt="" coords="413,70,557,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,188,237,151,327,125,412,107,413,112,328,130,239,156,160,192"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1opt_1_1arg__iterator.html" title=" " alt="" coords="409,150,561,206"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,202,409,183,409,188,229,208"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1opt_1_1arg__iterator.html" title=" " alt="" coords="413,230,557,286"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="229,236,238,237,413,252,412,257,237,242,228,241"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1opt_1_1arg__iterator.html" title=" " alt="" coords="413,310,557,366"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="156,244,196,266,239,285,328,311,413,326,412,332,327,316,237,290,193,271,154,249"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1opt_1_1arg__iterator.html" title=" " alt="" coords="411,390,559,446"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="133,249,177,305,206,334,239,357,281,378,326,393,411,410,410,415,324,398,279,383,236,362,203,338,174,309,129,252"/>
+</map>

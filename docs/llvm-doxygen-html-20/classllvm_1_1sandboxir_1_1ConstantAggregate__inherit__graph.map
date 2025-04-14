@@ -1,0 +1,15 @@
+<map id="llvm::sandboxir::ConstantAggregate" name="llvm::sandboxir::ConstantAggregate">
+<area shape="rect" id="Node000001" title="Base class for aggregate constants (with operands)." alt="" coords="614,71,785,111"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1ConstantArray.html" title=" " alt="" coords="833,5,1003,46"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="783,63,846,44,848,49,784,69"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1ConstantStruct.html" title=" " alt="" coords="833,71,1003,111"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="799,88,832,88,832,94,799,94"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1sandboxir_1_1ConstantVector.html" title=" " alt="" coords="833,136,1003,177"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="784,113,848,133,846,138,783,119"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1Constant.html" title=" " alt="" coords="396,78,566,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="581,88,614,88,614,94,581,94"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1User.html" title="A sandboxir::User has operands." alt="" coords="203,78,348,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="363,88,396,88,396,94,363,94"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1Value.html" title="A SandboxIR Value has users. This is the base class." alt="" coords="5,78,155,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="170,88,202,88,202,94,170,94"/>
+</map>

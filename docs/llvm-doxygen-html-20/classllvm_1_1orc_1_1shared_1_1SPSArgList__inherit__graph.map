@@ -1,0 +1,17 @@
+<map id="llvm::orc::shared::SPSArgList&lt; ArgTs &gt;" name="llvm::orc::shared::SPSArgList&lt; ArgTs &gt;">
+<area shape="rect" id="Node000001" title="A utility class for serializing to a blob from a variadic list." alt="" coords="5,260,151,301"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1shared_1_1SPSArgList.html" title=" " alt="" coords="394,14,617,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,245,95,207,113,164,138,122,173,88,225,60,281,42,339,33,393,31,393,36,339,39,282,47,227,65,176,92,143,126,117,167,100,209,89,247"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1shared_1_1SPSArgList.html" title=" " alt="" coords="412,94,599,134"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,246,126,198,148,175,173,156,232,130,294,115,355,107,412,105,412,111,356,113,295,120,233,135,176,160,151,179,130,201,98,249"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1shared_1_1SPSArgList.html" title=" " alt="" coords="400,159,611,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="142,252,174,242,290,218,399,202,400,207,291,223,175,247,143,257"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1orc_1_1shared_1_1SPSArgList.html" title=" " alt="" coords="398,253,613,309"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="165,278,398,278,398,283,165,283"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1orc_1_1shared_1_1SPSArgList.html" title=" " alt="" coords="397,333,614,389"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="144,304,175,313,289,336,397,350,396,355,288,341,174,319,143,309"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1orc_1_1shared_1_1SPSArgList_3_01SPSTagT_00_01SPSTagTs_8_8_8_01_4.html" title=" " alt="" coords="426,413,585,469"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="107,311,138,341,176,368,238,395,304,413,368,426,425,433,425,438,367,431,303,419,237,400,173,373,135,345,103,314"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1orc_1_1shared_1_1SPSArgList_3_4.html" title=" " alt="" coords="442,492,569,533"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="92,314,104,347,122,383,146,418,176,447,207,466,241,481,312,501,381,511,442,513,441,518,381,516,311,506,239,486,205,471,173,451,142,421,117,386,99,349,87,316"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::sandboxir::IntegerType" name="llvm::sandboxir::IntegerType">
+<area shape="rect" id="Node000001" title="Class to represent integer types." alt="" coords="5,79,191,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1Type.html" title="Just like llvm::Type these are immutable, unique, never get freed and can only be created via static ..." alt="" coords="25,5,171,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,46,101,79,95,79,95,46"/>
+</map>

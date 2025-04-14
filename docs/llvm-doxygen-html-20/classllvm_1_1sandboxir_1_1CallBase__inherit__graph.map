@@ -1,0 +1,22 @@
+<map id="llvm::sandboxir::CallBase" name="llvm::sandboxir::CallBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="201,424,372,450"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1sandboxir_1_1CallBrInst.html" title=" " alt="" coords="5,499,181,525"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="242,458,126,501,125,496,240,453"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1sandboxir_1_1CallInst.html" title=" " alt="" coords="205,499,368,525"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="289,465,289,499,284,499,284,465"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1sandboxir_1_1InvokeInst.html" title=" " alt="" coords="392,499,570,525"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="333,453,449,496,447,501,331,458"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1SingleLLVMInstructionImpl.html" title=" " alt="" coords="163,334,410,375"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,390,289,424,284,424,284,390"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1Instruction.html" title="A sandboxir::User with operands, opcode and linked with previous/next instructions in an instruction ..." alt="" coords="192,155,370,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="284,196,288,334,283,334,279,196"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1SingleLLVMInstructionImpl.html" title="Instructions that contain a single LLVM Instruction can inherit from this." alt="" coords="303,230,550,271"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="317,186,392,228,390,232,314,191"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1User.html" title="A sandboxir::User has operands." alt="" coords="208,80,354,106"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="284,121,284,155,278,155,278,121"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1Value.html" title="A SandboxIR Value has users. This is the base class." alt="" coords="206,5,356,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="284,46,284,80,278,80,278,46"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="389,282,315,336,312,331,386,278"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1sandboxir_1_1IntrinsicInst.html" title=" " alt="" coords="194,574,379,600"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="289,540,289,574,284,574,284,540"/>
+</map>

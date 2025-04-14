@@ -1,0 +1,9 @@
+<map id="llvm::orc::InProcessMemoryAccess" name="llvm::orc::InProcessMemoryAccess">
+<area shape="rect" id="Node000001" title=" " alt="" coords="233,39,418,79"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1SelfExecutorProcessControl.html" title="A ExecutorProcessControl implementation targeting the current process." alt="" coords="468,5,670,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="432,42,467,37,467,42,433,47"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1UnsupportedExecutorProcessControl.html" title="A ExecutorProcessControl instance that asserts if any of its methods are used." alt="" coords="466,71,671,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="433,70,466,75,465,80,432,76"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1ExecutorProcessControl_1_1MemoryAccess.html" title="APIs for manipulating memory in the target process." alt="" coords="5,39,185,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,56,232,56,232,62,199,62"/>
+</map>

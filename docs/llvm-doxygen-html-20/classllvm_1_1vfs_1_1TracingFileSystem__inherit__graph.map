@@ -1,0 +1,14 @@
+<map id="llvm::vfs::TracingFileSystem" name="llvm::vfs::TracingFileSystem">
+<area shape="rect" id="Node000001" title="File system that tracks the number of calls to the underlying file system." alt="" coords="71,304,259,330"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="95,199,234,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,270,167,304,162,304,162,270"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,88,127,114"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,123,145,197,141,200,82,127"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="136,5,220,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="179,46,169,199,164,198,174,46"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1RTTIExtends.html" title="Inheritance utility for extensible RTTI." alt="" coords="202,80,381,121"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="209,38,265,78,262,82,205,42"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="263,133,194,200,190,197,259,129"/>
+<area shape="rect" id="Node000006" href="$classParentT.html" title=" " alt="" coords="258,5,325,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="294,46,294,80,289,80,289,46"/>
+</map>

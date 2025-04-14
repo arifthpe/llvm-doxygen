@@ -1,0 +1,5 @@
+<map id="llvm::orc::shared::SPSSerializationTraits&lt; SPSSequence&lt; char &gt;, ArrayRef&lt; char &gt; &gt;" name="llvm::orc::shared::SPSSerializationTraits&lt; SPSSequence&lt; char &gt;, ArrayRef&lt; char &gt; &gt;">
+<area shape="rect" id="Node000001" title="Specialized SPSSequence&lt;char&gt; &#45;&gt; ArrayRef&lt;char&gt; serialization." alt="" coords="10,139,182,210"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1shared_1_1SPSSerializationTraits.html" title="Specialize to describe how to serialize/deserialize to/from the given concrete type." alt="" coords="5,5,187,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,76,99,138,93,138,93,76"/>
+</map>

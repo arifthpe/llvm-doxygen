@@ -1,0 +1,7 @@
+<map id="llvm::trailing_objects_internal::TrailingObjectsImpl&lt; Align, BaseTy, TopTrailingObj, PrevTy &gt;" name="llvm::trailing_objects_internal::TrailingObjectsImpl&lt; Align, BaseTy, TopTrailingObj, PrevTy &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="427,30,634,101"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsBase.html" title="The base class for TrailingObjects* classes." alt="" coords="11,5,207,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,34,427,53,426,59,221,39"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="5,70,213,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,100,402,86,426,83,426,88,403,92,228,105"/>
+</map>

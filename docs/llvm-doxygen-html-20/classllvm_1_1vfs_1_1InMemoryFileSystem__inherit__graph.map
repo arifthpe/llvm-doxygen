@@ -1,0 +1,14 @@
+<map id="llvm::vfs::InMemoryFileSystem" name="llvm::vfs::InMemoryFileSystem">
+<area shape="rect" id="Node000001" title="An in&#45;memory file system." alt="" coords="29,304,232,330"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="54,199,207,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,270,133,304,128,304,128,270"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,88,93,114"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,125,115,197,111,200,63,128"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="102,5,186,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="145,46,135,199,129,198,139,46"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1RTTIExtends.html" title="Inheritance utility for extensible RTTI." alt="" coords="167,80,347,121"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="174,38,231,78,228,82,171,42"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="229,133,160,200,156,197,225,129"/>
+<area shape="rect" id="Node000006" href="$classParentT.html" title=" " alt="" coords="223,5,291,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="260,46,260,80,254,80,254,46"/>
+</map>

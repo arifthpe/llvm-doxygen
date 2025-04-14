@@ -1,0 +1,16 @@
+<map id="llvm::orc::IdleTask" name="llvm::orc::IdleTask">
+<area shape="rect" id="Node000001" title="IdleTask can be used as the basis for low&#45;priority tasks, e.g." alt="" coords="45,274,173,300"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1orc_1_1SimpleLazyReexportsSpeculator_1_1SpeculateTask.html" title=" " alt="" coords="5,349,213,390"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="112,315,112,349,106,349,106,315"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="39,184,179,225"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,240,112,274,106,274,106,240"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="22,88,71,114"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="63,125,99,182,95,185,59,127"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="80,5,165,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="123,46,113,184,108,184,118,46"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1RTTIExtends.html" title="Inheritance utility for extensible RTTI." alt="" coords="146,80,325,121"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="153,38,210,78,207,82,150,42"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="202,132,135,186,132,182,198,128"/>
+<area shape="rect" id="Node000006" href="$classParentT.html" title=" " alt="" coords="202,5,269,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="238,46,238,80,233,80,233,46"/>
+</map>

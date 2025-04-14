@@ -1,0 +1,85 @@
+<map id="llvm::sandboxir::CastInst" name="llvm::sandboxir::CastInst">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1637,599,1804,625"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1sandboxir_1_1CastInstImpl.html" title=" " alt="" coords="2199,167,2371,222"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1726,584,1741,527,1767,451,1804,368,1826,328,1852,290,1895,235,1934,195,1980,164,2044,137,2080,127,2110,125,2139,128,2176,137,2189,143,2200,151,2226,164,2224,169,2198,155,2186,148,2174,142,2138,134,2109,130,2081,132,2046,142,1982,169,1937,199,1899,238,1856,293,1831,331,1808,371,1772,453,1746,528,1731,585"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1sandboxir_1_1CastInstImpl.html" title=" " alt="" coords="2199,333,2371,389"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1737,585,1782,525,1851,449,1894,411,1940,377,1991,348,2044,327,2083,319,2123,319,2199,330,2198,335,2123,324,2084,325,2046,332,1993,352,1943,381,1897,415,1855,453,1786,528,1741,588"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1sandboxir_1_1CastInstImpl.html" title=" " alt="" coords="2199,520,2371,576"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1764,590,1841,562,1943,533,1999,522,2058,514,2117,512,2175,516,2199,520,2198,525,2175,521,2117,517,2058,520,2000,527,1944,539,1843,567,1766,595"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1sandboxir_1_1CastInstImpl.html" title=" " alt="" coords="2199,85,2371,141"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1723,584,1735,512,1758,414,1796,305,1822,251,1851,201,1893,143,1932,102,1979,70,2044,43,2080,31,2111,26,2141,30,2176,43,2185,49,2190,56,2201,71,2218,83,2215,87,2197,75,2186,60,2181,53,2174,48,2140,35,2111,31,2081,36,2046,48,1981,75,1935,106,1897,146,1856,204,1826,254,1801,307,1764,415,1740,514,1728,585"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1sandboxir_1_1CastInstImpl.html" title=" " alt="" coords="2199,423,2371,478"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="1747,587,1798,547,1869,499,1953,454,1998,435,2044,421,2083,415,2123,415,2199,424,2198,429,2123,420,2084,421,2046,426,2000,440,1956,458,1872,504,1801,551,1750,591"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1sandboxir_1_1CastInstImpl.html" title=" " alt="" coords="2199,5,2371,61"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="1719,584,1723,495,1729,436,1740,371,1756,302,1780,234,1811,168,1852,109,1887,71,1921,44,1957,26,1994,15,2033,10,2076,10,2175,16,2199,18,2198,23,2175,21,2075,15,2033,16,1995,20,1959,31,1924,49,1890,75,1856,112,1816,171,1785,236,1762,303,1745,372,1734,437,1728,496,1724,584"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1sandboxir_1_1CastInstImpl.html" title=" " alt="" coords="2199,1128,2371,1184"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="1727,639,1739,755,1763,915,1781,995,1802,1068,1827,1126,1841,1148,1855,1163,1895,1188,1939,1204,1985,1212,2033,1213,2080,1210,2126,1202,2207,1182,2208,1187,2127,1208,2081,1215,2033,1219,1984,1217,1937,1209,1893,1193,1852,1167,1836,1151,1822,1129,1797,1070,1775,997,1758,916,1734,755,1722,639"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1sandboxir_1_1CastInstImpl.html" title=" " alt="" coords="2199,732,2371,788"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="1742,635,1790,691,1821,722,1855,750,1904,783,1945,806,1988,822,2046,836,2112,850,2140,849,2174,836,2182,830,2186,822,2189,813,2197,803,2221,786,2224,790,2201,807,2194,816,2190,824,2186,833,2176,841,2141,854,2112,856,2044,841,1987,827,1942,811,1901,788,1852,754,1818,726,1786,695,1738,638"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1sandboxir_1_1CastInstImpl.html" title=" " alt="" coords="2199,817,2371,873"/>
+<area shape="poly" id="edge24_Node000001_Node000024" title=" " alt="" coords="1734,637,1752,680,1778,732,1813,787,1856,835,1901,873,1942,896,1987,911,2046,925,2112,940,2141,939,2174,926,2182,918,2186,910,2189,899,2197,889,2220,871,2223,876,2201,892,2194,902,2191,912,2186,921,2176,930,2142,944,2112,946,2044,930,1985,916,1940,901,1898,877,1852,839,1808,790,1773,735,1747,682,1729,639"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1sandboxir_1_1CastInstImpl.html" title=" " alt="" coords="2199,997,2371,1053"/>
+<area shape="poly" id="edge26_Node000001_Node000026" title=" " alt="" coords="1725,639,1732,718,1751,826,1768,885,1790,943,1819,999,1856,1049,1892,1086,1927,1117,1963,1139,2001,1154,2039,1161,2081,1160,2125,1151,2174,1134,2208,1103,2256,1051,2260,1055,2212,1107,2176,1138,2127,1156,2081,1165,2039,1166,1999,1159,1961,1144,1924,1121,1888,1090,1852,1052,1815,1002,1785,946,1763,887,1746,827,1726,718,1720,640"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1sandboxir_1_1CastInstImpl.html" title=" " alt="" coords="2199,649,2371,705"/>
+<area shape="poly" id="edge28_Node000001_Node000028" title=" " alt="" coords="1757,630,1811,660,1881,694,1962,727,2046,751,2112,765,2140,763,2174,751,2182,744,2185,737,2189,727,2197,718,2218,703,2221,708,2201,722,2194,730,2190,739,2186,748,2176,755,2141,769,2112,770,2044,756,1960,732,1879,699,1809,664,1755,635"/>
+<area shape="rect" id="Node000030" href="$classllvm_1_1sandboxir_1_1CastInstImpl.html" title=" " alt="" coords="2199,249,2371,305"/>
+<area shape="poly" id="edge30_Node000001_Node000030" title=" " alt="" coords="1730,585,1776,487,1810,429,1852,374,1897,323,1936,286,1981,257,2044,232,2080,223,2109,221,2176,232,2224,246,2222,251,2174,237,2109,226,2081,228,2046,237,1984,262,1940,290,1901,327,1856,378,1815,432,1780,490,1735,587"/>
+<area shape="rect" id="Node000032" href="$classllvm_1_1sandboxir_1_1CastInstImpl.html" title=" " alt="" coords="2199,903,2371,958"/>
+<area shape="poly" id="edge32_Node000001_Node000032" title=" " alt="" coords="1729,639,1743,696,1767,772,1804,852,1828,890,1856,925,1893,963,1930,995,1967,1020,2004,1038,2043,1048,2083,1049,2127,1039,2174,1019,2182,1012,2186,1004,2190,994,2197,983,2231,957,2234,961,2201,987,2194,996,2191,1006,2186,1015,2176,1023,2129,1044,2084,1054,2042,1053,2002,1043,1964,1025,1927,999,1890,967,1852,928,1823,893,1799,855,1762,774,1738,698,1724,640"/>
+<area shape="rect" id="Node000034" href="$classllvm_1_1sandboxir_1_1CastInstImpl.html" title=" " alt="" coords="1854,592,2021,632"/>
+<area shape="poly" id="edge34_Node000001_Node000034" title=" " alt="" coords="1819,609,1853,609,1853,615,1819,615"/>
+<area shape="rect" id="Node000035" href="$classllvm_1_1sandboxir_1_1PossiblyNonNegInst.html" title="Instruction that can have a nneg flag (zext/uitofp)." alt="" coords="1854,1236,2021,1276"/>
+<area shape="poly" id="edge48_Node000001_Node000035" title=" " alt="" coords="1726,639,1734,762,1752,934,1766,1023,1783,1103,1805,1170,1817,1196,1830,1215,1855,1235,1851,1239,1826,1219,1812,1198,1800,1172,1778,1105,1761,1024,1747,935,1729,762,1721,640"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1UnaryInstruction.html" title="An abstract class, parent of unary instructions." alt="" coords="1374,599,1588,625"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1603,609,1637,609,1637,615,1603,615"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1SingleLLVMInstructionImpl.html" title=" " alt="" coords="1078,592,1325,632"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1340,609,1374,609,1374,615,1340,615"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1Instruction.html" title="A sandboxir::User with operands, opcode and linked with previous/next instructions in an instruction ..." alt="" coords="399,592,577,618"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="592,602,1054,604,1077,604,1077,610,1054,609,592,607"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1sandboxir_1_1SingleLLVMInstructionImpl.html" title="Instructions that contain a single LLVM Instruction can inherit from this." alt="" coords="626,625,874,666"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="591,618,626,624,626,629,591,624"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1User.html" title="A sandboxir::User has operands." alt="" coords="204,592,349,618"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="364,603,398,603,398,608,364,608"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1Value.html" title="A SandboxIR Value has users. This is the base class." alt="" coords="5,592,155,618"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="170,603,204,603,204,608,170,608"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="888,632,1077,618,1077,624,888,638"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1sandboxir_1_1AddrSpaceCastInst.html" title=" " alt="" coords="2425,174,2606,215"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="2387,192,2424,192,2424,197,2387,197"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1sandboxir_1_1BitCastInst.html" title=" " alt="" coords="2424,348,2607,374"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="2386,359,2423,359,2423,364,2386,364"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1sandboxir_1_1FPExtInst.html" title=" " alt="" coords="2427,535,2604,561"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="2386,545,2427,545,2427,551,2386,551"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1sandboxir_1_1FPToSIInst.html" title=" " alt="" coords="2424,100,2607,126"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="2386,111,2423,111,2423,116,2386,116"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1sandboxir_1_1FPToUIInst.html" title=" " alt="" coords="2423,438,2608,463"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="2386,448,2423,448,2423,453,2386,453"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1sandboxir_1_1FPTruncInst.html" title=" " alt="" coords="2421,20,2610,46"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="2386,31,2420,31,2420,36,2386,36"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1sandboxir_1_1IntToPtrInst.html" title=" " alt="" coords="2423,1143,2608,1169"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="2386,1153,2422,1153,2422,1159,2386,1159"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1sandboxir_1_1PtrToIntInst.html" title=" " alt="" coords="2423,747,2608,773"/>
+<area shape="poly" id="edge23_Node000022_Node000023" title=" " alt="" coords="2386,757,2422,757,2422,763,2386,763"/>
+<area shape="rect" id="Node000025" href="$classllvm_1_1sandboxir_1_1SExtInst.html" title=" " alt="" coords="2431,832,2600,858"/>
+<area shape="poly" id="edge25_Node000024_Node000025" title=" " alt="" coords="2387,843,2431,843,2431,848,2387,848"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1sandboxir_1_1SIToFPInst.html" title=" " alt="" coords="2424,1012,2607,1038"/>
+<area shape="poly" id="edge27_Node000026_Node000027" title=" " alt="" coords="2386,1023,2423,1023,2423,1028,2386,1028"/>
+<area shape="rect" id="Node000029" href="$classllvm_1_1sandboxir_1_1TruncInst.html" title=" " alt="" coords="2429,664,2602,690"/>
+<area shape="poly" id="edge29_Node000028_Node000029" title=" " alt="" coords="2386,675,2429,675,2429,680,2386,680"/>
+<area shape="rect" id="Node000031" href="$classllvm_1_1sandboxir_1_1UIToFPInst.html" title=" " alt="" coords="2423,264,2608,290"/>
+<area shape="poly" id="edge31_Node000030_Node000031" title=" " alt="" coords="2386,275,2423,275,2423,280,2386,280"/>
+<area shape="rect" id="Node000033" href="$classllvm_1_1sandboxir_1_1ZExtInst.html" title=" " alt="" coords="2432,918,2599,943"/>
+<area shape="poly" id="edge33_Node000032_Node000033" title=" " alt="" coords="2386,928,2431,928,2431,933,2386,933"/>
+<area shape="poly" id="edge35_Node000034_Node000008" title=" " alt="" coords="1939,577,1947,517,1965,442,1996,364,2017,327,2043,294,2065,280,2106,262,2207,220,2209,225,2108,266,2068,285,2047,298,2021,330,2000,366,1970,444,1952,518,1944,577"/>
+<area shape="poly" id="edge36_Node000034_Node000010" title=" " alt="" coords="1958,578,1995,530,2043,483,2077,460,2106,447,2174,418,2231,387,2234,392,2176,423,2109,451,2080,465,2047,487,1999,534,1962,581"/>
+<area shape="poly" id="edge37_Node000034_Node000012" title=" " alt="" coords="2036,619,2105,618,2174,607,2211,593,2244,574,2246,579,2213,598,2176,612,2105,624,2036,625"/>
+<area shape="poly" id="edge38_Node000034_Node000014" title=" " alt="" coords="1935,576,1938,500,1952,401,1965,347,1984,295,2010,245,2043,201,2068,182,2107,164,2198,133,2200,138,2109,169,2071,187,2047,204,2015,248,1989,297,1970,349,1957,402,1943,501,1940,577"/>
+<area shape="poly" id="edge39_Node000034_Node000016" title=" " alt="" coords="2009,583,2089,551,2174,513,2238,476,2241,481,2176,518,2091,556,2011,588"/>
+<area shape="poly" id="edge40_Node000034_Node000018" title=" " alt="" coords="1939,576,1950,470,1970,330,1984,260,2001,196,2020,144,2043,107,2077,79,2116,59,2158,45,2198,37,2199,42,2159,50,2118,64,2080,83,2047,111,2025,146,2006,198,1990,261,1976,331,1955,471,1944,577"/>
+<area shape="poly" id="edge41_Node000034_Node000020" title=" " alt="" coords="1946,647,1960,740,1982,860,2011,974,2029,1019,2047,1049,2080,1080,2118,1104,2159,1123,2200,1136,2198,1141,2157,1128,2116,1109,2077,1084,2043,1053,2024,1021,2006,976,1977,861,1954,741,1940,647"/>
+<area shape="poly" id="edge42_Node000034_Node000022" title=" " alt="" coords="1966,642,2002,677,2046,708,2083,724,2123,736,2199,751,2198,756,2121,741,2082,729,2044,712,1999,681,1963,645"/>
+<area shape="poly" id="edge43_Node000034_Node000024" title=" " alt="" coords="1953,644,1968,677,1988,714,2014,751,2047,781,2082,802,2121,818,2199,836,2198,841,2119,823,2080,807,2043,785,2010,754,1984,717,1963,680,1948,647"/>
+<area shape="poly" id="edge44_Node000034_Node000026" title=" " alt="" coords="1942,647,1947,713,1963,796,1976,839,1994,882,2018,921,2047,956,2080,981,2119,999,2160,1011,2199,1018,2198,1024,2158,1016,2117,1004,2078,986,2043,960,2013,924,1989,884,1971,841,1958,797,1942,713,1936,647"/>
+<area shape="poly" id="edge45_Node000034_Node000028" title=" " alt="" coords="1992,636,2046,655,2124,669,2199,674,2199,680,2123,674,2044,660,1990,641"/>
+<area shape="poly" id="edge46_Node000034_Node000030" title=" " alt="" coords="1945,577,1958,535,1979,485,2007,434,2043,388,2109,355,2220,303,2223,308,2111,360,2047,393,2011,437,1984,487,1963,537,1950,578"/>
+<area shape="poly" id="edge47_Node000034_Node000032" title=" " alt="" coords="1946,646,1956,696,1975,756,2004,816,2024,843,2047,866,2081,890,2120,907,2160,918,2199,924,2198,930,2159,923,2118,912,2079,895,2043,871,2020,846,2000,818,1970,758,1951,697,1941,647"/>
+</map>

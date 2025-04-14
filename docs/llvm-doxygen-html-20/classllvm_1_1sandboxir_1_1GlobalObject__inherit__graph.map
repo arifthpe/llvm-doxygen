@@ -1,0 +1,23 @@
+<map id="llvm::sandboxir::GlobalObject" name="llvm::sandboxir::GlobalObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="849,123,1041,148"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1GlobalWithNodeAPI.html" title=" " alt="" coords="1112,5,1293,76"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="995,115,1111,71,1113,76,996,120"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1sandboxir_1_1GlobalWithNodeAPI.html" title=" " alt="" coords="1109,100,1297,171"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1056,133,1108,133,1108,138,1056,138"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1sandboxir_1_1GlobalWithNodeAPI.html" title=" " alt="" coords="1089,195,1316,265"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="997,151,1105,192,1104,197,995,156"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1GlobalValue.html" title=" " alt="" coords="614,123,801,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="816,133,848,133,848,138,816,138"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1Constant.html" title=" " alt="" coords="396,123,566,148"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="581,133,614,133,614,138,581,138"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1User.html" title="A sandboxir::User has operands." alt="" coords="203,123,348,148"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="363,133,396,133,396,138,363,138"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1Value.html" title="A SandboxIR Value has users. This is the base class." alt="" coords="5,123,155,148"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="170,133,202,133,202,138,170,138"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1sandboxir_1_1Function.html" title=" " alt="" coords="1381,28,1548,54"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1308,38,1380,38,1380,43,1308,43"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1sandboxir_1_1GlobalIFunc.html" title=" " alt="" coords="1371,123,1558,148"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1311,133,1370,133,1370,138,1311,138"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1sandboxir_1_1GlobalVariable.html" title=" " alt="" coords="1364,217,1565,243"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1331,227,1364,227,1364,233,1331,233"/>
+</map>

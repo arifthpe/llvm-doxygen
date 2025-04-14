@@ -1,0 +1,5 @@
+<map id="llvm::orc::shared::TrivialSPSSequenceSerialization&lt; SPSElementTagT, std::vector&lt; T &gt; &gt;" name="llvm::orc::shared::TrivialSPSSequenceSerialization&lt; SPSElementTagT, std::vector&lt; T &gt; &gt;">
+<area shape="rect" id="Node000001" title="Trivial std::vector&lt;T&gt; &#45;&gt; SPSSequence&lt;SPSElementTagT&gt; serialization." alt="" coords="472,8,721,63"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1shared_1_1TrivialSPSSequenceSerialization.html" title="Specialize this to implement &#39;trivial&#39; sequence serialization for a concrete sequence type." alt="" coords="5,8,280,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,33,471,33,471,38,294,38"/>
+</map>

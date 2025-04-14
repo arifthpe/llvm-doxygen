@@ -1,0 +1,16 @@
+<map id="llvm::orc::shared::TrivialSPSSequenceSerialization&lt; SPSElementTagT, ConcreteSequenceT &gt;" name="llvm::orc::shared::TrivialSPSSequenceSerialization&lt; SPSElementTagT, ConcreteSequenceT &gt;">
+<area shape="rect" id="Node000001" title="Specialize this to implement &#39;trivial&#39; sequence serialization for a concrete sequence type." alt="" coords="5,203,280,258"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1shared_1_1TrivialSPSSequenceSerialization_3_01SPSElementTagT_00_01ArrayRef_3_01T_01_4_01_4.html" title="Trivial ArrayRef&lt;T&gt; &#45;&gt; SPSSequence&lt;SPSElementTagT&gt; serialization." alt="" coords="547,5,786,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,190,232,139,266,114,303,93,363,70,426,54,488,42,547,35,547,41,489,48,427,59,364,75,305,98,269,118,236,143,180,194"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1shared_1_1TrivialSPSSequenceSerialization_3_01SPSElementTagT_00_01SmallVector_3_01T_00_01N_01_4_01_4.html" title="Trivial SmallVectorImpl&lt;T&gt; &#45;&gt; SPSSequence&lt;char&gt; serialization." alt="" coords="857,118,1072,189"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,194,259,178,303,165,376,151,452,141,603,132,742,133,857,140,857,145,742,139,603,137,452,147,377,156,304,170,261,183,218,199"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1shared_1_1TrivialSPSSequenceSerialization_3_01SPSElementTagT_00_01SmallVectorImpl_3_01T_01_4_01_4.html" title="Trivial SmallVectorImpl&lt;T&gt; &#45;&gt; SPSSequence&lt;char&gt; serialization." alt="" coords="525,163,808,218"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="294,216,524,199,524,204,295,222"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1orc_1_1shared_1_1TrivialSPSSequenceSerialization_3_01SPSElementTagT_00_01std_1_1vector_3_01T_01_4_01_4.html" title="Trivial std::vector&lt;T&gt; &#45;&gt; SPSSequence&lt;SPSElementTagT&gt; serialization." alt="" coords="542,243,791,298"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="295,250,304,251,426,260,541,265,541,270,426,265,303,256,294,256"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1orc_1_1shared_1_1TrivialSPSSequenceSerialization_3_01SPSRemoteSymbolLookupSetElement_00_01SymbolLookupSet_01_4.html" title=" " alt="" coords="534,322,799,393"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="212,263,257,282,304,299,421,326,534,343,533,348,420,331,303,304,255,287,209,267"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1orc_1_1shared_1_1TrivialSPSSequenceSerialization_3_01char_00_01std_1_1string_01_4.html" title="Trivial std::string &#45;&gt; SPSSequence&lt;char&gt; serialization." alt="" coords="560,416,773,472"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="182,267,237,315,270,339,305,359,368,385,435,405,560,430,559,436,434,411,367,390,302,364,267,344,234,320,178,271"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="822,168,857,164,857,169,823,174"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="llvm::sandboxir::MemSeedBundle&lt; LoadOrStoreT &gt;" name="llvm::sandboxir::MemSeedBundle&lt; LoadOrStoreT &gt;">
+<area shape="rect" id="Node000001" title="Specialization of SeedBundle for memory access instructions." alt="" coords="242,39,418,79"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1MemSeedBundle.html" title=" " alt="" coords="611,5,814,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="433,47,610,32,611,37,433,53"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1MemSeedBundle.html" title=" " alt="" coords="613,71,812,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="433,67,443,67,612,81,612,86,442,73,433,72"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1SeedBundle.html" title="A set of candidate Instructions for vectorizing together." alt="" coords="5,46,193,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,56,242,56,242,62,208,62"/>
+</map>

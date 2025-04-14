@@ -1,0 +1,9 @@
+<map id="llvm::orc::UnsupportedExecutorProcessControl" name="llvm::orc::UnsupportedExecutorProcessControl">
+<area shape="rect" id="Node000001" title="A ExecutorProcessControl instance that asserts if any of its methods are used." alt="" coords="95,183,300,223"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1ExecutorProcessControl.html" title="ExecutorProcessControl supports interaction with a JIT target process." alt="" coords="5,94,185,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,142,176,180,173,184,127,146"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1InProcessMemoryAccess.html" title=" " alt="" coords="209,94,394,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,146,223,184,219,180,265,142"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1ExecutorProcessControl_1_1MemoryAccess.html" title="APIs for manipulating memory in the target process." alt="" coords="212,5,391,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="304,61,304,94,299,94,299,61"/>
+</map>
