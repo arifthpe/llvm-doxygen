@@ -1,0 +1,13 @@
+<map id="llvm::MachineLICMPass" name="llvm::MachineLICMPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="946,46,1110,72"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MachineLICMBasePass.html" title=" " alt="" coords="702,39,896,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="911,56,945,56,945,62,911,62"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="348,5,504,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="519,31,702,48,701,53,519,37"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,5,142,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="157,23,348,23,348,28,157,28"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MachineLICMBasePass.html" title=" " alt="" coords="329,71,523,111"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="538,85,678,76,701,73,702,78,678,81,538,91"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,71,142,111"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="156,88,328,88,328,94,156,94"/>
+</map>

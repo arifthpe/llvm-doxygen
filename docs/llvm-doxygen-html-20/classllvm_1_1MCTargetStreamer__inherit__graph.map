@@ -1,0 +1,93 @@
+<map id="llvm::MCTargetStreamer" name="llvm::MCTargetStreamer">
+<area shape="rect" id="Node000001" title="Target specific streamer interface." alt="" coords="5,597,169,623"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AArch64TargetStreamer.html" title=" " alt="" coords="234,55,426,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,582,94,501,113,386,129,322,151,258,179,196,215,139,232,119,253,103,295,78,298,83,256,107,236,123,219,142,184,199,156,260,134,324,118,387,99,501,92,583"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1AMDGPUTargetStreamer.html" title=" " alt="" coords="229,153,431,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="85,582,89,504,95,453,106,398,122,341,145,285,175,233,215,188,230,177,233,182,218,192,180,236,150,287,127,342,111,399,101,454,94,505,91,583"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ARCTargetStreamer.html" title=" " alt="" coords="244,203,416,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="87,582,93,512,113,419,129,369,151,321,179,276,215,237,243,221,245,226,218,242,183,280,156,324,134,371,118,420,99,513,92,583"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1ARMTargetStreamer.html" title=" " alt="" coords="244,252,416,278"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="88,582,98,520,119,440,136,398,157,357,183,319,215,287,242,271,244,276,218,291,187,323,161,360,141,400,124,442,103,522,93,583"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1AVRTargetStreamer.html" title="A generic AVR target output stream." alt="" coords="246,301,414,327"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="90,582,103,529,126,462,143,428,163,394,187,363,215,336,244,321,246,325,218,340,191,366,167,397,148,430,131,464,108,531,96,583"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1CSKYTargetStreamer.html" title=" " alt="" coords="240,351,420,376"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="93,582,109,538,134,485,169,431,191,406,215,385,239,373,241,377,218,390,194,410,173,434,139,487,114,540,98,584"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1HexagonTargetStreamer.html" title=" " alt="" coords="233,400,427,426"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="98,582,116,548,142,508,175,468,215,435,236,424,239,429,218,439,179,472,146,511,121,551,103,585"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1LoongArchTargetStreamer.html" title=" " alt="" coords="228,449,432,475"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="105,584,151,532,182,506,215,484,241,473,243,478,218,489,185,510,155,536,109,587"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1MSP430TargetELFStreamer.html" title=" " alt="" coords="222,499,438,524"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="118,586,163,559,216,533,250,522,251,527,218,538,165,563,120,591"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1MipsTargetStreamer.html" title=" " alt="" coords="245,548,415,574"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="168,591,262,572,263,577,169,596"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1NVPTXTargetStreamer.html" title="Implments NVPTX&#45;specific streamer." alt="" coords="236,597,424,623"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="184,608,236,608,236,613,184,613"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1PPCTargetStreamer.html" title=" " alt="" coords="245,647,415,672"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="169,624,263,643,262,649,168,629"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1RISCVTargetStreamer.html" title=" " alt="" coords="238,696,422,722"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="120,629,165,657,218,682,251,693,250,698,216,687,163,662,118,634"/>
+<area shape="rect" id="Node000030" href="$classllvm_1_1SPIRVTargetStreamer.html" title=" " alt="" coords="238,745,422,771"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="109,633,155,684,185,710,218,732,243,742,241,747,215,737,182,714,151,688,105,637"/>
+<area shape="rect" id="Node000031" href="$classllvm_1_1SparcTargetStreamer.html" title=" " alt="" coords="242,795,418,820"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="103,635,121,669,146,709,179,749,218,781,242,793,240,798,215,786,175,752,142,712,116,672,98,638"/>
+<area shape="rect" id="Node000034" href="$classllvm_1_1SystemZTargetStreamer.html" title=" " alt="" coords="232,844,428,870"/>
+<area shape="poly" id="edge33_Node000001_Node000034" title=" " alt="" coords="98,636,114,680,139,733,173,786,194,810,218,831,237,841,234,846,215,835,191,814,169,790,134,736,109,682,93,638"/>
+<area shape="rect" id="Node000035" href="$classllvm_1_1VETargetStreamer.html" title=" " alt="" coords="250,893,410,919"/>
+<area shape="poly" id="edge34_Node000001_Node000035" title=" " alt="" coords="96,637,108,690,131,756,148,790,167,824,191,854,218,880,250,896,248,901,215,884,187,857,163,826,143,793,126,758,103,691,90,638"/>
+<area shape="rect" id="Node000038" href="$classllvm_1_1WebAssemblyTargetStreamer.html" title="WebAssembly&#45;specific streamer interface, to implement support WebAssembly&#45;specific assembly directive..." alt="" coords="217,955,443,980"/>
+<area shape="poly" id="edge37_Node000001_Node000038" title=" " alt="" coords="94,637,105,697,127,776,143,818,164,858,189,896,218,930,236,942,257,952,254,957,233,947,215,933,184,899,159,861,138,820,122,778,100,699,89,638"/>
+<area shape="rect" id="Node000042" href="$classllvm_1_1X86TargetStreamer.html" title="X86 target streamer implementing x86&#45;only assembly directives." alt="" coords="247,1004,413,1030"/>
+<area shape="poly" id="edge41_Node000001_Node000042" title=" " alt="" coords="91,638,98,709,116,805,132,856,154,906,183,951,218,991,248,1007,245,1012,215,995,178,955,149,908,127,858,111,806,92,710,86,638"/>
+<area shape="rect" id="Node000043" href="$classllvm_1_1XCoreTargetStreamer.html" title=" " alt="" coords="240,1053,420,1079"/>
+<area shape="poly" id="edge42_Node000001_Node000043" title=" " alt="" coords="90,638,93,718,99,770,110,827,126,885,148,942,179,995,218,1040,241,1054,238,1059,215,1044,175,998,144,944,121,887,105,828,94,771,88,718,85,638"/>
+<area shape="rect" id="Node000044" href="$classllvm_1_1XtensaTargetStreamer.html" title=" " alt="" coords="238,1155,422,1180"/>
+<area shape="poly" id="edge43_Node000001_Node000044" title=" " alt="" coords="92,638,98,721,118,838,134,903,156,968,184,1032,219,1090,236,1110,257,1127,299,1152,296,1157,254,1131,233,1114,215,1093,179,1034,151,970,129,905,112,839,93,721,86,638"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AArch64TargetELFStreamer.html" title=" " alt="" coords="509,5,725,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,49,537,29,538,34,424,54"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AArch64TargetWinCOFFStreamer.html" title=" " alt="" coords="491,55,742,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="441,65,490,65,490,70,441,70"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1AMDGPUTargetAsmStreamer.html" title=" " alt="" coords="503,104,731,130"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="423,148,537,128,538,133,424,153"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1AMDGPUTargetELFStreamer.html" title=" " alt="" coords="504,153,729,179"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="445,164,504,164,504,169,445,169"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1AVRELFStreamer.html" title="A target streamer for an AVR ELF object file." alt="" coords="539,203,695,228"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="427,295,442,288,456,276,465,263,474,250,490,237,538,220,539,225,492,242,478,253,469,266,460,280,444,292,429,300"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1AVRTargetAsmStreamer.html" title="A target streamer for textual AVR assembly code." alt="" coords="519,252,714,278"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="423,296,537,276,538,281,424,301"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1CSKYTargetAsmStreamer.html" title=" " alt="" coords="514,301,720,327"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="423,345,537,325,538,330,424,350"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1CSKYTargetELFStreamer.html" title=" " alt="" coords="515,351,718,376"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="435,361,514,361,514,366,435,366"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1LoongArchTargetAsmStreamer.html" title=" " alt="" coords="528,401,706,441"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="438,444,527,431,528,436,438,449"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1LoongArchTargetELFStreamer.html" title=" " alt="" coords="503,465,731,491"/>
+<area shape="poly" id="edge18_Node000017_Node000019" title=" " alt="" coords="447,466,502,469,502,474,447,471"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1MipsTargetAsmStreamer.html" title=" " alt="" coords="518,515,715,540"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="430,547,517,536,518,542,431,552"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1MipsTargetELFStreamer.html" title=" " alt="" coords="520,564,714,590"/>
+<area shape="poly" id="edge22_Node000021_Node000023" title=" " alt="" coords="430,564,519,569,519,574,430,569"/>
+<area shape="rect" id="Node000025" href="$classllvm_1_1NVPTXAsmTargetStreamer.html" title=" " alt="" coords="510,613,724,639"/>
+<area shape="poly" id="edge24_Node000024_Node000025" title=" " alt="" coords="438,614,509,618,509,623,438,619"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1RISCVTargetAsmStreamer.html" title=" " alt="" coords="511,663,722,688"/>
+<area shape="poly" id="edge27_Node000027_Node000028" title=" " alt="" coords="437,694,510,685,511,690,437,699"/>
+<area shape="rect" id="Node000029" href="$classllvm_1_1RISCVTargetELFStreamer.html" title=" " alt="" coords="513,712,721,738"/>
+<area shape="poly" id="edge28_Node000027_Node000029" title=" " alt="" coords="437,712,512,716,512,722,437,717"/>
+<area shape="rect" id="Node000032" href="$classllvm_1_1SparcTargetAsmStreamer.html" title=" " alt="" coords="515,761,718,787"/>
+<area shape="poly" id="edge31_Node000031_Node000032" title=" " alt="" coords="433,793,514,783,515,789,433,798"/>
+<area shape="rect" id="Node000033" href="$classllvm_1_1SparcTargetELFStreamer.html" title=" " alt="" coords="517,811,717,836"/>
+<area shape="poly" id="edge32_Node000031_Node000033" title=" " alt="" coords="433,811,516,815,516,821,433,816"/>
+<area shape="rect" id="Node000036" href="$classllvm_1_1VETargetAsmStreamer.html" title=" " alt="" coords="523,860,710,886"/>
+<area shape="poly" id="edge35_Node000035_Node000036" title=" " alt="" coords="424,893,522,881,523,886,425,898"/>
+<area shape="rect" id="Node000037" href="$classllvm_1_1VETargetELFStreamer.html" title=" " alt="" coords="525,909,709,935"/>
+<area shape="poly" id="edge36_Node000035_Node000037" title=" " alt="" coords="425,909,524,914,524,920,425,914"/>
+<area shape="rect" id="Node000039" href="$classllvm_1_1WebAssemblyTargetAsmStreamer.html" title="This part is for ascii assembly output." alt="" coords="517,959,717,1000"/>
+<area shape="poly" id="edge38_Node000038_Node000039" title=" " alt="" coords="458,970,516,973,516,978,458,976"/>
+<area shape="rect" id="Node000040" href="$classllvm_1_1WebAssemblyTargetNullStreamer.html" title="This part is for null output." alt="" coords="519,1025,715,1065"/>
+<area shape="poly" id="edge39_Node000038_Node000040" title=" " alt="" coords="418,982,444,989,492,1009,532,1021,530,1026,490,1014,442,994,416,987"/>
+<area shape="rect" id="Node000041" href="$classllvm_1_1WebAssemblyTargetWasmStreamer.html" title="This part is for Wasm object output." alt="" coords="512,1090,722,1131"/>
+<area shape="poly" id="edge40_Node000038_Node000041" title=" " alt="" coords="438,985,445,990,463,1011,470,1033,476,1055,493,1075,513,1087,510,1092,489,1079,472,1057,465,1035,458,1013,441,993,435,990"/>
+<area shape="rect" id="Node000045" href="$classllvm_1_1XtensaTargetAsmStreamer.html" title=" " alt="" coords="512,1155,722,1180"/>
+<area shape="poly" id="edge44_Node000044_Node000045" title=" " alt="" coords="436,1165,511,1165,511,1170,436,1170"/>
+<area shape="rect" id="Node000046" href="$classllvm_1_1XtensaTargetELFStreamer.html" title=" " alt="" coords="513,1204,720,1230"/>
+<area shape="poly" id="edge45_Node000044_Node000046" title=" " alt="" coords="424,1181,538,1201,537,1206,423,1186"/>
+</map>

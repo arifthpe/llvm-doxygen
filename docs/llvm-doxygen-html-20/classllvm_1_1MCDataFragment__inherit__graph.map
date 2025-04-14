@@ -1,0 +1,12 @@
+<map id="llvm::MCDataFragment" name="llvm::MCDataFragment">
+<area shape="rect" id="Node000001" title="Fragment for data and encoded instructions." alt="" coords="1012,13,1169,39"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCEncodedFragmentWithFixups.html" title=" " alt="" coords="755,5,962,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="977,23,1011,23,1011,28,977,28"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MCEncodedFragment.html" title="Interface implemented by fragments that contain encoded instructions and/or data." alt="" coords="184,14,364,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="379,18,388,18,560,13,731,15,755,16,755,21,731,20,560,18,388,23,379,23"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MCEncodedFragmentWithFixups.html" title="Interface implemented by fragments that contain encoded instructions and/or data and also have fixups..." alt="" coords="414,35,650,75"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="379,36,413,39,413,45,379,41"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MCFragment.html" title=" " alt="" coords="5,14,135,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="149,24,183,24,183,30,149,30"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="665,40,754,32,755,38,665,46"/>
+</map>

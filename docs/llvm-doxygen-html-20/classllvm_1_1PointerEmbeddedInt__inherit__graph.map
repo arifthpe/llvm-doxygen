@@ -1,0 +1,5 @@
+<map id="llvm::PointerEmbeddedInt&lt; IntT, Bits &gt;" name="llvm::PointerEmbeddedInt&lt; IntT, Bits &gt;">
+<area shape="rect" id="Node000001" title="Utility to embed an integer into a pointer&#45;like type." alt="" coords="5,5,177,46"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="192,21,203,26,177,32,177,27,198,25,191,26"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="192,15,254,17,274,20,283,26,272,32,248,35,177,36,177,30,248,29,271,27,278,26,272,25,253,22,191,21"/>
+</map>
