@@ -1,0 +1,12 @@
+<map id="llvm::ilist_detail::extract_sentinel_tracking&lt; Options &gt;" name="llvm::ilist_detail::extract_sentinel_tracking&lt; Options &gt;">
+<area shape="rect" id="Node000001" title="Extract sentinel tracking option." alt="" coords="5,117,180,173"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ilist__detail_1_1extract__sentinel__tracking.html" title=" " alt="" coords="385,5,559,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,107,203,79,295,53,384,38,385,44,296,58,205,84,148,112"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ilist__detail_1_1extract__sentinel__tracking_3_01Option1_00_01Options_8_8_8_01_4.html" title=" " alt="" coords="616,56,791,112"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="194,117,203,116,393,98,616,85,616,91,393,104,204,121,195,123"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__detail_1_1extract__sentinel__tracking_3_01ilist__sentinel__tracking_3_01Enad8d94c5ce1ebbb4f62b588c4bdfec7d2.html" title=" " alt="" coords="381,148,563,233"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="195,160,204,161,380,180,380,185,203,166,194,165"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ilist__detail_1_1extract__sentinel__tracking_3_4.html" title=" " alt="" coords="377,257,567,298"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="160,178,205,198,296,229,384,254,383,259,295,234,203,203,157,182"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="574,53,616,62,615,67,573,58"/>
+</map>

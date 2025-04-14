@@ -1,0 +1,11 @@
+<map id="llvm::jitlink::CompactUnwindTraits&lt; CRTPImpl, PtrSize &gt;" name="llvm::jitlink::CompactUnwindTraits&lt; CRTPImpl, PtrSize &gt;">
+<area shape="rect" id="Node000001" title="CRTP base for compact unwind traits classes." alt="" coords="5,53,197,94"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1jitlink_1_1CompactUnwindTraits.html" title=" " alt="" coords="391,5,587,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,59,390,41,390,46,212,64"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1jitlink_1_1CompactUnwindTraits.html" title=" " alt="" coords="391,85,587,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,93,221,94,308,103,390,108,390,113,307,108,220,99,211,98"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1jitlink_1_1CompactUnwindTraits__MachO__arm64.html" title=" " alt="" coords="636,13,825,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="602,31,636,31,636,36,602,36"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1jitlink_1_1CompactUnwindTraits__MachO__x86__64.html" title=" " alt="" coords="636,93,825,134"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="602,111,636,111,636,116,602,116"/>
+</map>

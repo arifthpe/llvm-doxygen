@@ -1,0 +1,5 @@
+<map id="llvm::yaml::MappingTraits&lt; std::unique_ptr&lt; MachineFunctionInfo &gt; &gt;" name="llvm::yaml::MappingTraits&lt; std::unique_ptr&lt; MachineFunctionInfo &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,109,236,165"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1MappingTraits.html" title="This class should be specialized by any type that needs to be converted to/from a YAML mapping." alt="" coords="19,5,222,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,46,123,109,118,109,118,46"/>
+</map>

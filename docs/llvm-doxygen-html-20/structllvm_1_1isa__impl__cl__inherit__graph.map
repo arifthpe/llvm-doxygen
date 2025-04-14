@@ -1,0 +1,15 @@
+<map id="llvm::isa_impl_cl&lt; To, From &gt;" name="llvm::isa_impl_cl&lt; To, From &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,169,132,210"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1isa__impl__cl_3_01To_00_01From_01_5_01_4.html" title=" " alt="" coords="357,5,483,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,156,116,120,154,87,204,63,258,45,310,34,356,27,357,33,311,39,259,51,206,68,157,92,120,123,92,159"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1isa__impl__cl_3_01To_00_01From_01_5const_01_4.html" title=" " alt="" coords="355,71,485,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,160,155,146,259,117,354,98,355,103,260,122,157,151,122,165"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1isa__impl__cl_3_01To_00_01const_01From_01_5_01_4.html" title=" " alt="" coords="353,136,487,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="146,180,352,160,353,165,147,185"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1isa__impl__cl_3_01To_00_01const_01From_01_5const_01_4.html" title=" " alt="" coords="337,201,503,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="147,197,156,198,336,213,336,219,155,203,146,202"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1isa__impl__cl_3_01To_00_01const_01From_01_4.html" title=" " alt="" coords="357,267,483,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="117,215,157,233,208,249,261,261,356,277,356,283,260,266,207,254,155,238,115,220"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1isa__impl__cl_3_01To_00_01const_01std_1_1unique__ptr_3_01From_01_4_01_4.html" title=" " alt="" coords="346,331,494,387"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="87,222,116,267,135,289,157,307,203,329,252,344,301,353,346,357,345,362,300,358,250,349,201,334,154,311,131,293,111,270,83,225"/>
+</map>

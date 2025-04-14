@@ -1,0 +1,5 @@
+<map id="llvm::yaml::MappingTraits&lt; object::coff_load_configuration32 &gt;" name="llvm::yaml::MappingTraits&lt; object::coff_load_configuration32 &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,109,242,150"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1MappingTraits.html" title="This class should be specialized by any type that needs to be converted to/from a YAML mapping." alt="" coords="22,5,225,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,46,126,109,121,109,121,46"/>
+</map>

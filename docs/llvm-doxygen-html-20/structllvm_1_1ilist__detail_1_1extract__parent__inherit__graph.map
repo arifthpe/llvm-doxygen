@@ -1,0 +1,12 @@
+<map id="llvm::ilist_detail::extract_parent&lt; Options &gt;" name="llvm::ilist_detail::extract_parent&lt; Options &gt;">
+<area shape="rect" id="Node000001" title="Extract node parent option." alt="" coords="5,104,187,145"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ilist__detail_1_1extract__parent.html" title=" " alt="" coords="390,5,583,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,94,210,64,301,42,389,30,390,35,302,48,212,70,145,99"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ilist__detail_1_1extract__parent_3_01Option1_00_01Options_8_8_8_01_4.html" title=" " alt="" coords="644,42,818,98"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="201,103,210,102,445,80,644,70,644,75,446,86,211,107,201,108"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__detail_1_1extract__parent_3_01ilist__parent_3_01ParentTy_01_4_00_01Options_8_8_8_01_4.html" title=" " alt="" coords="378,134,595,190"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="202,132,378,149,377,154,201,137"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ilist__detail_1_1extract__parent_3_4.html" title=" " alt="" coords="422,213,551,254"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="161,148,211,166,323,196,422,219,421,224,321,202,210,171,159,153"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="598,43,644,51,644,57,597,48"/>
+</map>

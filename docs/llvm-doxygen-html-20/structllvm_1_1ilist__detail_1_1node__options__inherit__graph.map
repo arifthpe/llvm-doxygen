@@ -1,0 +1,5 @@
+<map id="llvm::ilist_detail::node_options&lt; T, EnableSentinelTracking, IsSentinelTrackingExplicit, TagT, HasIteratorBits, ParentTy &gt;" name="llvm::ilist_detail::node_options&lt; T, EnableSentinelTracking, IsSentinelTrackingExplicit, TagT, HasIteratorBits, ParentTy &gt;">
+<area shape="rect" id="Node000001" title="Traits for options for ilist_node." alt="" coords="5,90,240,161"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ilist__detail_1_1node__options.html" title=" " alt="" coords="562,60,912,191"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,123,562,123,562,128,255,128"/>
+</map>

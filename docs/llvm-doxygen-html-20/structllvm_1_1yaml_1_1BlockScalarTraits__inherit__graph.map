@@ -1,0 +1,11 @@
+<map id="llvm::yaml::BlockScalarTraits&lt; T &gt;" name="llvm::yaml::BlockScalarTraits&lt; T &gt;">
+<area shape="rect" id="Node000001" title="This class should be specialized by type that requires custom conversion to/from a YAML literal block..." alt="" coords="5,112,230,137"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1BlockScalarTraits_3_01BlockStringValue_01_4.html" title=" " alt="" coords="478,5,671,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,102,202,82,253,64,369,41,477,29,478,34,370,46,254,70,204,87,158,107"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1yaml_1_1BlockScalarTraits_3_01MinidumpYAML_1_1BlockStringRef_01_4.html" title=" " alt="" coords="459,71,690,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,112,458,97,458,102,245,118"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1yaml_1_1BlockScalarTraits_3_01Module_01_4.html" title="This struct serializes the LLVM IR module." alt="" coords="478,136,671,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,132,254,133,478,148,477,153,253,138,244,137"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1yaml_1_1BlockScalarTraits_3_01StringBlockVal_01_4.html" title=" " alt="" coords="478,201,671,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="169,140,254,166,370,190,478,207,477,212,369,195,253,171,167,145"/>
+</map>

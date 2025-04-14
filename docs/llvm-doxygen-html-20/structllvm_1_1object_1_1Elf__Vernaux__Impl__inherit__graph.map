@@ -1,0 +1,5 @@
+<map id="llvm::object::Elf_Vernaux_Impl&lt; ELFT &gt;" name="llvm::object::Elf_Vernaux_Impl&lt; ELFT &gt;">
+<area shape="rect" id="Node000001" title="Elf_Vernaux: This is the structure of auxiliary data in SHT_GNU_verneed section (...." alt="" coords="19,5,187,46"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1object_1_1Elf__Vernaux__Impl.html" title=" " alt="" coords="5,109,201,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,61,106,109,100,109,100,61"/>
+</map>

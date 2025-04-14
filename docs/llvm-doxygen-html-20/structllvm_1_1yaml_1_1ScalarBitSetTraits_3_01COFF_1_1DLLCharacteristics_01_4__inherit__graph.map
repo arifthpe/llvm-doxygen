@@ -1,0 +1,5 @@
+<map id="llvm::yaml::ScalarBitSetTraits&lt; COFF::DLLCharacteristics &gt;" name="llvm::yaml::ScalarBitSetTraits&lt; COFF::DLLCharacteristics &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,109,240,150"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits.html" title="This class should be specialized by any integer type that is a union of bit values and the YAML repre..." alt="" coords="41,5,204,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,61,125,109,120,109,120,61"/>
+</map>

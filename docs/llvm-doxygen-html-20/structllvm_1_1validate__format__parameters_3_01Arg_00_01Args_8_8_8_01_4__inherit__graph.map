@@ -1,0 +1,5 @@
+<map id="llvm::validate_format_parameters&lt; Arg, Args... &gt;" name="llvm::validate_format_parameters&lt; Arg, Args... &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,109,188,150"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1validate__format__parameters.html" title="These are templated helper classes used by the format function that capture the object to be formatte..." alt="" coords="25,5,168,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,61,99,109,94,109,94,61"/>
+</map>

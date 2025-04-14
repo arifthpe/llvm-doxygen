@@ -1,0 +1,9 @@
+<map id="llvm::yaml::MappingContextTraits&lt; T, Context &gt;" name="llvm::yaml::MappingContextTraits&lt; T, Context &gt;">
+<area shape="rect" id="Node000001" title="This class is similar to MappingTraits&lt;T&gt; but allows you to pass in additional context for each map o..." alt="" coords="5,93,190,134"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1MappingContextTraits_3_01MetadataSection_00_01MetadataSection_1_1Option_01_4.html" title=" " alt="" coords="456,5,640,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,85,213,75,339,52,455,38,456,44,340,58,214,80,173,91"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1yaml_1_1MappingContextTraits_3_01minidump_1_1MemoryDescriptor_00_01BinaryRef_01_4.html" title=" " alt="" coords="428,85,668,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,111,427,111,427,116,204,116"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1yaml_1_1MappingContextTraits_3_01minidump_1_1MemoryDescriptor__64_00_01BinaryRef_01_4.html" title=" " alt="" coords="429,165,667,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,136,214,146,324,166,429,179,428,185,323,171,213,151,174,141"/>
+</map>

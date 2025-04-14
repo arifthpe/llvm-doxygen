@@ -1,0 +1,5 @@
+<map id="llvm::yaml::ScalarEnumerationTraits&lt; XCOFF::SymbolType &gt;" name="llvm::yaml::ScalarEnumerationTraits&lt; XCOFF::SymbolType &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,109,209,150"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits.html" title="This class should be specialized by any integral type that converts to/from a YAML scalar where there..." alt="" coords="7,5,207,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,61,110,109,104,109,104,61"/>
+</map>
