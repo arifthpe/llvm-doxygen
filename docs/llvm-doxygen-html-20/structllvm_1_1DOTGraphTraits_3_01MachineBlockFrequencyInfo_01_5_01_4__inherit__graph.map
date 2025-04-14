@@ -1,0 +1,14 @@
+<map id="llvm::DOTGraphTraits&lt; MachineBlockFrequencyInfo * &gt;" name="llvm::DOTGraphTraits&lt; MachineBlockFrequencyInfo * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,300,225,340"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DefaultDOTGraphTraits.html" title="DefaultDOTGraphTraits &#45; This class provides the default implementations of all of the DOTGraphTraits ..." alt="" coords="31,5,223,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,42,75,60,59,82,40,119,29,150,16,225,14,238,16,249,39,277,69,297,66,301,35,281,11,251,8,238,11,224,24,149,35,117,54,79,71,56,92,38"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1BFIDOTGraphTraitsBase.html" title=" " alt="" coords="25,225,205,250"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="100,42,82,60,69,81,64,101,64,121,74,161,91,197,108,223,104,226,86,199,69,163,59,121,59,100,65,79,78,57,96,39"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1BFIDOTGraphTraitsBase.html" title=" " alt="" coords="80,80,345,136"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="151,40,188,78,184,82,147,44"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1DOTGraphTraits.html" title="DOTGraphTraits &#45; Template class that can be specialized to customize how graphs are converted to &#39;dot..." alt="" coords="310,160,459,201"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="238,23,271,30,303,42,333,57,360,78,373,97,381,119,387,159,382,160,376,120,368,100,356,82,330,62,301,46,269,35,237,28"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,265,118,300,112,300,112,265"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="123,147,111,161,105,177,105,193,112,224,107,225,100,194,100,176,106,159,119,143"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="334,210,155,301,152,297,332,206"/>
+</map>

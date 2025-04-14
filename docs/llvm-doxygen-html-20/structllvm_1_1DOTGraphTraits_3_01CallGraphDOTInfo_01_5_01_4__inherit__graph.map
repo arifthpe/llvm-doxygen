@@ -1,0 +1,9 @@
+<map id="llvm::DOTGraphTraits&lt; CallGraphDOTInfo * &gt;" name="llvm::DOTGraphTraits&lt; CallGraphDOTInfo * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="20,184,182,225"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DefaultDOTGraphTraits.html" title="DefaultDOTGraphTraits &#45; This class provides the default implementations of all of the DOTGraphTraits ..." alt="" coords="5,5,197,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,46,95,116,98,184,93,184,89,117,92,46"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="110,46,113,117,109,184,104,184,107,116,105,46"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1DOTGraphTraits.html" title="DOTGraphTraits &#45; Template class that can be specialized to customize how graphs are converted to &#39;dot..." alt="" coords="150,80,300,121"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="134,37,196,78,193,82,131,42"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="192,132,127,186,123,182,188,128"/>
+</map>

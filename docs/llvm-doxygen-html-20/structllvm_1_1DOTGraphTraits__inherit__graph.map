@@ -1,0 +1,58 @@
+<map id="llvm::DOTGraphTraits&lt; Ty &gt;" name="llvm::DOTGraphTraits&lt; Ty &gt;">
+<area shape="rect" id="Node000001" title="DOTGraphTraits &#45; Template class that can be specialized to customize how graphs are converted to &#39;dot..." alt="" coords="246,805,395,846"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1DOTGraphTraits.html" title=" " alt="" coords="691,27,840,67"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="321,791,332,626,353,399,366,287,381,189,398,115,407,90,417,75,447,52,480,36,515,25,552,19,625,19,691,27,690,32,625,24,553,25,516,30,482,41,450,56,421,78,412,92,403,116,386,190,371,288,358,400,338,627,327,791"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1DOTGraphTraits_3_01AADepGraph_01_5_01_4.html" title=" " alt="" coords="691,92,840,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="319,790,321,650,333,458,345,361,363,273,386,200,401,173,417,152,447,129,480,112,515,100,552,93,625,90,691,95,690,100,625,95,552,98,516,105,482,117,450,133,421,156,405,176,391,203,368,274,351,362,339,459,327,650,324,790"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1DOTGraphTraits_3_01AttributorCallGraph_01_5_01_4.html" title=" " alt="" coords="683,157,848,198"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="319,791,323,660,336,484,349,395,366,314,388,249,402,224,418,205,436,193,463,184,531,174,609,170,683,171,683,176,609,175,532,179,464,189,439,198,421,209,406,227,393,251,371,316,354,396,342,485,328,661,325,791"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1DOTGraphTraits_3_01BlockFrequencyInfo_01_5_01_4.html" title=" " alt="" coords="680,223,851,263"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="320,791,327,676,342,523,355,446,371,377,392,321,404,299,417,282,446,261,477,244,511,233,546,226,616,221,680,225,680,230,616,226,547,231,512,238,479,249,449,265,421,286,408,302,397,323,376,378,360,447,348,524,332,676,326,791"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1DOTGraphTraits_3_01BoUpSLP_01_5_01_4.html" title=" " alt="" coords="691,288,840,329"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="321,791,329,686,346,549,358,480,374,419,394,369,418,336,437,324,465,315,536,304,616,301,690,302,690,307,616,306,536,310,466,320,440,329,421,340,398,372,379,421,363,482,351,549,334,686,326,791"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1DOTGraphTraits_3_01CallGraphDOTInfo_01_5_01_4.html" title=" " alt="" coords="684,353,847,394"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="323,790,333,700,352,588,365,532,380,482,397,442,417,414,447,393,479,377,513,366,549,358,620,353,684,357,684,363,620,359,550,364,515,371,481,382,449,397,421,418,402,444,385,484,370,534,357,589,339,701,328,791"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1DOTGraphTraits_3_01DOTFuncInfo_01_5_01_4.html" title=" " alt="" coords="691,419,840,459"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="324,790,336,711,356,614,383,524,399,489,418,466,438,455,465,446,536,436,616,433,690,433,690,438,616,438,537,441,467,452,440,460,421,470,404,492,388,526,361,615,341,712,329,791"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1DOTGraphTraits_3_01DOTFuncMSSAInfo_01_5_01_4.html" title=" " alt="" coords="680,484,851,525"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="320,790,325,733,340,663,352,627,369,592,391,561,418,534,447,515,479,501,513,491,548,485,617,481,679,486,679,491,617,486,548,490,514,496,481,506,450,520,421,538,395,564,373,595,357,629,345,664,330,734,325,791"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1DOTGraphTraits_3_01DOTMachineFuncInfo_01_5_01_4.html" title=" " alt="" coords="674,549,857,590"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="325,790,335,747,352,698,379,649,397,627,418,609,447,591,478,577,545,560,612,554,674,555,674,560,613,559,546,565,480,582,449,595,421,613,401,631,384,652,357,700,340,749,330,791"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1DOTGraphTraits_3_01DomTreeNode_01_5_01_4.html" title=" " alt="" coords="691,677,840,718"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="346,792,378,762,418,737,488,713,560,699,630,693,690,691,691,697,630,698,561,704,489,718,420,741,382,766,350,796"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1DOTGraphTraits_3_01DominatorTree_01_5_01_4.html" title=" " alt="" coords="937,631,1086,671"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="331,790,345,760,363,728,388,698,418,674,460,658,517,647,584,640,658,637,810,638,937,643,937,649,810,643,658,642,585,646,517,652,461,663,421,679,391,702,368,731,349,763,336,792"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1DOTGraphTraits_3_01PostDominatorTree_01_5_01_4.html" title=" " alt="" coords="928,717,1095,758"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="409,805,419,803,698,766,928,742,928,748,699,771,420,808,410,810"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1DOTGraphTraits_3_01DotCfgDiffDisplayGraph_01_5_01_4.html" title=" " alt="" coords="667,805,864,846"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="410,823,667,823,667,828,410,828"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1DOTGraphTraits_3_01DotFuncBCIInfo_01_5_01_4.html" title=" " alt="" coords="691,871,840,911"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="410,842,420,843,564,865,691,880,690,886,563,870,419,849,409,847"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1DOTGraphTraits_3_01MachineBlockFrequencyInfo_01_5_01_4.html" title=" " alt="" coords="656,936,875,977"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="357,853,387,875,420,893,479,914,540,929,656,947,655,952,539,934,477,919,418,898,384,879,354,858"/>
+<area shape="rect" id="Node000018" href="$structllvm_1_1DOTGraphTraits_3_01MachineGadgetGraph_01_5_01_4.html" title=" " alt="" coords="675,1001,856,1042"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="339,859,371,914,394,940,421,962,482,992,549,1010,615,1020,675,1023,675,1028,614,1025,548,1015,480,997,418,967,390,944,367,917,334,861"/>
+<area shape="rect" id="Node000019" href="$structllvm_1_1DOTGraphTraits_3_01PGOUseFunc_01_5_01_4.html" title=" " alt="" coords="691,1067,840,1107"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="330,860,339,903,357,953,383,1002,401,1023,421,1041,452,1060,485,1075,556,1092,627,1097,690,1095,690,1100,627,1102,555,1097,483,1080,449,1065,418,1045,397,1027,379,1005,352,955,334,904,324,861"/>
+<area shape="rect" id="Node000020" href="$structllvm_1_1DOTGraphTraits_3_01RegionInfo_01_5_01_4.html" title=" " alt="" coords="937,1143,1086,1183"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="326,861,332,916,347,982,359,1016,376,1048,396,1077,421,1102,459,1123,514,1138,581,1149,655,1157,808,1163,937,1163,937,1168,808,1169,654,1162,580,1155,513,1143,457,1128,418,1106,392,1081,371,1051,355,1018,342,983,327,917,320,861"/>
+<area shape="rect" id="Node000021" href="$structllvm_1_1DOTGraphTraits_3_01RegionNode_01_5_01_4.html" title=" " alt="" coords="691,1195,840,1235"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="329,860,342,939,361,1035,388,1124,404,1157,421,1179,451,1199,483,1214,518,1224,554,1230,626,1233,690,1227,691,1232,626,1238,554,1236,517,1229,482,1219,448,1204,418,1183,399,1160,383,1126,356,1036,336,940,324,861"/>
+<area shape="rect" id="Node000022" href="$structllvm_1_1DOTGraphTraits_3_01ScheduleDAG_01_5_01_4.html" title=" " alt="" coords="691,1260,840,1301"/>
+<area shape="poly" id="edge24_Node000001_Node000022" title=" " alt="" coords="327,861,337,955,355,1073,368,1132,383,1184,401,1226,421,1253,450,1274,483,1288,518,1298,554,1303,626,1303,690,1295,691,1301,626,1309,554,1308,517,1303,481,1293,448,1278,417,1257,396,1229,378,1186,363,1133,350,1074,332,955,322,861"/>
+<area shape="rect" id="Node000023" href="$structllvm_1_1DOTGraphTraits_3_01ScheduleDAGMI_01_5_01_4.html" title=" " alt="" coords="689,1325,842,1366"/>
+<area shape="poly" id="edge25_Node000001_Node000023" title=" " alt="" coords="326,861,333,969,349,1109,362,1179,378,1242,397,1293,421,1325,450,1346,482,1360,517,1369,553,1374,624,1373,688,1363,689,1368,625,1378,552,1379,516,1374,481,1365,448,1350,417,1329,393,1295,373,1244,357,1181,344,1110,328,969,321,861"/>
+<area shape="rect" id="Node000024" href="$structllvm_1_1DOTGraphTraits_3_01SelectionDAG_01_5_01_4.html" title=" " alt="" coords="691,1391,840,1431"/>
+<area shape="poly" id="edge26_Node000001_Node000024" title=" " alt="" coords="325,861,330,982,344,1144,356,1225,373,1298,394,1357,407,1379,421,1395,450,1415,483,1429,518,1438,554,1442,626,1440,691,1429,692,1435,627,1445,554,1448,517,1444,481,1435,448,1420,418,1399,403,1382,390,1359,368,1300,351,1226,339,1145,325,982,320,861"/>
+<area shape="rect" id="Node000025" href="$structllvm_1_1DOTGraphTraits_3_01SplitGraph_01_4.html" title=" " alt="" coords="691,1456,840,1497"/>
+<area shape="poly" id="edge27_Node000001_Node000025" title=" " alt="" coords="324,861,327,996,339,1179,351,1271,368,1354,391,1421,405,1446,421,1464,451,1485,484,1499,520,1508,557,1511,630,1507,695,1495,696,1500,631,1512,557,1516,519,1513,483,1504,448,1490,418,1468,401,1449,387,1423,363,1355,346,1272,334,1179,321,996,319,861"/>
+<area shape="rect" id="Node000026" title=" " alt="" coords="652,1521,879,1562"/>
+<area shape="poly" id="edge28_Node000001_Node000026" title=" " alt="" coords="327,861,338,1017,359,1232,372,1337,387,1428,404,1497,412,1519,421,1532,451,1553,485,1567,521,1576,559,1579,633,1574,699,1560,700,1565,634,1579,559,1584,521,1581,484,1572,449,1558,417,1536,408,1522,398,1498,382,1429,367,1338,353,1232,333,1018,322,861"/>
+<area shape="rect" id="Node000027" href="$structllvm_1_1DOTGraphTraits_3_01const_01MachineFunction_01_5_01_4.html" title=" " alt="" coords="671,1587,860,1627"/>
+<area shape="poly" id="edge29_Node000001_Node000027" title=" " alt="" coords="326,861,337,1030,356,1266,369,1382,385,1484,402,1560,411,1584,421,1599,451,1620,486,1634,522,1642,560,1645,635,1640,700,1625,701,1631,636,1645,560,1651,521,1648,484,1639,449,1625,417,1603,407,1587,397,1561,379,1485,364,1383,351,1267,331,1031,321,861"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DefaultDOTGraphTraits.html" title="DefaultDOTGraphTraits &#45; This class provides the default implementations of all of the DOTGraphTraits ..." alt="" coords="5,813,197,839"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,823,246,823,246,828,211,828"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="854,678,936,663,937,668,855,683"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="855,710,928,721,927,727,855,715"/>
+<area shape="poly" id="edge23_Node000021_Node000020" title=" " alt="" coords="854,1194,936,1176,937,1181,855,1199"/>
+</map>

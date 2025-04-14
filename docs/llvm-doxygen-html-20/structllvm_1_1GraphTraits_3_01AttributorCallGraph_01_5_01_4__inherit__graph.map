@@ -1,0 +1,8 @@
+<map id="llvm::GraphTraits&lt; AttributorCallGraph * &gt;" name="llvm::GraphTraits&lt; AttributorCallGraph * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="40,199,196,240"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1GraphTraits_3_01AACallGraphNode_01_5_01_4.html" title=" " alt="" coords="219,109,372,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,159,159,201,156,196,241,154"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="5,5,135,46"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="63,61,57,104,58,127,63,149,78,175,97,197,93,200,73,178,58,151,52,127,51,104,57,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,50,253,106,251,111,126,55"/>
+</map>

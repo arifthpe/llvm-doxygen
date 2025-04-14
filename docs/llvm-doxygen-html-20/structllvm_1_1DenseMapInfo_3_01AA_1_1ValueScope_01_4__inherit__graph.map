@@ -1,0 +1,7 @@
+<map id="llvm::DenseMapInfo&lt; AA::ValueScope &gt;" name="llvm::DenseMapInfo&lt; AA::ValueScope &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="86,109,226,150"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DenseMapInfo.html" title="An information struct used to provide DenseMap with the various necessary components for a given valu..." alt="" coords="5,5,144,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,56,142,107,138,110,97,59"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1DenseMapInfo.html" title="An information struct used to provide DenseMap with the various necessary components for a given valu..." alt="" coords="168,5,306,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,59,174,110,169,107,210,56"/>
+</map>

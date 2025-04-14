@@ -1,0 +1,14 @@
+<map id="llvm::CastInfo&lt; To, std::unique_ptr&lt; From &gt; &gt;" name="llvm::CastInfo&lt; To, std::unique_ptr&lt; From &gt; &gt;">
+<area shape="rect" id="Node000001" title="Provide a CastInfo specialized for std::unique_ptr." alt="" coords="805,45,982,86"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="288,5,433,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="448,16,603,13,693,17,781,27,839,42,838,47,780,32,692,22,603,18,448,22"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1CastInfo.html" title="This struct provides a method for customizing the way a cast is performed." alt="" coords="491,45,624,86"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="448,41,491,50,490,55,447,46"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1UniquePtrCast.html" title="This cast trait provides std::unique_ptr casting." alt="" coords="482,111,633,151"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="647,111,804,80,805,85,648,116"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="289,111,432,151"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="446,128,482,128,482,134,446,134"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="5,111,151,151"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="165,128,289,128,289,134,165,134"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="639,63,804,63,804,68,639,68"/>
+</map>

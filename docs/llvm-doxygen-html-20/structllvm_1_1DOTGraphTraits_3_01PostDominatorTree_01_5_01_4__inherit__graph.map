@@ -1,0 +1,13 @@
+<map id="llvm::DOTGraphTraits&lt; PostDominatorTree * &gt;" name="llvm::DOTGraphTraits&lt; PostDominatorTree * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="765,37,932,77"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DefaultDOTGraphTraits.html" title="DefaultDOTGraphTraits &#45; This class provides the default implementations of all of the DOTGraphTraits ..." alt="" coords="5,44,197,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,37,220,24,359,8,468,3,577,8,716,22,775,33,774,39,715,28,576,13,468,8,359,13,221,29,158,42"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1DOTGraphTraits_3_01DomTreeNode_01_5_01_4.html" title=" " alt="" coords="566,37,715,77"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="212,62,394,63,565,61,565,66,394,69,212,67"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="212,47,394,45,565,48,565,53,394,51,212,52"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1DOTGraphTraits.html" title="DOTGraphTraits &#45; Template class that can be specialized to customize how graphs are converted to &#39;dot..." alt="" coords="246,106,395,147"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="159,72,255,103,253,108,157,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="730,54,764,54,764,60,730,60"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="410,128,554,125,635,116,715,102,796,75,797,80,716,107,636,122,555,130,410,133"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="410,121,475,114,541,100,601,75,603,80,542,105,476,119,411,126"/>
+</map>

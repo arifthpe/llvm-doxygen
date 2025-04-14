@@ -1,0 +1,12 @@
+<map id="llvm::GraphTraits&lt; DominatorTree * &gt;" name="llvm::GraphTraits&lt; DominatorTree * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="197,333,330,373"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1GraphTraits_3_01DomTreeNode_01_5_01_4.html" title=" " alt="" coords="127,243,258,283"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,293,250,331,246,334,215,297"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1DomTreeGraphTraitsBase.html" title=" " alt="" coords="5,124,247,180"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,191,166,217,181,241,177,244,161,220,145,194"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1DomTreeGraphTraitsBase.html" title=" " alt="" coords="33,5,219,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="129,61,129,124,123,124,123,61"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="271,132,400,172"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="329,188,319,220,274,333,269,331,314,218,324,186"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="266,180,197,206,190,223,191,242,186,242,185,222,193,202,264,175"/>
+</map>

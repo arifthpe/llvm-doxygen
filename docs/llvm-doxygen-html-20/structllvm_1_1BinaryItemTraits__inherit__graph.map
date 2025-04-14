@@ -1,0 +1,9 @@
+<map id="llvm::BinaryItemTraits&lt; T &gt;" name="llvm::BinaryItemTraits&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,78,187,104"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1BinaryItemTraits_3_01codeview_1_1CVSymbol_01_4.html" title=" " alt="" coords="413,5,584,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,73,210,68,412,36,413,41,211,74,187,78"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1BinaryItemTraits_3_01codeview_1_1CVType_01_4.html" title=" " alt="" coords="421,71,576,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,88,420,88,420,94,201,94"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1BinaryItemTraits_3_01llvm_1_1codeview_1_1CVType_01_4.html" title=" " alt="" coords="405,136,592,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,104,211,109,404,140,404,145,210,114,185,110"/>
+</map>

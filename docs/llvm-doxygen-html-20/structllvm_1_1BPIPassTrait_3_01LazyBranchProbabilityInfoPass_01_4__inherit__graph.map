@@ -1,0 +1,5 @@
+<map id="llvm::BPIPassTrait&lt; LazyBranchProbabilityInfoPass &gt;" name="llvm::BPIPassTrait&lt; LazyBranchProbabilityInfoPass &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,124,191,180"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1BPIPassTrait.html" title="Simple trait class that provides a mapping between BPI passes and the corresponding BPInfo." alt="" coords="32,5,164,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,61,101,124,95,124,95,61"/>
+</map>

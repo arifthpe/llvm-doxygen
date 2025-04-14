@@ -1,0 +1,8 @@
+<map id="llvm::GraphTraits&lt; ModuleSummaryIndex * &gt;" name="llvm::GraphTraits&lt; ModuleSummaryIndex * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="33,199,209,240"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1GraphTraits_3_01ValueInfo_01_4.html" title="GraphTraits definition to build SCC for the index." alt="" coords="240,109,369,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,159,163,201,161,196,249,154"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="5,5,135,46"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="63,61,58,104,59,127,64,149,79,175,99,197,95,200,75,178,59,151,54,128,52,104,58,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,50,260,106,258,111,127,55"/>
+</map>

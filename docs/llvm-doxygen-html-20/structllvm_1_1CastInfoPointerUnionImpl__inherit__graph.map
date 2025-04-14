@@ -1,0 +1,5 @@
+<map id="llvm::CastInfoPointerUnionImpl&lt; PTs &gt;" name="llvm::CastInfoPointerUnionImpl&lt; PTs &gt;">
+<area shape="rect" id="Node000001" title="We can&#39;t (at least, at this moment with C++14) declare CastInfo as a friend of PointerUnion like this..." alt="" coords="5,5,184,46"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CastInfoPointerUnionImpl.html" title=" " alt="" coords="5,109,184,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,61,97,109,92,109,92,61"/>
+</map>

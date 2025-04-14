@@ -1,0 +1,46 @@
+<map id="llvm::BitIntegerState&lt; base_ty, BestState, WorstState &gt;" name="llvm::BitIntegerState&lt; base_ty, BestState, WorstState &gt;">
+<area shape="rect" id="Node000001" title="Specialization of the integer state for a bit&#45;wise encoding." alt="" coords="707,207,854,262"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1StateWrapper.html" title=" " alt="" coords="1014,5,1205,61"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="825,195,906,132,955,99,1005,69,1026,59,1028,64,1008,74,958,104,909,137,828,199"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1StateWrapper.html" title=" " alt="" coords="1026,85,1193,155"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="867,202,1024,146,1026,151,869,207"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1StateWrapper.html" title=" " alt="" coords="1006,179,1213,250"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="869,226,1006,218,1006,223,869,232"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1BitIntegerState.html" title=" " alt="" coords="1039,274,1180,315"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="870,248,1039,279,1038,284,869,253"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1BitIntegerState.html" title=" " alt="" coords="1039,340,1180,380"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="841,268,879,287,962,318,1040,340,1038,345,960,323,877,292,838,273"/>
+<area shape="rect" id="Node000019" href="$structllvm_1_1BitIntegerState.html" title=" " alt="" coords="1039,408,1180,448"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="811,273,842,310,880,343,918,366,960,385,1040,410,1038,416,958,390,916,371,877,348,838,314,807,276"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1IntegerStateBase.html" title=" " alt="" coords="503,207,658,262"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="673,232,706,232,706,237,673,237"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute." alt="" coords="5,226,139,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="153,229,305,220,392,219,479,221,503,223,503,228,479,226,392,224,305,226,153,234"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1IntegerStateBase.html" title="Simple state with integers encoding." alt="" coords="188,243,342,298"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="154,249,188,255,187,260,153,255"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="357,263,479,251,503,248,503,253,480,256,357,268"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1AAIsDead.html" title="An abstract interface for liveness abstract attribute." alt="" coords="1333,20,1446,46"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="1220,31,1332,31,1332,36,1220,36"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="1262,77,1517,163"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="1208,117,1262,117,1262,123,1208,123"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1AANoFPClass.html" title=" " alt="" coords="1610,107,1750,133"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1532,117,1610,117,1610,123,1532,123"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1StateWrapper.html" title=" " alt="" coords="1302,244,1478,300"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1194,285,1301,276,1301,282,1195,290"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="1580,208,1780,293"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1493,262,1580,255,1580,260,1493,267"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1AAMemoryBehavior.html" title="An abstract interface for memory access kind related attributes (readnone/readonly/writeonly)." alt="" coords="1842,238,2012,263"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1794,248,1842,248,1842,253,1794,253"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1StateWrapper.html" title=" " alt="" coords="1295,332,1485,388"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="1195,357,1294,357,1294,363,1195,363"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="1580,317,1780,403"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="1500,357,1580,357,1580,363,1500,363"/>
+<area shape="rect" id="Node000018" href="$structllvm_1_1AAMemoryLocation.html" title="An abstract interface for all memory location attributes (readnone/argmemonly/inaccessiblememonly/ina..." alt="" coords="1843,347,2011,373"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="1794,357,1843,357,1843,363,1794,363"/>
+<area shape="rect" id="Node000020" href="$structllvm_1_1StateWrapper.html" title=" " alt="" coords="1294,425,1485,481"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="1195,433,1294,442,1294,447,1194,438"/>
+<area shape="rect" id="Node000021" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="1567,426,1793,512"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="1500,457,1566,460,1566,466,1500,462"/>
+<area shape="rect" id="Node000022" href="$structllvm_1_1AANoCapture.html" title="An abstract interface for all nocapture attributes." alt="" coords="1860,456,1994,482"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="1808,467,1859,467,1859,472,1808,472"/>
+</map>

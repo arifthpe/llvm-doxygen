@@ -1,0 +1,32 @@
+<map id="llvm::DefaultFoldingSetTrait&lt; T &gt;" name="llvm::DefaultFoldingSetTrait&lt; T &gt;">
+<area shape="rect" id="Node000001" title="DefaultFoldingSetTrait &#45; This class provides default implementations for FoldingSetTrait implementati..." alt="" coords="5,233,221,259"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1FoldingSetTrait_3_01T_01_5_01_4.html" title=" " alt="" coords="788,200,929,241"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,223,253,179,322,154,399,132,481,115,566,107,651,111,693,118,734,129,781,157,834,198,831,202,778,161,732,133,692,123,651,116,566,113,482,121,400,137,324,159,255,183,153,228"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1FoldingSetTrait_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum_3_01T_01_4_1_1value_01_4_01_4.html" title=" " alt="" coords="757,75,960,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,220,184,182,244,145,314,122,431,90,596,50,665,42,733,50,769,59,802,72,800,77,767,64,733,55,665,48,596,55,432,96,315,127,246,149,188,186,141,225"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1FoldingSetTrait_3_01std_1_1pair_3_01T1_00_01T2_01_4_01_4.html" title=" " alt="" coords="782,5,936,46"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="130,219,177,164,209,134,243,109,310,74,381,48,455,30,529,18,601,12,669,10,781,15,781,20,669,16,602,18,530,24,456,35,383,53,312,79,246,113,212,139,181,168,134,223"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1FoldingSetTrait.html" title="FoldingSetTrait &#45; This trait class is used to define behavior of how to &quot;profile&quot; (in the FoldingSet ..." alt="" coords="410,225,551,266"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="236,243,409,243,409,248,236,248"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1DefaultFoldingSetTrait.html" title=" " alt="" coords="389,349,572,390"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="168,261,418,346,417,351,167,266"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1DefaultFoldingSetTrait.html" title=" " alt="" coords="389,448,572,489"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="141,267,189,306,246,348,344,403,432,445,430,450,341,408,243,352,186,310,138,271"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1DefaultFoldingSetTrait.html" title=" " alt="" coords="389,513,572,554"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="129,271,174,350,207,394,246,433,282,459,321,480,399,510,397,515,319,485,279,463,243,437,203,397,170,353,124,273"/>
+<area shape="poly" id="edge8_Node000005_Node000002" title=" " alt="" coords="566,237,788,222,788,228,566,243"/>
+<area shape="poly" id="edge9_Node000005_Node000003" title=" " alt="" coords="549,217,781,129,783,134,551,222"/>
+<area shape="poly" id="edge10_Node000005_Node000004" title=" " alt="" coords="498,211,538,154,564,126,595,101,640,76,688,57,781,33,782,38,690,62,642,81,597,105,568,129,542,158,502,214"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1FoldingSetTrait_3_01SCEV_01_4.html" title=" " alt="" coords="788,349,929,390"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="566,254,649,270,734,295,785,320,829,346,826,351,783,324,732,300,647,275,565,259"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1FoldingSetTrait_3_01SCEVPredicate_01_4.html" title=" " alt="" coords="788,448,929,489"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="529,272,597,313,823,445,820,450,595,318,527,276"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1FoldingSetTrait_3_01SDVTListNode_01_4.html" title="Specialize FoldingSetTrait for SDVTListNode to avoid computing temp FoldingSetNodeID and hash value." alt="" coords="788,513,929,554"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="521,274,549,303,574,336,583,358,585,377,588,395,598,414,634,448,669,467,709,480,758,498,790,510,788,515,756,503,707,485,667,472,631,453,594,417,583,397,580,378,578,360,570,339,545,306,517,278"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="587,375,788,374,788,380,587,381"/>
+<area shape="poly" id="edge13_Node000009_Node000006" title=" " alt="" coords="587,359,788,360,788,365,587,364"/>
+<area shape="poly" id="edge15_Node000010_Node000007" title=" " alt="" coords="587,474,788,473,788,478,587,479"/>
+<area shape="poly" id="edge16_Node000010_Node000007" title=" " alt="" coords="587,457,788,458,788,464,587,463"/>
+<area shape="poly" id="edge18_Node000011_Node000008" title=" " alt="" coords="587,539,788,538,788,544,587,545"/>
+<area shape="poly" id="edge19_Node000011_Node000008" title=" " alt="" coords="587,523,788,524,788,529,587,528"/>
+</map>

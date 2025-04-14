@@ -1,0 +1,8 @@
+<map id="llvm::DenseMapInfo&lt; typename CallsiteContextGraph&lt; IndexCallsiteContextGraph, FunctionSummary, IndexCall &gt;::CallInfo &gt;" name="llvm::DenseMapInfo&lt; typename CallsiteContextGraph&lt; IndexCallsiteContextGraph, FunctionSummary, IndexCall &gt;::CallInfo &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="583,51,812,136"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="354,103,505,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="520,115,582,107,583,112,521,121"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1DenseMapInfo.html" title="An information struct used to provide DenseMap with the various necessary components for a given valu..." alt="" coords="5,72,144,112"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="158,72,167,71,277,64,388,65,583,77,582,83,388,70,278,70,168,76,159,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,100,168,101,354,121,353,126,167,106,158,105"/>
+</map>
