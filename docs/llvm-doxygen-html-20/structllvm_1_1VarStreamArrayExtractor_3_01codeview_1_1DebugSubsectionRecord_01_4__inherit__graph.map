@@ -1,0 +1,5 @@
+<map id="llvm::VarStreamArrayExtractor&lt; codeview::DebugSubsectionRecord &gt;" name="llvm::VarStreamArrayExtractor&lt; codeview::DebugSubsectionRecord &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,109,259,150"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1VarStreamArrayExtractor.html" title="VarStreamArrayExtractor is intended to be specialized to provide customized extraction logic." alt="" coords="17,5,247,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,46,135,109,129,109,129,46"/>
+</map>

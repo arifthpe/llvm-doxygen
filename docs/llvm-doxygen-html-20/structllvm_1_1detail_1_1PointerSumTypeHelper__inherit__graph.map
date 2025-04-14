@@ -1,0 +1,7 @@
+<map id="llvm::detail::PointerSumTypeHelper&lt; TagT, MemberTs &gt;" name="llvm::detail::PointerSumTypeHelper&lt; TagT, MemberTs &gt;">
+<area shape="rect" id="Node000001" title="A helper template for implementing PointerSumType." alt="" coords="11,80,218,121"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1PointerSumTypeHelper.html" title=" " alt="" coords="5,184,224,225"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,136,117,184,112,184,112,136"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="68,5,161,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,46,117,80,112,80,112,46"/>
+</map>

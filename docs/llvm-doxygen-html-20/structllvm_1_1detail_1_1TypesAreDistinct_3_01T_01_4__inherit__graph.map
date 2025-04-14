@@ -1,0 +1,10 @@
+<map id="llvm::detail::TypesAreDistinct&lt; T &gt;" name="llvm::detail::TypesAreDistinct&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="558,56,783,82"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,233,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,35,282,34,378,31,475,34,604,53,603,58,474,39,378,36,282,39,247,40"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1TypesAreDistinct.html" title=" " alt="" coords="282,48,474,89"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="248,52,282,56,281,61,247,57"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="328,113,429,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="443,111,601,80,602,85,444,116"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="489,66,558,66,558,71,489,71"/>
+</map>

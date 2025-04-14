@@ -1,0 +1,29 @@
+<map id="llvm::MinidumpYAML::Stream" name="llvm::MinidumpYAML::Stream">
+<area shape="rect" id="Node000001" title="The base class for all minidump streams." alt="" coords="5,352,149,392"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title=" " alt="" coords="662,111,829,166"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,336,106,298,129,254,160,210,196,170,242,134,282,113,326,99,383,87,443,76,491,73,538,77,599,87,676,107,675,113,598,92,538,82,490,79,443,81,384,92,327,104,284,118,244,139,200,174,164,213,134,257,111,301,94,338"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title=" " alt="" coords="663,5,828,61"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="82,336,95,286,117,226,150,165,172,137,196,112,250,76,309,49,371,30,435,19,499,13,559,12,662,18,662,24,559,17,499,19,436,24,373,36,311,54,252,81,200,117,176,140,155,167,122,228,100,287,87,337"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title=" " alt="" coords="629,288,862,344"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,362,629,323,629,328,163,367"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title=" " alt="" coords="622,196,869,252"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="158,344,197,335,310,317,399,310,487,303,598,280,682,250,684,255,599,285,488,308,399,316,311,322,199,340,159,349"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1MinidumpYAML_1_1ExceptionStream.html" title="ExceptionStream minidump stream." alt="" coords="207,380,350,420"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="164,381,207,387,206,393,163,386"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1MinidumpYAML_1_1MemoryInfoListStream.html" title="A structure containing the list of MemoryInfo entries comprising a MemoryInfoList stream." alt="" coords="198,445,359,486"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="133,397,199,429,227,442,225,447,197,434,130,402"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1MinidumpYAML_1_1RawContentStream.html" title="A minidump stream represented as a sequence of hex bytes." alt="" coords="207,510,351,551"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="105,402,146,449,200,495,221,507,218,512,196,499,143,453,101,406"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1MinidumpYAML_1_1SystemInfoStream.html" title="SystemInfo minidump stream." alt="" coords="207,576,350,616"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="94,404,135,482,164,524,200,560,218,573,215,577,196,565,160,527,130,485,89,407"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1MinidumpYAML_1_1TextContentStream.html" title="A StringRef, which is printed using YAML block notation." alt="" coords="207,641,350,682"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="89,406,103,455,125,513,157,573,177,601,200,626,216,638,213,642,196,630,173,604,153,576,120,515,98,456,84,408"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title="A stream representing a list of abstract entries in a minidump stream." alt="" coords="207,184,350,240"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="103,338,134,305,171,271,221,238,224,243,174,275,138,308,106,342"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1MinidumpYAML_1_1Memory64ListStream.html" title=" " alt="" coords="918,204,1071,244"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="883,221,918,221,918,227,883,227"/>
+<area shape="poly" id="edge12_Node000012_Node000002" title=" " alt="" coords="364,182,383,177,508,160,661,144,662,149,508,165,384,182,365,187"/>
+<area shape="poly" id="edge13_Node000012_Node000003" title=" " alt="" coords="321,172,350,151,382,132,454,102,528,77,662,45,663,50,529,82,455,107,385,137,353,155,324,177"/>
+<area shape="poly" id="edge14_Node000012_Node000004" title=" " alt="" coords="365,234,384,239,629,292,628,297,383,244,364,239"/>
+<area shape="poly" id="edge15_Node000012_Node000005" title=" " alt="" coords="365,211,622,218,622,223,365,217"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="llvm::ImutProfileInfo&lt; T &gt;" name="llvm::ImutProfileInfo&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Generic profile template." alt="" coords="5,129,176,155"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ImutContainerInfo_3_01T_01_5_01_4.html" title="ImutContainerInfo &#45; Specialization for pointer values to treat pointers as references to unique objec..." alt="" coords="569,32,726,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,151,269,154,359,153,453,143,544,121,588,98,623,71,626,75,591,103,546,125,454,148,359,158,269,160,191,156"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ImutContainerInfo.html" title="ImutContainerInfo &#45; Generic definition of comparison operations for elements of immutable containers ..." alt="" coords="278,78,467,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,123,297,102,298,107,181,128"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ImutProfileInfo.html" title=" " alt="" coords="303,179,442,219"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="144,157,200,173,303,190,302,195,199,178,142,162"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1ImutProfileInfo_3_01T_01_5_01_4.html" title="Generic profile trait for pointer types." alt="" coords="303,5,442,46"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="136,120,320,44,322,49,138,125"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1ImutProfileInfo_3_01bool_01_4.html" title="Profile traits for booleans." alt="" coords="303,244,442,285"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="125,160,201,202,304,241,302,246,199,207,123,165"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="482,73,568,61,569,66,482,78"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ImutContainerInfo.html" title=" " alt="" coords="569,125,726,166"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="455,105,569,127,568,133,454,110"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="456,180,568,158,569,163,457,185"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="457,27,545,34,569,37,568,42,545,39,456,32"/>
+</map>

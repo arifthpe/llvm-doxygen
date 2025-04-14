@@ -1,0 +1,9 @@
+<map id="llvm::coverage::CovMapTraits&lt; CovMapVersion, IntPtrT &gt;" name="llvm::coverage::CovMapTraits&lt; CovMapVersion, IntPtrT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,202,134"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1coverage_1_1CovMapTraits_3_01CovMapVersion_1_1Version1_00_01IntPtrT_01_4.html" title=" " alt="" coords="422,5,618,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,86,225,75,326,55,421,42,422,47,327,61,226,80,184,91"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1coverage_1_1CovMapTraits_3_01CovMapVersion_1_1Version2_00_01IntPtrT_01_4.html" title=" " alt="" coords="422,85,618,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,111,421,111,421,116,216,116"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1coverage_1_1CovMapTraits_3_01CovMapVersion_1_1Version3_00_01IntPtrT_01_4.html" title=" " alt="" coords="422,165,618,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,135,226,146,327,165,422,179,421,184,326,170,225,151,184,141"/>
+</map>

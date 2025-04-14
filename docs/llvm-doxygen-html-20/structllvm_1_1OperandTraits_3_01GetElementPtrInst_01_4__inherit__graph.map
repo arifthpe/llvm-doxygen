@@ -1,0 +1,9 @@
+<map id="llvm::OperandTraits&lt; GetElementPtrInst &gt;" name="llvm::OperandTraits&lt; GetElementPtrInst &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="110,213,263,253"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1VariadicOperandTraits.html" title=" " alt="" coords="5,109,187,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,159,171,210,167,214,121,163"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1VariadicOperandTraits.html" title="VariadicOperandTraits &#45; determine the allocation regime of the Use array when it is a prefix to the U..." alt="" coords="5,5,187,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,61,99,109,93,109,93,61"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1OperandTraits.html" title="Compile&#45;time customization of User operands." alt="" coords="211,109,346,150"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,163,206,214,202,210,249,159"/>
+</map>

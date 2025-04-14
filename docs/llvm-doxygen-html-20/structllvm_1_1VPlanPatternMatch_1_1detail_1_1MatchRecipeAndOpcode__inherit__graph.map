@@ -1,0 +1,7 @@
+<map id="llvm::VPlanPatternMatch::detail::MatchRecipeAndOpcode&lt; Opcode,... &gt;" name="llvm::VPlanPatternMatch::detail::MatchRecipeAndOpcode&lt; Opcode,... &gt;">
+<area shape="rect" id="Node000001" title="A helper to match an opcode against multiple recipe types." alt="" coords="5,45,219,101"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1VPlanPatternMatch_1_1detail_1_1MatchRecipeAndOpcode_3_01Opcode_00_01RecipeTy_01_4.html" title=" " alt="" coords="413,5,627,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,59,413,41,413,46,234,64"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1VPlanPatternMatch_1_1detail_1_1MatchRecipeAndOpcode_3_01Opcode_00_01RecipeTy_00_01RecipeTys_8_8_8_01_4.html" title=" " alt="" coords="403,85,637,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,91,243,93,402,106,402,111,242,98,233,97"/>
+</map>

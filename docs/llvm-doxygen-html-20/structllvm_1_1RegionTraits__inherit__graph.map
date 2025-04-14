@@ -1,0 +1,7 @@
+<map id="llvm::RegionTraits&lt; FuncT_ &gt;" name="llvm::RegionTraits&lt; FuncT_ &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="85,5,213,46"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1RegionTraits_3_01Function_01_4.html" title=" " alt="" coords="5,109,133,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,59,86,110,82,107,123,56"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1RegionTraits_3_01MachineFunction_01_4.html" title=" " alt="" coords="157,109,301,150"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,54,200,68,223,107,219,110,196,72,184,58"/>
+</map>

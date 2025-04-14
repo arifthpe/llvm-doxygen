@@ -1,0 +1,17 @@
+<map id="llvm::HungoffOperandTraits" name="llvm::HungoffOperandTraits">
+<area shape="rect" id="Node000001" title="HungoffOperandTraits &#45; determine the allocation regime of the Use array when it is not a prefix to th..." alt="" coords="5,209,187,235"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1OperandTraits_3_01CatchSwitchInst_01_4.html" title=" " alt="" coords="235,5,377,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,195,161,128,195,91,233,57,253,44,256,49,236,61,199,94,165,131,116,198"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1OperandTraits_3_01Function_01_4.html" title=" " alt="" coords="238,71,374,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,198,174,161,233,122,256,110,259,114,236,127,177,165,127,202"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1OperandTraits_3_01IndirectBrInst_01_4.html" title=" " alt="" coords="238,136,374,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,201,237,175,239,180,154,206"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1OperandTraits_3_01LandingPadInst_01_4.html" title=" " alt="" coords="238,201,374,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="201,219,238,219,238,224,201,224"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1OperandTraits_3_01MemoryPhi_01_4.html" title=" " alt="" coords="238,267,374,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="154,237,239,264,237,269,153,242"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1OperandTraits_3_01PHINode_01_4.html" title=" " alt="" coords="238,332,374,373"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="127,242,177,278,236,317,259,329,256,334,233,321,174,283,124,246"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1OperandTraits_3_01SwitchInst_01_4.html" title=" " alt="" coords="238,397,374,438"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="116,245,165,312,199,349,236,382,256,395,253,399,233,386,195,353,161,315,111,249"/>
+</map>

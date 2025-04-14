@@ -1,0 +1,25 @@
+<map id="llvm::IRSimilarity::IRInstructionDataList" name="llvm::IRSimilarity::IRInstructionDataList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1535,103,1688,144"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1simple__ilist.html" title=" " alt="" coords="1335,88,1486,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1501,121,1535,121,1535,126,1501,126"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ilist__base.html" title=" " alt="" coords="824,5,1016,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1031,36,1167,43,1240,54,1312,70,1350,85,1348,90,1311,75,1239,59,1166,49,1031,41"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ilist__base.html" title="Implementations of list algorithms using ilist_node_base." alt="" coords="166,58,356,98"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="365,52,380,50,499,40,619,35,823,35,823,40,619,40,500,45,381,55,366,57"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1ilist__base.html" title=" " alt="" coords="593,61,782,117"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="371,80,380,80,593,85,593,90,380,85,371,85"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ilist__detail_1_1SpecificNodeAccess.html" title=" " alt="" coords="575,250,800,336"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="814,261,1334,138,1336,143,815,266"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1ilist__detail_1_1NodeAccess.html" title="An access class for ilist_node private API." alt="" coords="5,211,117,252"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="123,255,167,269,273,288,382,297,485,300,575,298,575,303,485,305,382,303,273,293,165,274,122,260"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1ilist__detail_1_1SpecificNodeAccess.html" title=" " alt="" coords="186,204,337,259"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="131,229,185,229,185,234,131,234"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1ilist__detail_1_1SpecificNodeAccess.html" title=" " alt="" coords="593,141,782,226"/>
+<area shape="poly" id="edge12_Node000010_Node000006" title=" " alt="" coords="123,203,165,189,272,163,357,149,442,148,552,155,593,161,593,166,551,161,442,153,357,155,273,168,167,194,124,208"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="352,260,381,267,480,281,575,288,575,293,479,287,380,272,350,265"/>
+<area shape="poly" id="edge13_Node000010_Node000007" title=" " alt="" coords="352,221,551,200,592,195,593,200,552,206,352,226"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1simple__ilist.html" title="A simple intrusive list implementation." alt="" coords="1040,103,1158,144"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="1174,121,1335,121,1335,126,1174,126"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="797,95,1040,116,1039,121,796,100"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="796,165,1039,129,1040,135,797,170"/>
+</map>

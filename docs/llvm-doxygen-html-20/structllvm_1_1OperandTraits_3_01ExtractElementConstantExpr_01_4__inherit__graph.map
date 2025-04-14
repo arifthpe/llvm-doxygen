@@ -1,0 +1,9 @@
+<map id="llvm::OperandTraits&lt; ExtractElementConstantExpr &gt;" name="llvm::OperandTraits&lt; ExtractElementConstantExpr &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="844,55,1059,96"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="408,15,637,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="652,44,820,59,844,62,843,67,820,65,652,49"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1FixedNumOperandTraits.html" title="FixedNumOperandTraits &#45; determine the allocation regime of the Use array when it is a prefix to the U..." alt="" coords="5,15,201,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="215,33,407,33,407,38,215,38"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1OperandTraits.html" title="Compile&#45;time customization of User operands." alt="" coords="455,80,590,121"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="605,98,707,95,820,89,843,87,844,93,820,95,708,101,605,103"/>
+</map>

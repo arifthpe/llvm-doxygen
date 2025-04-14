@@ -1,0 +1,15 @@
+<map id="llvm::MinidumpYAML::detail::ListStream&lt; EntryT &gt;" name="llvm::MinidumpYAML::detail::ListStream&lt; EntryT &gt;">
+<area shape="rect" id="Node000001" title="A stream representing a list of abstract entries in a minidump stream." alt="" coords="198,125,341,181"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title=" " alt="" coords="644,5,811,61"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="332,116,364,103,437,81,511,63,643,40,644,46,512,69,438,86,366,108,334,121"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title=" " alt="" coords="645,85,810,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="356,143,644,118,644,123,356,148"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title=" " alt="" coords="611,165,844,221"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="356,161,366,162,611,182,610,188,365,167,356,166"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title=" " alt="" coords="604,245,851,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="317,188,366,215,425,235,487,249,604,265,604,271,486,254,424,240,364,220,314,192"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1MinidumpYAML_1_1Stream.html" title="The base class for all minidump streams." alt="" coords="5,133,149,174"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,151,198,151,198,156,163,156"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1MinidumpYAML_1_1Memory64ListStream.html" title=" " alt="" coords="900,253,1053,294"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="865,271,900,271,900,276,865,276"/>
+</map>

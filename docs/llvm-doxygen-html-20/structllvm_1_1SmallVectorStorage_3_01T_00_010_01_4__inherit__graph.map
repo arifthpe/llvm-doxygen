@@ -1,0 +1,5 @@
+<map id="llvm::SmallVectorStorage&lt; T, 0 &gt;" name="llvm::SmallVectorStorage&lt; T, 0 &gt;">
+<area shape="rect" id="Node000001" title="We need the storage to be properly aligned even for small&#45;size of 0 so that the pointer math in Small..." alt="" coords="5,109,175,150"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements." alt="" coords="5,5,175,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,61,93,109,87,109,87,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::detail::UniqueFunctionBase&lt; ReturnT, ParamTs &gt;::CallbacksHolder&lt; CallableT, CalledAs, EnableIfTrivial&lt; CallableT &gt; &gt;" name="llvm::detail::UniqueFunctionBase&lt; ReturnT, ParamTs &gt;::CallbacksHolder&lt; CallableT, CalledAs, EnableIfTrivial&lt; CallableT &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="426,5,620,91"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1detail_1_1UniqueFunctionBase_1_1CallbacksHolder.html" title=" " alt="" coords="5,13,200,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,46,425,46,425,51,215,51"/>
+</map>

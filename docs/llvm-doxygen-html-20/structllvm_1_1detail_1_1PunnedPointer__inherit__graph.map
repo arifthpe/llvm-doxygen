@@ -1,0 +1,49 @@
+<map id="llvm::detail::PunnedPointer&lt; Ptr &gt;" name="llvm::detail::PunnedPointer&lt; Ptr &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,737,183,778"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="455,19,633,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,722,98,581,114,387,129,289,148,200,173,127,188,99,205,78,231,57,261,42,293,30,326,23,393,18,455,21,454,26,393,23,327,28,294,35,263,46,234,62,209,82,192,102,178,130,153,201,134,290,120,388,104,582,98,722"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="455,84,633,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="94,722,100,591,117,413,132,323,150,242,174,176,189,151,205,132,223,121,247,112,311,102,384,98,455,98,455,103,384,103,311,107,249,117,225,125,208,136,193,154,179,178,156,243,137,324,123,413,105,591,99,722"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="455,149,633,190"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="95,722,104,606,124,452,138,375,156,305,178,249,191,227,205,210,232,190,262,174,293,163,327,155,393,150,455,152,455,158,393,155,328,161,295,168,264,179,235,194,209,214,195,230,183,251,161,307,143,376,129,453,109,607,100,723"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="455,215,633,255"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="95,722,106,616,127,478,142,409,159,347,180,297,205,264,223,253,248,244,311,234,384,229,455,229,455,234,384,235,312,239,249,250,225,258,208,268,185,300,164,349,147,411,132,479,112,617,101,723"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="445,280,643,321"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="97,723,111,632,134,518,165,411,184,370,205,342,231,323,260,308,322,290,385,283,445,284,445,289,386,288,323,295,262,313,234,328,209,346,188,373,170,413,139,519,116,633,102,723"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="455,345,633,386"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="92,722,95,652,110,562,124,515,144,470,171,429,205,394,223,384,248,376,312,365,385,361,455,360,455,366,385,366,312,371,249,381,225,389,208,398,175,432,149,473,129,517,115,563,100,652,97,723"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="435,411,653,451"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="95,722,103,664,121,593,135,557,154,522,177,490,205,464,222,454,244,447,301,436,368,430,434,427,434,433,368,435,302,441,246,452,224,459,208,468,181,494,158,525,140,559,126,595,108,665,100,723"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="438,476,650,517"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="100,722,112,678,133,627,163,577,183,554,205,535,245,519,304,507,437,496,438,501,305,513,247,524,208,540,186,558,168,580,138,629,117,680,105,723"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="438,541,650,582"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="108,723,146,662,173,631,205,606,261,580,321,564,382,556,438,553,438,559,382,561,323,570,263,585,208,611,177,635,150,665,113,726"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="437,607,651,647"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="134,727,168,706,206,689,264,669,324,654,436,635,437,640,325,660,265,675,208,693,171,711,137,731"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="455,672,633,713"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="197,737,206,735,454,700,455,706,207,740,198,742"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="455,737,633,778"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="198,755,455,755,455,760,198,760"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="455,803,633,843"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="198,774,207,775,455,810,454,815,206,781,197,779"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="455,868,633,909"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="136,784,170,806,208,824,270,844,335,860,455,878,454,884,334,865,269,849,206,828,168,810,133,789"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="455,933,633,974"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="115,789,153,843,179,870,208,892,268,919,333,937,397,947,455,952,454,957,396,953,332,942,266,924,205,896,175,874,149,847,111,792"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="447,999,641,1039"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="105,791,118,833,139,882,168,930,187,951,208,969,235,986,264,999,326,1016,388,1024,446,1025,446,1030,388,1029,325,1021,262,1004,233,990,205,973,183,955,164,933,134,885,113,835,100,793"/>
+<area shape="rect" id="Node000018" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="427,1063,661,1119"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="99,792,106,853,124,927,138,964,156,1000,179,1033,208,1060,232,1076,258,1088,314,1103,371,1109,427,1108,427,1113,371,1114,313,1109,256,1093,230,1080,205,1064,175,1036,152,1003,133,966,119,928,101,854,94,793"/>
+<area shape="rect" id="Node000019" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="455,1143,633,1183"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="103,792,118,875,141,977,172,1072,190,1107,208,1131,235,1149,265,1163,329,1178,394,1182,454,1177,455,1183,394,1187,328,1183,263,1168,233,1154,205,1135,185,1110,167,1074,136,979,113,876,98,793"/>
+<area shape="rect" id="Node000020" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="425,1207,663,1263"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="101,792,111,896,132,1031,146,1097,164,1156,184,1204,208,1234,235,1251,264,1263,295,1270,327,1274,392,1271,452,1261,453,1266,393,1277,327,1279,294,1276,263,1268,233,1256,205,1238,180,1206,159,1158,141,1098,127,1032,106,897,95,793"/>
+<area shape="rect" id="Node000021" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="452,1287,636,1343"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="99,792,108,911,126,1069,140,1148,159,1218,181,1275,194,1296,208,1311,235,1329,264,1341,294,1349,326,1352,391,1351,451,1340,451,1346,391,1356,326,1358,293,1354,262,1346,232,1333,205,1315,190,1299,177,1277,154,1220,135,1149,121,1070,102,912,94,793"/>
+<area shape="rect" id="Node000022" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="452,1367,636,1423"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="99,793,104,926,120,1108,134,1199,153,1281,178,1347,192,1372,208,1390,234,1408,263,1420,294,1428,326,1432,390,1430,451,1420,451,1426,391,1436,326,1437,293,1433,262,1425,232,1412,205,1394,188,1375,173,1350,148,1283,129,1200,115,1109,99,927,93,793"/>
+<area shape="rect" id="Node000023" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="455,1447,633,1487"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="98,793,102,939,116,1140,130,1242,149,1333,175,1407,191,1435,208,1455,237,1475,269,1488,304,1497,339,1500,410,1497,473,1485,474,1491,411,1502,339,1506,303,1502,268,1494,235,1479,205,1459,187,1438,171,1409,144,1335,125,1242,111,1141,96,939,93,793"/>
+<area shape="rect" id="Node000024" href="$structllvm_1_1detail_1_1PunnedPointer.html" title=" " alt="" coords="455,1512,633,1553"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="97,793,99,951,103,1058,111,1172,125,1285,145,1386,158,1430,173,1468,189,1499,208,1521,237,1542,270,1555,304,1564,340,1567,412,1563,475,1551,476,1556,412,1568,340,1572,303,1569,268,1560,235,1546,205,1525,185,1502,168,1471,153,1432,140,1388,120,1286,106,1173,98,1059,93,951,92,793"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="llvm::RequireAnalysisPass&lt; AnalysisT, LazyCallGraph::SCC, CGSCCAnalysisManager, LazyCallGraph &amp;, CGSCCUpdateResult &amp; &gt;" name="llvm::RequireAnalysisPass&lt; AnalysisT, LazyCallGraph::SCC, CGSCCAnalysisManager, LazyCallGraph &amp;, CGSCCUpdateResult &amp; &gt;">
+<area shape="rect" id="Node000001" title="An explicit specialization of the require analysis template pass." alt="" coords="1078,77,1364,148"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="548,5,684,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="699,35,1078,89,1077,95,699,40"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="467,70,765,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="779,110,1077,110,1077,115,779,115"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,92,142,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="156,110,466,110,466,115,156,115"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1RequireAnalysisPass.html" title="A utility pass template to force an analysis result to be available." alt="" coords="517,179,715,235"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="729,199,884,186,969,175,1053,160,1112,146,1113,151,1055,165,970,180,884,191,730,204"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,187,142,227"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="156,204,517,204,517,210,156,210"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::VarStreamArrayExtractor&lt; codeview::CrossModuleImportItem &gt;" name="llvm::VarStreamArrayExtractor&lt; codeview::CrossModuleImportItem &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,109,254,150"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1VarStreamArrayExtractor.html" title="VarStreamArrayExtractor is intended to be specialized to provide customized extraction logic." alt="" coords="14,5,245,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,46,132,109,127,109,127,46"/>
+</map>

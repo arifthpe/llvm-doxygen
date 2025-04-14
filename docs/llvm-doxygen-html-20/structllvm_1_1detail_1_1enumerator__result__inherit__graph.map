@@ -1,0 +1,7 @@
+<map id="llvm::detail::enumerator_result&lt; Refs &gt;" name="llvm::detail::enumerator_result&lt; Refs &gt;">
+<area shape="rect" id="Node000001" title="Tuple&#45;like type for zip_enumerator dereference." alt="" coords="5,49,163,90"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1detail_1_1enumerator__result.html" title=" " alt="" coords="359,5,530,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,57,358,39,358,44,178,63"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1enumerator__result_3_01std_1_1size__t_00_01Refs_8_8_8_01_4.html" title=" " alt="" coords="348,85,541,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,77,187,78,348,93,347,99,186,83,177,82"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="llvm::afdo_detail::IRTraits&lt; BlockT &gt;" name="llvm::afdo_detail::IRTraits&lt; BlockT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,139,111"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1afdo__detail_1_1IRTraits.html" title=" " alt="" coords="371,5,496,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,70,162,68,370,32,371,38,163,74,154,76"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1afdo__detail_1_1IRTraits_3_01BasicBlock_01_4.html" title=" " alt="" coords="354,71,513,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,88,354,88,354,94,153,94"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1afdo__detail_1_1IRTraits_3_01MachineBasicBlock_01_4.html" title=" " alt="" coords="330,136,537,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,107,163,109,330,138,329,143,162,114,153,112"/>
+</map>

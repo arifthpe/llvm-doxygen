@@ -1,0 +1,10 @@
+<map id="llvm::TypesAreDistinct&lt;&gt;" name="llvm::TypesAreDistinct&lt;&gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="480,48,650,74"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,210,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,23,317,21,413,27,513,45,512,50,412,32,317,27,225,28"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1TypesAreDistinct.html" title="Determine if all types in Ts are distinct." alt="" coords="259,41,412,82"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="224,45,259,49,258,54,224,50"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="285,106,386,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="400,100,510,72,511,77,401,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="427,59,480,59,480,64,427,64"/>
+</map>

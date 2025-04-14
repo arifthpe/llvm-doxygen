@@ -1,0 +1,7 @@
+<map id="llvm::bitfields_details::Compressor&lt; T, Bits, bool &gt;" name="llvm::bitfields_details::Compressor&lt; T, Bits, bool &gt;">
+<area shape="rect" id="Node000001" title="Compressor is used to manipulate the bits of a (possibly signed) integer type so it can be packed and..." alt="" coords="5,45,159,101"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1bitfields__details_1_1Compressor.html" title=" " alt="" coords="339,5,523,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,60,338,41,339,46,174,65"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1bitfields__details_1_1Compressor_3_01T_00_01Bits_00_01false_01_4.html" title=" " alt="" coords="354,85,508,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,81,354,102,353,107,173,86"/>
+</map>

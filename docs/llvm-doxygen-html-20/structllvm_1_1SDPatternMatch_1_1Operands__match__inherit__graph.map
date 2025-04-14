@@ -1,0 +1,8 @@
+<map id="llvm::SDPatternMatch::Operands_match&lt; OpIdx, OpndPreds &gt;" name="llvm::SDPatternMatch::Operands_match&lt; OpIdx, OpndPreds &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,65,185,121"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1SDPatternMatch_1_1Operands__match.html" title=" " alt="" coords="396,5,571,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,74,395,44,396,49,200,80"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1SDPatternMatch_1_1Operands__match_3_01OpIdx_00_01OpndPred_00_01OpndPreds_8_8_8_01_4.html" title=" " alt="" coords="620,71,801,126"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="199,95,396,101,571,101,620,99,620,105,571,106,396,106,199,100"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="586,60,621,70,619,75,585,65"/>
+</map>

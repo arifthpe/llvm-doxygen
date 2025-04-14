@@ -1,0 +1,11 @@
+<map id="llvm::ShouldRunExtraPasses&lt; MarkerTy &gt;" name="llvm::ShouldRunExtraPasses&lt; MarkerTy &gt;">
+<area shape="rect" id="Node000001" title="A marker analysis to determine if extra passes should be run on demand." alt="" coords="5,39,198,79"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ShouldRunExtraPasses.html" title=" " alt="" coords="451,5,714,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,49,450,32,451,37,212,54"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ShouldRunExtraPasses.html" title=" " alt="" coords="471,71,694,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,72,222,73,351,81,471,86,471,92,351,87,221,78,212,77"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ShouldRunExtraSimpleLoopUnswitch.html" title="A marker analysis to determine if SimpleLoopUnswitch should run again on a given loop." alt="" coords="763,5,952,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="729,23,763,23,763,28,729,28"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ShouldRunExtraVectorPasses.html" title="A marker analysis to determine if extra passes should be run after loop vectorization." alt="" coords="764,71,951,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="708,88,764,88,764,94,708,94"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="llvm::detail::PassConcept&lt; IRUnitT, AnalysisManagerT, ExtraArgTs &gt;" name="llvm::detail::PassConcept&lt; IRUnitT, AnalysisManagerT, ExtraArgTs &gt;">
+<area shape="rect" id="Node000001" title="Template for the abstract base class used to dispatch polymorphically over pass objects." alt="" coords="5,216,200,272"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1detail_1_1PassConcept.html" title=" " alt="" coords="463,42,802,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,202,168,155,194,133,222,115,280,91,341,76,403,66,462,61,462,66,403,71,342,81,282,97,225,120,197,137,172,159,132,206"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1PassConcept.html" title=" " alt="" coords="506,121,759,162"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,207,223,187,295,170,368,157,505,143,505,149,369,163,296,175,224,192,171,212"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1PassConcept.html" title=" " alt="" coords="513,186,752,241"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,235,512,218,512,223,214,240"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1detail_1_1PassConcept.html" title=" " alt="" coords="535,266,730,321"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="214,269,224,270,388,286,535,291,535,296,388,291,223,275,214,274"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1detail_1_1PassConcept.html" title=" " alt="" coords="532,345,733,415"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="141,280,179,313,225,339,302,363,383,377,462,383,532,384,532,389,462,388,383,382,301,368,223,343,176,317,138,284"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1detail_1_1PassConcept.html" title=" " alt="" coords="518,439,747,510"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="120,285,136,322,159,363,188,401,225,432,259,450,295,464,371,481,447,488,517,486,518,492,447,493,371,487,294,469,257,455,222,437,184,405,154,366,131,325,115,287"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1detail_1_1PassModel.html" title="A template wrapper used to implement the polymorphic API." alt="" coords="851,266,1080,321"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="745,291,851,291,851,296,745,296"/>
+</map>

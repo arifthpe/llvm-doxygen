@@ -1,0 +1,5 @@
+<map id="llvm::SparseSetValFunctor&lt; KeyT, KeyT, KeyFunctorT &gt;" name="llvm::SparseSetValFunctor&lt; KeyT, KeyT, KeyFunctorT &gt;">
+<area shape="rect" id="Node000001" title="SparseSetValFunctor&lt;KeyT, KeyT&gt; &#45; Helper class for the common case of identity key/value sets." alt="" coords="10,109,204,150"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1SparseSetValFunctor.html" title="SparseSetValFunctor &#45; Helper class for selecting SparseSetValTraits." alt="" coords="5,5,209,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,61,110,109,104,109,104,61"/>
+</map>

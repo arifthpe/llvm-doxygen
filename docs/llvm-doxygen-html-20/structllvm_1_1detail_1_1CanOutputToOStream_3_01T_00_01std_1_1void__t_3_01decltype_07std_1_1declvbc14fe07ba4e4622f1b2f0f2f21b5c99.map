@@ -1,0 +1,10 @@
+<map id="llvm::detail::CanOutputToOStream&lt; T, std::void_t&lt; decltype(std::declval&lt; std::ostream &amp; &gt;()&lt;&lt; std::declval&lt; T &gt;())&gt; &gt;" name="llvm::detail::CanOutputToOStream&lt; T, std::void_t&lt; decltype(std::declval&lt; std::ostream &amp; &gt;()&lt;&lt; std::declval&lt; T &gt;())&gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="54,214,232,300"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,113,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,45,63,81,71,120,91,169,116,212,111,215,86,171,66,122,58,82,56,46"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1CanOutputToOStream.html" title=" " alt="" coords="81,80,250,121"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="88,38,141,78,138,82,85,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="296,88,398,114"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="351,129,346,161,340,177,330,192,309,211,285,226,233,246,231,241,283,221,306,207,326,188,335,175,341,159,345,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,136,147,146,142,180,142,214,136,213,137,180,142,144,145,134"/>
+</map>
