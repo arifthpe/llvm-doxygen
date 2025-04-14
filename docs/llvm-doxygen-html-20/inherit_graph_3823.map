@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1orc_1_1DylibManager.html" title=" " alt="" coords="277,201,437,227"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1orc_1_1SelfExecutorProcessControl.html" title="A ExecutorProcessControl implementation targeting the current process." alt="" coords="544,136,746,177"/>
+<area shape="poly" id="edge5003_Node000000_Node000001" title=" " alt="" coords="439,195,543,174,544,179,440,200"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1SimpleRemoteEPC.html" title=" " alt="" coords="548,201,741,227"/>
+<area shape="poly" id="edge5004_Node000000_Node000003" title=" " alt="" coords="451,211,548,211,548,216,451,216"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1ExecutorProcessControl.html" title="ExecutorProcessControl supports interaction with a JIT target process." alt="" coords="267,136,447,177"/>
+<area shape="poly" id="edge5005_Node000002_Node000001" title=" " alt="" coords="461,154,543,154,543,159,461,159"/>
+<area shape="poly" id="edge5006_Node000002_Node000003" title=" " alt="" coords="461,174,577,198,576,203,460,180"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1orc_1_1UnsupportedExecutorProcessControl.html" title="A ExecutorProcessControl instance that asserts if any of its methods are used." alt="" coords="542,39,747,79"/>
+<area shape="poly" id="edge5007_Node000002_Node000006" title=" " alt="" coords="453,129,480,120,594,77,595,82,482,126,455,134"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1orc_1_1ExecutorProcessControl_1_1MemoryAccess.html" title="APIs for manipulating memory in the target process." alt="" coords="5,39,185,79"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1orc_1_1EPCGenericMemoryAccess.html" title=" " alt="" coords="257,71,457,111"/>
+<area shape="poly" id="edge5008_Node000008_Node000009" title=" " alt="" coords="200,69,257,76,256,81,199,74"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1orc_1_1InProcessMemoryAccess.html" title=" " alt="" coords="264,5,450,46"/>
+<area shape="poly" id="edge5009_Node000008_Node000007" title=" " alt="" coords="199,43,263,35,264,40,200,48"/>
+<area shape="poly" id="edge5010_Node000007_Node000001" title=" " alt="" coords="463,49,482,57,507,72,530,89,607,133,604,138,528,93,504,76,480,61,461,54"/>
+<area shape="poly" id="edge5011_Node000007_Node000006" title=" " alt="" coords="465,35,542,44,542,50,464,41"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1SimpleRemoteEPCTransportClient.html" title=" " alt="" coords="233,251,481,291"/>
+<area shape="poly" id="edge5012_Node000004_Node000003" title=" " alt="" coords="476,245,576,225,577,230,477,250"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1orc_1_1SimpleRemoteEPCServer.html" title="A simple EPC server implementation." alt="" coords="529,258,760,284"/>
+<area shape="poly" id="edge5013_Node000004_Node000005" title=" " alt="" coords="496,268,529,268,529,274,496,274"/>
+</map>
