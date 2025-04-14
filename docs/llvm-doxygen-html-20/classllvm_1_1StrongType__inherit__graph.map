@@ -1,0 +1,9 @@
+<map id="llvm::StrongType&lt; T, S &gt;" name="llvm::StrongType&lt; T, S &gt;">
+<area shape="rect" id="Node000001" title="Helper for making strong types." alt="" coords="93,46,259,72"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1StrongType.html" title=" " alt="" coords="478,5,703,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="274,49,478,32,478,37,274,54"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1StrongType.html" title=" " alt="" coords="478,71,703,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,73,284,82,383,91,478,92,478,97,383,96,283,88,236,79"/>
+<area shape="rect" id="Node000002" href="$classT.html" title=" " alt="" coords="5,46,44,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,56,92,56,92,62,59,62"/>
+</map>

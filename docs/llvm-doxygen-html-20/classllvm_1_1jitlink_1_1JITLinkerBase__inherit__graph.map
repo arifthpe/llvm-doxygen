@@ -1,0 +1,40 @@
+<map id="llvm::jitlink::JITLinkerBase" name="llvm::jitlink::JITLinkerBase">
+<area shape="rect" id="Node000001" title="Base class for a JIT linker." alt="" coords="5,287,181,312"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="596,186,854,227"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,276,170,241,237,199,315,159,399,129,447,118,486,115,525,119,573,129,606,139,639,153,694,183,691,188,637,158,605,144,572,134,524,124,486,121,448,124,400,134,317,164,239,203,173,245,123,280"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="637,75,813,116"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="111,273,155,220,221,155,260,123,304,93,350,68,399,50,447,40,485,39,573,50,654,72,652,77,572,56,485,44,447,45,400,56,352,73,306,98,264,127,224,159,159,224,115,277"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="648,6,802,47"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="102,272,120,231,148,181,184,130,228,86,277,54,330,32,387,16,444,7,501,3,555,3,647,11,647,16,554,9,501,9,445,12,388,21,332,37,279,59,232,90,188,134,152,184,125,234,107,274"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="646,523,804,564"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="108,325,127,361,154,404,189,445,231,479,282,504,336,522,392,536,448,545,556,551,645,549,646,554,556,557,448,550,391,541,335,528,280,509,229,483,185,449,150,407,122,364,103,328"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="639,262,811,303"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="189,312,271,322,367,329,470,330,572,322,619,313,663,301,664,306,620,318,573,328,470,336,367,335,271,328,188,318"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="633,418,817,459"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="121,320,169,360,235,406,314,450,357,467,400,480,448,488,485,490,572,480,620,470,665,457,667,462,621,475,573,485,486,495,447,494,399,485,355,472,312,455,233,411,166,364,117,324"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="630,333,820,373"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="137,316,254,362,326,385,400,401,486,410,572,401,625,388,674,371,675,376,626,393,573,406,486,416,399,406,325,390,252,367,135,321"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1jitlink_1_1JITLinker.html" title=" " alt="" coords="230,245,375,285"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="188,281,229,274,230,280,189,286"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1jitlink_1_1ELFJITLinker__ppc64.html" title=" " alt="" coords="919,186,1088,227"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="868,204,918,204,918,209,868,209"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1jitlink_1_1ELFJITLinker__aarch32.html" title=" " alt="" coords="919,75,1088,116"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="828,93,918,93,918,98,828,98"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1jitlink_1_1ELFJITLinker__i386.html" title=" " alt="" coords="903,13,1103,39"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="817,24,903,24,903,29,817,29"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1jitlink_1_1ELFJITLinker__riscv.html" title=" " alt="" coords="919,523,1088,564"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="819,541,918,541,918,546,819,546"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1jitlink_1_1ELFJITLinker__x86__64.html" title=" " alt="" coords="919,262,1088,303"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="826,280,918,280,918,285,826,285"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1jitlink_1_1MachOJITLinker__arm64.html" title=" " alt="" coords="910,418,1097,459"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="832,436,909,436,909,441,832,441"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1jitlink_1_1MachOJITLinker__x86__64.html" title=" " alt="" coords="910,333,1097,373"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="835,350,909,350,909,356,835,356"/>
+<area shape="poly" id="edge16_Node000016_Node000002" title=" " alt="" coords="390,249,399,248,595,220,596,226,400,253,391,254"/>
+<area shape="poly" id="edge17_Node000016_Node000004" title=" " alt="" coords="335,233,365,210,398,189,458,163,520,141,636,110,637,115,522,146,460,167,401,194,368,214,339,237"/>
+<area shape="poly" id="edge18_Node000016_Node000006" title=" " alt="" coords="314,229,345,167,369,134,398,107,458,72,523,49,589,35,647,27,648,32,589,40,525,54,460,77,401,111,373,138,350,169,318,232"/>
+<area shape="poly" id="edge19_Node000016_Node000008" title=" " alt="" coords="318,298,349,366,372,401,401,431,459,470,523,498,588,518,646,531,645,536,586,523,521,503,456,474,398,435,368,404,344,369,313,301"/>
+<area shape="poly" id="edge20_Node000016_Node000010" title=" " alt="" coords="390,266,638,276,638,281,390,271"/>
+<area shape="poly" id="edge21_Node000016_Node000012" title=" " alt="" coords="333,294,364,324,401,350,458,376,519,397,633,423,632,429,517,402,456,381,398,354,360,328,329,298"/>
+<area shape="poly" id="edge22_Node000016_Node000014" title=" " alt="" coords="375,288,400,295,519,320,630,338,629,343,518,325,399,300,374,293"/>
+</map>

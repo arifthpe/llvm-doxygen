@@ -1,0 +1,7 @@
+<map id="llvm::codeview::CVRecord&lt; Kind &gt;" name="llvm::codeview::CVRecord&lt; Kind &gt;">
+<area shape="rect" id="Node000001" title="CVRecord is a fat pointer (base + size pair) to a symbol or type record." alt="" coords="105,5,283,46"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1codeview_1_1CVRecord.html" title=" " alt="" coords="5,109,183,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,59,115,110,111,107,163,55"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1codeview_1_1CVRecord.html" title=" " alt="" coords="207,109,384,150"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,52,264,68,279,88,290,107,285,110,274,90,260,72,242,57"/>
+</map>

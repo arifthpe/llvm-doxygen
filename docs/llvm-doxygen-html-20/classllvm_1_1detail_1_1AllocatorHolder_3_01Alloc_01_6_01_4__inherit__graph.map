@@ -1,0 +1,8 @@
+<map id="llvm::detail::AllocatorHolder&lt; Alloc &amp; &gt;" name="llvm::detail::AllocatorHolder&lt; Alloc &amp; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,184,187,225"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="66,5,116,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,46,98,184,93,184,89,46"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1detail_1_1AllocatorHolder.html" title=" " alt="" coords="112,80,293,121"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="121,38,177,78,174,82,118,42"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,133,118,186,115,182,170,129"/>
+</map>

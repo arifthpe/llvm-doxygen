@@ -1,0 +1,9 @@
+<map id="llvm::bfi_detail::BFICallbackVH&lt; BlockT, BFIImplT &gt;" name="llvm::bfi_detail::BFICallbackVH&lt; BlockT, BFIImplT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,191,111"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1bfi__detail_1_1BFICallbackVH.html" title=" " alt="" coords="396,5,648,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,70,214,68,395,41,395,46,215,74,206,75"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1bfi__detail_1_1BFICallbackVH_3_01BasicBlock_00_01BFIImplT_01_4.html" title=" " alt="" coords="426,71,618,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,88,425,88,425,94,206,94"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1bfi__detail_1_1BFICallbackVH_3_01MachineBasicBlock_00_01BFIImplT_01_4.html" title="Dummy implementation since MachineBasicBlocks aren&#39;t Values, so ValueHandles don&#39;t apply to them." alt="" coords="401,136,643,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,113,215,124,309,139,401,147,400,153,309,144,214,129,173,119"/>
+</map>

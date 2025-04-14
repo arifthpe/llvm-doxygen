@@ -1,0 +1,19 @@
+<map id="llvm::cl::OptionValueCopy&lt; DataType &gt;" name="llvm::cl::OptionValueCopy&lt; DataType &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,99,413,139"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1cl_1_1OptionValueBase_3_01DataType_00_01false_01_4.html" title=" " alt="" coords="588,5,759,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="394,91,437,76,587,40,588,45,438,82,396,96"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title=" " alt="" coords="587,71,760,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="428,108,587,95,587,101,429,114"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title=" " alt="" coords="587,136,760,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="428,127,588,144,587,150,428,132"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title=" " alt="" coords="587,201,760,242"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="390,143,438,161,514,183,588,201,586,206,513,188,436,166,388,148"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1cl_1_1GenericOptionValue.html" title=" " alt="" coords="5,106,192,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,116,241,116,241,122,206,122"/>
+<area shape="rect" id="Node000005" href="$structcl_1_1OptionValue_3_01FnT_01_4.html" title=" " alt="" coords="810,71,951,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="774,88,810,88,810,94,774,94"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1cl_1_1OptionValue_3_01cl_1_1boolOrDefault_01_4.html" title=" " alt="" coords="809,136,952,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="774,154,809,154,809,159,774,159"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1cl_1_1OptionValue_3_01std_1_1string_01_4.html" title=" " alt="" coords="810,201,951,242"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="774,219,810,219,810,224,774,224"/>
+</map>

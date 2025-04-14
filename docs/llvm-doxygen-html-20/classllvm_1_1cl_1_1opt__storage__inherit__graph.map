@@ -1,0 +1,21 @@
+<map id="llvm::cl::opt_storage&lt; DataType, ExternalStorage, isClass &gt;" name="llvm::cl::opt_storage&lt; DataType, ExternalStorage, isClass &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,141,200,197"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1cl_1_1opt__storage.html" title=" " alt="" coords="434,76,617,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,134,223,131,332,115,433,106,434,111,333,120,224,137,210,140"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1cl_1_1opt__storage.html" title=" " alt="" coords="641,12,848,67"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="139,129,177,98,223,73,276,55,331,42,443,27,549,24,641,27,640,32,549,29,443,33,332,48,277,61,225,78,180,102,142,133"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1cl_1_1opt__storage.html" title=" " alt="" coords="675,138,814,194"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="215,167,224,167,410,167,675,164,675,170,410,172,224,172,215,172"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1cl_1_1opt__storage_3_01DataType_00_01false_00_01false_01_4.html" title=" " alt="" coords="439,210,612,250"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="163,201,193,215,224,225,279,235,335,239,439,237,439,242,335,244,278,240,223,231,191,220,160,206"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1cl_1_1opt__storage_3_01DataType_00_01false_00_01true_01_4.html" title=" " alt="" coords="442,275,609,316"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="136,206,176,244,199,261,225,275,279,292,335,301,391,304,441,302,441,307,390,309,335,306,277,297,223,280,196,266,172,248,133,210"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1cl_1_1opt.html" title=" " alt="" coords="872,83,1083,124"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="632,101,872,101,872,106,632,106"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1cl_1_1opt.html" title=" " alt="" coords="1256,40,1375,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1097,86,1222,70,1255,66,1255,71,1223,76,1098,91"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1cl_1_1opt.html" title=" " alt="" coords="1247,121,1384,147"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1098,115,1107,116,1246,127,1246,132,1106,121,1097,120"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="864,41,1255,56,1255,61,863,46"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="829,159,1246,135,1246,140,829,164"/>
+</map>

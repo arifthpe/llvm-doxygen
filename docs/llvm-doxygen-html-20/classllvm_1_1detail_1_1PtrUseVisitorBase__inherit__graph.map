@@ -1,0 +1,16 @@
+<map id="llvm::detail::PtrUseVisitorBase" name="llvm::detail::PtrUseVisitorBase">
+<area shape="rect" id="Node000001" title="Implementation of non&#45;dependent functionality for PtrUseVisitor." alt="" coords="5,120,206,145"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1PtrUseVisitor.html" title=" " alt="" coords="560,5,698,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,110,196,86,254,63,331,40,410,27,488,21,560,21,560,26,488,27,411,32,332,45,256,68,198,91,147,115"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1PtrUseVisitor.html" title=" " alt="" coords="558,84,700,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,146,248,160,339,170,437,170,486,165,534,155,568,141,599,123,601,128,571,146,535,160,487,170,437,176,339,175,247,165,172,152"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1PtrUseVisitor.html" title=" " alt="" coords="563,176,695,217"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,148,202,165,255,178,338,189,421,195,563,196,563,201,421,200,337,194,255,183,201,170,152,153"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1PtrUseVisitor.html" title="A base class for visitors over the uses of a pointer value." alt="" coords="255,77,386,118"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="203,114,254,106,255,111,204,119"/>
+<area shape="rect" id="Node000005" href="$classAllocaSlices_1_1SliceBuilder.html" title="Builder for the alloca slices." alt="" coords="749,184,919,209"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="709,194,748,194,748,199,709,199"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="400,76,559,39,560,44,402,82"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="402,97,558,100,558,105,401,102"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="401,121,564,173,562,178,400,126"/>
+</map>

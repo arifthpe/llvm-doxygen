@@ -1,0 +1,61 @@
+<map id="llvm::SpecificBumpPtrAllocator&lt; T &gt;" name="llvm::SpecificBumpPtrAllocator&lt; T &gt;">
+<area shape="rect" id="Node000001" title="A BumpPtrAllocator that allows only elements of a specific type to be allocated." alt="" coords="5,986,240,1012"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,24,717,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,972,124,791,130,661,141,519,158,379,183,250,199,194,217,146,238,106,262,76,289,55,318,39,350,28,384,21,451,17,514,21,514,26,451,22,384,26,352,33,320,44,291,59,266,80,242,108,222,148,204,196,188,252,163,380,146,520,135,661,129,791,126,972"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,89,717,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,971,126,802,134,682,145,552,163,424,187,306,202,255,220,210,240,174,262,146,280,135,304,126,368,115,442,110,514,110,514,115,442,115,369,120,306,131,282,140,265,150,244,177,225,212,208,256,192,307,168,424,151,553,139,683,132,803,127,971"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,168,717,209"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="122,971,130,817,151,593,169,477,193,371,224,285,242,252,262,228,289,207,319,191,351,179,384,172,451,166,515,168,514,174,451,171,385,177,352,184,321,196,292,211,266,232,246,255,228,287,198,373,175,478,157,593,135,818,127,972"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,233,717,274"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="122,971,131,826,154,617,172,510,196,413,225,334,243,303,262,281,280,270,305,261,368,251,442,246,514,246,514,252,442,252,369,256,306,266,282,275,265,285,247,306,230,336,201,414,178,511,160,618,137,826,128,971"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="488,299,744,339"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="123,971,135,839,160,652,178,557,201,470,229,400,244,373,262,353,278,343,299,334,355,323,420,317,487,314,487,319,420,322,355,328,301,340,280,347,265,357,249,376,233,402,206,472,183,558,165,653,140,840,128,972"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="508,363,724,419"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="124,971,138,853,165,687,183,604,206,528,232,466,246,443,262,425,279,414,303,406,365,394,436,388,507,386,507,392,437,393,366,399,305,411,282,419,265,429,250,446,236,469,211,529,188,605,170,688,143,853,129,972"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="498,443,734,483"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="125,971,141,866,170,722,189,650,210,585,235,532,262,497,279,487,302,478,360,467,429,461,498,459,498,464,429,466,361,472,303,484,281,491,265,501,239,535,215,587,194,652,175,724,146,867,130,972"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,507,717,563"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="121,971,125,890,132,837,143,779,161,721,186,664,219,612,262,568,280,557,305,549,369,538,442,532,514,530,514,536,442,537,370,543,307,554,283,562,265,572,223,615,190,666,166,722,148,781,137,838,130,891,126,972"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="495,587,737,627"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="123,971,131,901,152,809,170,760,194,713,224,671,262,636,279,626,302,619,359,608,426,603,494,602,494,607,427,609,360,614,303,624,281,631,265,640,228,675,199,716,175,762,158,810,136,902,128,971"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,652,717,693"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="125,971,138,913,163,840,181,802,203,765,230,732,262,705,281,695,306,687,370,677,443,671,514,669,514,674,443,676,370,682,307,693,283,700,265,709,234,736,208,769,186,804,168,842,143,915,131,972"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,717,717,758"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="130,971,147,927,174,873,212,819,236,795,262,775,307,759,371,748,514,737,514,742,371,753,308,764,265,780,239,799,217,822,179,875,152,929,135,973"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="505,783,727,823"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="141,973,191,918,225,889,262,866,322,841,385,824,447,812,504,805,505,810,448,817,386,829,324,846,265,871,228,894,195,922,144,976"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,848,717,889"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="159,976,208,953,263,931,393,898,514,878,515,883,394,903,264,936,210,958,161,981"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="507,913,725,954"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="231,981,263,976,506,945,507,950,264,982,231,986"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,979,717,1019"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="255,996,514,996,514,1002,255,1002"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,1044,717,1085"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="229,1012,264,1017,515,1049,514,1055,263,1022,229,1017"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,1109,717,1150"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="161,1017,209,1041,265,1063,328,1082,394,1096,515,1116,514,1121,393,1101,327,1087,263,1069,207,1046,158,1022"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,1175,717,1215"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="144,1022,194,1077,228,1106,265,1129,326,1154,391,1172,456,1183,514,1189,514,1195,455,1188,390,1177,325,1159,262,1134,225,1110,191,1081,140,1025"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,1240,717,1281"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="136,1024,154,1066,181,1116,219,1165,241,1187,265,1205,325,1234,389,1252,454,1261,514,1263,514,1269,454,1266,388,1257,323,1239,262,1210,237,1191,215,1169,177,1118,149,1068,131,1027"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,1305,717,1346"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="131,1026,144,1082,169,1153,187,1189,209,1224,235,1256,265,1283,293,1299,324,1313,388,1330,454,1336,514,1336,514,1341,453,1341,387,1335,322,1318,291,1304,262,1287,231,1260,204,1227,182,1192,164,1155,139,1083,126,1027"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,1371,717,1411"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="128,1027,136,1096,158,1188,175,1236,199,1282,228,1324,265,1359,293,1376,323,1389,387,1405,453,1409,514,1406,514,1411,453,1415,387,1410,321,1394,290,1381,262,1363,224,1327,194,1285,170,1238,152,1190,131,1097,123,1027"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="510,1436,722,1477"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="126,1026,129,1109,136,1162,147,1220,164,1279,189,1336,222,1387,265,1431,293,1448,323,1462,387,1477,453,1480,515,1475,515,1480,453,1485,387,1482,321,1467,290,1453,262,1435,218,1391,184,1338,159,1281,142,1221,130,1163,124,1109,120,1027"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,1501,717,1542"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="130,1027,146,1133,174,1278,193,1350,214,1416,239,1468,252,1487,265,1501,295,1520,327,1534,361,1543,396,1548,466,1548,530,1540,530,1545,466,1553,395,1553,360,1548,325,1539,292,1525,262,1505,248,1491,234,1470,209,1418,188,1352,169,1279,141,1134,125,1027"/>
+<area shape="rect" id="Node000025" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,1567,717,1607"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="129,1026,142,1146,169,1312,187,1396,209,1471,236,1532,250,1554,265,1571,295,1590,329,1604,364,1613,400,1617,473,1615,538,1605,539,1611,473,1621,400,1623,363,1618,327,1609,293,1595,262,1575,246,1558,231,1534,204,1473,182,1397,163,1313,137,1146,124,1027"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,1632,717,1673"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="128,1026,139,1159,163,1346,182,1441,205,1527,232,1596,248,1621,265,1640,296,1660,330,1674,367,1683,404,1686,478,1683,544,1671,545,1676,479,1688,404,1691,366,1688,329,1679,294,1665,262,1644,244,1625,228,1598,200,1528,177,1442,158,1347,134,1159,123,1027"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,1697,717,1738"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="128,1027,136,1171,159,1379,177,1485,200,1581,229,1658,247,1687,265,1708,282,1718,306,1724,369,1731,442,1731,514,1726,514,1732,442,1736,369,1737,305,1730,280,1722,262,1712,242,1690,225,1661,195,1583,171,1486,153,1380,131,1172,122,1027"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="510,1763,722,1803"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="127,1027,134,1182,142,1291,155,1408,172,1524,196,1629,211,1674,227,1714,245,1745,265,1768,296,1789,329,1804,366,1812,403,1816,477,1813,543,1801,544,1807,478,1818,403,1822,365,1818,328,1809,293,1794,262,1772,241,1748,222,1716,206,1676,191,1630,167,1525,149,1409,137,1291,129,1182,122,1027"/>
+<area shape="rect" id="Node000029" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,1828,717,1869"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="127,1027,131,1195,138,1314,149,1442,167,1570,191,1685,206,1735,224,1779,243,1813,265,1839,282,1848,306,1855,369,1862,442,1862,514,1857,515,1862,442,1867,369,1868,305,1861,280,1853,262,1843,239,1816,219,1781,201,1737,186,1687,162,1571,144,1443,133,1314,126,1195,121,1027"/>
+<area shape="rect" id="Node000030" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="515,1893,717,1934"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="126,1027,130,1202,137,1327,148,1462,165,1597,190,1720,205,1773,223,1819,243,1857,266,1884,293,1905,323,1920,356,1930,390,1936,459,1939,523,1932,523,1937,459,1944,389,1941,354,1935,321,1925,290,1909,262,1888,239,1860,218,1821,200,1775,185,1721,160,1598,143,1463,131,1327,125,1202,121,1027"/>
+</map>

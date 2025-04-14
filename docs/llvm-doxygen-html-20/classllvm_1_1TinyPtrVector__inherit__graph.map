@@ -1,0 +1,13 @@
+<map id="llvm::TinyPtrVector&lt; EltTy &gt;" name="llvm::TinyPtrVector&lt; EltTy &gt;">
+<area shape="rect" id="Node000001" title="TinyPtrVector &#45; This class is specialized for cases where there are normally 0 or 1 element in a vect..." alt="" coords="5,136,139,177"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TinyPtrVector.html" title=" " alt="" coords="364,5,498,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,124,132,104,162,87,213,67,266,51,363,31,365,36,267,56,215,72,164,92,135,109,108,128"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1TinyPtrVector.html" title=" " alt="" coords="364,71,498,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,136,162,134,363,99,364,104,163,139,154,141"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1TinyPtrVector.html" title=" " alt="" coords="344,136,518,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,154,343,154,343,159,154,159"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1TinyPtrVector.html" title=" " alt="" coords="355,201,507,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="154,172,163,174,355,208,354,213,162,179,153,177"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1TinyPtrVector.html" title=" " alt="" coords="363,267,499,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="108,185,134,205,164,222,214,242,266,258,363,277,362,282,265,263,212,247,161,227,131,209,104,189"/>
+</map>
