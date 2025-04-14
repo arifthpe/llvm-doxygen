@@ -1,0 +1,8 @@
+<map id="llvm::FoldingSetIteratorImpl" name="llvm::FoldingSetIteratorImpl">
+<area shape="rect" id="Node000001" title="FoldingSetIteratorImpl &#45; This is the common iterator support shared by all folding sets,..." alt="" coords="5,5,187,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1FoldingSetIterator.html" title=" " alt="" coords="23,169,180,210"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,46,103,168,98,169,94,46"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1FoldingSetIterator.html" title=" " alt="" coords="118,80,306,106"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,37,194,78,191,82,126,41"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="189,117,126,170,123,166,186,113"/>
+</map>

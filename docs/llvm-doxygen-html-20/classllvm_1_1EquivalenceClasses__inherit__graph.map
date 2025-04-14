@@ -1,0 +1,9 @@
+<map id="llvm::EquivalenceClasses&lt; ElemTy, Compare &gt;" name="llvm::EquivalenceClasses&lt; ElemTy, Compare &gt;">
+<area shape="rect" id="Node000001" title="EquivalenceClasses &#45; This represents a collection of equivalence classes and supports three efficient..." alt="" coords="5,71,178,111"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1EquivalenceClasses.html" title=" " alt="" coords="356,5,528,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,70,355,39,356,44,193,75"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1EquivalenceClasses.html" title=" " alt="" coords="356,71,528,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,88,355,88,355,94,193,94"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1EquivalenceClasses.html" title=" " alt="" coords="356,136,528,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,107,356,138,355,143,192,112"/>
+</map>

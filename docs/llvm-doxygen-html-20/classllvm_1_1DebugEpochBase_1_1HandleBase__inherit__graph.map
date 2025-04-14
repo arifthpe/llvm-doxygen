@@ -1,0 +1,19 @@
+<map id="llvm::DebugEpochBase::HandleBase" name="llvm::DebugEpochBase::HandleBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,162,164,203"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DenseMapIterator.html" title=" " alt="" coords="586,10,758,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,149,150,97,179,71,212,50,258,30,307,16,357,8,407,4,504,6,586,17,586,22,503,12,408,9,358,13,308,21,260,35,214,54,183,75,154,100,110,152"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DenseMapIterator.html" title=" " alt="" coords="586,102,758,157"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,172,586,134,586,140,179,177"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SmallPtrSetIterator.html" title=" " alt="" coords="590,206,754,247"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,187,590,218,589,223,178,192"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1SmallPtrSetIterator.html" title=" " alt="" coords="590,284,754,324"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="112,213,156,258,184,279,214,295,262,310,311,321,412,329,508,326,589,317,590,322,508,332,412,335,311,326,260,316,212,300,181,284,152,262,108,217"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1DenseMapIterator.html" title=" " alt="" coords="213,64,384,120"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="146,154,187,136,230,118,232,123,189,141,148,159"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1SmallPtrSetIterator.html" title="SmallPtrSetIterator &#45; This implements a const_iterator for SmallPtrSet." alt="" coords="217,245,381,286"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="147,207,189,224,237,242,235,247,187,229,145,212"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="399,75,585,47,586,53,399,80"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="399,108,409,109,586,123,586,129,408,114,398,113"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="395,255,562,239,589,236,590,241,563,244,396,261"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="396,274,409,275,590,294,589,299,408,280,395,279"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="llvm::FileCollectorFileSystem" name="llvm::FileCollectorFileSystem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="972,68,1164,93"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1vfs_1_1FileSystem.html" title="The virtual file system interface." alt="" coords="777,68,922,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="937,78,971,78,971,83,937,83"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ThreadSafeRefCountedBase.html" title=" " alt="" coords="537,16,728,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="743,56,783,64,782,69,742,61"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ThreadSafeRefCountedBase.html" title="A thread&#45;safe version of RefCountedBase." alt="" coords="139,5,329,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="344,26,537,31,537,36,344,31"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="548,92,717,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="731,95,776,88,777,94,732,100"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1RTTIRoot.html" title="Base class for the extensible RTTI hierarchy." alt="" coords="179,70,290,96"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="305,85,548,103,547,109,304,91"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,130,90,156"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="104,137,547,114,548,119,105,143"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1RTTIExtends.html" title="Inheritance utility for extensible RTTI." alt="" coords="145,171,324,211"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="105,155,153,167,152,173,103,160"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="339,188,425,181,513,165,556,149,594,131,596,136,558,154,514,170,425,187,339,193"/>
+<area shape="rect" id="Node000009" href="$classParentT.html" title=" " alt="" coords="14,188,81,213"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="96,195,144,193,144,198,96,201"/>
+</map>

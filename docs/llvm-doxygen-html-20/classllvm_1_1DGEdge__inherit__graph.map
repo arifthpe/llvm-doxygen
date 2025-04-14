@@ -1,0 +1,7 @@
+<map id="llvm::DGEdge&lt; NodeType, EdgeType &gt;" name="llvm::DGEdge&lt; NodeType, EdgeType &gt;">
+<area shape="rect" id="Node000001" title="Represent an edge in the directed graph." alt="" coords="6,5,185,46"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DGEdge.html" title=" " alt="" coords="5,109,186,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,61,98,109,93,109,93,61"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DDGEdge.html" title="Data Dependency Graph Edge." alt="" coords="39,199,152,225"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,165,98,199,93,199,93,165"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="llvm::GCNSchedStrategy" name="llvm::GCNSchedStrategy">
+<area shape="rect" id="Node000001" title="This is a minimal scheduler strategy." alt="" coords="680,63,850,88"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1GCNMaxILPSchedStrategy.html" title="The goal of this scheduling strategy is to maximize ILP for a single wave (i.e." alt="" coords="898,5,1112,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="835,56,897,41,946,29,948,34,898,46,836,61"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1GCNMaxMemoryClauseSchedStrategy.html" title="The goal of this scheduling strategy is to maximize memory clause for a single wave." alt="" coords="907,55,1103,96"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="865,73,906,73,906,78,865,78"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1GCNMaxOccupancySchedStrategy.html" title="The goal of this scheduling strategy is to maximize kernel occupancy (i.e." alt="" coords="899,121,1111,161"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="829,90,928,117,927,122,828,95"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1GenericScheduler.html" title="GenericScheduler shrinks the unscheduled zone using heuristics to balance the schedule." alt="" coords="476,63,632,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="647,73,680,73,680,78,647,78"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1GenericSchedulerBase.html" title="Base class for GenericScheduler." alt="" coords="242,63,428,88"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,73,476,73,476,78,443,78"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MachineSchedStrategy.html" title="MachineSchedStrategy &#45; Interface to the scheduling algorithm used by ScheduleDAGMI." alt="" coords="5,63,194,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="208,73,241,73,241,78,208,78"/>
+</map>

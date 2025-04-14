@@ -1,0 +1,7 @@
+<map id="llvm::ExtraFunctionPassManager&lt; MarkerTy &gt;" name="llvm::ExtraFunctionPassManager&lt; MarkerTy &gt;">
+<area shape="rect" id="Node000001" title="A pass manager to run a set of extra function passes if the ShouldRunExtraPasses marker analysis is p..." alt="" coords="5,229,220,270"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="15,124,210,180"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,195,115,229,110,229,110,195"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="44,5,181,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,61,115,124,110,124,110,61"/>
+</map>

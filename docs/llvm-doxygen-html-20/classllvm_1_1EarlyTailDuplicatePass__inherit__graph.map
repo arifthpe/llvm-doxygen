@@ -1,0 +1,13 @@
+<map id="llvm::EarlyTailDuplicatePass" name="llvm::EarlyTailDuplicatePass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="982,46,1170,72"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TailDuplicatePassBase.html" title=" " alt="" coords="744,31,932,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="947,56,981,56,981,62,947,62"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="357,5,537,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="552,31,720,46,744,48,743,53,720,51,551,37"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,5,142,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="157,23,356,23,356,28,157,28"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1TailDuplicatePassBase.html" title=" " alt="" coords="353,71,541,111"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="556,86,720,76,744,73,744,78,720,81,556,92"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,71,142,111"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="157,88,352,88,352,94,157,94"/>
+</map>

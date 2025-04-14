@@ -1,0 +1,15 @@
+<map id="llvm::DomTreeNodeBase&lt; NodeT &gt;" name="llvm::DomTreeNodeBase&lt; NodeT &gt;">
+<area shape="rect" id="Node000001" title="Base class for the actual dominator tree node." alt="" coords="5,169,174,210"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DomTreeNodeBase.html" title=" " alt="" coords="365,5,533,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,157,152,122,196,91,238,72,281,57,364,36,365,41,282,62,240,77,199,96,156,126,120,160"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DomTreeNodeBase.html" title=" " alt="" coords="365,71,533,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,161,197,146,282,123,363,104,365,110,284,128,198,151,155,166"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DomTreeNodeBase.html" title=" " alt="" coords="365,136,533,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,178,364,161,364,167,189,183"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DomTreeNodeBase.html" title=" " alt="" coords="365,201,533,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="189,197,198,198,364,212,364,218,197,203,188,202"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1DomTreeNodeBase.html" title=" " alt="" coords="365,267,533,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="150,214,198,231,284,254,365,271,364,276,282,259,197,237,148,219"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1DomTreeNodeBase.html" title=" " alt="" coords="365,332,533,373"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="119,220,155,256,199,288,239,306,282,321,365,340,364,345,281,326,237,311,196,292,151,260,115,224"/>
+</map>

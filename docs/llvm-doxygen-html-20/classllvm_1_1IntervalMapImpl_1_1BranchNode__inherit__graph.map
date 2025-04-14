@@ -1,0 +1,11 @@
+<map id="llvm::IntervalMapImpl::BranchNode&lt; KeyT, ValT, N, Traits &gt;" name="llvm::IntervalMapImpl::BranchNode&lt; KeyT, ValT, N, Traits &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="566,45,745,101"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1IntervalMapImpl_1_1BranchNode.html" title=" " alt="" coords="947,5,1130,61"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="759,60,946,40,946,45,760,65"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1IntervalMapImpl_1_1BranchNode.html" title=" " alt="" coords="949,85,1128,141"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="760,93,769,94,862,103,949,108,949,114,861,109,768,99,759,98"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1IntervalMapImpl_1_1NodeBase.html" title=" " alt="" coords="359,45,517,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="532,71,566,71,566,76,532,76"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1IntervalMapImpl_1_1NodeBase.html" title=" " alt="" coords="5,53,176,94"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,71,358,71,358,76,190,76"/>
+</map>

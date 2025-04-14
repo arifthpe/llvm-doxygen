@@ -1,0 +1,13 @@
+<map id="llvm::DXILResourceMDAnalysis" name="llvm::DXILResourceMDAnalysis">
+<area shape="rect" id="Node000001" title="Analysis pass that exposes the DXILResource for a module." alt="" coords="103,303,313,328"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="107,213,309,253"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,268,211,302,205,302,205,268"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,109,208,150"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,158,190,210,186,214,134,162"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="38,5,175,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="109,61,109,109,104,109,104,61"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="232,109,389,150"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="283,162,229,214,226,210,279,158"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="244,5,380,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="314,61,313,109,308,109,309,61"/>
+</map>

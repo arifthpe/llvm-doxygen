@@ -1,0 +1,13 @@
+<map id="llvm::IDFCalculatorBase&lt; NodeTy, IsPostDom &gt;" name="llvm::IDFCalculatorBase&lt; NodeTy, IsPostDom &gt;">
+<area shape="rect" id="Node000001" title="Determine the iterated dominance frontier, given a set of defining blocks, and optionally,..." alt="" coords="5,49,170,90"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1IDFCalculatorBase.html" title=" " alt="" coords="386,49,571,90"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,67,385,67,385,72,185,72"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1IDFCalculator.html" title=" " alt="" coords="859,5,993,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="576,43,620,35,746,23,858,21,858,27,747,29,621,40,577,48"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1IDFCalculator.html" title=" " alt="" coords="859,83,993,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="572,91,621,99,747,106,858,104,858,110,747,111,620,104,571,96"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1IDFCalculator.html" title=" " alt="" coords="620,49,755,90"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="586,67,620,67,620,72,586,72"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="769,52,858,35,859,41,770,57"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="770,82,779,83,859,94,858,99,778,89,769,87"/>
+</map>
