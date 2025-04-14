@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1sandboxir_1_1SeedBundle.html" title="A set of candidate Instructions for vectorizing together." alt="" coords="5,78,193,104"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1sandboxir_1_1MemSeedBundle.html" title=" " alt="" coords="241,5,443,46"/>
+<area shape="poly" id="edge6057_Node000000_Node000001" title=" " alt="" coords="163,71,263,44,264,49,164,76"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1MemSeedBundle.html" title=" " alt="" coords="242,71,442,111"/>
+<area shape="poly" id="edge6058_Node000000_Node000002" title=" " alt="" coords="208,88,242,88,242,94,208,94"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1MemSeedBundle.html" title="Specialization of SeedBundle for memory access instructions." alt="" coords="254,136,430,177"/>
+<area shape="poly" id="edge6059_Node000000_Node000003" title=" " alt="" coords="164,106,264,133,263,138,163,111"/>
+</map>

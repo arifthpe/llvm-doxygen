@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1sandboxir_1_1LegalityResult.html" title="The legality outcome is represented by a class rather than an enum class because in some cases the le..." alt="" coords="5,136,168,177"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1sandboxir_1_1DiamondReuse.html" title=" " alt="" coords="216,5,385,46"/>
+<area shape="poly" id="edge6041_Node000000_Node000001" title=" " alt="" coords="120,124,164,90,214,57,239,44,242,49,217,61,167,94,124,128"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1DiamondReuseMultiInput.html" title=" " alt="" coords="216,71,385,111"/>
+<area shape="poly" id="edge6042_Node000000_Node000002" title=" " alt="" coords="168,129,230,109,232,115,170,134"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1DiamondReuseWithShuffle.html" title=" " alt="" coords="216,136,385,177"/>
+<area shape="poly" id="edge6043_Node000000_Node000003" title=" " alt="" coords="183,154,215,154,215,159,183,159"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1LegalityResultWithReason.html" title="Base class for results with reason." alt="" coords="219,201,382,242"/>
+<area shape="poly" id="edge6044_Node000000_Node000004" title=" " alt="" coords="170,179,232,198,230,203,168,184"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1Widen.html" title=" " alt="" coords="223,266,378,292"/>
+<area shape="poly" id="edge6046_Node000000_Node000006" title=" " alt="" coords="122,184,166,219,217,251,246,263,244,268,214,256,163,224,119,189"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1Pack.html" title=" " alt="" coords="433,209,580,235"/>
+<area shape="poly" id="edge6045_Node000004_Node000005" title=" " alt="" coords="397,219,433,219,433,224,397,224"/>
+</map>
