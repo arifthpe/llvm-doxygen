@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1legacy_1_1PassManagerBase.html" title="PassManagerBase &#45; An abstract interface to allow code to add passes to a pass manager without having ..." alt="" coords="5,16,215,41"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1legacy_1_1FunctionPassManager.html" title="FunctionPassManager manages FunctionPasses." alt="" coords="263,5,442,46"/>
+<area shape="poly" id="edge4107_Node000000_Node000001" title=" " alt="" coords="229,24,262,24,262,29,230,30"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1legacy_1_1PassManager.html" title="PassManager manages ModulePassManagers." alt="" coords="263,70,442,96"/>
+<area shape="poly" id="edge4108_Node000000_Node000003" title=" " alt="" coords="184,42,293,67,292,72,183,47"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DebugifyCustomPassManager.html" title="DebugifyCustomPassManager wraps each pass with the debugify passes if needed." alt="" coords="490,63,671,103"/>
+<area shape="poly" id="edge4109_Node000003_Node000004" title=" " alt="" coords="457,80,490,80,490,86,457,86"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1PassManagerBase.html" title="PassManagerBase &#45; An abstract interface to allow code to add passes to a pass manager without having ..." alt="" coords="28,66,192,92"/>
+<area shape="poly" id="edge4110_Node000002_Node000001" title=" " alt="" coords="185,60,261,43,263,48,187,65"/>
+<area shape="poly" id="edge4111_Node000002_Node000003" title=" " alt="" coords="207,78,262,79,262,84,207,83"/>
+</map>
