@@ -1,0 +1,22 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1SmallVectorBase.html" title=" " alt="" coords="5,78,164,148"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1SmallVectorTemplateCommon.html" title=" " alt="" coords="212,85,413,141"/>
+<area shape="poly" id="edge9967_Node000000_Node000001" title=" " alt="" coords="179,110,211,110,211,116,179,116"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SmallVectorTemplateBase.html" title=" " alt="" coords="461,85,639,141"/>
+<area shape="poly" id="edge9968_Node000001_Node000002" title=" " alt="" coords="429,110,460,110,460,116,429,116"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="697,85,847,141"/>
+<area shape="poly" id="edge9969_Node000002_Node000003" title=" " alt="" coords="655,110,697,110,697,116,655,116"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="905,165,1045,221"/>
+<area shape="poly" id="edge9970_Node000003_Node000004" title=" " alt="" coords="859,145,905,163,903,168,857,150"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="905,245,1045,301"/>
+<area shape="poly" id="edge9971_Node000003_Node000006" title=" " alt="" coords="855,148,859,151,875,172,884,192,891,211,907,231,920,243,917,247,903,235,887,214,879,194,871,175,855,155,852,152"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="905,5,1045,61"/>
+<area shape="poly" id="edge9972_Node000003_Node000007" title=" " alt="" coords="857,77,903,58,905,63,859,82"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="905,85,1045,141"/>
+<area shape="poly" id="edge9973_Node000003_Node000008" title=" " alt="" coords="862,110,904,110,904,116,862,116"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="687,165,857,221"/>
+<area shape="poly" id="edge9974_Node000005_Node000004" title=" " alt="" coords="872,190,904,190,904,196,872,196"/>
+<area shape="poly" id="edge9975_Node000005_Node000006" title=" " alt="" coords="859,225,905,243,903,248,857,230"/>
+<area shape="poly" id="edge9976_Node000005_Node000007" title=" " alt="" coords="852,154,855,151,871,132,879,113,887,93,903,71,917,59,920,64,907,75,891,95,884,115,875,134,859,155,855,158"/>
+<area shape="poly" id="edge9977_Node000005_Node000008" title=" " alt="" coords="857,157,903,138,905,143,859,162"/>
+</map>

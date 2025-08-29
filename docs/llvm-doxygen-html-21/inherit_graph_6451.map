@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="5,5,294,121"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1TrailingObjects.html" title=" " alt="" coords="342,43,523,84"/>
+<area shape="poly" id="edge10489_Node000000_Node000001" title=" " alt="" coords="310,60,341,60,341,66,310,66"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1StructLayout.html" title="Used to lazily calculate structure layout information for a target machine, based on the DataLayout s..." alt="" coords="571,50,698,76"/>
+<area shape="poly" id="edge10490_Node000001_Node000002" title=" " alt="" coords="539,60,571,60,571,66,539,66"/>
+</map>
