@@ -1,0 +1,7 @@
+<map id="llvm::ValueIsPresent&lt; T, Enable &gt;" name="llvm::ValueIsPresent&lt; T, Enable &gt;">
+<area shape="rect" id="Node000001" title="ValueIsPresent provides a way to check if a value is, well, present." alt="" coords="5,54,147,94"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ValueIsPresent_3_01T_00_01std_1_1enable__if__t_3_01IsNullable_3_01T_01_4_01_4_01_4.html" title=" " alt="" coords="348,10,496,66"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,62,348,43,348,48,163,68"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ValueIsPresent_3_01std_1_1optional_3_01T_01_4_01_4.html" title=" " alt="" coords="348,90,496,130"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,88,171,89,347,104,347,109,170,94,162,93"/>
+</map>

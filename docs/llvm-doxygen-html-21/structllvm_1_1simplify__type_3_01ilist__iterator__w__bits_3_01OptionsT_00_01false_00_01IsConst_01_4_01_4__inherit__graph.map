@@ -1,0 +1,7 @@
+<map id="llvm::simplify_type&lt; ilist_iterator_w_bits&lt; OptionsT, false, IsConst &gt; &gt;" name="llvm::simplify_type&lt; ilist_iterator_w_bits&lt; OptionsT, false, IsConst &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,158,204,213"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1simplify__type_3_01const_01ilist__iterator__w__bits_3_01OptionsT_00_01false_00_01IsConst_01_4_01_4.html" title=" " alt="" coords="20,263,189,333"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,229,107,262,102,262,102,229"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1simplify__type.html" title="Define a template that can be specialized by smart pointers to reflect the fact that they are automat..." alt="" coords="39,5,170,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,61,107,157,102,157,102,61"/>
+</map>

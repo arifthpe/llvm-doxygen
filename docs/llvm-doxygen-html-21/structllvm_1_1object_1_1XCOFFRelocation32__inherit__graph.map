@@ -1,0 +1,7 @@
+<map id="llvm::object::XCOFFRelocation32" name="llvm::object::XCOFFRelocation32">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,207,223,233"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1object_1_1XCOFFRelocation.html" title=" " alt="" coords="12,117,216,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,173,117,207,111,207,111,173"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1object_1_1XCOFFRelocation.html" title=" " alt="" coords="12,5,216,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,61,117,117,111,117,111,61"/>
+</map>

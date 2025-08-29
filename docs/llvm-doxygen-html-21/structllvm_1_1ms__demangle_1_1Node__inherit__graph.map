@@ -1,0 +1,63 @@
+<map id="llvm::ms_demangle::Node" name="llvm::ms_demangle::Node">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,634,179,660"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ms__demangle_1_1IdentifierNode.html" title=" " alt="" coords="268,300,410,341"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,620,158,542,225,449,317,339,321,343,229,453,163,545,112,622"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1ms__demangle_1_1IntegerLiteralNode.html" title=" " alt="" coords="268,463,410,503"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="110,620,159,567,190,538,225,514,266,496,269,501,228,519,194,543,162,571,114,624"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1ms__demangle_1_1NodeArrayNode.html" title=" " alt="" coords="268,528,410,569"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="130,624,226,579,267,565,269,570,228,584,132,629"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1ms__demangle_1_1PointerAuthQualifierNode.html" title=" " alt="" coords="255,593,424,634"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="194,631,254,622,255,628,195,636"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1ms__demangle_1_1QualifiedNameNode.html" title=" " alt="" coords="268,659,410,699"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="195,658,268,667,267,672,194,663"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1ms__demangle_1_1SymbolNode.html" title=" " alt="" coords="268,724,410,765"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="133,665,228,709,269,723,267,728,226,713,131,670"/>
+<area shape="rect" id="Node000022" href="$structllvm_1_1ms__demangle_1_1TemplateParameterReferenceNode.html" title=" " alt="" coords="227,789,452,830"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="115,670,163,723,194,750,228,774,254,786,252,791,225,779,191,755,159,727,111,674"/>
+<area shape="rect" id="Node000023" href="$structllvm_1_1ms__demangle_1_1TypeNode.html" title=" " alt="" coords="268,1083,410,1123"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="110,672,329,1081,325,1084,105,675"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ms__demangle_1_1ConversionOperatorIdentifierNode.html" title=" " alt="" coords="500,5,718,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,284,371,234,403,172,445,110,470,82,498,57,519,44,522,49,502,61,474,86,449,114,407,175,376,236,355,286"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ms__demangle_1_1DynamicStructorIdentifierNode.html" title=" " alt="" coords="509,71,709,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="357,285,381,248,413,204,453,160,499,122,522,109,524,114,501,127,457,164,418,207,385,251,362,288"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ms__demangle_1_1IntrinsicFunctionIdentifierNode.html" title=" " alt="" coords="510,136,708,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="369,287,427,236,462,210,499,187,527,175,529,180,501,192,465,215,430,241,373,291"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1ms__demangle_1_1LiteralOperatorIdentifierNode.html" title=" " alt="" coords="516,201,703,242"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="401,291,499,252,536,240,538,245,501,258,403,296"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1ms__demangle_1_1LocalStaticGuardIdentifierNode.html" title=" " alt="" coords="508,267,710,307"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="425,307,507,297,508,302,426,312"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1ms__demangle_1_1NamedIdentifierNode.html" title=" " alt="" coords="537,332,681,373"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="426,328,537,341,536,346,425,333"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1ms__demangle_1_1RttiBaseClassDescriptorNode.html" title=" " alt="" coords="510,397,708,438"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="405,345,501,382,538,394,537,399,499,387,403,350"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1ms__demangle_1_1StructorIdentifierNode.html" title=" " alt="" coords="535,463,683,503"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="373,350,430,400,465,425,501,447,535,462,533,467,499,452,462,430,427,404,370,354"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1ms__demangle_1_1VcallThunkIdentifierNode.html" title=" " alt="" coords="526,528,693,569"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="371,351,454,449,476,484,485,499,502,513,526,526,524,531,498,517,481,502,471,487,450,453,367,354"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1ms__demangle_1_1EncodedStringLiteralNode.html" title=" " alt="" coords="523,593,695,634"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="424,723,450,709,466,694,474,678,482,661,498,645,521,632,524,637,502,649,486,664,478,680,470,697,454,713,426,728"/>
+<area shape="rect" id="Node000018" href="$structllvm_1_1ms__demangle_1_1FunctionSymbolNode.html" title=" " alt="" coords="536,659,682,699"/>
+<area shape="poly" id="edge17_Node000016_Node000018" title=" " alt="" coords="425,721,535,694,536,699,426,726"/>
+<area shape="rect" id="Node000019" href="$structllvm_1_1ms__demangle_1_1LocalStaticGuardVariableNode.html" title=" " alt="" coords="510,724,708,765"/>
+<area shape="poly" id="edge18_Node000016_Node000019" title=" " alt="" coords="426,742,509,742,509,747,426,747"/>
+<area shape="rect" id="Node000020" href="$structllvm_1_1ms__demangle_1_1SpecialTableSymbolNode.html" title=" " alt="" coords="524,789,694,830"/>
+<area shape="poly" id="edge19_Node000016_Node000020" title=" " alt="" coords="426,762,524,786,523,792,425,768"/>
+<area shape="rect" id="Node000021" href="$structllvm_1_1ms__demangle_1_1VariableSymbolNode.html" title=" " alt="" coords="538,855,680,895"/>
+<area shape="poly" id="edge20_Node000016_Node000021" title=" " alt="" coords="426,761,454,776,470,792,478,808,486,824,502,840,539,858,536,863,498,844,482,827,474,811,466,795,450,780,424,766"/>
+<area shape="rect" id="Node000024" href="$structllvm_1_1ms__demangle_1_1ArrayTypeNode.html" title=" " alt="" coords="538,920,680,961"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="370,1070,427,1020,462,994,499,971,537,955,539,960,501,976,465,998,430,1024,373,1074"/>
+<area shape="rect" id="Node000025" href="$structllvm_1_1ms__demangle_1_1CustomTypeNode.html" title=" " alt="" coords="538,985,680,1026"/>
+<area shape="poly" id="edge24_Node000023_Node000025" title=" " alt="" coords="403,1074,499,1036,537,1024,538,1029,501,1042,405,1079"/>
+<area shape="rect" id="Node000026" href="$structllvm_1_1ms__demangle_1_1FunctionSignatureNode.html" title=" " alt="" coords="530,1051,688,1091"/>
+<area shape="poly" id="edge25_Node000023_Node000026" title=" " alt="" coords="426,1090,530,1078,530,1083,426,1095"/>
+<area shape="rect" id="Node000028" href="$structllvm_1_1ms__demangle_1_1IntrinsicNode.html" title=" " alt="" coords="538,1116,680,1157"/>
+<area shape="poly" id="edge27_Node000023_Node000028" title=" " alt="" coords="426,1111,538,1125,537,1130,426,1116"/>
+<area shape="rect" id="Node000029" href="$structllvm_1_1ms__demangle_1_1PointerTypeNode.html" title=" " alt="" coords="538,1181,680,1222"/>
+<area shape="poly" id="edge28_Node000023_Node000029" title=" " alt="" coords="403,1127,501,1166,538,1178,536,1183,499,1171,401,1132"/>
+<area shape="rect" id="Node000030" href="$structllvm_1_1ms__demangle_1_1PrimitiveTypeNode.html" title=" " alt="" coords="538,1247,680,1287"/>
+<area shape="poly" id="edge29_Node000023_Node000030" title=" " alt="" coords="373,1132,430,1183,465,1209,501,1231,539,1247,537,1252,499,1236,462,1213,427,1187,369,1136"/>
+<area shape="rect" id="Node000031" href="$structllvm_1_1ms__demangle_1_1TagTypeNode.html" title=" " alt="" coords="538,1312,680,1353"/>
+<area shape="poly" id="edge30_Node000023_Node000031" title=" " alt="" coords="362,1135,385,1173,418,1216,457,1260,501,1297,539,1315,537,1320,499,1301,453,1264,413,1220,381,1176,357,1138"/>
+<area shape="rect" id="Node000027" href="$structllvm_1_1ms__demangle_1_1ThunkSignatureNode.html" title=" " alt="" coords="766,1051,910,1091"/>
+<area shape="poly" id="edge26_Node000026_Node000027" title=" " alt="" coords="703,1068,766,1068,766,1074,703,1074"/>
+</map>

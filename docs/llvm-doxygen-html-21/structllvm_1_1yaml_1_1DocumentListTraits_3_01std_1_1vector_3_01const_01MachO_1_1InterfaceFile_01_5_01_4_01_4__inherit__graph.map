@@ -1,0 +1,5 @@
+<map id="llvm::yaml::DocumentListTraits&lt; std::vector&lt; const MachO::InterfaceFile * &gt; &gt;" name="llvm::yaml::DocumentListTraits&lt; std::vector&lt; const MachO::InterfaceFile * &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,137,186,193"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1DocumentListTraits.html" title="This class should be specialized by any type that needs to be converted to/from a list of YAML docume..." alt="" coords="10,5,181,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,62,98,137,93,137,93,62"/>
+</map>

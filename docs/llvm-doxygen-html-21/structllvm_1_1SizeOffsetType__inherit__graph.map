@@ -1,0 +1,15 @@
+<map id="llvm::SizeOffsetType&lt; T, C &gt;" name="llvm::SizeOffsetType&lt; T, C &gt;">
+<area shape="rect" id="Node000001" title="SizeOffsetType &#45; A base template class for the object size visitors." alt="" coords="5,69,149,110"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1SizeOffsetType.html" title=" " alt="" coords="401,5,582,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,62,172,59,291,40,401,29,401,34,292,45,173,64,159,68"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1SizeOffsetType.html" title=" " alt="" coords="397,71,586,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="164,87,397,88,397,93,164,93"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1SizeOffsetType.html" title=" " alt="" coords="389,136,594,192"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="124,116,174,137,227,150,283,158,388,164,388,170,283,163,226,155,172,142,122,121"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1SizeOffsetAPInt.html" title="SizeOffsetAPInt &#45; Used by ObjectSizeOffsetVisitor, which works with APInts." alt="" coords="678,13,826,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="597,23,677,23,677,28,597,28"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1SizeOffsetValue.html" title=" " alt="" coords="678,78,826,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="601,88,678,88,678,94,601,94"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1SizeOffsetWeakTrackingVH.html" title="SizeOffsetWeakTrackingVH &#45; Used by ObjectSizeOffsetEvaluator in a DenseMap." alt="" coords="643,152,861,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="610,162,643,162,643,167,610,167"/>
+</map>

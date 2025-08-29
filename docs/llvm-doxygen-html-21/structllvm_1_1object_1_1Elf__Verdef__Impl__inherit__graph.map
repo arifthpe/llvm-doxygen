@@ -1,0 +1,5 @@
+<map id="llvm::object::Elf_Verdef_Impl&lt; ELFT &gt;" name="llvm::object::Elf_Verdef_Impl&lt; ELFT &gt;">
+<area shape="rect" id="Node000001" title="Elf_Verdef: This is the structure of entries in the SHT_GNU_verdef section (.gnu.version_d)." alt="" coords="24,5,182,46"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1object_1_1Elf__Verdef__Impl.html" title=" " alt="" coords="5,117,201,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,61,106,117,100,117,100,61"/>
+</map>

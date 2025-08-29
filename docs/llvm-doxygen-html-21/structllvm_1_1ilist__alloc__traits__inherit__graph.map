@@ -1,0 +1,89 @@
+<map id="llvm::ilist_alloc_traits&lt; NodeTy &gt;" name="llvm::ilist_alloc_traits&lt; NodeTy &gt;">
+<area shape="rect" id="Node000001" title="Use delete by default for iplist and ilist." alt="" coords="5,751,149,792"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ilist__node__traits.html" title="A fragment for template traits for intrusive list that provides default node related operations." alt="" coords="359,524,504,565"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,735,122,678,144,648,171,623,216,595,265,575,314,560,358,551,360,556,315,565,266,580,218,600,174,627,148,652,126,680,95,738"/>
+<area shape="rect" id="Node000025" href="$structllvm_1_1ilist__alloc__traits.html" title=" " alt="" coords="344,636,519,662"/>
+<area shape="poly" id="edge28_Node000001_Node000025" title=" " alt="" coords="105,738,135,711,171,688,214,671,258,660,343,648,343,653,259,665,215,677,174,692,138,715,108,742"/>
+<area shape="rect" id="Node000036" href="$structllvm_1_1ilist__alloc__traits.html" title=" " alt="" coords="360,686,503,726"/>
+<area shape="poly" id="edge40_Node000001_Node000036" title=" " alt="" coords="158,744,172,741,269,723,359,711,359,716,270,728,173,746,160,749"/>
+<area shape="rect" id="Node000038" href="$structllvm_1_1ilist__alloc__traits_3_01Instruction_01_4.html" title=" " alt="" coords="360,751,503,792"/>
+<area shape="poly" id="edge43_Node000001_Node000038" title=" " alt="" coords="164,769,359,769,359,774,164,774"/>
+<area shape="rect" id="Node000039" href="$structllvm_1_1ilist__alloc__traits_3_01MachineBasicBlock_01_4.html" title=" " alt="" coords="351,816,512,857"/>
+<area shape="poly" id="edge44_Node000001_Node000039" title=" " alt="" coords="159,794,173,797,265,814,351,826,350,831,264,819,172,802,158,799"/>
+<area shape="rect" id="Node000040" href="$structllvm_1_1ilist__alloc__traits_3_01MemoryAccess_01_4.html" title=" " alt="" coords="360,882,503,922"/>
+<area shape="poly" id="edge45_Node000001_Node000040" title=" " alt="" coords="109,801,138,828,174,851,220,869,269,882,360,896,359,901,267,887,218,874,171,855,135,832,105,805"/>
+<area shape="rect" id="Node000041" href="$structllvm_1_1ilist__alloc__traits_3_01SDNode_01_4.html" title=" " alt="" coords="360,947,503,988"/>
+<area shape="poly" id="edge46_Node000001_Node000041" title=" " alt="" coords="93,805,124,865,146,895,174,919,218,942,267,956,315,964,359,967,359,972,314,969,265,961,216,947,171,923,143,898,119,868,88,808"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ilist__traits_3_01MachineInstr_01_4.html" title=" " alt="" coords="975,406,1096,446"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="477,514,537,481,606,453,655,439,705,429,806,418,900,416,975,419,975,424,900,421,807,424,706,435,656,445,608,458,539,486,479,519"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__traits_3_01const_01Ty_01_4.html" title="Const traits should never be instantiated." alt="" coords="981,495,1090,536"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="519,538,980,515,981,521,519,543"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ilist__traits.html" title="Template traits for intrusive list." alt="" coords="644,467,753,508"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="518,523,642,496,643,502,519,529"/>
+<area shape="rect" id="Node000024" href="$structllvm_1_1ilist__node__traits.html" title=" " alt="" coords="610,609,786,635"/>
+<area shape="poly" id="edge26_Node000002_Node000024" title=" " alt="" coords="499,569,544,584,631,606,629,611,542,589,497,574"/>
+<area shape="poly" id="edge24_Node000005_Node000003" title=" " alt="" coords="768,472,974,434,975,440,769,477"/>
+<area shape="poly" id="edge25_Node000005_Node000004" title=" " alt="" coords="769,493,814,497,981,509,980,515,813,502,768,498"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1ilist__traits.html" title=" " alt="" coords="965,575,1106,600"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="758,512,814,533,892,555,965,572,964,577,890,560,812,538,756,517"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1iplist__impl.html" title=" " alt="" coords="1176,508,1349,563"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1109,568,1175,553,1176,558,1110,573"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1iplist.html" title=" " alt="" coords="1822,407,1998,432"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1335,498,1450,451,1517,430,1586,414,1642,407,1687,408,1789,414,1822,415,1822,420,1789,419,1687,413,1643,413,1586,419,1519,435,1452,456,1337,503"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1iplist.html" title="An intrusive list with ownership and callbacks specified/controlled by ilist_traits,..." alt="" coords="1399,523,1562,548"/>
+<area shape="poly" id="edge20_Node000007_Node000021" title=" " alt="" coords="1365,533,1398,533,1398,538,1365,538"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1iplist.html" title=" " alt="" coords="2244,32,2409,58"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1909,391,1915,324,1932,236,1947,190,1968,146,1995,106,2030,72,2054,56,2081,44,2138,29,2195,26,2248,29,2248,34,2195,31,2139,35,2083,49,2057,60,2033,76,1999,109,1973,149,1952,192,1937,238,1920,324,1914,391"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1iplist.html" title=" " alt="" coords="2260,92,2393,133"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1912,390,1923,337,1944,271,1959,236,1978,203,2002,173,2030,148,2063,138,2122,129,2260,115,2260,120,2122,134,2064,143,2033,152,2006,177,1983,206,1964,239,1949,273,1928,338,1918,391"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1iplist.html" title=" " alt="" coords="2250,158,2403,198"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="1916,391,1930,348,1952,297,1985,246,2006,224,2030,205,2069,191,2125,182,2250,175,2250,180,2126,187,2070,196,2033,210,2010,228,1990,249,1957,299,1935,350,1921,392"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1iplist.html" title=" " alt="" coords="2260,223,2393,264"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="1924,391,1966,333,1996,304,2030,280,2063,271,2122,262,2259,247,2260,252,2123,267,2065,276,2032,284,1999,308,1970,337,1929,394"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1iplist.html" title=" " alt="" coords="2234,288,2419,343"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="1951,397,2031,366,2135,341,2233,324,2234,329,2136,346,2032,371,1953,402"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1iplist.html" title=" " alt="" coords="2240,367,2413,408"/>
+<area shape="poly" id="edge13_Node000008_Node000014" title=" " alt="" coords="2013,409,2240,391,2240,397,2013,414"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1iplist.html" title=" " alt="" coords="2260,432,2393,473"/>
+<area shape="poly" id="edge14_Node000008_Node000015" title=" " alt="" coords="2003,432,2032,436,2153,445,2260,449,2260,454,2153,450,2031,441,2003,438"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1iplist.html" title=" " alt="" coords="2243,497,2410,523"/>
+<area shape="poly" id="edge15_Node000008_Node000016" title=" " alt="" coords="1947,438,1987,458,2032,476,2086,489,2141,497,2243,506,2242,511,2140,503,2085,494,2031,481,1985,463,1944,442"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1iplist.html" title=" " alt="" coords="2245,547,2408,588"/>
+<area shape="poly" id="edge16_Node000008_Node000017" title=" " alt="" coords="1949,439,1980,462,2009,490,2017,502,2020,514,2024,523,2033,532,2083,557,2138,570,2193,575,2244,575,2244,580,2193,581,2137,575,2081,562,2030,537,2020,526,2015,515,2012,504,2005,493,1976,466,1946,443"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1iplist.html" title=" " alt="" coords="2245,612,2408,653"/>
+<area shape="poly" id="edge17_Node000008_Node000018" title=" " alt="" coords="1953,438,1984,460,2010,490,2017,507,2020,523,2018,552,2018,579,2023,592,2033,604,2056,621,2081,633,2135,647,2192,651,2244,647,2245,652,2192,656,2134,653,2079,638,2053,625,2030,608,2018,595,2012,580,2013,552,2015,523,2012,508,2005,493,1980,464,1950,442"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1iplist.html" title=" " alt="" coords="2245,678,2408,718"/>
+<area shape="poly" id="edge18_Node000008_Node000019" title=" " alt="" coords="1955,438,1985,460,2010,490,2016,508,2018,532,2018,589,2020,644,2025,665,2033,679,2055,696,2080,708,2135,721,2191,722,2244,716,2245,721,2191,728,2134,726,2078,713,2052,700,2029,683,2020,667,2015,645,2013,589,2013,533,2011,509,2005,493,1981,464,1952,443"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1iplist.html" title=" " alt="" coords="2245,743,2408,784"/>
+<area shape="poly" id="edge19_Node000008_Node000020" title=" " alt="" coords="1955,438,1985,460,2010,490,2017,515,2020,548,2017,627,2016,703,2022,733,2033,753,2057,770,2083,782,2112,790,2141,793,2201,791,2256,782,2257,787,2202,797,2141,799,2111,795,2081,787,2054,775,2029,756,2017,735,2011,704,2011,627,2014,548,2012,516,2005,493,1981,464,1952,442"/>
+<area shape="poly" id="edge21_Node000021_Node000008" title=" " alt="" coords="1509,511,1544,488,1585,468,1641,451,1686,446,1731,443,1789,437,1830,430,1831,435,1789,442,1732,449,1686,451,1642,457,1587,473,1547,492,1512,515"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1iplist.html" title=" " alt="" coords="1816,504,2004,559"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="1578,533,1789,531,1816,531,1816,536,1789,536,1578,538"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1iplist.html" title=" " alt="" coords="1814,584,2007,610"/>
+<area shape="poly" id="edge23_Node000021_Node000023" title=" " alt="" coords="1540,550,1586,561,1704,578,1813,588,1813,594,1703,583,1586,566,1539,555"/>
+<area shape="poly" id="edge27_Node000024_Node000006" title=" " alt="" coords="802,619,920,610,982,598,983,603,921,615,802,624"/>
+<area shape="poly" id="edge39_Node000025_Node000024" title=" " alt="" coords="534,636,609,628,610,634,535,641"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1SymbolTableListTraits.html" title=" " alt="" coords="944,710,1127,750"/>
+<area shape="poly" id="edge29_Node000025_Node000026" title=" " alt="" coords="535,653,715,670,921,699,955,706,954,712,920,705,714,676,534,659"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1iplist__impl.html" title=" " alt="" coords="1178,796,1348,867"/>
+<area shape="poly" id="edge30_Node000026_Node000027" title=" " alt="" coords="1098,755,1183,793,1181,798,1096,760"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1SymbolTableList.html" title="List that automatically updates parent links and symbol tables." alt="" coords="1406,836,1555,877"/>
+<area shape="poly" id="edge31_Node000027_Node000028" title=" " alt="" coords="1364,840,1405,845,1405,851,1363,846"/>
+<area shape="rect" id="Node000029" href="$classllvm_1_1SymbolTableList.html" title=" " alt="" coords="1813,644,2007,715"/>
+<area shape="poly" id="edge32_Node000028_Node000029" title=" " alt="" coords="1501,821,1536,778,1559,756,1585,738,1640,713,1699,696,1758,685,1812,679,1813,684,1759,690,1701,701,1642,718,1587,743,1562,760,1540,781,1505,825"/>
+<area shape="rect" id="Node000030" href="$classllvm_1_1SymbolTableList.html" title=" " alt="" coords="1836,739,1985,780"/>
+<area shape="poly" id="edge33_Node000028_Node000030" title=" " alt="" coords="1530,826,1585,804,1650,787,1716,775,1835,761,1835,766,1717,780,1651,792,1587,809,1532,831"/>
+<area shape="rect" id="Node000031" href="$classllvm_1_1SymbolTableList.html" title=" " alt="" coords="1836,804,1985,845"/>
+<area shape="poly" id="edge34_Node000028_Node000031" title=" " alt="" coords="1571,847,1835,828,1835,833,1571,853"/>
+<area shape="rect" id="Node000032" href="$classllvm_1_1SymbolTableList.html" title=" " alt="" coords="1836,870,1985,910"/>
+<area shape="poly" id="edge35_Node000028_Node000032" title=" " alt="" coords="1571,872,1586,874,1718,884,1835,888,1835,893,1718,890,1586,880,1570,878"/>
+<area shape="rect" id="Node000033" href="$classllvm_1_1SymbolTableList.html" title=" " alt="" coords="1836,935,1985,976"/>
+<area shape="poly" id="edge36_Node000028_Node000033" title=" " alt="" coords="1523,884,1554,901,1587,916,1651,933,1717,944,1835,953,1835,958,1716,949,1650,938,1585,921,1551,906,1521,888"/>
+<area shape="rect" id="Node000034" href="$classllvm_1_1SymbolTableList.html" title=" " alt="" coords="1836,1000,1985,1041"/>
+<area shape="poly" id="edge37_Node000028_Node000034" title=" " alt="" coords="1502,889,1538,937,1561,960,1587,979,1649,1004,1714,1018,1778,1024,1835,1024,1835,1029,1778,1029,1713,1023,1647,1009,1585,983,1557,964,1533,941,1498,892"/>
+<area shape="rect" id="Node000035" href="$classllvm_1_1SymbolTableList.html" title=" " alt="" coords="1820,1066,2000,1106"/>
+<area shape="poly" id="edge38_Node000028_Node000035" title=" " alt="" coords="1492,891,1504,930,1523,975,1551,1018,1568,1036,1588,1052,1614,1067,1642,1079,1703,1093,1763,1098,1819,1096,1819,1102,1763,1103,1702,1098,1641,1084,1612,1072,1584,1057,1564,1040,1547,1021,1519,977,1499,932,1487,893"/>
+<area shape="rect" id="Node000037" href="$classllvm_1_1SymbolTableListTraits.html" title=" " alt="" coords="607,710,789,750"/>
+<area shape="poly" id="edge41_Node000036_Node000037" title=" " alt="" coords="519,711,607,719,606,724,518,717"/>
+<area shape="poly" id="edge42_Node000037_Node000026" title=" " alt="" coords="805,727,944,727,944,733,805,733"/>
+</map>

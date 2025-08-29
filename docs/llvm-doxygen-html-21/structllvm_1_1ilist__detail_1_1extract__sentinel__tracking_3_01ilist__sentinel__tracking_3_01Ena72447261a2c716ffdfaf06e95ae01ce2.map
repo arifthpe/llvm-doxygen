@@ -1,0 +1,11 @@
+<map id="llvm::ilist_detail::extract_sentinel_tracking&lt; ilist_sentinel_tracking&lt; EnableSentinelTracking &gt;, Options... &gt;" name="llvm::ilist_detail::extract_sentinel_tracking&lt; ilist_sentinel_tracking&lt; EnableSentinelTracking &gt;, Options... &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="711,31,893,116"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="284,5,498,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="514,36,687,56,711,59,710,65,687,62,513,42"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ilist__detail_1_1explicitness.html" title=" " alt="" coords="351,70,430,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="446,79,711,73,711,78,446,84"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__detail_1_1explicitness.html" title="Helper trait for recording whether an option is specified explicitly." alt="" coords="5,63,182,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="197,80,351,80,351,86,197,86"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ilist__detail_1_1extract__sentinel__tracking.html" title="Extract sentinel tracking option." alt="" coords="304,130,478,186"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="493,166,588,165,638,158,686,147,718,133,748,115,750,119,721,138,688,152,639,164,589,170,493,171"/>
+</map>

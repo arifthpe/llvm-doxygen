@@ -1,0 +1,11 @@
+<map id="llvm::ilist_detail::extract_iterator_bits&lt;&gt;" name="llvm::ilist_detail::extract_iterator_bits&lt;&gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,244,256,284"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,132,113,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,167,159,241,155,245,80,171"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ilist__detail_1_1explicitness.html" title=" " alt="" coords="137,132,216,158"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,173,179,243,174,243,174,173"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__detail_1_1explicitness.html" title="Helper trait for recording whether an option is specified explicitly." alt="" coords="88,5,264,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="179,61,179,132,174,132,174,61"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ilist__detail_1_1extract__iterator__bits.html" title="Extract iterator bits option." alt="" coords="240,117,384,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="271,185,201,245,197,241,267,181"/>
+</map>

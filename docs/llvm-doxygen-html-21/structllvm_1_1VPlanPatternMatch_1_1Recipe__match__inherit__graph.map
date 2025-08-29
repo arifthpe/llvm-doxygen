@@ -1,0 +1,35 @@
+<map id="llvm::VPlanPatternMatch::Recipe_match&lt; Ops_t, Opcode, Commutative, RecipeTys &gt;" name="llvm::VPlanPatternMatch::Recipe_match&lt; Ops_t, Opcode, Commutative, RecipeTys &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,737,244,792"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="562,80,782,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,721,133,634,156,521,174,461,198,401,228,344,266,292,297,261,332,233,408,187,487,153,561,129,562,134,489,158,410,192,335,237,300,265,270,296,232,347,202,403,179,462,161,522,139,635,130,722"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="583,225,762,296"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="142,721,192,628,226,576,266,528,347,454,436,389,523,335,597,294,599,299,525,340,439,394,350,458,270,532,230,579,196,631,147,724"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="574,504,771,575"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="200,728,267,698,577,573,579,578,269,703,202,732"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="547,747,798,817"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="259,766,547,775,547,781,259,772"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="579,842,766,928"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="168,801,214,836,241,851,269,863,348,884,430,893,509,895,578,892,578,898,509,901,430,899,347,889,267,869,238,856,211,840,164,805"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="544,951,801,1037"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="141,806,160,851,187,901,223,948,245,969,269,985,289,993,316,999,385,1005,464,1006,543,1002,544,1007,465,1011,385,1011,316,1004,288,998,266,990,241,973,219,952,182,904,155,853,137,808"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="570,1061,775,1132"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="134,808,147,870,172,945,189,982,211,1018,238,1049,269,1075,303,1095,340,1109,379,1118,419,1123,497,1124,569,1117,569,1122,498,1130,418,1129,378,1123,339,1114,301,1100,266,1080,234,1053,207,1021,185,985,167,947,142,872,129,809"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="1152,5,1361,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="798,90,1152,50,1153,55,799,96"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="1149,100,1364,186"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="753,216,824,189,908,170,994,156,1149,143,1149,148,995,162,909,175,826,194,755,221"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="1132,210,1381,311"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="778,258,1132,258,1132,263,778,263"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="1148,336,1365,436"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="724,492,771,460,824,433,907,408,992,393,1075,385,1148,381,1148,387,1075,390,993,398,908,414,826,438,773,464,727,497"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="1124,460,1390,576"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="786,533,1123,520,1123,526,786,538"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="1119,599,1394,730"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="740,581,781,603,826,621,900,639,976,652,1119,663,1119,668,975,657,898,645,824,626,779,608,737,585"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="1138,754,1376,855"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="813,785,1137,797,1137,803,813,790"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="1138,880,1376,980"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="797,824,803,828,811,838,815,848,819,857,827,865,862,885,901,901,982,923,1063,933,1137,935,1137,941,1062,938,981,928,899,906,860,890,823,869,814,860,810,850,807,841,799,832,794,828"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="1151,1004,1362,1120"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="781,919,803,938,813,956,815,973,816,989,827,1004,863,1028,902,1046,944,1060,987,1069,1073,1076,1151,1074,1151,1079,1072,1082,986,1074,942,1065,900,1051,860,1032,823,1008,811,991,809,974,808,957,799,941,778,923"/>
+</map>

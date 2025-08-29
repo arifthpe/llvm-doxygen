@@ -1,0 +1,5 @@
+<map id="llvm::VPlanPatternMatch::m_Intrinsic_Ty&lt; T0, T1, T2 &gt;" name="llvm::VPlanPatternMatch::m_Intrinsic_Ty&lt; T0, T1, T2 &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,132,172,188"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1VPlanPatternMatch_1_1m__Intrinsic__Ty.html" title="Intrinsic matches are combinations of ID matchers, and argument matchers." alt="" coords="5,5,172,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,77,91,132,86,132,86,77"/>
+</map>

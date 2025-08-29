@@ -1,0 +1,7 @@
+<map id="llvm::format_provider&lt; T, std::enable_if_t&lt; support::detail::use_double_formatter&lt; T &gt;::value &gt; &gt;" name="llvm::format_provider&lt; T, std::enable_if_t&lt; support::detail::use_double_formatter&lt; T &gt;::value &gt; &gt;">
+<area shape="rect" id="Node000001" title="Implementation of format_provider&lt;T&gt; for floating point types." alt="" coords="76,178,233,264"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1support_1_1detail_1_1HelperFunctions.html" title=" " alt="" coords="5,5,141,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,60,139,177,134,179,85,62"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1format__provider.html" title=" " alt="" coords="165,5,309,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,62,175,179,170,177,220,60"/>
+</map>

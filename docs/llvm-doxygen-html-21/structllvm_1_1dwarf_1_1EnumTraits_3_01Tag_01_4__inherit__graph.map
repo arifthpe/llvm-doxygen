@@ -1,0 +1,10 @@
+<map id="llvm::dwarf::EnumTraits&lt; Tag &gt;" name="llvm::dwarf::EnumTraits&lt; Tag &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="80,192,240,233"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,113,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,46,61,82,71,120,83,141,99,159,133,189,130,193,95,163,79,144,66,122,55,83,54,46"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1dwarf_1_1EnumTraits.html" title=" " alt="" coords="80,80,240,121"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="88,39,137,78,134,82,85,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="264,88,366,114"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="287,125,190,194,186,189,284,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,136,163,192,158,192,158,136"/>
+</map>

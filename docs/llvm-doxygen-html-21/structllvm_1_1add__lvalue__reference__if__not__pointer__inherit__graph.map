@@ -1,0 +1,5 @@
+<map id="llvm::add_lvalue_reference_if_not_pointer&lt; T, Enable &gt;" name="llvm::add_lvalue_reference_if_not_pointer&lt; T, Enable &gt;">
+<area shape="rect" id="Node000001" title="If T is a pointer, just return it. If it is not, return T&amp;." alt="" coords="5,49,190,89"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1add__lvalue__reference__if__not__pointer_3_01T_00_01std_1_1enable__if__t_3_01std_1fdbe4223958ae08648adef1812971f72.html" title=" " alt="" coords="359,34,545,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,66,358,66,358,72,205,72"/>
+</map>

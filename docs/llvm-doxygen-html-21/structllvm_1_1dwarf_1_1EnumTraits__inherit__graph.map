@@ -1,0 +1,17 @@
+<map id="llvm::dwarf::EnumTraits&lt; Enum &gt;" name="llvm::dwarf::EnumTraits&lt; Enum &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="162,169,322,210"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1dwarf_1_1EnumTraits_3_01Attribute_01_4.html" title=" " alt="" coords="496,5,657,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,155,299,114,321,94,345,77,381,59,420,46,495,30,496,35,422,51,383,64,348,81,324,98,302,118,268,159"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1dwarf_1_1EnumTraits_3_01Form_01_4.html" title=" " alt="" coords="496,71,657,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="292,160,345,136,422,115,495,100,497,105,423,120,347,142,294,164"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1dwarf_1_1EnumTraits_3_01Index_01_4.html" title=" " alt="" coords="496,136,657,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="338,178,496,162,496,167,338,183"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1dwarf_1_1EnumTraits_3_01LineNumberOps_01_4.html" title=" " alt="" coords="496,201,657,242"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="338,205,347,206,496,217,496,222,346,211,337,210"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1dwarf_1_1EnumTraits_3_01LocationAtom_01_4.html" title=" " alt="" coords="496,267,657,307"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="288,216,347,245,423,265,497,277,496,283,422,271,345,250,286,221"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1dwarf_1_1EnumTraits_3_01Tag_01_4.html" title=" " alt="" coords="496,332,657,373"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="266,221,301,264,323,285,348,302,383,319,422,332,497,346,496,351,420,337,381,324,345,307,320,289,297,268,262,224"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,177,113,202"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,187,162,187,162,192,128,192"/>
+</map>

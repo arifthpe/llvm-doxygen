@@ -1,0 +1,14 @@
+<map id="llvm::orc::MachOBuilderLoadCommand&lt; MachO::LC_LOAD_WEAK_DYLIB &gt;" name="llvm::orc::MachOBuilderLoadCommand&lt; MachO::LC_LOAD_WEAK_DYLIB &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="969,32,1173,88"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1orc_1_1MachOBuilderLoadCommandImplBase.html" title="MachOBuilder load command wrapper type." alt="" coords="5,41,211,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,39,366,22,540,8,730,4,826,8,920,17,979,29,978,34,920,23,826,13,730,9,540,13,367,27,226,45"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1orc_1_1MachOBuilderDylibLoadCommand.html" title=" " alt="" coords="689,32,920,88"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="227,58,689,57,689,63,227,64"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1orc_1_1MachOBuilderDylibLoadCommand.html" title=" " alt="" coords="260,81,451,122"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="227,78,260,83,259,88,226,83"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1orc_1_1MachOBuilderLoadCommand.html" title=" " alt="" coords="475,138,665,179"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="158,87,207,111,261,131,315,143,371,150,475,157,475,162,370,156,314,148,259,136,205,116,156,92"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="936,57,969,57,969,63,936,63"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="467,110,563,112,664,103,731,86,733,91,665,109,564,117,467,115"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="680,164,797,161,859,154,919,141,978,116,1029,86,1032,91,981,121,921,146,860,159,797,167,680,169"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::bitfields_details::ResolveUnderlyingType&lt; T, bool &gt;" name="llvm::bitfields_details::ResolveUnderlyingType&lt; T, bool &gt;">
+<area shape="rect" id="Node000001" title="Bitfield deals with the following type:" alt="" coords="5,45,173,101"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1bitfields__details_1_1ResolveUnderlyingType_3_01T_00_01false_01_4.html" title=" " alt="" coords="313,5,480,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,58,312,41,313,47,189,63"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1bitfields__details_1_1ResolveUnderlyingType_3_01bool_00_01false_01_4.html" title=" " alt="" coords="313,85,480,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,83,313,100,312,105,188,89"/>
+</map>

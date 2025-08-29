@@ -1,0 +1,10 @@
+<map id="llvm::detail::PointerSumTypeHelper&lt; TagT, MemberTs &gt;::Min&lt; V &gt;" name="llvm::detail::PointerSumTypeHelper&lt; TagT, MemberTs &gt;::Min&lt; V &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="508,45,703,100"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,176,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,31,225,30,322,26,420,30,453,35,485,42,509,47,508,52,484,47,452,40,419,35,322,31,225,35,191,37"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1PointerSumTypeHelper_1_1Min.html" title=" " alt="" coords="225,45,419,100"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="191,52,225,57,224,62,190,57"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="249,124,395,165"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="410,120,507,95,508,100,411,125"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="435,70,508,70,508,75,435,75"/>
+</map>

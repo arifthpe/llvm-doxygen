@@ -1,0 +1,10 @@
+<map id="llvm::detail::UniqueFunctionBase&lt; ReturnT, ParamTs &gt;::enable_if_t&lt; sizeof(T)&lt;=2 *sizeof(void *)&gt; &gt;" name="llvm::detail::UniqueFunctionBase&lt; ReturnT, ParamTs &gt;::enable_if_t&lt; sizeof(T)&lt;=2 *sizeof(void *)&gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="555,56,739,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,32,113,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,27,210,13,312,4,423,6,478,12,532,23,566,36,597,53,595,57,564,41,531,28,477,17,422,11,312,10,211,19,128,32"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1UniqueFunctionBase_1_1IsSizeLessThanThresholdT.html" title=" " alt="" coords="162,45,350,116"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="128,54,162,61,161,66,127,60"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="206,140,307,165"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="322,140,554,103,555,108,323,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="366,86,374,87,555,89,555,95,374,92,365,92"/>
+</map>

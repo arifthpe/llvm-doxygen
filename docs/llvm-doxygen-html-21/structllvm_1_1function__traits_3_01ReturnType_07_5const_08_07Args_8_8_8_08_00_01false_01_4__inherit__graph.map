@@ -1,0 +1,8 @@
+<map id="llvm::function_traits&lt; ReturnType(*const)(Args...), false &gt;" name="llvm::function_traits&lt; ReturnType(*const)(Args...), false &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="561,41,707,97"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1function__traits.html" title=" " alt="" coords="344,82,512,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="527,84,560,78,561,83,528,89"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1function__traits.html" title="This class provides various trait information about a callable object." alt="" coords="5,47,141,88"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="156,51,164,50,273,46,381,47,561,59,561,64,381,52,273,51,165,56,157,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="156,73,344,91,343,97,156,78"/>
+</map>

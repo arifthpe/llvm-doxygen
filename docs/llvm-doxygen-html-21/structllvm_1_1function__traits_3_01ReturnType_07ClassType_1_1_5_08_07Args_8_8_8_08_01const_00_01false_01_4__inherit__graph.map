@@ -1,0 +1,5 @@
+<map id="llvm::function_traits&lt; ReturnType(ClassType::*)(Args...) const, false &gt;" name="llvm::function_traits&lt; ReturnType(ClassType::*)(Args...) const, false &gt;">
+<area shape="rect" id="Node000001" title="Overload for class function types." alt="" coords="5,137,175,193"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1function__traits.html" title="This class provides various trait information about a callable object." alt="" coords="22,5,158,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,62,93,137,87,137,87,62"/>
+</map>

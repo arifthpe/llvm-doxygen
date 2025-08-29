@@ -1,0 +1,7 @@
+<map id="llvm::detail::ConstantLog2&lt; N &gt;" name="llvm::detail::ConstantLog2&lt; N &gt;">
+<area shape="rect" id="Node000001" title="A tiny meta function to compute the log2 of a compile time constant." alt="" coords="5,110,213,136"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1ConstantLog2_3_011_01_4.html" title=" " alt="" coords="7,207,211,233"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,151,112,206,106,206,106,151"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="30,5,188,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,77,112,110,106,110,106,77"/>
+</map>

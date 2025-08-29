@@ -1,0 +1,5 @@
+<map id="llvm::outliner::OutlinedFunction" name="llvm::outliner::OutlinedFunction">
+<area shape="rect" id="Node000001" title="The information necessary to create an outlined function for some class of candidate." alt="" coords="24,5,175,46"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1outliner_1_1GlobalOutlinedFunction.html" title="The information necessary to create an outlined function that is matched globally." alt="" coords="5,94,194,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,62,102,94,97,94,97,62"/>
+</map>

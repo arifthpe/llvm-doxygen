@@ -1,0 +1,23 @@
+<map id="llvm::jitlink::aarch32::FixupInfo&lt; Kind &gt;" name="llvm::jitlink::aarch32::FixupInfo&lt; Kind &gt;">
+<area shape="rect" id="Node000001" title="Collection of named constants per fixup kind." alt="" coords="5,319,143,359"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1jitlink_1_1aarch32_1_1FixupInfo_3_01Arm__Call_01_4.html" title=" " alt="" coords="384,24,544,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,303,79,250,94,187,105,155,121,125,141,97,165,73,189,57,216,44,273,30,331,26,384,28,383,33,331,31,274,35,218,49,192,61,168,77,145,100,125,127,110,157,99,189,85,251,79,303"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1jitlink_1_1aarch32_1_1FixupInfo_3_01Arm__Jump24_01_4.html" title=" " alt="" coords="372,89,556,130"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="79,303,90,266,107,224,131,183,165,149,214,122,267,107,321,100,372,98,372,104,322,105,268,112,216,127,168,153,136,186,111,226,95,268,85,305"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1jitlink_1_1aarch32_1_1FixupInfo_3_01Arm__MovtAbs_01_4.html" title=" " alt="" coords="369,155,558,195"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="92,304,122,262,142,241,165,225,214,202,267,186,320,177,369,172,369,177,320,182,268,191,216,207,168,229,146,245,126,265,96,307"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1jitlink_1_1aarch32_1_1FixupInfo_3_01Arm__MovwAbsNC_01_4.html" title=" " alt="" coords="356,220,572,261"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="119,308,166,287,262,262,355,247,356,252,263,267,168,292,122,313"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1jitlink_1_1aarch32_1_1FixupInfo_3_01Thumb__Call_01_4.html" title=" " alt="" coords="375,285,552,326"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="158,329,374,310,375,316,159,334"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1jitlink_1_1aarch32_1_1FixupInfo_3_01Thumb__Jump24_01_4.html" title=" " alt="" coords="364,351,564,391"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="158,354,167,355,268,364,363,368,363,373,268,369,166,360,158,359"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1jitlink_1_1aarch32_1_1FixupInfo_3_01Thumb__MovtAbs_01_4.html" title=" " alt="" coords="361,416,567,457"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="115,366,140,382,168,395,215,410,265,420,361,431,360,437,264,426,214,415,166,400,137,387,112,371"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1jitlink_1_1aarch32_1_1FixupInfo_3_01Thumb__MovtPrel_01_4.html" title=" " alt="" coords="361,481,567,522"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="94,372,124,417,145,439,168,457,214,478,263,492,313,500,360,503,360,508,313,505,262,497,212,483,165,461,141,443,120,421,89,374"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1jitlink_1_1aarch32_1_1FixupInfo_3_01Thumb__MovwAbsNC_01_4.html" title=" " alt="" coords="348,547,580,587"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="84,373,94,411,111,454,135,495,168,529,209,552,255,566,301,573,347,575,347,581,301,579,253,571,207,557,165,533,131,499,106,456,89,413,79,375"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1jitlink_1_1aarch32_1_1FixupInfo_3_01Thumb__MovwPrelNC_01_4.html" title=" " alt="" coords="348,612,580,653"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="79,374,84,427,98,490,110,522,125,553,144,580,168,604,209,627,254,641,301,647,347,647,347,653,301,652,253,646,207,632,165,608,140,584,120,556,105,525,93,492,79,428,73,375"/>
+</map>

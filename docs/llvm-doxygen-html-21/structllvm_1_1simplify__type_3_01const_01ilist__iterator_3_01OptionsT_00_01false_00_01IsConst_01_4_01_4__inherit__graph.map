@@ -1,0 +1,8 @@
+<map id="llvm::simplify_type&lt; const ilist_iterator&lt; OptionsT, false, IsConst &gt; &gt;" name="llvm::simplify_type&lt; const ilist_iterator&lt; OptionsT, false, IsConst &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="570,48,768,103"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1simplify__type_3_01ilist__iterator_3_01OptionsT_00_01false_00_01IsConst_01_4_01_4.html" title="Allow ilist_iterators to convert into pointers to a node automatically when used by the dyn_cast,..." alt="" coords="340,85,508,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="523,95,569,88,570,93,524,100"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1simplify__type.html" title="Define a template that can be specialized by smart pointers to reflect the fact that they are automat..." alt="" coords="5,54,136,95"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="151,54,159,53,269,46,380,47,570,61,569,66,379,52,269,52,160,58,151,59"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,95,160,96,253,107,340,110,340,116,253,112,159,102,150,100"/>
+</map>

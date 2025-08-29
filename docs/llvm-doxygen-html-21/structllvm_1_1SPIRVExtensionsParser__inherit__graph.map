@@ -1,0 +1,10 @@
+<map id="llvm::SPIRVExtensionsParser" name="llvm::SPIRVExtensionsParser">
+<area shape="rect" id="Node000001" title="Command line parser for toggling SPIR&#45;V extensions." alt="" coords="8,302,205,328"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="24,197,189,253"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,269,109,302,104,302,104,269"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1cl_1_1generic__parser__base.html" title=" " alt="" coords="5,5,197,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,46,108,197,103,197,99,46"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="122,80,309,106"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="134,37,198,78,195,82,131,42"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="198,120,131,198,127,195,194,116"/>
+</map>

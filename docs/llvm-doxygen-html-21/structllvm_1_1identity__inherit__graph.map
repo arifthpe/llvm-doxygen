@@ -1,0 +1,9 @@
+<map id="llvm::identity&lt; Ty &gt;" name="llvm::identity&lt; Ty &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,5,230,31"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1identity.html" title=" " alt="" coords="5,102,142,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,44,87,103,83,100,139,41"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1identity.html" title=" " alt="" coords="165,102,336,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,41,241,100,238,103,182,44"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1identity.html" title=" " alt="" coords="11,199,136,239"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,143,76,198,71,198,71,143"/>
+</map>

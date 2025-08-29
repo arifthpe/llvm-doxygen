@@ -1,0 +1,15 @@
+<map id="llvm::isa_impl_cl&lt; To, From &gt;" name="llvm::isa_impl_cl&lt; To, From &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,171,132,211"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1isa__impl__cl_3_01To_00_01From_01_5_01_4.html" title=" " alt="" coords="361,7,487,47"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,156,112,112,132,90,154,73,205,49,259,34,313,26,360,23,360,28,313,31,260,39,207,54,157,77,135,94,116,115,88,159"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1isa__impl__cl_3_01To_00_01From_01_5const_01_4.html" title=" " alt="" coords="359,72,489,113"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,160,155,138,207,121,261,109,358,95,359,100,262,114,208,127,157,143,113,165"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1isa__impl__cl_3_01To_00_01const_01From_01_5_01_4.html" title=" " alt="" coords="357,137,491,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="147,181,356,161,356,167,147,186"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1isa__impl__cl_3_01To_00_01const_01From_01_5const_01_4.html" title=" " alt="" coords="341,203,507,243"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="147,206,156,207,251,216,341,220,340,225,251,222,155,213,146,211"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1isa__impl__cl_3_01To_00_01const_01From_01_4.html" title=" " alt="" coords="361,268,487,309"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="107,219,131,235,157,248,209,264,262,275,360,285,360,290,262,280,207,269,155,253,128,239,104,223"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1isa__impl__cl_3_01To_00_01const_01std_1_1unique__ptr_3_01From_01_4_01_4.html" title=" " alt="" coords="350,334,498,390"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="83,225,111,281,131,309,157,331,203,352,253,364,304,369,350,368,350,373,304,374,253,369,201,357,154,335,127,312,106,284,78,227"/>
+</map>

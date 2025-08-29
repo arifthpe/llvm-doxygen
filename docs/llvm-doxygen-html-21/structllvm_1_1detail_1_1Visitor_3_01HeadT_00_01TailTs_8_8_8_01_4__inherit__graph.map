@@ -1,0 +1,10 @@
+<map id="llvm::detail::Visitor&lt; HeadT, TailTs... &gt;" name="llvm::detail::Visitor&lt; HeadT, TailTs... &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="483,58,619,98"/>
+<area shape="rect" id="Node000002" href="$classremove__cvref__t.html" title=" " alt="" coords="260,5,434,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,33,484,56,482,61,407,39"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1Visitor.html" title=" " alt="" coords="282,126,412,166"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="424,118,487,97,489,102,425,123"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1Visitor.html" title=" " alt="" coords="5,91,135,132"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="150,95,158,94,334,81,483,76,483,82,334,87,159,99,151,100"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,119,282,135,282,141,150,124"/>
+</map>
