@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1orc_1_1LinkGraphLinkingLayer_1_1Plugin.html" title="Plugin instances can be added to the ObjectLinkingLayer to receive callbacks when code is loaded or e..." alt="" coords="5,92,185,133"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1orc_1_1EHFrameRegistrationPlugin.html" title="Adds AllocationActions to register and deregister eh&#45;frame sections in the absence of native Platform..." alt="" coords="238,5,443,46"/>
+<area shape="poly" id="edge5093_Node000000_Node000001" title=" " alt="" coords="158,83,232,55,266,44,267,49,234,60,160,88"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1PerfSupportPlugin.html" title="Log perf jitdump events for each object (see https://git.kernel.org/pub/scm/linux/kernel/git/torvalds..." alt="" coords="248,70,432,96"/>
+<area shape="poly" id="edge5094_Node000000_Node000002" title=" " alt="" coords="200,97,247,91,248,97,201,102"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1UnwindInfoRegistrationPlugin.html" title=" " alt="" coords="233,120,448,161"/>
+<area shape="poly" id="edge5095_Node000000_Node000003" title=" " alt="" coords="201,122,233,125,232,131,200,127"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1VTuneSupportPlugin.html" title=" " alt="" coords="241,185,440,210"/>
+<area shape="poly" id="edge5096_Node000000_Node000004" title=" " alt="" coords="153,137,234,170,275,182,274,187,232,175,151,142"/>
+</map>

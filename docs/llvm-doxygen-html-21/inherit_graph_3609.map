@@ -1,0 +1,57 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1objcopy_1_1elf_1_1Binary.html" title=" " alt="" coords="12,133,132,174"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1object_1_1Archive.html" title=" " alt="" coords="220,169,360,194"/>
+<area shape="poly" id="edge4947_Node000000_Node000001" title=" " alt="" coords="148,161,219,170,219,175,147,166"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1object_1_1MachOUniversalBinary.html" title=" " alt="" coords="193,5,386,46"/>
+<area shape="poly" id="edge4949_Node000000_Node000004" title=" " alt="" coords="101,121,140,87,185,55,209,44,212,49,188,60,143,91,105,125"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1object_1_1MinidumpFile.html" title="A class providing access to the contents of a minidump file." alt="" coords="203,70,376,96"/>
+<area shape="poly" id="edge4950_Node000000_Node000005" title=" " alt="" coords="132,124,186,104,224,94,225,99,187,110,134,129"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1object_1_1OffloadBinary.html" title="A simple binary serialization of an offloading file." alt="" coords="202,120,378,145"/>
+<area shape="poly" id="edge4951_Node000000_Node000006" title=" " alt="" coords="147,144,201,138,202,144,148,149"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1object_1_1SymbolicFile.html" title=" " alt="" coords="204,317,376,342"/>
+<area shape="poly" id="edge4952_Node000000_Node000007" title=" " alt="" coords="139,182,141,184,152,200,159,216,164,247,169,276,176,290,188,304,205,314,202,319,185,308,172,293,164,278,158,248,154,218,148,203,137,187,135,186"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1object_1_1TapiUniversal.html" title=" " alt="" coords="202,218,378,244"/>
+<area shape="poly" id="edge4968_Node000000_Node000023" title=" " alt="" coords="131,179,188,205,223,215,222,220,186,209,129,183"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1object_1_1WindowsResource.html" title=" " alt="" coords="187,268,393,293"/>
+<area shape="poly" id="edge4969_Node000000_Node000024" title=" " alt="" coords="137,181,141,184,156,203,164,221,172,238,188,254,208,265,205,269,185,258,168,241,159,223,152,206,137,188,134,185"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1object_1_1BigArchive.html" title=" " alt="" coords="456,169,616,194"/>
+<area shape="poly" id="edge4948_Node000001_Node000002" title=" " alt="" coords="375,179,456,179,456,184,375,184"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1object_1_1COFFImportFile.html" title=" " alt="" coords="441,390,631,416"/>
+<area shape="poly" id="edge4953_Node000007_Node000008" title=" " alt="" coords="344,345,442,376,480,387,479,392,440,382,343,350"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1object_1_1IRObjectFile.html" title=" " alt="" coords="452,242,621,268"/>
+<area shape="poly" id="edge4954_Node000007_Node000009" title=" " alt="" coords="374,309,392,303,416,290,440,277,472,266,474,271,442,281,418,295,394,308,375,315"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1object_1_1ObjectFile.html" title="This class is the base class for all object file types." alt="" coords="458,292,614,317"/>
+<area shape="poly" id="edge4955_Node000007_Node000010" title=" " alt="" coords="391,317,458,310,458,315,392,322"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1object_1_1TapiFile.html" title=" " alt="" coords="466,341,607,366"/>
+<area shape="poly" id="edge4967_Node000007_Node000022" title=" " alt="" coords="392,337,465,344,465,349,391,342"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1object_1_1COFFObjectFile.html" title=" " alt="" coords="688,168,880,193"/>
+<area shape="poly" id="edge4956_Node000010_Node000011" title=" " alt="" coords="624,282,630,278,646,260,653,241,660,221,678,202,698,191,700,196,681,206,665,224,658,243,650,263,633,282,627,286"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1object_1_1ELFObjectFileBase.html" title=" " alt="" coords="679,217,889,242"/>
+<area shape="poly" id="edge4957_Node000010_Node000012" title=" " alt="" coords="613,284,630,278,654,265,678,251,712,241,714,246,680,256,657,269,632,283,614,289"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1object_1_1GOFFObjectFile.html" title=" " alt="" coords="688,266,880,292"/>
+<area shape="poly" id="edge4963_Node000010_Node000018" title=" " alt="" coords="629,292,688,286,688,291,630,297"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1object_1_1MachOObjectFile.html" title=" " alt="" coords="685,316,883,341"/>
+<area shape="poly" id="edge4964_Node000010_Node000019" title=" " alt="" coords="630,311,685,316,685,321,629,316"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1object_1_1WasmObjectFile.html" title=" " alt="" coords="688,365,880,390"/>
+<area shape="poly" id="edge4965_Node000010_Node000020" title=" " alt="" coords="614,320,632,326,657,339,680,351,714,362,713,367,678,356,654,343,630,331,612,325"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1object_1_1XCOFFObjectFile.html" title=" " alt="" coords="684,414,884,440"/>
+<area shape="poly" id="edge4966_Node000010_Node000021" title=" " alt="" coords="627,322,633,326,650,345,658,365,665,384,681,401,700,411,698,416,678,405,660,386,653,367,646,348,630,330,624,327"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1object_1_1ELFObjectFile.html" title=" " alt="" coords="937,79,1116,119"/>
+<area shape="poly" id="edge4958_Node000012_Node000013" title=" " alt="" coords="881,208,887,204,903,187,911,169,919,150,935,130,955,118,958,122,938,134,923,152,916,171,908,190,890,208,884,212"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1object_1_1ELFObjectFile.html" title=" " alt="" coords="937,144,1116,185"/>
+<area shape="poly" id="edge4959_Node000012_Node000014" title=" " alt="" coords="860,210,888,203,958,183,960,188,889,208,861,215"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1object_1_1ELFObjectFile.html" title=" " alt="" coords="937,209,1116,250"/>
+<area shape="poly" id="edge4960_Node000012_Node000015" title=" " alt="" coords="904,227,936,227,936,232,904,232"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1object_1_1ELFObjectFile.html" title=" " alt="" coords="937,275,1116,315"/>
+<area shape="poly" id="edge4961_Node000012_Node000016" title=" " alt="" coords="861,244,889,251,960,271,958,277,888,256,860,249"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1object_1_1ELFObjectFile.html" title=" " alt="" coords="937,340,1116,381"/>
+<area shape="poly" id="edge4962_Node000012_Node000017" title=" " alt="" coords="884,247,890,252,908,270,916,289,923,307,938,325,958,337,955,342,935,329,919,310,911,291,903,273,887,256,881,252"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1object_1_1Binary.html" title=" " alt="" coords="5,198,139,224"/>
+<area shape="poly" id="edge4970_Node000003_Node000001" title=" " alt="" coords="153,197,219,188,219,194,154,203"/>
+<area shape="poly" id="edge4971_Node000003_Node000004" title=" " alt="" coords="133,188,137,184,149,168,155,153,160,121,164,88,171,72,185,56,200,45,203,49,189,60,176,75,169,90,165,121,161,154,153,171,141,187,136,192"/>
+<area shape="poly" id="edge4972_Node000003_Node000005" title=" " alt="" coords="131,188,137,184,152,164,160,145,167,124,185,105,205,94,207,99,188,109,172,127,165,146,157,167,141,188,134,192"/>
+<area shape="poly" id="edge4973_Node000003_Node000006" title=" " alt="" coords="125,189,137,183,161,168,186,154,218,143,219,148,188,159,164,173,140,188,127,194"/>
+<area shape="poly" id="edge4974_Node000003_Node000007" title=" " alt="" coords="97,233,137,270,188,303,215,314,213,319,185,308,134,274,94,237"/>
+<area shape="poly" id="edge4975_Node000003_Node000023" title=" " alt="" coords="155,216,202,220,202,226,154,221"/>
+<area shape="poly" id="edge4976_Node000003_Node000024" title=" " alt="" coords="118,228,187,254,226,264,224,270,186,259,116,233"/>
+</map>

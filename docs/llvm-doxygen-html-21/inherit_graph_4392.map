@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,5,200,61"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1ExtraFunctionPassManager.html" title="A pass manager to run a set of extra function passes if the ShouldRunExtraPasses marker analysis is p..." alt="" coords="248,13,462,54"/>
+<area shape="poly" id="edge5419_Node000000_Node000001" title=" " alt="" coords="215,30,247,30,247,36,215,36"/>
+</map>
