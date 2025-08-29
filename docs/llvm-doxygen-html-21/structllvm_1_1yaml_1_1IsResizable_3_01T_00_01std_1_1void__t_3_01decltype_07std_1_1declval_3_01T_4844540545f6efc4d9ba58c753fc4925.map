@@ -1,0 +1,10 @@
+<map id="llvm::yaml::IsResizable&lt; T, std::void_t&lt; decltype(std::declval&lt; T &gt;().resize(0))&gt; &gt;" name="llvm::yaml::IsResizable&lt; T, std::void_t&lt; decltype(std::declval&lt; T &gt;().resize(0))&gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="18,212,228,268"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,113,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,47,64,82,71,120,89,169,110,211,105,213,84,171,66,122,59,83,56,47"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1yaml_1_1IsResizable.html" title=" " alt="" coords="80,80,238,121"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="88,39,136,78,133,82,84,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="298,88,399,114"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="352,129,348,160,341,176,332,190,315,201,291,211,229,226,228,221,289,206,312,197,328,186,337,174,343,159,347,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,135,127,146,121,179,122,212,116,212,116,179,122,144,128,132"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="llvm::yaml::SequenceTraits&lt; SmallVectorImpl&lt; T &gt;, std::enable_if_t&lt; CheckIsBool&lt; SequenceElementTraits&lt; T &gt;::flow &gt;::value &gt; &gt;" name="llvm::yaml::SequenceTraits&lt; SmallVectorImpl&lt; T &gt;, std::enable_if_t&lt; CheckIsBool&lt; SequenceElementTraits&lt; T &gt;::flow &gt;::value &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1501,118,1705,204"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1SequenceTraitsImpl.html" title=" " alt="" coords="1029,73,1221,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1237,106,1353,111,1477,125,1501,129,1500,134,1477,130,1353,116,1237,111"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1yaml_1_1IsFlowSequenceBase.html" title=" " alt="" coords="371,104,558,145"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="573,124,613,125,794,125,1005,114,1028,113,1028,118,1005,119,794,130,613,130,573,129"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1yaml_1_1SequenceTraitsImpl.html" title=" " alt="" coords="613,75,794,116"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="573,109,613,104,613,109,573,114"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1yaml_1_1IsFlowSequenceBase.html" title=" " alt="" coords="6,104,193,145"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="208,122,371,122,371,127,208,127"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1yaml_1_1IsResizableBase.html" title=" " alt="" coords="365,28,564,69"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="579,28,672,19,780,16,894,21,950,29,1005,41,1040,53,1073,70,1070,75,1038,58,1004,46,949,34,893,27,780,21,673,24,580,33"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="580,69,613,75,612,80,579,74"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1yaml_1_1IsResizableBase.html" title=" " alt="" coords="5,28,194,69"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="209,46,364,46,364,51,209,51"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="809,104,818,104,1028,108,1028,113,818,110,809,109"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1yaml_1_1SequenceTraits.html" title="This class should be specialized by any type that needs to be converted to/from a YAML sequence." alt="" coords="1035,192,1215,233"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="1231,223,1350,227,1414,224,1476,214,1517,201,1519,207,1478,219,1414,229,1350,233,1231,228"/>
+</map>

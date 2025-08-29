@@ -1,0 +1,5 @@
+<map id="llvm::yaml::SequenceTraits&lt; SmallVector&lt; memprof::GUIDHex64 &gt; &gt;" name="llvm::yaml::SequenceTraits&lt; SmallVector&lt; memprof::GUIDHex64 &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,137,186,193"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1SequenceTraits.html" title="This class should be specialized by any type that needs to be converted to/from a YAML sequence." alt="" coords="5,5,186,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,62,98,137,93,137,93,62"/>
+</map>

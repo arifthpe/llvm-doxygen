@@ -1,0 +1,5 @@
+<map id="llvm::yaml::MappingTraits&lt; WasmYAML::ProducerEntry &gt;" name="llvm::yaml::MappingTraits&lt; WasmYAML::ProducerEntry &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,102,213,143"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1MappingTraits.html" title="This class should be specialized by any type that needs to be converted to/from a YAML mapping." alt="" coords="7,5,211,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,46,112,102,106,102,106,46"/>
+</map>

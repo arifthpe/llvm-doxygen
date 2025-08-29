@@ -1,0 +1,5 @@
+<map id="llvm::yaml::ScalarTraits&lt; memprof::GUIDHex64 &gt;" name="llvm::yaml::ScalarTraits&lt; memprof::GUIDHex64 &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,182,158"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1ScalarTraits.html" title="This class should be specialized by type that requires custom conversion to/from a yaml scalar." alt="" coords="14,5,173,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,61,96,117,91,117,91,61"/>
+</map>

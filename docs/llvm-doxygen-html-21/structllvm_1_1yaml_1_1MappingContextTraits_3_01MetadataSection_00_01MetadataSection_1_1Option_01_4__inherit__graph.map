@@ -1,0 +1,5 @@
+<map id="llvm::yaml::MappingContextTraits&lt; MetadataSection, MetadataSection::Option &gt;" name="llvm::yaml::MappingContextTraits&lt; MetadataSection, MetadataSection::Option &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,137,190,193"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1MappingContextTraits.html" title="This class is similar to MappingTraits&lt;T&gt; but allows you to pass in additional context for each map o..." alt="" coords="5,5,190,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,62,100,137,95,137,95,62"/>
+</map>
