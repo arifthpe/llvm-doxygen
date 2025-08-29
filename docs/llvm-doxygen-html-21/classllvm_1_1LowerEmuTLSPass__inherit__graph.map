@@ -1,0 +1,7 @@
+<map id="llvm::LowerEmuTLSPass" name="llvm::LowerEmuTLSPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,207,175,233"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="9,117,171,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,173,93,207,87,207,87,173"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="22,5,158,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,61,93,117,87,117,87,61"/>
+</map>

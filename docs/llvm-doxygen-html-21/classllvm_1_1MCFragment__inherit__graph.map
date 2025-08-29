@@ -1,0 +1,33 @@
+<map id="llvm::MCFragment" name="llvm::MCFragment">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,243,135,268"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCAlignFragment.html" title=" " alt="" coords="210,95,368,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,228,125,177,151,151,181,129,209,117,211,122,184,134,155,155,129,181,89,231"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MCBoundaryAlignFragment.html" title="Represents required padding such that a particular other set of fragments does not cross a particular..." alt="" coords="183,144,396,170"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,231,136,203,182,178,212,168,214,173,184,183,139,208,100,235"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MCEncodedFragment.html" title="Interface implemented by fragments that contain encoded instructions and/or data." alt="" coords="199,193,380,219"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="145,236,228,217,229,222,146,241"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1MCFillFragment.html" title=" " alt="" coords="216,243,362,268"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="150,253,216,253,216,258,150,258"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1MCNopsFragment.html" title=" " alt="" coords="209,292,370,318"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="146,270,229,289,228,294,145,275"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1MCOrgFragment.html" title=" " alt="" coords="214,341,364,367"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="100,276,139,303,184,328,215,338,213,343,182,333,136,308,97,280"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1MCSymbolIdFragment.html" title="Represents a symbol table index fragment." alt="" coords="197,391,382,416"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="89,280,129,330,155,356,184,377,207,388,205,393,181,382,151,360,125,334,85,283"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MCCVDefRangeFragment.html" title="Fragment representing the .cv_def_range directive." alt="" coords="458,5,665,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="391,183,394,180,408,164,415,148,417,113,420,77,428,59,442,42,460,29,463,34,446,45,432,62,425,78,423,113,420,149,412,167,398,184,394,187"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MCCVInlineLineTableFragment.html" title="Fragment representing the binary annotations produced by the .cv_inline_linetable directive." alt="" coords="472,55,651,96"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="389,184,394,180,410,163,418,144,425,124,442,105,470,90,473,95,446,110,430,127,423,146,415,166,398,184,392,188"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MCDataFragment.html" title="Fragment for data and encoded instructions." alt="" coords="482,120,640,146"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="376,186,395,180,419,167,443,154,482,143,483,148,445,159,421,172,397,185,377,191"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1MCDwarfCallFrameFragment.html" title=" " alt="" coords="449,169,673,195"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="395,194,449,189,449,195,395,200"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1MCDwarfLineAddrFragment.html" title=" " alt="" coords="454,219,669,244"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="395,213,453,219,453,224,395,219"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1MCLEBFragment.html" title=" " alt="" coords="484,268,638,294"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="378,221,397,228,421,241,445,254,484,266,483,271,443,259,419,246,395,233,376,226"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1MCPseudoProbeAddrFragment.html" title=" " alt="" coords="444,317,678,343"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="392,224,398,228,415,247,422,267,430,287,446,304,465,314,462,319,442,308,425,289,417,269,410,250,394,232,389,229"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1MCRelaxableFragment.html" title="A relaxable fragment holds on to its MCInst, since it may need to be relaxed during the assembler lay..." alt="" coords="468,367,655,392"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="394,225,398,228,411,244,419,260,423,293,426,324,433,339,446,353,469,367,466,372,442,358,429,342,421,326,417,293,414,262,407,247,394,232,391,230"/>
+</map>

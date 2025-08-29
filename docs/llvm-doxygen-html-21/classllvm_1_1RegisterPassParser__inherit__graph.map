@@ -1,0 +1,14 @@
+<map id="llvm::RegisterPassParser&lt; RegistryClass &gt;" name="llvm::RegisterPassParser&lt; RegistryClass &gt;">
+<area shape="rect" id="Node000001" title="RegisterPassParser class &#45; Handle the addition of new machine passes." alt="" coords="873,66,1043,106"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MachinePassRegistryListener.html" title=" " alt="" coords="642,21,824,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="840,64,873,69,872,74,839,69"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MachinePassRegistryListener.html" title="MachinePassRegistryListener &#45; Listener to adds and removals of nodes in registration list." alt="" coords="249,28,430,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,46,642,46,642,51,446,51"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="643,100,823,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="838,102,872,96,873,102,839,107"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1cl_1_1generic__parser__base.html" title=" " alt="" coords="5,125,197,151"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="212,132,643,120,643,126,213,138"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="246,157,433,183"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="213,150,246,155,245,160,212,156"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="449,181,532,182,576,179,618,172,660,158,697,139,699,144,662,163,619,177,576,184,533,188,449,186"/>
+</map>

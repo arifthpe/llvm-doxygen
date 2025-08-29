@@ -1,0 +1,11 @@
+<map id="llvm::MCSuperRegIterator" name="llvm::MCSuperRegIterator">
+<area shape="rect" id="Node000001" title="MCSuperRegIterator enumerates all super&#45;registers of Reg." alt="" coords="1036,80,1209,106"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="775,50,987,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1002,90,1036,90,1036,95,1002,95"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="288,5,509,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="525,39,636,44,752,57,775,61,774,66,751,62,635,49,525,44"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="276,109,521,180"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="537,157,643,158,697,154,751,146,792,133,794,139,752,151,698,160,643,164,537,163"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,109,227,180"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="242,142,276,142,276,147,242,147"/>
+</map>

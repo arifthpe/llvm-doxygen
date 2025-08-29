@@ -1,0 +1,9 @@
+<map id="llvm::PointerSumType&lt; TagT, MemberTs &gt;" name="llvm::PointerSumType&lt; TagT, MemberTs &gt;">
+<area shape="rect" id="Node000001" title="A sum type over pointer&#45;like types." alt="" coords="5,211,155,252"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1PointerSumType.html" title=" " alt="" coords="586,35,738,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,196,105,167,123,136,147,106,177,83,228,59,281,42,337,32,392,27,498,28,586,38,585,43,498,33,393,32,337,37,283,47,230,64,180,87,151,110,128,139,109,169,96,198"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1PointerSumType.html" title=" " alt="" coords="506,174,819,289"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,229,505,229,505,234,170,234"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1PointerSumType.html" title=" " alt="" coords="508,367,816,528"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="91,266,102,304,119,347,145,388,161,406,180,420,217,441,257,457,299,468,342,475,427,479,508,474,508,480,427,485,341,480,298,473,256,462,215,446,177,425,158,410,141,391,115,349,97,306,86,267"/>
+</map>

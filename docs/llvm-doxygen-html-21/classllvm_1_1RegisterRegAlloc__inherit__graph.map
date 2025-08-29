@@ -1,0 +1,12 @@
+<map id="llvm::RegisterRegAlloc" name="llvm::RegisterRegAlloc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1206,14,1362,40"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RegisterRegAllocBase.html" title=" " alt="" coords="972,7,1157,47"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1172,24,1206,24,1206,30,1172,30"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MachinePassRegistryNode.html" title=" " alt="" coords="373,8,555,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="571,20,747,14,948,15,971,16,971,22,948,20,747,19,571,25"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1RegisterRegAllocBase.html" title="RegisterRegAllocBase class &#45; Track the registration of register allocators." alt="" coords="604,36,790,77"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="571,39,604,43,604,48,570,44"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MachinePassRegistryNode.html" title="MachinePassRegistryNode &#45; Machine pass node stored in registration list." alt="" coords="5,8,187,49"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="202,26,372,26,372,31,202,31"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="805,48,947,38,971,36,971,41,948,43,806,54"/>
+</map>

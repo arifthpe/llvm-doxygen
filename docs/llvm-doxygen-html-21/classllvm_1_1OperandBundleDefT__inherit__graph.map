@@ -1,0 +1,7 @@
+<map id="llvm::OperandBundleDefT&lt; InputTy &gt;" name="llvm::OperandBundleDefT&lt; InputTy &gt;">
+<area shape="rect" id="Node000001" title="A container for an operand bundle being viewed as a set of values rather than a set of uses." alt="" coords="103,5,274,46"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1OperandBundleDefT.html" title=" " alt="" coords="5,117,177,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,59,110,118,106,115,159,56"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1OperandBundleDefT.html" title=" " alt="" coords="201,117,373,158"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,56,271,115,268,118,214,59"/>
+</map>

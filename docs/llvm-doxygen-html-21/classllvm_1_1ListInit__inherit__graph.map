@@ -1,0 +1,20 @@
+<map id="llvm::ListInit" name="llvm::ListInit">
+<area shape="rect" id="Node000001" title="[AL, AH, CL] &#45; Represent a list of defs" alt="" coords="1674,110,1767,136"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TypedInit.html" title="This is the common superclass of types that have a specific, explicit type, stored in ValueTy." alt="" coords="1494,61,1600,86"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1610,88,1675,107,1673,112,1609,94"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1Init.html" title=" " alt="" coords="1164,61,1236,86"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1251,71,1494,71,1494,76,1251,76"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set." alt="" coords="1490,110,1604,136"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1620,120,1674,120,1674,125,1620,125"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1TrailingObjects.html" title=" " alt="" coords="1470,160,1625,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1624,152,1678,134,1680,139,1626,157"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="855,61,1096,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1112,122,1272,134,1446,155,1470,159,1469,164,1445,160,1272,139,1112,128"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="5,137,213,207"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="227,132,236,131,403,112,571,104,727,104,855,108,855,114,726,109,572,109,404,117,237,136,228,138"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="514,164,831,265"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="180,213,208,226,237,235,306,247,377,251,447,249,513,242,513,248,448,254,377,256,306,252,236,240,206,231,178,218"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1TrailingObjects.html" title="See the file comment for details on the usage of the TrailingObjects type." alt="" coords="1120,180,1280,220"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="1295,192,1469,182,1470,187,1295,197"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="847,207,1120,200,1120,205,847,213"/>
+</map>

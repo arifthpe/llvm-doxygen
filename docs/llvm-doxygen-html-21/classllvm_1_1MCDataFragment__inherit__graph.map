@@ -1,0 +1,7 @@
+<map id="llvm::MCDataFragment" name="llvm::MCDataFragment">
+<area shape="rect" id="Node000001" title="Fragment for data and encoded instructions." alt="" coords="17,153,174,178"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCEncodedFragment.html" title="Interface implemented by fragments that contain encoded instructions and/or data." alt="" coords="5,79,186,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,120,98,152,93,152,93,120"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MCFragment.html" title=" " alt="" coords="31,5,160,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,46,98,79,93,79,93,46"/>
+</map>

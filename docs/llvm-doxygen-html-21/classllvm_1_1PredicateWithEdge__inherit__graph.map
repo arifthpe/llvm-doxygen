@@ -1,0 +1,9 @@
+<map id="llvm::PredicateWithEdge" name="llvm::PredicateWithEdge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="84,79,249,105"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1PredicateBranch.html" title=" " alt="" coords="5,153,155,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,117,96,154,93,150,139,113"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1PredicateSwitch.html" title=" " alt="" coords="179,153,328,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,113,241,150,237,154,191,117"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1PredicateBase.html" title=" " alt="" coords="98,5,236,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,46,169,79,164,79,164,46"/>
+</map>

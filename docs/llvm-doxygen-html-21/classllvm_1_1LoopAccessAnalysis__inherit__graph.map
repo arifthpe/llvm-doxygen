@@ -1,0 +1,13 @@
+<map id="llvm::LoopAccessAnalysis" name="llvm::LoopAccessAnalysis">
+<area shape="rect" id="Node000001" title="This analysis provides dependence information for the memory accesses of a loop." alt="" coords="93,319,269,344"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="97,229,265,269"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,285,184,318,178,318,178,285"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,117,173,158"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,168,167,227,163,230,113,171"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="21,5,157,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="92,61,92,117,86,117,86,61"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="196,117,352,158"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="250,171,200,230,196,227,246,168"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="206,5,342,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="277,61,277,117,272,117,272,61"/>
+</map>

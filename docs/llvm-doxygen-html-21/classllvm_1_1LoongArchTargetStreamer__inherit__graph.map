@@ -1,0 +1,9 @@
+<map id="llvm::LoongArchTargetStreamer" name="llvm::LoongArchTargetStreamer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="106,79,310,105"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1LoongArchTargetAsmStreamer.html" title=" " alt="" coords="5,153,184,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,116,124,154,121,150,177,111"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1LoongArchTargetELFStreamer.html" title=" " alt="" coords="208,160,437,186"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="239,111,306,157,303,162,236,116"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCTargetStreamer.html" title="Target specific streamer interface." alt="" coords="126,5,290,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,46,210,79,205,79,205,46"/>
+</map>

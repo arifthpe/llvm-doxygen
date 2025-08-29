@@ -1,0 +1,15 @@
+<map id="llvm::PassManager&lt; IRUnitT, AnalysisManagerT, ExtraArgTs &gt;" name="llvm::PassManager&lt; IRUnitT, AnalysisManagerT, ExtraArgTs &gt;">
+<area shape="rect" id="Node000001" title="Manages a sequence of passes over a particular unit of IR." alt="" coords="191,201,377,257"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="643,34,867,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="327,189,361,164,400,142,461,120,524,103,642,83,643,88,525,109,462,125,402,147,364,168,330,193"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="684,143,826,184"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="392,200,401,198,552,178,684,165,684,171,553,183,402,203,393,205"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="684,208,826,249"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="393,226,684,226,684,231,393,231"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="684,274,826,314"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="393,253,402,254,553,275,684,287,684,292,552,280,401,260,392,258"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="655,347,855,417"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="313,268,351,314,376,335,402,351,465,374,530,386,595,391,654,390,655,395,595,396,530,392,463,379,400,356,372,339,348,317,309,271"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,208,142,249"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,226,191,226,191,231,157,231"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="llvm::LoopBodyTraits::WrappedSuccIterator" name="llvm::LoopBodyTraits::WrappedSuccIterator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1230,163,1381,203"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="976,133,1180,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1196,180,1229,180,1229,186,1196,186"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="488,59,703,160"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="718,103,833,107,893,115,953,126,976,133,975,138,951,131,893,120,832,113,718,108"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,74,227,145"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="242,107,487,107,487,112,242,112"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="473,220,718,290"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="733,267,841,267,897,261,951,250,999,232,1001,236,953,256,898,267,841,272,733,273"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,220,227,290"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="243,252,472,252,472,258,243,258"/>
+</map>

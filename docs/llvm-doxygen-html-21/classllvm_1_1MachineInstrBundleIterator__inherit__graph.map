@@ -1,0 +1,19 @@
+<map id="llvm::MachineInstrBundleIterator&lt; Ty, IsReverse &gt;" name="llvm::MachineInstrBundleIterator&lt; Ty, IsReverse &gt;">
+<area shape="rect" id="Node000001" title="MachineBasicBlock iterator that automatically skips over MIs that are inside bundles (i...." alt="" coords="515,180,684,221"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="889,5,1058,46"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="620,166,657,121,680,99,706,81,751,60,798,45,888,28,889,33,799,50,753,65,709,85,684,103,661,125,624,169"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="875,71,1072,111"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="650,170,707,146,792,121,874,104,875,109,793,126,709,151,652,175"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="889,135,1058,191"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="699,188,889,169,889,174,699,193"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="879,215,1068,271"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="664,224,708,236,795,245,879,246,879,251,795,250,707,241,662,229"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="879,297,1068,368"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="623,232,659,278,682,300,709,316,750,331,794,339,838,343,879,342,879,347,837,348,793,345,749,336,707,321,679,304,655,282,618,236"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="888,392,1059,433"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="615,234,629,268,649,306,676,342,709,372,751,393,797,406,844,413,888,415,887,420,843,418,796,411,749,398,706,376,672,346,644,309,624,270,610,236"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1MachineInstrBundleIteratorHelper_3_01false_01_4.html" title=" " alt="" coords="298,180,466,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="481,198,515,198,515,203,481,203"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1MachineInstrBundleIteratorHelper.html" title=" " alt="" coords="5,180,190,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,198,297,198,297,203,205,203"/>
+</map>

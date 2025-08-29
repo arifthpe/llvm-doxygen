@@ -1,0 +1,9 @@
+<map id="llvm::RootDDGNode" name="llvm::RootDDGNode">
+<area shape="rect" id="Node000001" title="Subclass of DDGNode representing the root node of the graph." alt="" coords="24,267,166,293"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DDGNode.html" title="Data Dependence Graph Node The graph can represent the following types of nodes:" alt="" coords="38,192,152,218"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,233,98,267,92,267,92,233"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DGNode.html" title=" " alt="" coords="39,117,151,143"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,158,98,192,92,192,92,158"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DGNode.html" title="Represent a node in the directed graph." alt="" coords="5,5,185,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="98,62,98,117,92,117,92,62"/>
+</map>

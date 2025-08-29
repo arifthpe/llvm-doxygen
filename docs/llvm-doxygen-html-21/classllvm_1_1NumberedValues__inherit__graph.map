@@ -1,0 +1,7 @@
+<map id="llvm::NumberedValues&lt; T &gt;" name="llvm::NumberedValues&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Mapping from value ID to value, which also remembers what the next unused ID is." alt="" coords="79,5,263,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1NumberedValues.html" title=" " alt="" coords="5,102,161,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,40,91,56,83,79,83,102,77,102,78,78,87,54,105,36"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1NumberedValues.html" title=" " alt="" coords="184,102,336,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,37,233,53,248,77,258,101,253,103,244,79,229,57,211,41"/>
+</map>

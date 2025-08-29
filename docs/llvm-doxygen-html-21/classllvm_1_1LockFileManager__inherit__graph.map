@@ -1,0 +1,5 @@
+<map id="llvm::LockFileManager" name="llvm::LockFileManager">
+<area shape="rect" id="Node000001" title="Class that manages the creation of a lock file to aid implicit coordination between different process..." alt="" coords="5,79,158,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AdvisoryLock.html" title="A synchronization primitive with weak mutual exclusion guarantees." alt="" coords="15,5,148,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,46,84,79,79,79,79,46"/>
+</map>

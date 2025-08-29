@@ -1,0 +1,11 @@
+<map id="llvm::LoopInfoBase&lt; BlockT, LoopT &gt;" name="llvm::LoopInfoBase&lt; BlockT, LoopT &gt;">
+<area shape="rect" id="Node000001" title="This class builds and contains all of the top&#45;level loop structures in the specified function." alt="" coords="5,43,139,83"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1LoopInfoBase.html" title=" " alt="" coords="328,5,476,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,51,328,31,328,37,154,56"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1LoopInfoBase.html" title=" " alt="" coords="326,72,478,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,87,163,98,246,107,325,106,325,111,246,113,162,104,126,93"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1LoopInfo.html" title=" " alt="" coords="552,13,655,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,23,552,23,552,28,491,28"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MachineLoopInfo.html" title=" " alt="" coords="527,88,680,113"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="493,98,527,98,527,103,493,103"/>
+</map>

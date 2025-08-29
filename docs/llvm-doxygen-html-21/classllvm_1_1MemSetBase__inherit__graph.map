@@ -1,0 +1,15 @@
+<map id="llvm::MemSetBase&lt; BaseCL &gt;" name="llvm::MemSetBase&lt; BaseCL &gt;">
+<area shape="rect" id="Node000001" title="Common base class for all memset intrinsics." alt="" coords="120,80,323,106"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MemSetBase.html" title=" " alt="" coords="5,177,201,218"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,116,164,132,120,178,116,175,160,128,183,112"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MemSetBase.html" title=" " alt="" coords="225,184,456,210"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="268,111,293,128,318,156,336,182,331,185,314,159,289,132,265,116"/>
+<area shape="rect" id="Node000002" href="$classBaseCL.html" title=" " alt="" coords="188,5,256,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,46,224,80,219,80,219,46"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AnyMemSetInst.html" title="This class represents any memset intrinsic." alt="" coords="29,267,177,293"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,233,106,267,100,267,100,233"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MemSetInst.html" title="This class wraps the llvm.memset and llvm.memset.inline intrinsics." alt="" coords="240,267,364,293"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="330,225,310,268,305,266,326,223"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MemSetPatternInst.html" title="This class wraps the llvm.experimental.memset.pattern intrinsic." alt="" coords="388,267,554,293"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="375,216,453,264,450,269,372,221"/>
+</map>

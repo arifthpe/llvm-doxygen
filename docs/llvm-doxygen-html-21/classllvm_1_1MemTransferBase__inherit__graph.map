@@ -1,0 +1,21 @@
+<map id="llvm::MemTransferBase&lt; BaseCL &gt;" name="llvm::MemTransferBase&lt; BaseCL &gt;">
+<area shape="rect" id="Node000001" title="Common base class for all memory transfer intrinsics." alt="" coords="270,80,430,121"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MemTransferBase.html" title=" " alt="" coords="178,192,338,233"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,132,279,147,268,169,263,192,258,191,263,167,275,143,290,128"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MemTransferBase.html" title=" " alt="" coords="362,192,522,233"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="394,129,408,143,425,167,437,191,432,193,420,170,404,147,390,133"/>
+<area shape="rect" id="Node000002" href="$classBaseCL.html" title=" " alt="" coords="316,5,384,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="353,47,353,80,348,80,348,47"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AnyMemTransferInst.html" title=" " alt="" coords="168,282,343,308"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="260,248,259,282,253,281,255,248"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1AnyMemCpyInst.html" title="This class represents any memcpy intrinsic i.e." alt="" coords="5,357,157,383"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="214,316,111,359,109,354,212,312"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1AnyMemMoveInst.html" title="This class represents any memmove intrinsic i.e." alt="" coords="181,357,341,383"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="260,323,263,357,257,357,255,323"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1MemTransferInst.html" title="This class wraps the llvm.memcpy/memmove intrinsics." alt="" coords="368,282,520,308"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="446,248,446,281,441,282,440,248"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1MemCpyInst.html" title="This class wraps the llvm.memcpy intrinsic." alt="" coords="374,357,502,383"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="444,323,442,357,437,357,439,323"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1MemMoveInst.html" title="This class wraps the llvm.memmove intrinsic." alt="" coords="526,357,662,383"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="484,312,570,354,568,359,481,317"/>
+</map>

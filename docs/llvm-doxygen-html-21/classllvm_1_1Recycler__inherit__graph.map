@@ -1,0 +1,11 @@
+<map id="llvm::Recycler&lt; T, Size, Align &gt;" name="llvm::Recycler&lt; T, Size, Align &gt;">
+<area shape="rect" id="Node000001" title="Recycler &#45; This class manages a linked&#45;list of deallocated nodes and facilitates reusing deallocated ..." alt="" coords="5,103,133,143"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1Recycler.html" title=" " alt="" coords="403,5,544,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,92,156,71,220,53,286,40,403,26,403,32,286,45,221,58,158,76,114,97"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1Recycler.html" title=" " alt="" coords="396,71,552,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,114,395,94,396,100,148,119"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Recycler.html" title=" " alt="" coords="399,136,549,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="148,141,157,142,284,153,398,155,398,161,284,158,156,147,148,146"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1Recycler.html" title=" " alt="" coords="366,216,582,272"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="91,155,119,193,137,211,158,224,208,243,261,254,315,257,365,256,365,262,314,263,261,259,206,248,155,229,134,215,115,197,86,159"/>
+</map>
