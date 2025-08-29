@@ -1,0 +1,13 @@
+<map id="llvm::ArrayRecycler&lt; T, Align &gt;" name="llvm::ArrayRecycler&lt; T, Align &gt;">
+<area shape="rect" id="Node000001" title="Recycle small arrays allocated from a BumpPtrAllocator." alt="" coords="5,156,142,197"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ArrayRecycler.html" title=" " alt="" coords="352,11,547,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,143,129,115,164,91,210,72,258,58,351,42,352,47,260,63,212,77,167,96,132,119,103,147"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ArrayRecycler.html" title=" " alt="" coords="381,91,518,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,149,165,146,278,126,380,114,381,119,279,131,166,151,153,154"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ArrayRecycler.html" title=" " alt="" coords="362,156,537,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="157,174,361,174,361,179,157,179"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ArrayRecycler.html" title=" " alt="" coords="378,221,521,262"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="152,199,166,202,277,221,378,233,377,239,276,227,165,207,151,204"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ArrayRecycler.html" title=" " alt="" coords="381,287,518,327"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="103,206,132,233,167,256,221,277,277,291,332,299,381,303,381,309,332,304,276,296,219,282,164,260,129,237,100,210"/>
+</map>

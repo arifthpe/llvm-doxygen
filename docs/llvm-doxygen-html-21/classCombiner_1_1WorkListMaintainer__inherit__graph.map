@@ -1,0 +1,7 @@
+<map id="llvm::Combiner::WorkListMaintainer" name="llvm::Combiner::WorkListMaintainer">
+<area shape="rect" id="Node000001" title="This class acts as the glue that joins the CombinerHelper to the overall Combine algorithm." alt="" coords="13,79,182,120"/>
+<area shape="rect" id="Node000003" href="$classCombiner_1_1WorkListMaintainerImpl.html" title="A configurable WorkListMaintainer implementation." alt="" coords="13,168,182,208"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,135,100,167,95,167,95,135"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1GISelChangeObserver.html" title="Abstract class that contains various methods for clients to notify about changes." alt="" coords="5,5,190,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,46,100,79,95,79,95,46"/>
+</map>

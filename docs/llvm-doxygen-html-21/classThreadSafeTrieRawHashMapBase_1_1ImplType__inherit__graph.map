@@ -1,0 +1,14 @@
+<map id="llvm::ThreadSafeTrieRawHashMapBase::ImplType" name="llvm::ThreadSafeTrieRawHashMapBase::ImplType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2030,207,2231,247"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TrailingObjects.html" title=" " alt="" coords="1746,199,1981,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1997,224,2030,224,2030,230,1997,230"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="905,116,1322,247"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1338,185,1525,194,1722,207,1746,209,1745,214,1721,212,1525,199,1338,190"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="5,202,213,273"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="227,198,236,196,411,176,588,166,757,164,904,167,904,172,757,169,589,171,412,181,237,202,228,203"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="564,230,881,331"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="180,278,208,291,237,301,320,314,404,319,487,315,563,307,564,313,487,321,404,324,319,320,236,306,206,296,178,283"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1TrailingObjects.html" title="See the file comment for details on the usage of the TrailingObjects type." alt="" coords="1346,253,1506,294"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1521,267,1618,261,1721,250,1745,247,1746,252,1722,256,1618,266,1522,272"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="896,276,1346,272,1346,277,896,281"/>
+</map>

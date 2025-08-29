@@ -1,0 +1,13 @@
+<map id="llvm::AMDGPUAA" name="llvm::AMDGPUAA">
+<area shape="rect" id="Node000001" title="Analysis pass providing a never&#45;invalidated alias analysis result." alt="" coords="92,319,223,344"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="79,229,236,269"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,285,160,318,155,318,155,285"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,117,142,158"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,169,145,227,141,230,96,172"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,5,142,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,61,76,117,71,117,71,61"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="166,117,322,158"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="222,171,175,230,171,227,217,168"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="176,5,312,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="247,61,247,117,242,117,242,61"/>
+</map>
