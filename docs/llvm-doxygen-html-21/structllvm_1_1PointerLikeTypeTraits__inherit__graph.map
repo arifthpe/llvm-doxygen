@@ -1,0 +1,29 @@
+<map id="llvm::PointerLikeTypeTraits&lt; T &gt;" name="llvm::PointerLikeTypeTraits&lt; T &gt;">
+<area shape="rect" id="Node000001" title="A traits type that is used to handle pointer types and things that are just wrappers for pointers as ..." alt="" coords="5,452,217,477"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PointerLikeTypeTraits.html" title=" " alt="" coords="481,24,660,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,436,115,363,132,266,149,214,171,164,201,119,239,80,266,62,295,48,358,31,422,26,481,28,481,33,422,31,359,36,297,53,269,66,242,84,205,122,176,167,154,216,138,267,120,364,115,437"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PointerLikeTypeTraits.html" title=" " alt="" coords="481,90,660,130"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,436,121,373,142,293,158,252,179,211,206,175,239,144,257,134,281,126,342,115,412,109,480,107,481,112,413,115,343,121,282,131,259,139,242,148,210,178,184,214,163,254,147,295,126,374,117,436"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PointerLikeTypeTraits.html" title=" " alt="" coords="481,155,660,196"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="114,436,127,384,150,320,166,287,187,255,211,226,239,202,257,193,282,186,343,177,481,171,481,176,344,182,283,192,259,198,242,207,214,230,191,258,171,289,155,322,132,386,120,437"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1PointerLikeTypeTraits_3_01PointerEmbeddedInt_3_01IntT_00_01Bits_01_4_01_4.html" title=" " alt="" coords="477,219,665,275"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="121,436,139,401,164,359,198,318,239,285,281,270,342,259,476,248,476,253,342,265,283,275,242,290,202,322,169,362,143,403,126,439"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PointerLikeTypeTraits_3_01PointerIntPair_3_01PointerTy_00_01IntBits_00_01IntType_00_01PtrTraits_01_4_01_4.html" title=" " alt="" coords="473,299,669,355"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="139,440,184,408,240,380,298,361,359,347,472,330,473,336,360,352,300,366,242,384,187,413,142,444"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1PointerLikeTypeTraits_3_01PointerUnion_3_01PTs_8_8_8_01_4_01_4.html" title=" " alt="" coords="481,379,660,420"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="182,445,240,434,366,417,480,404,481,410,366,422,241,439,183,451"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1PointerLikeTypeTraits_3_01ReachingDef_01_4.html" title=" " alt="" coords="481,444,660,485"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="232,462,481,462,481,467,232,467"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1PointerLikeTypeTraits_3_01ReturnT_07_5_08_07ParamTs_8_8_8_08_4.html" title="Provide a default specialization for function pointers that assumes 4&#45;byte alignment." alt="" coords="481,510,660,550"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="182,479,241,490,366,508,481,520,480,525,366,513,240,496,181,484"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="481,575,660,616"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="142,486,187,517,242,545,302,564,365,577,481,590,480,595,364,582,301,569,240,550,184,522,139,490"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1PointerLikeTypeTraits_3_01const_01T_01_5_01_4.html" title=" " alt="" coords="481,640,660,681"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="128,490,147,520,173,555,205,589,242,616,300,640,363,655,424,662,481,664,481,669,424,667,362,660,299,646,239,621,201,593,169,559,143,523,124,493"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1PointerLikeTypeTraits_3_01const_01T_01_4.html" title=" " alt="" coords="481,706,660,746"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="121,492,136,538,160,593,195,648,217,672,242,692,270,707,299,719,361,733,423,738,480,736,481,741,423,743,360,738,297,724,267,712,239,697,213,676,191,651,155,596,131,540,116,494"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1PointerLikeTypeTraits_3_01uintptr__t_01_4.html" title=" " alt="" coords="481,771,660,812"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="117,493,127,552,148,629,164,668,185,705,211,739,242,767,269,783,298,795,360,808,423,811,481,806,481,812,423,816,360,813,297,800,267,788,239,771,207,742,180,708,159,670,143,630,122,554,112,494"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1PointerLikeTypeTraits_3_01void_01_5_01_4.html" title=" " alt="" coords="481,836,660,877"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="115,493,119,566,126,612,137,662,153,712,175,761,205,804,242,840,269,857,298,869,361,881,424,882,483,875,483,880,425,887,360,887,297,874,267,862,239,844,200,807,170,763,148,714,131,663,121,613,114,566,109,493"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="llvm::GraphTraits&lt; VPDomTreeNode * &gt;" name="llvm::GraphTraits&lt; VPDomTreeNode * &gt;">
+<area shape="rect" id="Node000001" title="Template specializations of GraphTraits for VPDomTreeNode." alt="" coords="880,79,1029,120"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DomTreeGraphTraitsBase.html" title=" " alt="" coords="442,21,688,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="703,60,856,79,880,83,879,88,856,85,703,65"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1DomTreeGraphTraitsBase.html" title=" " alt="" coords="5,28,191,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,46,441,46,441,51,206,51"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="500,100,630,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="645,114,856,102,879,101,880,106,856,108,645,119"/>
+</map>

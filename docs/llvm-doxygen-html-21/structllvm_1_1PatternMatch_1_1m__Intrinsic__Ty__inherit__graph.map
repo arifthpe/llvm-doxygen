@@ -1,0 +1,15 @@
+<map id="llvm::PatternMatch::m_Intrinsic_Ty&lt; T0, T1, T2, T3, T4, T5, T6, T7, T8, T9, T10 &gt;" name="llvm::PatternMatch::m_Intrinsic_Ty&lt; T0, T1, T2, T3, T4, T5, T6, T7, T8, T9, T10 &gt;">
+<area shape="rect" id="Node000001" title="Intrinsic matches are combinations of ID matchers, and argument matchers." alt="" coords="5,168,157,238"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PatternMatch_1_1m__Intrinsic__Ty_3_01T0_01_4.html" title=" " alt="" coords="355,5,508,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,153,139,113,179,79,222,58,267,43,354,27,355,32,268,48,224,63,182,84,143,117,113,156"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PatternMatch_1_1m__Intrinsic__Ty_3_01T0_00_01T1_01_4.html" title=" " alt="" coords="344,71,520,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,158,180,145,262,119,343,101,344,107,264,124,182,149,153,162"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PatternMatch_1_1m__Intrinsic__Ty_3_01T0_00_01T1_00_01T2_01_4.html" title=" " alt="" coords="359,135,504,191"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,190,359,169,359,174,172,195"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1PatternMatch_1_1m__Intrinsic__Ty_3_01T0_00_01T1_00_01T2_00_01T3_01_4.html" title=" " alt="" coords="359,215,504,271"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="172,215,181,217,359,235,358,240,180,222,172,221"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PatternMatch_1_1m__Intrinsic__Ty_3_01T0_00_01T1_00_01T2_00_01T3_00_01T4_01_4.html" title=" " alt="" coords="359,295,504,351"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="150,244,182,260,273,289,359,309,358,314,272,295,180,264,147,249"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1PatternMatch_1_1m__Intrinsic__Ty_3_01T0_00_01T1_00_01T2_00_01T3_00_01T4_00_01T5_01_4.html" title=" " alt="" coords="359,375,504,431"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="105,251,137,303,158,328,182,348,224,370,270,386,316,395,359,399,358,405,315,400,269,391,222,375,179,353,154,331,132,306,101,253"/>
+</map>

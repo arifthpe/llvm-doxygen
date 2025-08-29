@@ -1,0 +1,7 @@
+<map id="llvm::DenseMapInfo&lt; DebugVariable &gt;" name="llvm::DenseMapInfo&lt; DebugVariable &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,117,169,158"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1DenseMapInfo_3_01DebugVariableAggregate_01_4.html" title=" " alt="" coords="5,207,194,248"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,173,102,207,97,207,97,173"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DenseMapInfo.html" title="An information struct used to provide DenseMap with the various necessary components for a given valu..." alt="" coords="30,5,169,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,61,102,117,97,117,97,61"/>
+</map>

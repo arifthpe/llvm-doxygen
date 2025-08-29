@@ -1,0 +1,9 @@
+<map id="llvm::OperandTraits&lt; AddrSpaceCastOperator &gt;" name="llvm::OperandTraits&lt; AddrSpaceCastOperator &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="857,52,1043,93"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="436,8,636,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="652,37,833,56,857,59,856,64,833,62,651,43"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1FixedNumOperandTraits.html" title="FixedNumOperandTraits &#45; determine the allocation regime of the Use array when it is a prefix to the U..." alt="" coords="5,8,201,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,26,435,26,435,31,216,31"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1OperandTraits.html" title="Compile&#45;time customization of User operands." alt="" coords="468,73,604,114"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="618,89,833,79,856,78,857,83,833,85,619,94"/>
+</map>

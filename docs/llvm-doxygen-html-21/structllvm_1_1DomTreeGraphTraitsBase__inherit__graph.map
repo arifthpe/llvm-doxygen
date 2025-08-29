@@ -1,0 +1,23 @@
+<map id="llvm::DomTreeGraphTraitsBase&lt; Node, ChildIterator &gt;" name="llvm::DomTreeGraphTraitsBase&lt; Node, ChildIterator &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,164,191,205"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DomTreeGraphTraitsBase.html" title=" " alt="" coords="444,30,686,86"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,151,168,122,214,97,271,78,330,66,443,54,444,59,331,71,272,83,216,101,171,126,133,156"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1DomTreeGraphTraitsBase.html" title=" " alt="" coords="442,110,688,166"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="206,164,214,163,441,142,442,148,215,168,207,169"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1DomTreeGraphTraitsBase.html" title=" " alt="" coords="460,203,670,259"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="151,209,182,222,215,232,278,241,341,245,460,241,460,246,341,250,277,247,214,237,181,227,149,214"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1DomTreeGraphTraitsBase.html" title=" " alt="" coords="451,298,678,354"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="120,217,159,270,185,296,216,315,273,335,334,344,394,346,450,343,451,348,394,352,333,350,272,340,214,320,182,300,155,274,116,220"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1GraphTraits_3_01DomTreeNode_01_5_01_4.html" title=" " alt="" coords="764,37,896,78"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="701,55,764,55,764,60,701,60"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1GraphTraits_3_01DominatorTree_01_5_01_4.html" title=" " alt="" coords="986,5,1118,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="910,43,985,33,986,38,911,49"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1GraphTraits_3_01PostDominatorTree_01_5_01_4.html" title=" " alt="" coords="972,71,1131,111"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="911,67,972,76,971,82,910,72"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1GraphTraits_3_01VPDomTreeNode_01_5_01_4.html" title="Template specializations of GraphTraits for VPDomTreeNode." alt="" coords="755,117,905,158"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="703,135,755,135,755,140,703,140"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1GraphTraits_3_01const_01DomTreeNode_01_5_01_4.html" title=" " alt="" coords="746,211,914,251"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="685,228,746,228,746,234,685,234"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1GraphTraits_3_01const_01VPDomTreeNode_01_5_01_4.html" title=" " alt="" coords="737,305,923,346"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="694,323,737,323,737,328,694,328"/>
+</map>

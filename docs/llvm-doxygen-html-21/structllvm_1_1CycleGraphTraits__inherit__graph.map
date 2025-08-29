@@ -1,0 +1,11 @@
+<map id="llvm::CycleGraphTraits&lt; CycleRefT, ChildIteratorT &gt;" name="llvm::CycleGraphTraits&lt; CycleRefT, ChildIteratorT &gt;">
+<area shape="rect" id="Node000001" title="GraphTraits for iterating over a sub&#45;tree of the CycleT tree." alt="" coords="5,87,199,128"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CycleGraphTraits.html" title=" " alt="" coords="479,24,662,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,87,222,86,479,63,479,68,223,91,214,92"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1CycleGraphTraits.html" title=" " alt="" coords="461,119,680,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,131,223,150,283,158,345,162,460,161,460,166,345,167,283,163,222,155,161,137"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1GraphTraits_3_01GenericCycle_3_01BlockT_01_4_01_5_01_4.html" title=" " alt="" coords="729,39,920,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="677,57,729,57,729,62,677,62"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1GraphTraits_3_01const_01GenericCycle_3_01BlockT_01_4_01_5_01_4.html" title=" " alt="" coords="754,126,895,182"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="696,151,754,151,754,157,696,157"/>
+</map>

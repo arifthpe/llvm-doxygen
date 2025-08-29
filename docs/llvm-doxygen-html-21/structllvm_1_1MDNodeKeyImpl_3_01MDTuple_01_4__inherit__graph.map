@@ -1,0 +1,7 @@
+<map id="llvm::MDNodeKeyImpl&lt; MDTuple &gt;" name="llvm::MDNodeKeyImpl&lt; MDTuple &gt;">
+<area shape="rect" id="Node000001" title="DenseMapInfo for MDTuple." alt="" coords="93,117,246,158"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MDNodeOpsKey.html" title="Structure for hashing arbitrary MDNode operands." alt="" coords="5,13,158,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,49,156,115,152,118,99,52"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1MDNodeKeyImpl.html" title=" " alt="" coords="182,5,336,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,60,187,118,183,115,231,56"/>
+</map>

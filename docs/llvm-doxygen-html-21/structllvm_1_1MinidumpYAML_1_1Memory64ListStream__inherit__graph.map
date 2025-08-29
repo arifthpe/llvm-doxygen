@@ -1,0 +1,10 @@
+<map id="llvm::MinidumpYAML::Memory64ListStream" name="llvm::MinidumpYAML::Memory64ListStream">
+<area shape="rect" id="Node000001" title=" " alt="" coords="52,347,205,388"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title=" " alt="" coords="5,242,252,298"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,313,131,347,126,347,126,313"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1MinidumpYAML_1_1Stream.html" title="The base class for all minidump streams." alt="" coords="52,5,195,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,61,131,242,125,242,121,61"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title="A stream representing a list of abstract entries in a minidump stream." alt="" coords="145,95,288,151"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="155,56,192,93,188,97,151,59"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="194,166,147,243,143,240,190,163"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="llvm::DefaultDoCastIfPossible&lt; To, From, Derived &gt;" name="llvm::DefaultDoCastIfPossible&lt; To, From, Derived &gt;">
+<area shape="rect" id="Node000001" title="This cast trait just provides the default implementation of doCastIfPossible to make CastInfo special..." alt="" coords="5,168,204,209"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="478,38,678,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,156,178,126,227,101,290,83,356,72,420,67,478,66,478,71,420,72,356,77,291,88,229,105,181,130,140,160"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="459,153,698,224"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="219,186,458,186,458,191,219,191"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="479,248,678,318"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="148,215,186,237,228,255,292,270,357,279,479,285,478,290,357,284,291,275,227,260,184,242,145,220"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1CastInfo_3_01To_00_01PointerUnion_3_01PTs_8_8_8_01_4_01_4.html" title=" " alt="" coords="754,53,925,94"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="694,71,754,71,754,76,694,76"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1OptionalValueCast.html" title="This cast trait provides std::optional&lt;T&gt; casting." alt="" coords="759,168,920,209"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="714,186,758,186,758,191,714,191"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1CastInfo_3_01To_00_01std_1_1optional_3_01From_01_4_01_4.html" title="Provide a CastInfo specialized for std::optional&lt;From&gt;." alt="" coords="981,168,1143,209"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="935,186,980,186,980,191,935,191"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1ValueFromPointerCast.html" title="This cast trait provides casting for the specific case of casting to a value&#45;typed object from a poin..." alt="" coords="747,263,932,303"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="693,280,747,280,747,286,693,286"/>
+</map>

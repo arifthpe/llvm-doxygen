@@ -1,0 +1,5 @@
+<map id="llvm::GraphTraits&lt; VPBlockDeepTraversalWrapper&lt; VPBlockBase * &gt; &gt;" name="llvm::GraphTraits&lt; VPBlockDeepTraversalWrapper&lt; VPBlockBase * &gt; &gt;">
+<area shape="rect" id="Node000001" title="GraphTraits specialization to recursively traverse VPBlockBase nodes, including traversing through VP..." alt="" coords="5,137,215,193"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="45,5,175,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,62,113,137,107,137,107,62"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::DenseMapInfo&lt; AAPointerInfo::Access &gt;" name="llvm::DenseMapInfo&lt; AAPointerInfo::Access &gt;">
+<area shape="rect" id="Node000001" title="Helper for AA::PointerInfo::Access DenseMap/Set usage." alt="" coords="36,207,214,248"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="241,117,380,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,167,168,209,165,204,254,162"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1DenseMapInfo.html" title="An information struct used to provide DenseMap with the various necessary components for a given valu..." alt="" coords="5,5,144,46"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="67,62,61,108,62,133,68,157,83,183,103,205,99,208,79,186,63,159,57,134,55,108,62,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,50,269,114,267,119,129,55"/>
+</map>

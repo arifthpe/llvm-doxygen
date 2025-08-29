@@ -1,0 +1,9 @@
+<map id="llvm::OperandTraits&lt; PossiblyExactOperator &gt;" name="llvm::OperandTraits&lt; PossiblyExactOperator &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="838,52,1017,93"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="429,8,624,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="640,37,814,56,838,59,837,64,814,62,639,43"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1FixedNumOperandTraits.html" title="FixedNumOperandTraits &#45; determine the allocation regime of the Use array when it is a prefix to the U..." alt="" coords="5,8,201,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,26,428,26,428,31,216,31"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1OperandTraits.html" title="Compile&#45;time customization of User operands." alt="" coords="459,73,594,114"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="609,89,814,79,837,78,838,83,814,85,610,94"/>
+</map>

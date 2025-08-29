@@ -1,0 +1,13 @@
+<map id="llvm::CastInfo&lt; To, const PointerUnion&lt; PTs... &gt; &gt;" name="llvm::CastInfo&lt; To, const PointerUnion&lt; PTs... &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="881,78,1017,134"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="484,5,630,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="645,41,858,84,881,89,880,94,856,90,644,46"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ConstStrippingForwardingCast.html" title=" " alt="" coords="434,70,680,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="696,103,880,103,880,108,696,108"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ConstStrippingForwardingCast.html" title="Provides a cast trait that strips const from types to make it easier to implement a const&#45;version of ..." alt="" coords="5,85,209,126"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="224,103,433,103,433,108,224,108"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1CastInfo.html" title="This struct provides a method for customizing the way a cast is performed." alt="" coords="490,165,624,206"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="639,183,744,175,801,166,856,152,902,132,904,136,858,157,802,171,744,180,639,188"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="34,165,180,206"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="195,183,490,183,490,188,195,188"/>
+</map>

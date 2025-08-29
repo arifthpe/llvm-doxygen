@@ -1,0 +1,10 @@
+<map id="llvm::CastIsPossible&lt; VPPhiAccessors, const VPRecipeBase * &gt;" name="llvm::CastIsPossible&lt; VPPhiAccessors, const VPRecipeBase * &gt;">
+<area shape="rect" id="Node000001" title="Casting from VPRecipeBase &#45;&gt; VPPhiAccessors is supported for all recipe types implementing VPPhiAcces..." alt="" coords="358,21,530,76"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1CastInfo_3_01VPPhiAccessors_00_01const_01VPRecipeBase_01_5_01_4.html" title=" " alt="" coords="831,28,1049,69"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="545,41,554,41,698,40,831,42,831,48,698,45,554,46,545,46"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1CastInfoVPPhiAccessors.html" title=" " alt="" coords="579,56,782,97"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="546,58,579,62,579,67,545,63"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="5,28,151,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,46,358,46,358,51,166,51"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="797,61,830,58,831,63,798,67"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::DenseMapInfo&lt; AssertingVH&lt; T &gt; &gt;" name="llvm::DenseMapInfo&lt; AssertingVH&lt; T &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="43,207,194,248"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DenseMapInfo_3_01T_01_5_01_4.html" title=" " alt="" coords="215,117,353,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,168,157,209,154,204,232,163"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1DenseMapInfo.html" title="An information struct used to provide DenseMap with the various necessary components for a given valu..." alt="" coords="5,5,144,46"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="68,62,62,108,63,133,68,157,82,183,100,205,96,208,77,186,63,159,57,134,56,108,62,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,51,248,114,245,119,124,56"/>
+</map>

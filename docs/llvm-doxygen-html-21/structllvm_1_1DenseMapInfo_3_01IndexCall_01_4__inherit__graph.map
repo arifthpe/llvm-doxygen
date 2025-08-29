@@ -1,0 +1,8 @@
+<map id="llvm::DenseMapInfo&lt; IndexCall &gt;" name="llvm::DenseMapInfo&lt; IndexCall &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="578,34,717,74"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="343,63,529,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="544,70,578,64,579,69,545,75"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1DenseMapInfo.html" title="An information struct used to provide DenseMap with the various necessary components for a given valu..." alt="" coords="5,32,144,73"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="159,32,167,31,280,25,393,27,578,42,578,48,392,33,280,31,168,37,160,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,73,168,75,258,85,343,89,342,94,257,90,167,80,158,78"/>
+</map>

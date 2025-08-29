@@ -1,0 +1,7 @@
+<map id="llvm::FirstIndexOfType&lt; T, U, Us... &gt;" name="llvm::FirstIndexOfType&lt; T, U, Us... &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="338,49,491,90"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,197,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,43,338,58,337,63,212,49"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1FirstIndexOfType.html" title="Find the first index where a type appears in a list of types." alt="" coords="24,85,178,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,95,313,83,337,80,338,85,314,88,194,101"/>
+</map>

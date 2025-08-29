@@ -1,0 +1,99 @@
+<map id="llvm::FixedNumOperandTraits&lt; SubClass, ARITY &gt;" name="llvm::FixedNumOperandTraits&lt; SubClass, ARITY &gt;">
+<area shape="rect" id="Node000001" title="FixedNumOperandTraits &#45; determine the allocation regime of the Use array when it is a prefix to the U..." alt="" coords="5,1074,201,1115"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="470,29,670,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,1058,116,845,140,536,156,382,175,247,197,144,209,110,223,89,249,67,277,51,309,39,341,32,407,26,470,29,470,34,408,31,342,37,310,45,280,56,252,72,227,92,214,112,202,146,180,248,161,383,145,537,121,845,109,1059"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,94,668,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="104,1059,117,858,142,570,158,427,177,301,199,206,210,174,223,154,240,142,264,132,327,120,401,113,472,111,472,116,401,118,328,125,266,138,243,147,227,158,215,176,204,207,182,302,164,427,147,571,122,858,109,1059"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,159,668,200"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="101,1058,102,881,107,759,115,628,130,499,152,381,166,329,182,284,201,247,223,219,240,207,264,198,327,185,400,178,472,176,472,181,401,184,328,190,266,203,243,212,226,223,206,250,187,286,171,331,157,382,135,499,121,629,112,759,108,881,106,1058"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,225,668,265"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="101,1058,105,893,110,780,120,660,135,541,156,432,185,344,203,310,223,284,240,273,264,263,327,251,400,244,472,241,472,247,401,249,328,256,266,268,243,277,226,288,207,313,190,346,161,434,140,542,125,660,115,781,110,893,107,1058"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,290,668,331"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="102,1059,107,905,124,692,139,583,160,484,188,404,204,373,223,350,240,338,265,329,327,316,401,309,472,307,472,312,401,315,328,321,266,334,243,343,226,354,209,376,192,406,165,486,145,584,129,692,112,906,107,1059"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,355,668,396"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="103,1058,110,917,129,723,144,625,164,536,190,464,206,436,223,415,240,404,265,394,328,382,401,375,472,372,472,378,401,380,328,387,266,399,243,408,226,419,210,439,195,466,169,538,149,626,134,724,115,917,108,1058"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,421,668,461"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="103,1059,113,929,133,755,149,668,168,588,193,524,207,499,223,480,240,469,265,460,328,447,401,440,472,438,472,443,401,446,328,452,266,465,243,474,226,484,212,502,198,526,174,590,154,669,138,756,118,930,109,1059"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,486,668,527"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="104,1058,116,942,138,787,154,710,173,640,196,584,209,562,223,546,241,534,265,525,328,513,401,506,472,503,472,509,401,511,329,518,266,531,243,539,226,550,213,565,200,586,178,642,159,711,143,788,121,942,110,1059"/>
+<area shape="rect" id="Node000018" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,551,668,592"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="105,1059,119,955,143,820,158,753,177,693,198,644,223,611,241,600,265,591,328,578,401,572,472,569,472,574,401,577,329,584,267,596,243,605,226,615,203,647,182,695,164,754,148,821,124,955,111,1059"/>
+<area shape="rect" id="Node000020" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,617,668,657"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="107,1058,122,967,148,852,163,795,181,744,201,703,223,675,241,664,265,655,328,643,401,637,472,634,472,639,401,642,329,649,267,661,243,669,226,679,206,706,186,746,168,797,153,853,128,968,112,1059"/>
+<area shape="rect" id="Node000022" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,682,668,723"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="102,1058,108,989,126,901,141,855,162,812,189,772,223,738,241,727,266,719,329,707,401,701,472,699,472,704,402,707,330,713,267,724,243,732,226,742,193,775,167,814,146,857,131,902,113,989,107,1059"/>
+<area shape="rect" id="Node000024" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,747,668,788"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="105,1058,114,1000,135,929,150,892,170,857,194,826,223,799,242,789,266,781,329,771,402,765,472,764,472,769,402,771,330,776,268,786,244,794,226,803,198,829,174,860,155,895,140,931,120,1001,110,1059"/>
+<area shape="rect" id="Node000026" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="456,813,685,853"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="111,1058,125,1015,148,965,180,916,200,895,223,876,255,866,312,857,455,840,456,846,313,862,256,871,226,881,204,898,185,920,153,968,130,1017,116,1060"/>
+<area shape="rect" id="Node000028" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,878,668,919"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="118,1059,136,1029,160,996,189,964,223,939,268,923,331,912,472,900,473,905,332,917,269,928,226,943,192,968,164,999,141,1032,123,1062"/>
+<area shape="rect" id="Node000030" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,943,668,984"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="137,1062,177,1033,224,1009,286,989,351,976,472,963,472,968,352,981,288,995,226,1014,180,1038,141,1066"/>
+<area shape="rect" id="Node000032" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,1009,668,1049"/>
+<area shape="poly" id="edge31_Node000001_Node000032" title=" " alt="" coords="203,1068,224,1064,353,1046,472,1034,472,1039,354,1051,225,1069,204,1073"/>
+<area shape="rect" id="Node000034" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,1074,668,1115"/>
+<area shape="poly" id="edge32_Node000001_Node000034" title=" " alt="" coords="216,1092,472,1092,472,1097,216,1097"/>
+<area shape="rect" id="Node000037" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="460,1139,680,1180"/>
+<area shape="poly" id="edge33_Node000001_Node000037" title=" " alt="" coords="202,1116,225,1120,346,1137,460,1149,459,1154,346,1143,224,1125,201,1121"/>
+<area shape="rect" id="Node000039" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,1205,668,1245"/>
+<area shape="poly" id="edge34_Node000001_Node000039" title=" " alt="" coords="141,1123,180,1151,226,1175,288,1195,352,1208,472,1221,472,1226,351,1213,286,1200,224,1180,177,1156,137,1127"/>
+<area shape="rect" id="Node000041" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,1270,668,1311"/>
+<area shape="poly" id="edge35_Node000001_Node000041" title=" " alt="" coords="123,1127,140,1157,164,1190,192,1221,226,1246,286,1271,350,1287,414,1294,472,1295,472,1300,413,1299,349,1292,284,1277,223,1250,189,1225,160,1193,136,1160,118,1130"/>
+<area shape="rect" id="Node000043" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,1335,668,1376"/>
+<area shape="poly" id="edge36_Node000001_Node000043" title=" " alt="" coords="114,1129,128,1175,150,1229,182,1281,203,1304,226,1323,254,1339,284,1351,348,1366,413,1371,472,1368,472,1373,412,1376,347,1371,283,1356,252,1344,223,1328,199,1308,178,1285,145,1231,123,1177,109,1131"/>
+<area shape="rect" id="Node000045" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,1401,668,1441"/>
+<area shape="poly" id="edge37_Node000001_Node000045" title=" " alt="" coords="109,1130,118,1191,137,1266,152,1304,172,1340,196,1372,226,1399,254,1416,283,1428,347,1442,412,1444,472,1439,472,1444,412,1450,347,1447,282,1433,251,1421,223,1404,192,1376,167,1343,147,1306,132,1268,112,1192,104,1131"/>
+<area shape="rect" id="Node000047" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,1466,668,1507"/>
+<area shape="poly" id="edge38_Node000001_Node000047" title=" " alt="" coords="106,1130,109,1205,115,1251,125,1300,140,1349,161,1396,190,1439,226,1474,256,1492,289,1505,324,1513,359,1517,430,1515,493,1505,493,1510,430,1520,359,1522,323,1518,287,1510,254,1497,223,1478,186,1442,157,1399,135,1351,120,1302,110,1252,104,1205,101,1130"/>
+<area shape="rect" id="Node000049" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="463,1531,678,1572"/>
+<area shape="poly" id="edge39_Node000001_Node000049" title=" " alt="" coords="111,1130,125,1229,148,1356,164,1418,182,1474,203,1518,226,1546,243,1555,265,1561,324,1567,393,1566,462,1562,462,1567,393,1572,324,1572,264,1566,241,1560,223,1550,199,1521,177,1476,159,1419,143,1357,119,1230,106,1131"/>
+<area shape="rect" id="Node000051" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,1597,668,1637"/>
+<area shape="poly" id="edge40_Node000001_Node000051" title=" " alt="" coords="110,1130,122,1239,145,1381,161,1451,180,1514,201,1564,226,1597,255,1616,286,1630,319,1639,354,1644,423,1644,486,1635,487,1641,423,1649,354,1649,318,1644,284,1635,252,1621,223,1601,197,1567,175,1516,156,1452,140,1382,117,1240,105,1131"/>
+<area shape="rect" id="Node000053" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,1662,668,1703"/>
+<area shape="poly" id="edge41_Node000001_Node000053" title=" " alt="" coords="109,1130,118,1255,139,1420,154,1503,174,1577,198,1636,212,1658,226,1674,243,1683,267,1690,329,1696,401,1696,472,1691,472,1696,401,1701,329,1702,266,1695,241,1688,223,1678,207,1661,193,1638,169,1578,149,1504,133,1421,113,1255,103,1131"/>
+<area shape="rect" id="Node000055" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,1727,668,1768"/>
+<area shape="poly" id="edge42_Node000001_Node000055" title=" " alt="" coords="108,1130,116,1264,136,1445,151,1536,171,1617,196,1683,211,1708,226,1726,255,1746,286,1760,319,1770,354,1775,424,1775,487,1766,488,1771,424,1780,354,1780,318,1775,284,1765,252,1751,223,1730,206,1711,191,1686,166,1619,146,1537,130,1446,111,1264,103,1131"/>
+<area shape="rect" id="Node000057" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,1793,668,1833"/>
+<area shape="poly" id="edge43_Node000001_Node000057" title=" " alt="" coords="107,1130,112,1279,129,1484,144,1588,165,1681,192,1756,208,1784,226,1805,243,1814,267,1821,329,1828,401,1827,472,1822,473,1827,401,1832,329,1833,266,1826,241,1819,223,1809,204,1787,187,1759,160,1683,139,1589,124,1485,107,1279,102,1130"/>
+<area shape="rect" id="Node000059" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="461,1858,680,1899"/>
+<area shape="poly" id="edge44_Node000001_Node000059" title=" " alt="" coords="107,1130,111,1288,117,1395,126,1509,141,1621,162,1722,191,1804,208,1834,226,1857,255,1877,286,1892,320,1901,355,1906,425,1906,489,1897,490,1902,426,1911,354,1912,319,1906,284,1897,252,1882,223,1861,203,1837,186,1806,157,1723,136,1622,121,1509,111,1396,105,1289,102,1130"/>
+<area shape="rect" id="Node000061" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,1923,668,1964"/>
+<area shape="poly" id="edge45_Node000001_Node000061" title=" " alt="" coords="106,1130,107,1304,111,1422,120,1549,134,1674,156,1787,170,1836,186,1878,205,1912,226,1937,243,1946,266,1953,329,1960,401,1959,472,1953,472,1958,401,1964,328,1965,265,1958,241,1951,223,1941,201,1915,182,1880,165,1837,151,1788,129,1675,115,1549,106,1422,102,1304,101,1130"/>
+<area shape="rect" id="Node000063" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,1989,668,2029"/>
+<area shape="poly" id="edge46_Node000001_Node000063" title=" " alt="" coords="109,1130,123,1324,148,1598,164,1734,183,1853,204,1942,215,1972,227,1989,255,2010,287,2024,321,2034,357,2039,428,2037,493,2027,493,2033,429,2043,356,2044,320,2039,285,2029,252,2014,223,1993,210,1974,199,1944,178,1854,159,1735,142,1599,117,1324,104,1131"/>
+<area shape="rect" id="Node000065" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,2054,668,2095"/>
+<area shape="poly" id="edge47_Node000001_Node000065" title=" " alt="" coords="109,1130,121,1339,144,1639,160,1789,180,1920,202,2018,214,2050,226,2069,243,2078,266,2085,328,2091,401,2090,472,2084,472,2090,401,2095,328,2097,265,2091,241,2083,223,2073,209,2053,197,2020,174,1921,155,1790,139,1640,115,1339,103,1130"/>
+<area shape="rect" id="Node000067" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="473,2119,668,2160"/>
+<area shape="poly" id="edge48_Node000001_Node000067" title=" " alt="" coords="108,1130,120,1349,143,1665,159,1824,178,1962,201,2067,214,2101,227,2121,255,2142,287,2157,322,2166,358,2171,430,2169,495,2158,496,2163,431,2174,358,2176,321,2171,285,2162,252,2147,223,2125,209,2103,196,2068,173,1963,154,1824,138,1666,115,1349,103,1130"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1OperandTraits_3_01AddrSpaceCastOperator_01_4.html" title=" " alt="" coords="749,29,935,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="686,46,748,46,748,52,686,52"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1OperandTraits_3_01AtomicCmpXchgInst_01_4.html" title=" " alt="" coords="759,94,925,135"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="684,112,759,112,759,117,684,117"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1OperandTraits_3_01AtomicRMWInst_01_4.html" title=" " alt="" coords="771,159,913,200"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="684,177,771,177,771,182,684,182"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1OperandTraits_3_01BinaryConstantExpr_01_4.html" title=" " alt="" coords="761,225,923,265"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="683,242,760,242,760,248,683,248"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1OperandTraits_3_01BinaryOperator_01_4.html" title=" " alt="" coords="774,290,910,331"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="683,308,774,308,774,313,683,313"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1OperandTraits_3_01BitCastOperator_01_4.html" title=" " alt="" coords="772,355,912,396"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="683,373,772,373,772,378,683,378"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1OperandTraits_3_01BlockAddress_01_4.html" title=" " alt="" coords="774,421,910,461"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="683,438,774,438,774,444,683,444"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1OperandTraits_3_01CastConstantExpr_01_4.html" title=" " alt="" coords="765,486,919,527"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="683,504,765,504,765,509,683,509"/>
+<area shape="rect" id="Node000019" href="$structllvm_1_1OperandTraits_3_01CatchReturnInst_01_4.html" title=" " alt="" coords="771,551,913,592"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="684,569,771,569,771,574,684,574"/>
+<area shape="rect" id="Node000021" href="$structllvm_1_1OperandTraits_3_01CmpInst_01_4.html" title=" " alt="" coords="774,617,910,657"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="683,634,774,634,774,640,683,640"/>
+<area shape="rect" id="Node000023" href="$structllvm_1_1OperandTraits_3_01ConstantPtrAuth_01_4.html" title=" " alt="" coords="771,682,913,723"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="684,700,770,700,770,705,684,705"/>
+<area shape="rect" id="Node000025" href="$structllvm_1_1OperandTraits_3_01DSOLocalEquivalent_01_4.html" title=" " alt="" coords="759,747,925,788"/>
+<area shape="poly" id="edge24_Node000024_Node000025" title=" " alt="" coords="683,765,759,765,759,770,683,770"/>
+<area shape="rect" id="Node000027" href="$structllvm_1_1OperandTraits_3_01ExtractElementConstantExpr_01_4.html" title=" " alt="" coords="734,813,950,853"/>
+<area shape="poly" id="edge26_Node000026_Node000027" title=" " alt="" coords="701,830,734,830,734,836,701,836"/>
+<area shape="rect" id="Node000029" href="$structllvm_1_1OperandTraits_3_01ExtractElementInst_01_4.html" title=" " alt="" coords="763,878,921,919"/>
+<area shape="poly" id="edge28_Node000028_Node000029" title=" " alt="" coords="684,896,763,896,763,901,684,901"/>
+<area shape="rect" id="Node000031" href="$structllvm_1_1OperandTraits_3_01GlobalAlias_01_4.html" title=" " alt="" coords="774,943,910,984"/>
+<area shape="poly" id="edge30_Node000030_Node000031" title=" " alt="" coords="683,961,774,961,774,966,683,966"/>
+</map>

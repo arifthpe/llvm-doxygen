@@ -1,0 +1,21 @@
+<map id="llvm::MachineInstrBundleIteratorHelper&lt; false &gt;" name="llvm::MachineInstrBundleIteratorHelper&lt; false &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="298,216,466,257"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="889,5,1058,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="416,204,468,161,538,112,619,65,663,46,707,30,753,19,800,14,889,14,889,19,800,19,754,25,708,35,665,50,622,70,541,117,472,166,419,208"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="875,404,1072,445"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="423,264,476,302,545,346,624,387,708,418,750,426,792,431,874,432,874,437,792,436,749,432,707,423,622,392,542,351,473,307,419,268"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MachineInstrBundleIterator.html" title="MachineBasicBlock iterator that automatically skips over MIs that are inside bundles (i...." alt="" coords="515,216,684,257"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="481,234,515,234,515,239,481,239"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1MachineInstrBundleIteratorHelper.html" title=" " alt="" coords="5,216,190,257"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,234,297,234,297,239,205,239"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="614,200,650,140,676,109,706,83,743,65,775,60,809,58,850,53,888,44,889,49,851,58,809,64,776,65,745,70,709,88,679,113,654,143,618,203"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="619,269,656,325,680,352,709,374,748,394,790,407,875,421,874,426,789,412,746,399,706,379,677,356,651,328,615,272"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="889,244,1058,300"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="699,253,708,254,802,263,889,267,889,273,801,268,707,259,699,258"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="879,324,1068,380"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="634,265,668,292,709,315,751,329,795,339,879,349,879,354,794,344,749,334,707,319,665,296,630,269"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="879,85,1068,156"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="651,206,707,182,878,140,879,145,709,187,653,211"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1MachineInstrBundleIterator.html" title=" " alt="" coords="888,180,1059,221"/>
+<area shape="poly" id="edge10_Node000005_Node000009" title=" " alt="" coords="699,224,887,206,887,211,699,229"/>
+</map>

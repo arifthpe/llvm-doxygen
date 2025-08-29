@@ -1,0 +1,18 @@
+<map id="llvm::LLVMRemarkSetupPatternError" name="llvm::LLVMRemarkSetupPatternError">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1529,64,1737,105"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1LLVMRemarkSetupErrorInfo.html" title=" " alt="" coords="1229,64,1480,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1495,82,1528,82,1528,87,1495,87"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="568,32,763,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="779,52,978,58,1205,69,1229,70,1229,76,1205,74,977,63,778,57"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="5,65,139,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="126,58,207,35,311,14,428,3,487,4,545,10,614,29,613,34,544,15,486,9,428,9,312,20,208,41,127,63"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="188,58,345,98"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="154,75,187,75,187,81,154,81"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="575,104,756,129"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="128,93,188,107,291,119,395,124,575,121,575,126,395,129,291,125,188,113,127,98"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="361,69,568,56,568,61,361,75"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="361,96,370,97,476,107,575,112,575,118,476,113,369,102,360,101"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1LLVMRemarkSetupErrorInfo.html" title=" " alt="" coords="812,96,1006,137"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="1022,118,1112,118,1205,112,1264,103,1264,108,1206,117,1112,123,1022,124"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="771,114,812,114,812,119,771,119"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::CostTblEntryT&lt; CostType &gt;" name="llvm::CostTblEntryT&lt; CostType &gt;">
+<area shape="rect" id="Node000001" title="Cost Table Entry." alt="" coords="87,5,225,46"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CostTblEntryT.html" title=" " alt="" coords="5,117,144,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,60,91,118,87,115,130,57"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1CostTblEntryT.html" title=" " alt="" coords="168,117,306,158"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,55,210,68,224,92,234,116,229,118,219,95,206,72,193,58"/>
+</map>

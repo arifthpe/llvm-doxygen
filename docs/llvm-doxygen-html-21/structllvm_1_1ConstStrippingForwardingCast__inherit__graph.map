@@ -1,0 +1,7 @@
+<map id="llvm::ConstStrippingForwardingCast&lt; To, From, ForwardTo &gt;" name="llvm::ConstStrippingForwardingCast&lt; To, From, ForwardTo &gt;">
+<area shape="rect" id="Node000001" title="Provides a cast trait that strips const from types to make it easier to implement a const&#45;version of ..." alt="" coords="5,49,209,89"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ConstStrippingForwardingCast.html" title=" " alt="" coords="434,34,680,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,66,433,66,433,72,224,72"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1CastInfo_3_01To_00_01const_01PointerUnion_3_01PTs_8_8_8_01_4_01_4.html" title=" " alt="" coords="729,41,866,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="696,66,729,66,729,72,696,72"/>
+</map>
