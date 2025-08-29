@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1InstVisitor.html" title="Base class for instruction visitors." alt="" coords="37,71,174,111"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1PtrUseVisitor.html" title=" " alt="" coords="256,5,393,46"/>
+<area shape="poly" id="edge3856_Node000000_Node000001" title=" " alt="" coords="188,64,254,44,256,49,190,69"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1PtrUseVisitor.html" title=" " alt="" coords="254,71,395,111"/>
+<area shape="poly" id="edge3857_Node000000_Node000003" title=" " alt="" coords="190,88,253,88,253,94,190,94"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1PtrUseVisitor.html" title=" " alt="" coords="259,136,390,177"/>
+<area shape="poly" id="edge3858_Node000000_Node000004" title=" " alt="" coords="190,113,259,134,257,139,189,118"/>
+<area shape="rect" id="Node000005" href="$classAllocaSlices_1_1SliceBuilder.html" title="Builder for the alloca slices." alt="" coords="443,144,613,169"/>
+<area shape="poly" id="edge3859_Node000004_Node000005" title=" " alt="" coords="405,154,442,154,442,159,405,159"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="45,201,166,242"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1PtrUseVisitor.html" title="A base class for visitors over the uses of a pointer value." alt="" coords="259,201,390,242"/>
+<area shape="poly" id="edge3860_Node000007_Node000006" title=" " alt="" coords="181,219,258,219,258,224,181,224"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1detail_1_1PtrUseVisitorBase.html" title="Implementation of non&#45;dependent functionality for PtrUseVisitor." alt="" coords="5,140,206,165"/>
+<area shape="poly" id="edge3861_Node000002_Node000001" title=" " alt="" coords="186,131,204,121,219,106,228,91,236,74,252,57,271,44,274,49,255,61,241,77,233,93,224,109,207,125,188,136"/>
+<area shape="poly" id="edge3862_Node000002_Node000003" title=" " alt="" coords="168,132,252,108,254,113,170,137"/>
+<area shape="poly" id="edge3863_Node000002_Node000004" title=" " alt="" coords="221,152,258,152,258,158,221,157"/>
+<area shape="poly" id="edge3864_Node000002_Node000006" title=" " alt="" coords="164,168,259,198,257,203,162,173"/>
+</map>

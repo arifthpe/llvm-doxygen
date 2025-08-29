@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1LiveRangeEdit_1_1Delegate.html" title="Callback methods for LiveRangeEdit owners." alt="" coords="5,5,144,46"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1RAGreedy.html" title=" " alt="" coords="192,42,306,68"/>
+<area shape="poly" id="edge4201_Node000000_Node000001" title=" " alt="" coords="160,37,192,43,191,48,159,43"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RegAllocBase.html" title="RegAllocBase provides the register allocation driver and interface that can be extended to add intere..." alt="" coords="6,70,143,96"/>
+<area shape="poly" id="edge4202_Node000002_Node000001" title=" " alt="" coords="158,67,191,62,192,67,158,72"/>
+</map>

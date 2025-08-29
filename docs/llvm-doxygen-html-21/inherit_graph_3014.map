@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1MachineFunction_1_1Delegate.html" title=" " alt="" coords="21,23,174,64"/>
+<area shape="rect" id="Node000001" href="$classSlotIndexUpdateDelegate.html" title=" " alt="" coords="248,5,418,31"/>
+<area shape="poly" id="edge4470_Node000000_Node000001" title=" " alt="" coords="189,31,247,25,247,30,189,36"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1GISelObserverWrapper.html" title="Simple wrapper observer that takes several observers, and calls each one for each event." alt="" coords="239,55,426,80"/>
+<area shape="poly" id="edge4471_Node000000_Node000002" title=" " alt="" coords="189,50,239,55,239,61,188,55"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1GISelChangeObserver.html" title="Abstract class that contains various methods for clients to notify about changes." alt="" coords="5,205,190,231"/>
+<area shape="poly" id="edge4476_Node000003_Node000002" title=" " alt="" coords="117,192,168,140,201,114,236,90,265,78,267,83,239,95,204,118,172,144,121,196"/>
+<area shape="rect" id="Node000004" href="$classCombiner_1_1WorkListMaintainer.html" title="This class acts as the glue that joins the CombinerHelper to the overall Combine algorithm." alt="" coords="249,104,417,145"/>
+<area shape="poly" id="edge4472_Node000003_Node000004" title=" " alt="" coords="141,196,237,156,270,143,272,148,239,161,143,201"/>
+<area shape="rect" id="Node000006" href="$classInstructionSelect_1_1MIIteratorMaintainer.html" title="This class observes instruction insertions/removals." alt="" coords="257,170,408,210"/>
+<area shape="poly" id="edge4474_Node000003_Node000006" title=" " alt="" coords="205,203,256,197,257,202,206,208"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1GISelCSEInfo.html" title="The CSE Analysis object." alt="" coords="265,235,401,260"/>
+<area shape="poly" id="edge4475_Node000003_Node000007" title=" " alt="" coords="206,229,265,236,264,242,205,234"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1GISelValueTracking.html" title=" " alt="" coords="249,284,417,310"/>
+<area shape="poly" id="edge4477_Node000003_Node000008" title=" " alt="" coords="144,235,239,270,275,281,273,286,237,275,142,240"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1LostDebugLocObserver.html" title=" " alt="" coords="238,333,428,359"/>
+<area shape="poly" id="edge4478_Node000003_Node000009" title=" " alt="" coords="125,240,176,281,239,320,266,330,264,335,236,325,173,285,122,244"/>
+<area shape="rect" id="Node000005" href="$classCombiner_1_1WorkListMaintainerImpl.html" title="A configurable WorkListMaintainer implementation." alt="" coords="476,104,644,145"/>
+<area shape="poly" id="edge4473_Node000004_Node000005" title=" " alt="" coords="433,122,475,122,475,128,433,128"/>
+</map>

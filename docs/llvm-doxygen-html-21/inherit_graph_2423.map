@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1ilist__alloc__traits.html" title="Use delete by default for iplist and ilist." alt="" coords="5,37,149,78"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1ilist__node__traits.html" title="A fragment for template traits for intrusive list that provides default node related operations." alt="" coords="197,71,341,111"/>
+<area shape="poly" id="edge3661_Node000000_Node000001" title=" " alt="" coords="165,70,197,76,196,81,164,75"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ilist__traits_3_01MachineInstr_01_4.html" title=" " alt="" coords="389,5,509,46"/>
+<area shape="poly" id="edge3662_Node000001_Node000002" title=" " alt="" coords="340,62,390,44,392,49,342,67"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ilist__traits_3_01const_01Ty_01_4.html" title="Const traits should never be instantiated." alt="" coords="394,71,504,111"/>
+<area shape="poly" id="edge3663_Node000001_Node000003" title=" " alt="" coords="356,88,394,88,394,94,356,94"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__traits.html" title="Template traits for intrusive list." alt="" coords="394,136,504,177"/>
+<area shape="poly" id="edge3664_Node000001_Node000004" title=" " alt="" coords="342,114,395,134,393,139,340,119"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ilist__callback__traits.html" title="Callbacks do nothing by default in iplist and ilist." alt="" coords="13,103,141,143"/>
+<area shape="poly" id="edge3665_Node000005_Node000001" title=" " alt="" coords="156,107,196,100,197,106,157,112"/>
+</map>

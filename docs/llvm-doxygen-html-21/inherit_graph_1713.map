@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1DroppedVariableStats.html" title="A base class to collect and print dropped debug information variable statistics." alt="" coords="5,31,185,56"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1DroppedVariableStatsIR.html" title="A class to collect and print dropped debug information due to LLVM IR optimization passes." alt="" coords="238,5,432,31"/>
+<area shape="poly" id="edge3298_Node000000_Node000001" title=" " alt="" coords="200,30,237,26,238,31,201,35"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DroppedVariableStatsMIR.html" title="A class to collect and print dropped debug information due to MIR optimization passes." alt="" coords="233,55,437,80"/>
+<area shape="poly" id="edge3299_Node000000_Node000002" title=" " alt="" coords="201,51,232,55,232,60,200,57"/>
+</map>
