@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,5,202,61"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="250,13,513,54"/>
+<area shape="poly" id="edge5826_Node000000_Node000001" title=" " alt="" coords="218,30,249,30,249,36,218,36"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ShouldRunExtraSimpleLoopUnswitch.html" title="A marker analysis to determine if SimpleLoopUnswitch should run again on a given loop." alt="" coords="561,46,749,87"/>
+<area shape="poly" id="edge5827_Node000001_Node000002" title=" " alt="" coords="529,48,561,52,560,58,528,54"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ShouldRunExtraPasses.html" title=" " alt="" coords="250,78,513,119"/>
+<area shape="poly" id="edge5828_Node000003_Node000002" title=" " alt="" coords="528,79,560,75,561,80,529,84"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1SmallVectorBase.html" title=" " alt="" coords="5,5,202,76"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1SmallVectorTemplateCommon.html" title=" " alt="" coords="250,13,443,68"/>
+<area shape="poly" id="edge8390_Node000000_Node000001" title=" " alt="" coords="217,38,249,38,249,43,217,43"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SmallVectorTemplateBase.html" title=" " alt="" coords="491,13,717,68"/>
+<area shape="poly" id="edge8391_Node000001_Node000002" title=" " alt="" coords="458,38,491,38,491,43,458,43"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="765,13,962,68"/>
+<area shape="poly" id="edge8392_Node000002_Node000003" title=" " alt="" coords="733,38,765,38,765,43,733,43"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="1010,53,1198,108"/>
+<area shape="poly" id="edge8393_Node000003_Node000004" title=" " alt="" coords="978,57,1010,62,1009,68,977,62"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="765,93,962,148"/>
+<area shape="poly" id="edge8394_Node000005_Node000004" title=" " alt="" coords="977,99,1009,94,1010,99,978,104"/>
+</map>
