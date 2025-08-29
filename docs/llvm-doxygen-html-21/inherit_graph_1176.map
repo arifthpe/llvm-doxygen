@@ -1,0 +1,75 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1codeview_1_1TypeRecord.html" title=" " alt="" coords="5,995,192,1020"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1codeview_1_1ArgListRecord.html" title=" " alt="" coords="247,5,446,31"/>
+<area shape="poly" id="edge1095_Node000000_Node000001" title=" " alt="" coords="97,979,101,792,107,656,118,509,136,362,160,227,176,168,194,116,214,73,238,40,251,30,254,34,242,44,219,76,199,118,181,170,165,228,141,363,124,510,112,657,106,792,102,979"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1codeview_1_1ArrayRecord.html" title=" " alt="" coords="252,55,441,80"/>
+<area shape="poly" id="edge1096_Node000000_Node000002" title=" " alt="" coords="97,979,103,800,110,672,122,533,139,395,164,267,179,212,196,163,216,122,238,91,253,79,256,83,242,95,220,125,201,165,184,213,169,269,145,395,127,534,115,672,108,800,103,979"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1codeview_1_1BaseClassRecord.html" title=" " alt="" coords="256,104,436,145"/>
+<area shape="poly" id="edge1097_Node000000_Node000003" title=" " alt="" coords="98,979,106,813,128,567,146,439,169,321,200,224,218,186,238,156,254,142,258,147,242,160,222,188,205,226,175,322,151,439,133,567,111,813,103,980"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1codeview_1_1BitFieldRecord.html" title=" " alt="" coords="266,170,426,210"/>
+<area shape="poly" id="edge1098_Node000000_Node000004" title=" " alt="" coords="98,979,108,824,132,597,150,480,173,372,202,283,219,248,238,222,264,202,267,207,242,225,224,251,207,285,178,374,155,481,137,598,114,824,104,979"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1codeview_1_1BuildInfoRecord.html" title=" " alt="" coords="263,235,430,276"/>
+<area shape="poly" id="edge1099_Node000000_Node000005" title=" " alt="" coords="99,979,111,835,136,628,154,522,177,424,205,343,220,311,238,287,260,270,264,274,242,291,225,314,209,345,182,425,159,523,141,629,116,836,104,980"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1codeview_1_1DataMemberRecord.html" title=" " alt="" coords="251,300,442,341"/>
+<area shape="poly" id="edge1100_Node000000_Node000006" title=" " alt="" coords="99,979,113,847,140,660,158,563,181,475,207,403,222,374,238,352,253,340,256,344,242,356,226,377,212,405,186,477,163,565,145,661,118,848,105,980"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1codeview_1_1EndPrecompRecord.html" title=" " alt="" coords="251,366,442,406"/>
+<area shape="poly" id="edge1101_Node000000_Node000007" title=" " alt="" coords="100,979,116,859,144,691,163,605,184,527,209,462,238,418,253,405,256,409,242,421,214,465,190,528,168,606,149,692,121,859,106,980"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1codeview_1_1EnumeratorRecord.html" title=" " alt="" coords="255,431,438,472"/>
+<area shape="poly" id="edge1102_Node000000_Node000008" title=" " alt="" coords="101,979,118,871,148,722,167,647,188,578,212,522,238,483,254,470,257,474,242,487,217,524,193,580,172,648,153,723,124,872,106,980"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1codeview_1_1FieldListRecord.html" title=" " alt="" coords="264,496,429,537"/>
+<area shape="poly" id="edge1103_Node000000_Node000009" title=" " alt="" coords="97,979,102,896,110,840,121,780,139,717,164,656,196,598,238,547,262,530,265,535,241,551,201,601,168,658,144,719,127,781,115,841,108,896,102,980"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1codeview_1_1FuncIdRecord.html" title=" " alt="" coords="247,561,446,587"/>
+<area shape="poly" id="edge1104_Node000000_Node000010" title=" " alt="" coords="98,979,105,902,126,799,143,744,167,690,199,640,238,596,253,585,256,590,241,600,203,643,172,692,148,746,131,800,110,903,103,979"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1codeview_1_1LabelRecord.html" title=" " alt="" coords="252,611,441,636"/>
+<area shape="poly" id="edge1105_Node000000_Node000011" title=" " alt="" coords="100,979,110,911,133,821,151,773,174,727,203,684,238,647,257,635,260,639,241,651,207,687,178,730,156,776,138,823,115,912,105,979"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1codeview_1_1ListContinuationRecord.html" title="LF_INDEX &#45; Used to chain two large LF_FIELDLIST or LF_METHODLIST records together." alt="" coords="241,660,452,701"/>
+<area shape="poly" id="edge1106_Node000000_Node000012" title=" " alt="" coords="103,979,118,923,144,851,183,777,208,742,238,712,256,700,259,704,241,716,212,746,187,780,148,853,123,924,108,980"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1codeview_1_1MemberFuncIdRecord.html" title=" " alt="" coords="250,726,442,766"/>
+<area shape="poly" id="edge1107_Node000000_Node000013" title=" " alt="" coords="107,979,125,935,153,881,190,825,213,800,238,777,259,765,261,769,241,782,217,804,195,829,157,884,130,938,112,981"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1codeview_1_1MemberFunctionRecord.html" title=" " alt="" coords="240,791,453,832"/>
+<area shape="poly" id="edge1108_Node000000_Node000014" title=" " alt="" coords="113,980,163,912,198,875,238,843,262,830,264,835,241,847,202,879,167,915,117,983"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1codeview_1_1MethodOverloadListRecord.html" title=" " alt="" coords="241,856,452,897"/>
+<area shape="poly" id="edge1109_Node000000_Node000015" title=" " alt="" coords="126,983,176,945,238,908,268,895,270,900,241,913,179,949,129,987"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1codeview_1_1ModifierRecord.html" title=" " alt="" coords="265,922,428,962"/>
+<area shape="poly" id="edge1110_Node000000_Node000016" title=" " alt="" coords="164,988,266,961,267,966,165,993"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1codeview_1_1NestedTypeRecord.html" title=" " alt="" coords="253,987,440,1028"/>
+<area shape="poly" id="edge1111_Node000000_Node000017" title=" " alt="" coords="207,1005,253,1005,253,1010,207,1010"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1codeview_1_1OneMethodRecord.html" title=" " alt="" coords="255,1052,438,1093"/>
+<area shape="poly" id="edge1112_Node000000_Node000018" title=" " alt="" coords="165,1022,267,1049,266,1054,164,1027"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1codeview_1_1OverloadedMethodRecord.html" title="For method overload sets. LF_METHOD." alt="" coords="255,1118,438,1158"/>
+<area shape="poly" id="edge1113_Node000000_Node000019" title=" " alt="" coords="129,1028,179,1066,241,1102,270,1115,268,1120,238,1107,176,1070,126,1032"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1codeview_1_1PointerRecord.html" title=" " alt="" coords="247,1183,446,1208"/>
+<area shape="poly" id="edge1114_Node000000_Node000020" title=" " alt="" coords="117,1032,167,1101,201,1137,241,1168,266,1180,264,1184,238,1172,198,1141,162,1104,113,1035"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1codeview_1_1PrecompRecord.html" title=" " alt="" coords="241,1232,452,1258"/>
+<area shape="poly" id="edge1115_Node000000_Node000021" title=" " alt="" coords="112,1034,131,1075,158,1126,195,1176,217,1199,241,1219,261,1229,258,1234,238,1223,213,1203,191,1180,154,1129,126,1078,107,1036"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1codeview_1_1ProcedureRecord.html" title=" " alt="" coords="259,1282,434,1322"/>
+<area shape="poly" id="edge1116_Node000000_Node000022" title=" " alt="" coords="109,1035,126,1085,152,1148,191,1213,214,1242,241,1268,260,1280,257,1284,238,1272,210,1246,186,1216,148,1150,121,1087,104,1036"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1codeview_1_1StaticDataMemberRecord.html" title=" " alt="" coords="257,1347,436,1388"/>
+<area shape="poly" id="edge1117_Node000000_Node000023" title=" " alt="" coords="107,1035,119,1097,144,1177,162,1219,184,1260,210,1299,241,1332,259,1344,256,1349,238,1336,206,1302,179,1263,157,1221,139,1179,114,1098,101,1036"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1codeview_1_1StringIdRecord.html" title=" " alt="" coords="266,1412,427,1453"/>
+<area shape="poly" id="edge1118_Node000000_Node000024" title=" " alt="" coords="104,1036,113,1108,136,1205,153,1257,176,1308,206,1356,241,1398,267,1414,264,1419,238,1401,201,1359,172,1311,148,1259,130,1207,108,1109,99,1036"/>
+<area shape="rect" id="Node000025" href="$classllvm_1_1codeview_1_1StringListRecord.html" title=" " alt="" coords="261,1478,432,1518"/>
+<area shape="poly" id="edge1119_Node000000_Node000025" title=" " alt="" coords="103,1036,108,1119,115,1174,127,1233,145,1295,169,1356,201,1413,242,1463,262,1478,259,1482,238,1467,197,1416,164,1358,140,1297,122,1235,110,1175,103,1119,97,1036"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1codeview_1_1TagRecord.html" title=" " alt="" coords="257,1543,436,1568"/>
+<area shape="poly" id="edge1120_Node000000_Node000026" title=" " alt="" coords="106,1036,123,1144,152,1293,171,1368,192,1436,216,1491,242,1528,258,1540,255,1544,238,1532,211,1494,187,1438,166,1369,147,1294,118,1145,101,1036"/>
+<area shape="rect" id="Node000030" href="$classllvm_1_1codeview_1_1TypeServer2Record.html" title=" " alt="" coords="252,1592,441,1633"/>
+<area shape="poly" id="edge1124_Node000000_Node000030" title=" " alt="" coords="106,1035,121,1153,150,1316,168,1399,190,1475,215,1537,242,1579,255,1590,252,1594,238,1583,210,1540,185,1477,163,1401,145,1317,116,1154,100,1036"/>
+<area shape="rect" id="Node000031" href="$classllvm_1_1codeview_1_1UdtModSourceLineRecord.html" title=" " alt="" coords="245,1658,448,1698"/>
+<area shape="poly" id="edge1125_Node000000_Node000031" title=" " alt="" coords="105,1036,119,1165,146,1347,165,1441,187,1526,212,1596,227,1623,242,1643,256,1655,253,1659,238,1647,222,1625,208,1598,182,1527,159,1442,141,1348,114,1166,100,1036"/>
+<area shape="rect" id="Node000032" href="$classllvm_1_1codeview_1_1UdtSourceLineRecord.html" title=" " alt="" coords="257,1723,436,1764"/>
+<area shape="poly" id="edge1126_Node000000_Node000032" title=" " alt="" coords="104,1036,117,1177,142,1379,160,1483,183,1577,210,1656,225,1686,242,1708,258,1722,255,1726,238,1712,221,1688,205,1658,178,1579,155,1484,137,1380,111,1177,99,1036"/>
+<area shape="rect" id="Node000033" href="$classllvm_1_1codeview_1_1VFPtrRecord.html" title=" " alt="" coords="250,1788,442,1814"/>
+<area shape="poly" id="edge1127_Node000000_Node000033" title=" " alt="" coords="104,1036,113,1189,136,1412,154,1526,177,1631,207,1716,223,1749,242,1774,257,1785,254,1790,238,1777,219,1752,202,1718,172,1632,149,1527,131,1412,108,1190,98,1036"/>
+<area shape="rect" id="Node000034" href="$classllvm_1_1codeview_1_1VFTableRecord.html" title=" " alt="" coords="243,1837,450,1863"/>
+<area shape="poly" id="edge1128_Node000000_Node000034" title=" " alt="" coords="103,1035,111,1197,133,1435,150,1558,174,1671,204,1763,222,1798,242,1824,255,1835,252,1839,238,1828,218,1801,199,1765,169,1672,145,1559,127,1436,106,1198,98,1036"/>
+<area shape="rect" id="Node000035" href="$classllvm_1_1codeview_1_1VFTableShapeRecord.html" title=" " alt="" coords="246,1887,447,1928"/>
+<area shape="poly" id="edge1129_Node000000_Node000035" title=" " alt="" coords="103,1036,111,1205,132,1457,149,1588,173,1708,204,1807,222,1845,242,1874,254,1885,251,1889,238,1877,217,1848,199,1809,168,1709,144,1589,126,1458,105,1206,98,1036"/>
+<area shape="rect" id="Node000036" href="$classllvm_1_1codeview_1_1VirtualBaseClassRecord.html" title=" " alt="" coords="255,1952,438,1993"/>
+<area shape="poly" id="edge1130_Node000000_Node000036" title=" " alt="" coords="103,1036,109,1217,116,1347,128,1488,146,1628,170,1758,185,1815,202,1865,221,1906,242,1938,256,1950,253,1954,238,1941,216,1909,197,1867,180,1817,165,1759,141,1629,123,1488,111,1347,103,1217,98,1036"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1codeview_1_1ClassRecord.html" title=" " alt="" coords="501,1493,693,1519"/>
+<area shape="poly" id="edge1121_Node000026_Node000027" title=" " alt="" coords="430,1536,528,1517,529,1522,431,1542"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1codeview_1_1EnumRecord.html" title=" " alt="" coords="501,1543,693,1568"/>
+<area shape="poly" id="edge1122_Node000026_Node000028" title=" " alt="" coords="452,1553,500,1553,500,1558,452,1558"/>
+<area shape="rect" id="Node000029" href="$structllvm_1_1codeview_1_1UnionRecord.html" title=" " alt="" coords="501,1592,693,1618"/>
+<area shape="poly" id="edge1123_Node000026_Node000029" title=" " alt="" coords="431,1569,529,1589,528,1594,430,1575"/>
+</map>
