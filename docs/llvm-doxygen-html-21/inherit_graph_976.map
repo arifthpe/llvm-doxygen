@@ -1,0 +1,31 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1BTFTypeBase.html" title="The base class for BTF type generation." alt="" coords="5,327,142,352"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1BTFKindDataSec.html" title="Handle data sections." alt="" coords="195,5,350,31"/>
+<area shape="poly" id="edge861_Node000000_Node000001" title=" " alt="" coords="75,311,84,255,104,182,118,143,137,106,160,71,188,40,204,29,207,34,191,44,164,74,142,109,123,146,109,183,89,256,80,312"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1BTFKindVar.html" title="Handle variable instances." alt="" coords="211,55,334,80"/>
+<area shape="poly" id="edge862_Node000000_Node000002" title=" " alt="" coords="77,311,89,263,111,203,143,142,164,114,188,89,209,77,212,81,191,94,168,118,147,145,116,205,95,264,83,312"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1BTFTypeArray.html" title="Handle array type." alt="" coords="204,104,342,130"/>
+<area shape="poly" id="edge863_Node000000_Node000003" title=" " alt="" coords="81,311,96,272,118,226,149,179,188,139,206,128,209,133,191,143,153,182,123,228,101,274,86,313"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1BTFTypeDeclTag.html" title="Handle decl tags." alt="" coords="196,153,350,179"/>
+<area shape="poly" id="edge864_Node000000_Node000004" title=" " alt="" coords="86,311,126,249,155,216,188,188,208,177,211,182,191,192,159,220,131,253,91,314"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1BTFTypeDerived.html" title="Handle several derived types include pointer, const, volatile, typedef and restrict." alt="" coords="197,203,348,228"/>
+<area shape="poly" id="edge865_Node000000_Node000005" title=" " alt="" coords="95,313,136,274,188,237,213,227,215,231,191,242,139,279,98,317"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1BTFTypeEnum.html" title="Handle enumerate type." alt="" coords="203,252,343,278"/>
+<area shape="poly" id="edge866_Node000000_Node000006" title=" " alt="" coords="115,317,189,286,221,276,223,281,191,291,117,322"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1BTFTypeEnum64.html" title="Handle 64&#45;bit enumerate type." alt="" coords="196,301,350,327"/>
+<area shape="poly" id="edge867_Node000000_Node000007" title=" " alt="" coords="157,326,195,321,196,327,157,332"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1BTFTypeFloat.html" title="Handle binary floating point type." alt="" coords="205,351,340,376"/>
+<area shape="poly" id="edge868_Node000000_Node000008" title=" " alt="" coords="157,347,205,353,204,358,157,352"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1BTFTypeFunc.html" title="Handle subprogram." alt="" coords="205,400,340,426"/>
+<area shape="poly" id="edge869_Node000000_Node000009" title=" " alt="" coords="118,357,191,386,223,397,221,402,189,391,116,362"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1BTFTypeFuncProto.html" title="Handle function pointer." alt="" coords="190,449,356,475"/>
+<area shape="poly" id="edge870_Node000000_Node000010" title=" " alt="" coords="98,361,139,400,191,436,215,446,213,451,188,440,136,404,95,365"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1BTFTypeFwd.html" title="Handle struct or union forward declaration." alt="" coords="207,499,338,524"/>
+<area shape="poly" id="edge871_Node000000_Node000011" title=" " alt="" coords="91,365,131,426,159,458,191,485,211,496,209,501,188,490,155,462,127,429,86,368"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1BTFTypeInt.html" title="Handle int type." alt="" coords="212,548,334,574"/>
+<area shape="poly" id="edge872_Node000000_Node000012" title=" " alt="" coords="86,366,101,404,123,450,153,496,191,535,213,547,210,551,188,539,149,499,118,453,96,407,81,368"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1BTFTypeStruct.html" title="Handle struct/union type." alt="" coords="202,597,344,623"/>
+<area shape="poly" id="edge873_Node000000_Node000013" title=" " alt="" coords="83,367,95,414,116,473,147,533,168,560,191,584,208,595,205,599,188,588,164,564,143,536,111,475,90,416,77,368"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1BTFTypeTypeTag.html" title=" " alt="" coords="195,647,350,672"/>
+<area shape="poly" id="edge874_Node000000_Node000014" title=" " alt="" coords="80,367,89,423,109,495,123,533,142,569,164,604,191,633,207,644,204,648,188,638,160,607,137,572,118,535,104,496,84,424,75,368"/>
+</map>

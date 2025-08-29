@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1CallLowering.html" title=" " alt="" coords="5,228,134,254"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1AArch64CallLowering.html" title=" " alt="" coords="186,5,364,31"/>
+<area shape="poly" id="edge878_Node000000_Node000001" title=" " alt="" coords="76,212,90,174,111,127,141,80,180,40,198,29,201,34,183,44,145,83,116,130,95,176,81,214"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AMDGPUCallLowering.html" title=" " alt="" coords="182,55,369,80"/>
+<area shape="poly" id="edge879_Node000000_Node000002" title=" " alt="" coords="81,213,120,150,147,117,180,89,201,78,204,83,183,94,151,121,124,153,86,215"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ARMCallLowering.html" title=" " alt="" coords="196,104,354,130"/>
+<area shape="poly" id="edge880_Node000000_Node000003" title=" " alt="" coords="90,214,129,175,180,139,205,128,208,133,183,143,133,179,94,218"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1BPFCallLowering.html" title=" " alt="" coords="198,153,352,179"/>
+<area shape="poly" id="edge881_Node000000_Node000004" title=" " alt="" coords="109,218,181,188,215,177,217,182,183,193,111,223"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1M68kCallLowering.html" title=" " alt="" coords="195,203,356,228"/>
+<area shape="poly" id="edge882_Node000000_Node000005" title=" " alt="" coords="148,228,194,223,195,228,149,234"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MipsCallLowering.html" title=" " alt="" coords="197,252,354,278"/>
+<area shape="poly" id="edge883_Node000000_Node000006" title=" " alt="" coords="150,247,197,253,196,258,149,253"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1PPCCallLowering.html" title=" " alt="" coords="197,301,354,327"/>
+<area shape="poly" id="edge884_Node000000_Node000007" title=" " alt="" coords="112,258,183,288,217,298,216,303,181,293,110,263"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1RISCVCallLowering.html" title=" " alt="" coords="190,351,360,376"/>
+<area shape="poly" id="edge885_Node000000_Node000008" title=" " alt="" coords="94,264,133,302,183,337,208,348,206,353,180,342,130,306,90,267"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1SPIRVCallLowering.html" title=" " alt="" coords="191,400,360,426"/>
+<area shape="poly" id="edge886_Node000000_Node000009" title=" " alt="" coords="86,266,124,328,151,360,183,387,204,397,201,402,180,391,148,364,120,331,82,269"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1X86CallLowering.html" title=" " alt="" coords="200,449,351,475"/>
+<area shape="poly" id="edge887_Node000000_Node000010" title=" " alt="" coords="81,268,95,306,116,352,145,398,183,436,201,446,199,451,180,440,141,401,112,354,90,308,76,270"/>
+</map>

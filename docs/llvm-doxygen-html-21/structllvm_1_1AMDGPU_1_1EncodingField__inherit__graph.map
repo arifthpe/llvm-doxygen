@@ -1,0 +1,13 @@
+<map id="llvm::AMDGPU::EncodingField&lt; HighBit, LowBit, D &gt;" name="llvm::AMDGPU::EncodingField&lt; HighBit, LowBit, D &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,208,145"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AMDGPU_1_1EncodingField.html" title=" " alt="" coords="346,5,548,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,95,231,72,344,43,346,48,232,78,170,100"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1AMDGPU_1_1EncodingField.html" title=" " alt="" coords="346,71,548,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,110,345,98,346,104,223,116"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1AMDGPU_1_1EncodingField.html" title=" " alt="" coords="346,136,548,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,140,232,141,345,149,345,155,231,146,223,145"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AMDGPU_1_1EncodingField.html" title=" " alt="" coords="346,201,548,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="163,149,233,177,289,192,346,204,345,209,288,197,231,182,161,154"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1AMDGPU_1_1Hwreg_1_1HwregSize.html" title=" " alt="" coords="597,201,756,242"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="564,219,597,219,597,224,564,224"/>
+</map>
