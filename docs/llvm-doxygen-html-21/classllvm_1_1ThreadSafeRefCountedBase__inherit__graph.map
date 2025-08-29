@@ -1,0 +1,21 @@
+<map id="llvm::ThreadSafeRefCountedBase&lt; Derived &gt;" name="llvm::ThreadSafeRefCountedBase&lt; Derived &gt;">
+<area shape="rect" id="Node000001" title="A thread&#45;safe version of RefCountedBase." alt="" coords="5,71,196,111"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ThreadSafeRefCountedBase.html" title=" " alt="" coords="376,5,566,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,64,219,60,375,35,376,40,220,66,201,69"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ThreadSafeRefCountedBase.html" title=" " alt="" coords="376,71,566,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,88,376,88,376,94,211,94"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ThreadSafeRefCountedBase.html" title=" " alt="" coords="376,136,566,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="200,113,220,117,376,142,375,147,219,122,199,118"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1JITDylib.html" title="Represents a JIT&#39;d dynamic library." alt="" coords="641,13,769,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="582,23,640,23,640,28,582,28"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1orc_1_1ResourceTracker.html" title="API to remove / transfer ownership of JIT resources." alt="" coords="615,78,795,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="582,88,615,88,615,94,582,94"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1vfs_1_1FileSystem.html" title="The virtual file system interface." alt="" coords="632,144,778,169"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="582,154,632,154,632,159,582,159"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="860,79,1021,135"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="784,137,859,121,860,127,785,142"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1FileCollectorFileSystem.html" title=" " alt="" coords="844,160,1036,185"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="793,160,844,163,843,168,793,165"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1vfs_1_1RedirectingFileSystem.html" title="A virtual file system parsed from a YAML file." alt="" coords="1086,87,1252,127"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1036,104,1085,104,1085,110,1036,110"/>
+</map>

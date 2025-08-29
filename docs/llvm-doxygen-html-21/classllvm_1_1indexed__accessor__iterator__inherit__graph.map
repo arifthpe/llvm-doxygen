@@ -1,0 +1,11 @@
+<map id="llvm::indexed_accessor_iterator&lt; DerivedT, BaseT, T, PointerT, ReferenceT &gt;" name="llvm::indexed_accessor_iterator&lt; DerivedT, BaseT, T, PointerT, ReferenceT &gt;">
+<area shape="rect" id="Node000001" title="A utility class used to implement an iterator that contains some base object and an index." alt="" coords="662,41,842,97"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1indexed__accessor__iterator.html" title=" " alt="" coords="1059,41,1233,97"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="857,66,1058,66,1058,72,857,72"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="445,26,613,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="629,66,662,66,662,72,629,72"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,34,227,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,66,445,66,445,72,242,72"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1detail_1_1indexed__accessor__range__base_1_1iterator.html" title="An iterator element of this range." alt="" coords="1282,26,1443,112"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1249,66,1282,66,1282,72,1249,72"/>
+</map>

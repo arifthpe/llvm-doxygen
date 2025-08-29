@@ -1,0 +1,25 @@
+<map id="llvm::SelectionDAGGenTargetInfo" name="llvm::SelectionDAGGenTargetInfo">
+<area shape="rect" id="Node000001" title="Proxy class that targets should inherit from if they wish to use the generated node descriptions." alt="" coords="248,228,466,254"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AArch64SelectionDAGInfo.html" title=" " alt="" coords="514,5,722,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="369,213,391,174,423,127,464,80,513,40,534,29,537,34,515,44,468,83,428,130,396,177,374,216"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ARCSelectionDAGInfo.html" title=" " alt="" coords="524,55,712,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="375,214,432,151,470,117,513,89,538,79,540,83,515,94,473,122,436,155,379,218"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1AVRSelectionDAGInfo.html" title="Holds information about the AVR instruction selection DAG." alt="" coords="526,104,710,130"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="385,216,442,176,513,138,544,128,546,133,515,143,445,181,388,220"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1CSKYSelectionDAGInfo.html" title=" " alt="" coords="520,153,716,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="410,220,513,188,555,177,556,182,515,193,412,225"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1LanaiSelectionDAGInfo.html" title=" " alt="" coords="524,203,713,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="481,226,523,222,523,227,482,231"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1M68kSelectionDAGInfo.html" title=" " alt="" coords="523,252,713,278"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="482,250,523,253,522,259,481,255"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1MSP430SelectionDAGInfo.html" title=" " alt="" coords="514,301,722,327"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="413,256,515,288,556,298,555,303,513,293,411,262"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1RISCVSelectionDAGInfo.html" title=" " alt="" coords="518,351,718,376"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="388,261,445,300,515,337,546,347,544,353,513,342,443,305,385,265"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1SparcSelectionDAGInfo.html" title=" " alt="" coords="522,400,714,426"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="379,264,436,326,474,359,515,386,540,397,538,402,513,391,470,363,432,330,375,268"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1XCoreSelectionDAGInfo.html" title=" " alt="" coords="520,449,716,475"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="374,266,396,304,428,351,468,397,515,436,537,446,534,451,513,440,464,401,423,354,391,307,369,269"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SelectionDAGTargetInfo.html" title="Targets can subclass this to parameterize the SelectionDAG lowering and instruction selection process..." alt="" coords="5,228,200,254"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,238,247,238,247,244,215,244"/>
+</map>

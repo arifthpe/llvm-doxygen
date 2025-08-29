@@ -1,0 +1,36 @@
+<map id="llvm::filter_iterator_base&lt; WrappedIteratorT, PredicateT, IterTag &gt;" name="llvm::filter_iterator_base&lt; WrappedIteratorT, PredicateT, IterTag &gt;">
+<area shape="rect" id="Node000001" title="An iterator adaptor that filters the elements of given inner iterators." alt="" coords="1082,362,1252,418"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1filter__iterator__impl.html" title=" " alt="" coords="2114,124,2346,210"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1195,348,1231,307,1275,270,1361,216,1437,174,1506,143,1573,118,1642,99,1718,83,1904,51,2001,30,2043,31,2066,39,2092,52,2102,62,2106,74,2109,86,2116,98,2145,122,2142,126,2112,101,2104,88,2101,76,2098,65,2088,56,2064,44,2042,37,2002,36,1906,57,1719,89,1644,105,1575,123,1508,147,1439,179,1364,221,1278,275,1234,311,1199,351"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1filter__iterator__impl.html" title=" " alt="" coords="2136,307,2325,363"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1216,351,1275,318,1445,254,1516,234,1583,219,1724,199,1905,179,1958,170,2001,161,2043,161,2066,167,2091,180,2102,189,2106,199,2116,220,2157,266,2198,305,2194,309,2153,270,2112,223,2102,201,2097,192,2089,184,2064,172,2042,166,2002,166,1959,175,1905,185,1724,204,1584,224,1517,239,1447,259,1277,323,1219,356"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1filter__iterator__impl.html" title=" " alt="" coords="2137,17,2323,88"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1183,347,1219,276,1244,239,1274,205,1319,169,1359,147,1457,113,1629,53,1700,33,1768,20,1836,12,1910,10,1993,14,2090,22,2137,29,2136,34,2090,27,1993,19,1910,16,1836,17,1768,25,1701,38,1630,58,1459,118,1361,152,1322,173,1278,209,1249,242,1224,279,1187,349"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1filter__iterator__impl.html" title=" " alt="" coords="2132,441,2328,512"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1268,414,1395,444,1553,479,1728,511,1905,534,1998,543,2038,542,2089,534,2125,524,2160,510,2162,515,2127,529,2091,539,2039,547,1998,549,1905,539,1727,516,1552,484,1393,449,1267,419"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1filter__iterator__impl.html" title=" " alt="" coords="2136,615,2325,671"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1220,425,1278,458,1447,537,1582,590,1722,629,1905,662,1964,668,2024,668,2135,658,2135,663,2025,673,1964,673,1905,667,1721,634,1580,596,1444,542,1275,463,1217,429"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1filter__iterator__base.html" title=" " alt="" coords="1465,355,1636,425"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1268,387,1465,387,1465,393,1268,393"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1filter__iterator__base.html" title=" " alt="" coords="1692,735,1881,805"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="1174,433,1183,493,1202,564,1232,637,1253,670,1278,700,1322,735,1372,761,1425,778,1482,789,1538,794,1593,794,1691,785,1691,791,1593,799,1538,799,1481,794,1424,784,1370,766,1319,740,1274,704,1249,673,1227,639,1197,566,1178,494,1169,434"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="803,325,1033,455"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1048,387,1082,387,1082,393,1048,393"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="288,281,509,352"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="525,310,649,314,715,321,780,333,804,339,802,344,779,338,715,327,649,320,525,315"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="276,427,521,497"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="537,474,656,474,718,468,779,457,802,450,804,455,780,463,719,474,656,479,537,479"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,427,227,497"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="242,459,276,459,276,465,242,465"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1filter__iterator__impl.html" title="Specialization of filter_iterator_base for forward iteration only." alt="" coords="1703,362,1870,418"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1651,387,1703,387,1703,393,1651,393"/>
+<area shape="poly" id="edge12_Node000012_Node000006" title=" " alt="" coords="1829,350,1864,323,1904,298,1954,274,1995,261,2037,249,2089,230,2139,208,2141,213,2091,235,2039,254,1997,266,1956,279,1906,303,1867,328,1832,354"/>
+<area shape="poly" id="edge13_Node000012_Node000007" title=" " alt="" coords="1884,371,1905,369,2135,342,2135,347,1905,374,1885,377"/>
+<area shape="poly" id="edge14_Node000012_Node000008" title=" " alt="" coords="1795,346,1809,299,1831,246,1862,192,1881,168,1903,147,1958,110,2018,85,2079,68,2136,57,2137,63,2080,73,2020,90,1960,115,1907,151,1885,172,1866,195,1836,248,1814,301,1800,347"/>
+<area shape="poly" id="edge15_Node000012_Node000009" title=" " alt="" coords="1859,422,1906,438,2005,453,2132,466,2132,472,2004,459,1904,443,1858,427"/>
+<area shape="poly" id="edge16_Node000012_Node000010" title=" " alt="" coords="1819,428,1858,472,1906,511,1954,534,1996,544,2038,551,2091,567,2182,612,2179,617,2089,572,2037,556,1995,549,1953,539,1904,516,1854,475,1815,432"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1filter__iterator__impl_3_01WrappedIteratorT_00_01PredicateT_00_01std_1_1bidirectional__iterator__tag_01_4.html" title="Specialization of filter_iterator_base for bidirectional iteration." alt="" coords="2136,735,2325,805"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="1800,432,1815,479,1837,534,1867,589,1907,637,1959,677,2019,709,2079,732,2136,749,2134,754,2077,737,2016,713,1957,682,1903,641,1863,592,1832,536,1810,481,1795,434"/>
+<area shape="poly" id="edge19_Node000014_Node000013" title=" " alt="" coords="1896,775,2135,775,2135,780,1896,780"/>
+<area shape="poly" id="edge20_Node000014_Node000013" title=" " alt="" coords="1896,759,2135,760,2135,765,1896,765"/>
+</map>

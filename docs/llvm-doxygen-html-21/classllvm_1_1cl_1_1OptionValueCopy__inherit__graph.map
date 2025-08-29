@@ -1,0 +1,19 @@
+<map id="llvm::cl::OptionValueCopy&lt; DataType &gt;" name="llvm::cl::OptionValueCopy&lt; DataType &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,101,413,142"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1cl_1_1OptionValueBase_3_01DataType_00_01false_01_4.html" title=" " alt="" coords="592,5,763,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="381,92,436,70,515,49,591,35,592,40,516,54,438,75,383,97"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title=" " alt="" coords="591,71,764,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="429,110,591,96,591,101,429,115"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title=" " alt="" coords="591,136,764,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="429,137,438,138,591,150,591,156,437,143,429,142"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title=" " alt="" coords="591,201,764,242"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="375,148,438,177,516,198,592,211,591,216,515,203,436,182,373,152"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1cl_1_1GenericOptionValue.html" title=" " alt="" coords="5,109,192,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,119,241,119,241,124,207,124"/>
+<area shape="rect" id="Node000005" href="$structcl_1_1OptionValue_3_01FnT_01_4.html" title=" " alt="" coords="814,71,955,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="779,88,814,88,814,94,779,94"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1cl_1_1OptionValue_3_01cl_1_1boolOrDefault_01_4.html" title=" " alt="" coords="813,136,956,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="779,154,813,154,813,159,779,159"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1cl_1_1OptionValue_3_01std_1_1string_01_4.html" title=" " alt="" coords="814,201,955,242"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="779,219,814,219,814,224,779,224"/>
+</map>

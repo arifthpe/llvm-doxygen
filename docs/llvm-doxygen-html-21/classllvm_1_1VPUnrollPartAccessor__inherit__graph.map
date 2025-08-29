@@ -1,0 +1,29 @@
+<map id="llvm::VPUnrollPartAccessor&lt; PartOpIdx &gt;" name="llvm::VPUnrollPartAccessor&lt; PartOpIdx &gt;">
+<area shape="rect" id="Node000001" title="Helper to access the operand that contains the unroll part for this recipe after unrolling." alt="" coords="5,254,190,294"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1VPUnrollPartAccessor.html" title=" " alt="" coords="277,104,492,130"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,244,358,128,360,133,151,248"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1VPUnrollPartAccessor.html" title=" " alt="" coords="277,235,492,260"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="205,262,276,255,277,260,206,267"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1VPUnrollPartAccessor.html" title=" " alt="" coords="277,291,492,316"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="206,288,214,289,277,295,276,300,213,294,205,294"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1VPUnrollPartAccessor.html" title=" " alt="" coords="277,345,492,371"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="156,299,214,321,300,342,298,347,213,326,154,304"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1VPInstruction.html" title="This is a concrete Recipe that models a single VPlan&#45;level instruction." alt="" coords="585,29,718,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,96,541,64,584,53,586,58,542,69,438,101"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1VPVectorPointerRecipe.html" title="A recipe to compute the pointers for widened memory accesses of IndexTy." alt="" coords="556,79,747,104"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="507,102,555,98,556,103,508,108"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1VPWidenCanonicalIVRecipe.html" title="A Recipe for widening the canonical induction variable of the vector loop." alt="" coords="541,128,762,154"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="508,125,541,128,541,134,507,131"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1VPInstructionWithType.html" title="A specialization of VPInstruction augmenting it with a dedicated result type, to be used when the opc..." alt="" coords="811,5,998,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="733,32,810,24,811,30,733,37"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1VPPhi.html" title=" " alt="" coords="860,55,950,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="733,48,859,60,859,66,733,53"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1VPReductionPHIRecipe.html" title="A recipe for handling reduction phis." alt="" coords="554,177,749,203"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="462,228,588,201,589,206,463,233"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1VPVectorEndPointerRecipe.html" title="A recipe to compute a pointer to the last element of each part of a widened memory access for widened..." alt="" coords="565,227,738,268"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="508,245,564,245,564,250,508,250"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1VPScalarIVStepsRecipe.html" title="A recipe for handling phi nodes of integer and floating&#45;point inductions, producing their scalar valu..." alt="" coords="553,292,750,318"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="508,301,553,302,553,307,508,307"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1VPWidenPointerInductionRecipe.html" title=" " alt="" coords="550,342,753,382"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="508,357,550,358,550,363,508,363"/>
+</map>

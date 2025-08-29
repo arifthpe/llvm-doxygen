@@ -1,0 +1,13 @@
+<map id="llvm::SmallVectorTemplateBase&lt; T, true &gt;" name="llvm::SmallVectorTemplateBase&lt; T, true &gt;">
+<area shape="rect" id="Node000001" title="SmallVectorTemplateBase&lt;TriviallyCopyable = true&gt; &#45; This is where we put method implementations that ..." alt="" coords="1080,28,1258,69"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD." alt="" coords="560,28,738,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="753,53,1080,53,1080,58,753,59"/>
+<area shape="poly" id="edge4_Node000001_Node000002" title=" " alt="" coords="753,39,1080,39,1080,44,753,44"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="787,98,964,138"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="733,72,808,95,806,100,732,77"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SmallVectorBase.html" title=" " alt="" coords="353,21,511,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="526,46,560,46,560,51,526,51"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SmallVectorBase.html" title="This is all the stuff common to all SmallVectors." alt="" coords="5,28,160,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="175,46,352,46,352,51,175,51"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="979,113,1056,100,1096,85,1132,67,1134,72,1098,90,1057,105,980,118"/>
+</map>

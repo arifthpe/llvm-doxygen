@@ -1,0 +1,7 @@
+<map id="llvm::coverage::LineCoverageIterator" name="llvm::coverage::LineCoverageIterator">
+<area shape="rect" id="Node000001" title="An iterator over the LineCoverageStats objects for lines described by a CoverageData instance." alt="" coords="724,49,919,89"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="483,34,675,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="690,66,724,66,724,72,690,72"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,34,227,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,66,482,66,482,72,242,72"/>
+</map>

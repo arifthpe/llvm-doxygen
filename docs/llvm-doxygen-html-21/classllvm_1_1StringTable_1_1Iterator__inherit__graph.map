@@ -1,0 +1,7 @@
+<map id="llvm::StringTable::Iterator" name="llvm::StringTable::Iterator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="671,28,798,69"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="474,13,622,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="638,46,671,46,671,51,638,51"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,13,227,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,46,473,46,473,51,243,51"/>
+</map>

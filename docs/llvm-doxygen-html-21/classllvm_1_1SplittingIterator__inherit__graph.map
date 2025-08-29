@@ -1,0 +1,7 @@
+<map id="llvm::SplittingIterator" name="llvm::SplittingIterator">
+<area shape="rect" id="Node000001" title="A forward iterator over partitions of string over a separator." alt="" coords="630,56,772,82"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="411,34,581,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="596,66,630,66,630,72,596,72"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,34,227,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,66,410,66,410,72,242,72"/>
+</map>

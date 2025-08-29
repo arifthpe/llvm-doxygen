@@ -1,0 +1,15 @@
+<map id="llvm::ScopedHandle&lt; HandleTraits &gt;" name="llvm::ScopedHandle&lt; HandleTraits &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,169,144,210"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ScopedHandle.html" title=" " alt="" coords="351,5,523,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,154,122,110,143,89,166,71,211,50,258,36,306,27,350,23,351,28,307,33,260,41,213,55,169,76,146,93,126,114,96,157"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ScopedHandle.html" title=" " alt="" coords="367,71,507,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,159,167,137,218,121,270,109,366,95,367,100,271,114,219,126,169,142,121,164"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ScopedHandle.html" title=" " alt="" coords="359,136,515,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,179,358,161,359,166,160,185"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ScopedHandle.html" title=" " alt="" coords="368,201,506,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="159,205,168,206,273,215,368,219,367,224,272,221,167,211,158,210"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ScopedHandle.html" title=" " alt="" coords="365,267,509,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="115,217,141,233,169,246,218,261,270,272,364,282,364,288,269,277,217,267,167,251,138,238,113,222"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ScopedHandle.html" title=" " alt="" coords="367,332,507,373"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="95,223,125,268,146,290,169,308,217,330,269,343,320,350,367,353,366,358,320,356,268,349,215,335,166,312,142,294,121,272,90,226"/>
+</map>

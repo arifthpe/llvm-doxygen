@@ -1,0 +1,7 @@
+<map id="llvm::dwarf_linker::parallel::TypePool" name="llvm::dwarf_linker::parallel::TypePool">
+<area shape="rect" id="Node000001" title="TypePool keeps type descriptors which contain partially cloned DIE correspinding to each type." alt="" coords="748,49,881,89"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ConcurrentHashTableByPtr.html" title=" " alt="" coords="428,34,699,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="715,66,748,66,748,72,715,72"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ConcurrentHashTableByPtr.html" title=" " alt="" coords="5,41,185,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,66,427,66,427,72,200,72"/>
+</map>

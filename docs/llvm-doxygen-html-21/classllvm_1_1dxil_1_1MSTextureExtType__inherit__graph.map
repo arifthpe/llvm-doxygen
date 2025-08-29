@@ -1,0 +1,7 @@
+<map id="llvm::dxil::MSTextureExtType" name="llvm::dxil::MSTextureExtType">
+<area shape="rect" id="Node000001" title="The dx.MSTexture target extension type." alt="" coords="5,153,198,178"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TargetExtType.html" title="Class to represent target extensions types, which are generally unintrospectable from target&#45;independ..." alt="" coords="33,79,170,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,120,104,152,99,152,99,120"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="61,5,142,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,46,104,79,99,79,99,46"/>
+</map>

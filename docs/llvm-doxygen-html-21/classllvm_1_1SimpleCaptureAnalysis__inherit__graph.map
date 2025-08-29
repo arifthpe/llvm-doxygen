@@ -1,0 +1,5 @@
+<map id="llvm::SimpleCaptureAnalysis" name="llvm::SimpleCaptureAnalysis">
+<area shape="rect" id="Node000001" title="Context&#45;free CaptureAnalysis provider, which computes and caches whether an object is captured in the..." alt="" coords="5,79,195,105"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CaptureAnalysis.html" title="Virtual base class for providers of capture analysis." alt="" coords="25,5,175,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,46,103,79,97,79,97,46"/>
+</map>

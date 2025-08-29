@@ -1,0 +1,11 @@
+<map id="llvm::early_inc_iterator_impl&lt; WrappedIteratorT &gt;" name="llvm::early_inc_iterator_impl&lt; WrappedIteratorT &gt;">
+<area shape="rect" id="Node000001" title="A pseudo&#45;iterator adaptor that is designed to implement &quot;early increment&quot; style loops." alt="" coords="968,72,1144,113"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="729,50,919,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="934,90,967,90,967,95,934,95"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="288,5,509,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="525,40,614,45,706,57,729,61,728,67,705,62,614,51,525,45"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="276,109,521,180"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="537,157,621,157,705,146,743,134,744,139,706,151,621,163,537,163"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,109,227,180"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="242,142,276,142,276,147,242,147"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::ThreadSafeTrieRawHashMapBase" name="llvm::ThreadSafeTrieRawHashMapBase">
+<area shape="rect" id="Node000001" title="TrieRawHashMap &#45; is a lock&#45;free thread&#45;safe trie that is can be used to store/index data based on a h..." alt="" coords="5,5,206,46"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ThreadSafeTrieRawHashMap.html" title="Lock&#45;free thread&#45;safe hash&#45;mapped trie." alt="" coords="5,94,206,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,62,108,94,103,94,103,62"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="llvm::StringMapIterBase&lt; DerivedTy, ValueTy &gt;" name="llvm::StringMapIterBase&lt; DerivedTy, ValueTy &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="631,89,793,129"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1StringMapIterBase.html" title=" " alt="" coords="1061,26,1286,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="808,89,816,88,942,74,1060,65,1060,70,943,79,817,93,809,94"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1StringMapIterBase.html" title=" " alt="" coords="1067,128,1280,183"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="766,134,817,151,881,161,946,166,1066,163,1066,169,946,171,880,166,816,156,764,139"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="430,74,582,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="597,106,631,106,631,112,597,112"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,74,227,144"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,106,429,106,429,112,242,112"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1StringMapConstIterator.html" title=" " alt="" coords="1335,41,1524,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1302,58,1335,58,1335,64,1302,64"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1StringMapIterator.html" title=" " alt="" coords="1353,135,1506,176"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1295,153,1352,153,1352,158,1295,158"/>
+</map>

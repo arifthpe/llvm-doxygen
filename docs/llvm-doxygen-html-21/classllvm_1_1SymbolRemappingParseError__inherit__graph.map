@@ -1,0 +1,10 @@
+<map id="llvm::SymbolRemappingParseError" name="llvm::SymbolRemappingParseError">
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,282,217,323"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,192,231,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,248,121,282,115,282,115,248"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="46,5,179,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,46,120,192,115,192,111,47"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="134,80,291,121"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="141,39,190,78,187,82,138,43"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="188,134,137,193,133,190,184,131"/>
+</map>

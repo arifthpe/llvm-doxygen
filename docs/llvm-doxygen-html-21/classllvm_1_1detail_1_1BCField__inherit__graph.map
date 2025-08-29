@@ -1,0 +1,17 @@
+<map id="llvm::detail::BCField&lt; Compound &gt;" name="llvm::detail::BCField&lt; Compound &gt;">
+<area shape="rect" id="Node000001" title="Convenience base for all kinds of bitcode abbreviation fields." alt="" coords="5,96,145,137"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1BCChar6.html" title="Represents a character encoded in LLVM&#39;s Char6 encoding." alt="" coords="267,5,390,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,87,246,40,278,29,280,34,248,45,134,92"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1BCFixed.html" title="Represents a fixed&#45;width value in a bitcode record." alt="" coords="247,55,410,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,97,168,96,256,78,257,84,169,101,160,103"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1BCLiteral.html" title="Represents a literal operand in a bitcode record." alt="" coords="247,104,410,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="160,114,246,114,246,120,160,120"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1BCVBR.html" title="Represents a variable&#45;width value in a bitcode record." alt="" coords="249,153,408,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="160,131,259,150,258,155,159,136"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1detail_1_1BCField.html" title=" " alt="" coords="259,203,398,244"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="120,144,170,171,259,203,257,208,168,176,118,148"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1BCArray.html" title="Represents an array of some other type." alt="" coords="459,185,649,211"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="413,211,458,206,459,211,414,217"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1BCBlob.html" title="Represents an untyped blob of bytes." alt="" coords="505,235,603,260"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="414,230,505,240,504,245,413,235"/>
+</map>

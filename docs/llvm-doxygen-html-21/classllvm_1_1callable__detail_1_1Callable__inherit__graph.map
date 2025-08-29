@@ -1,0 +1,7 @@
+<map id="llvm::callable_detail::Callable&lt; T, bool &gt;" name="llvm::callable_detail::Callable&lt; T, bool &gt;">
+<area shape="rect" id="Node000001" title="Templated storage wrapper for a callable." alt="" coords="5,39,144,79"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1callable__detail_1_1Callable_3_01T_00_01true_01_4.html" title=" " alt="" coords="270,5,406,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,46,269,32,270,37,159,51"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1callable__detail_1_1Callable.html" title=" " alt="" coords="267,71,410,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,74,168,75,267,85,266,90,167,81,158,79"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="llvm::detail::PtrUseVisitorBase" name="llvm::detail::PtrUseVisitorBase">
+<area shape="rect" id="Node000001" title="Implementation of non&#45;dependent functionality for PtrUseVisitor." alt="" coords="5,130,206,156"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1PtrUseVisitor.html" title=" " alt="" coords="564,5,702,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,120,192,93,258,63,332,35,410,15,490,9,564,13,564,19,490,14,411,20,334,40,260,68,194,98,144,125"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1PtrUseVisitor.html" title=" " alt="" coords="562,88,704,129"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,158,242,174,336,187,386,189,438,188,489,181,537,170,576,151,608,127,611,131,579,156,539,175,489,187,438,193,386,194,336,192,241,180,165,163"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1PtrUseVisitor.html" title=" " alt="" coords="567,188,699,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,160,199,180,256,195,339,207,423,212,567,210,567,215,423,217,338,212,254,200,198,185,147,165"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1PtrUseVisitor.html" title="A base class for visitors over the uses of a pointer value." alt="" coords="255,85,386,126"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="198,124,254,114,255,120,199,130"/>
+<area shape="rect" id="Node000005" href="$classAllocaSlices_1_1SliceBuilder.html" title="Builder for the alloca slices." alt="" coords="753,196,923,221"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="714,206,752,206,752,211,714,211"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="400,78,410,75,563,38,565,43,411,80,401,83"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="402,104,562,105,562,110,402,109"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="399,129,411,133,569,185,567,190,409,138,398,134"/>
+</map>

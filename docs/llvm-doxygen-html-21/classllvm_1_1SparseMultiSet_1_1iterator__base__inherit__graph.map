@@ -1,0 +1,7 @@
+<map id="llvm::SparseMultiSet&lt; ValueT, KeyFunctorT, SparseT &gt;::iterator_base&lt; SMSPtrTy &gt;" name="llvm::SparseMultiSet&lt; ValueT, KeyFunctorT, SparseT &gt;::iterator_base&lt; SMSPtrTy &gt;">
+<area shape="rect" id="Node000001" title="Our iterators are iterators over the collection of objects that share a key." alt="" coords="5,53,175,124"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SparseMultiSet_1_1iterator__base.html" title=" " alt="" coords="394,5,563,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,72,198,71,393,48,394,53,199,77,191,78"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SparseMultiSet_1_1iterator__base.html" title=" " alt="" coords="389,100,568,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,98,388,122,388,127,190,103"/>
+</map>
