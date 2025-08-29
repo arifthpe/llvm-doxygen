@@ -1,0 +1,12 @@
+<map id="llvm::objcopy::elf::DynamicRelocationSection" name="llvm::objcopy::elf::DynamicRelocationSection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1116,13,1303,54"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1objcopy_1_1elf_1_1RelocSectionWithSymtabBase.html" title=" " alt="" coords="850,5,1066,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1082,30,1115,30,1115,36,1082,36"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1objcopy_1_1elf_1_1RelocationSectionBase.html" title=" " alt="" coords="175,14,340,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="356,25,571,15,699,14,826,17,850,19,849,24,826,22,699,19,571,21,356,30"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1objcopy_1_1elf_1_1RelocSectionWithSymtabBase.html" title=" " alt="" coords="390,39,599,94"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="356,45,390,50,389,55,355,50"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1objcopy_1_1elf_1_1SectionBase.html" title=" " alt="" coords="5,14,126,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="141,32,175,32,175,37,141,37"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="614,55,826,40,849,38,850,44,826,45,615,61"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="llvm::opt::arg_iterator&lt; BaseIter, NumOptSpecifiers &gt;" name="llvm::opt::arg_iterator&lt; BaseIter, NumOptSpecifiers &gt;">
+<area shape="rect" id="Node000001" title="arg_iterator &#45; Iterates through arguments stored inside an ArgList." alt="" coords="5,205,214,245"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1opt_1_1arg__iterator.html" title=" " alt="" coords="409,11,569,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,189,144,158,169,123,200,90,236,63,278,44,323,33,367,27,408,25,409,30,367,32,324,38,280,49,239,67,203,94,173,126,148,161,130,192"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1opt_1_1arg__iterator.html" title=" " alt="" coords="417,77,561,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,193,190,167,237,145,282,131,329,120,416,107,417,113,330,125,284,136,239,150,193,172,152,198"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1opt_1_1arg__iterator.html" title=" " alt="" coords="413,157,564,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,210,413,190,413,195,230,215"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1opt_1_1arg__iterator.html" title=" " alt="" coords="417,237,561,293"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="192,247,238,256,331,264,416,265,416,270,330,270,237,262,191,252"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1opt_1_1arg__iterator.html" title=" " alt="" coords="417,317,561,373"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="145,253,187,286,239,314,283,328,330,336,417,344,416,349,329,342,282,333,237,319,185,291,141,257"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1opt_1_1arg__iterator.html" title=" " alt="" coords="415,397,562,453"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="129,258,147,291,171,328,202,363,239,391,281,410,327,421,373,427,415,428,415,433,372,432,326,426,280,415,236,396,199,367,167,331,142,294,124,260"/>
+</map>

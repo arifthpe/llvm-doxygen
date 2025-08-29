@@ -1,0 +1,7 @@
+<map id="llvm::orc::ReOptimizeLayer" name="llvm::orc::ReOptimizeLayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="67,79,248,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1IRLayer.html" title="Interface for layers that accept LLVM IR." alt="" coords="5,5,131,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,39,144,77,141,81,93,43"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1ResourceManager.html" title="Listens for ResourceTracker operations." alt="" coords="155,5,341,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,43,174,81,171,77,219,39"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="llvm::vfs::FileSystem" name="llvm::vfs::FileSystem">
+<area shape="rect" id="Node000001" title="The virtual file system interface." alt="" coords="781,70,926,95"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="991,5,1152,61"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="928,63,990,49,991,54,929,68"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1FileCollectorFileSystem.html" title=" " alt="" coords="976,86,1168,111"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="942,86,975,89,975,94,942,92"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ThreadSafeRefCountedBase.html" title=" " alt="" coords="541,18,732,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="747,58,787,66,786,72,746,63"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ThreadSafeRefCountedBase.html" title="A thread&#45;safe version of RefCountedBase." alt="" coords="139,8,329,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,28,541,33,541,39,345,33"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="552,94,721,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="736,97,780,91,781,96,737,102"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1RTTIRoot.html" title="Base class for the extensible RTTI hierarchy." alt="" coords="178,72,290,98"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="305,88,551,106,551,111,305,93"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,132,90,158"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="105,140,551,116,551,122,105,145"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1RTTIExtends.html" title="Inheritance utility for extensible RTTI." alt="" coords="144,173,324,214"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="105,157,153,170,152,175,104,162"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="339,195,427,191,472,185,517,175,563,156,604,133,607,138,566,161,518,180,473,190,427,196,339,201"/>
+<area shape="rect" id="Node000008" href="$classParentT.html" title=" " alt="" coords="14,190,81,215"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="97,197,144,195,144,200,97,203"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1vfs_1_1RedirectingFileSystem.html" title="A virtual file system parsed from a YAML file." alt="" coords="1217,13,1384,54"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1168,30,1217,30,1217,36,1168,36"/>
+</map>

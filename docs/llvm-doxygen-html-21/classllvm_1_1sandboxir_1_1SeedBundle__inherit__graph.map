@@ -1,0 +1,11 @@
+<map id="llvm::sandboxir::SeedBundle" name="llvm::sandboxir::SeedBundle">
+<area shape="rect" id="Node000001" title="A set of candidate Instructions for vectorizing together." alt="" coords="5,54,193,80"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1MemSeedBundle.html" title=" " alt="" coords="615,5,818,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,47,242,32,339,18,416,10,493,9,591,12,615,14,615,19,591,18,493,14,416,16,340,23,242,38,168,53"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1MemSeedBundle.html" title=" " alt="" coords="617,87,816,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,81,242,96,341,106,441,111,616,110,616,115,441,116,341,112,242,102,165,87"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1MemSeedBundle.html" title="Specialization of SeedBundle for memory access instructions." alt="" coords="242,47,418,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,64,242,64,242,70,208,70"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="433,53,615,34,615,39,434,59"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="434,87,443,89,532,98,616,102,616,108,531,103,442,94,434,93"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::pdb::NativeEnumModules" name="llvm::pdb::NativeEnumModules">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,207,209,233"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="9,117,205,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,173,110,207,104,207,104,173"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="9,5,205,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,61,110,117,104,117,104,61"/>
+</map>

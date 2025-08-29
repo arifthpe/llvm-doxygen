@@ -1,0 +1,14 @@
+<map id="llvm::orc::Task" name="llvm::orc::Task">
+<area shape="rect" id="Node000001" title="Represents an abstract task for ORC to run." alt="" coords="101,282,208,308"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="85,192,224,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,248,157,282,152,282,152,248"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1RTTIRoot.html" title="Base class for the extensible RTTI hierarchy." alt="" coords="5,88,117,114"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,124,140,190,136,193,79,127"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="126,5,210,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="168,47,158,192,153,192,163,46"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1RTTIExtends.html" title="Inheritance utility for extensible RTTI." alt="" coords="191,80,371,121"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="199,38,255,78,252,82,196,42"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="248,134,179,194,175,190,245,129"/>
+<area shape="rect" id="Node000006" href="$classParentT.html" title=" " alt="" coords="247,5,315,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="284,47,284,80,278,80,278,47"/>
+</map>

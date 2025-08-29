@@ -1,0 +1,57 @@
+<map id="llvm::pdb::IPDBEnumChildren&lt; ChildType &gt;" name="llvm::pdb::IPDBEnumChildren&lt; ChildType &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,460,202,501"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1pdb_1_1ConcreteSymbolEnumerator.html" title=" " alt="" coords="882,39,1094,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,444,109,374,128,287,143,241,164,197,190,156,224,121,262,92,303,69,346,49,391,33,485,13,580,4,673,4,761,12,839,23,904,36,903,41,838,28,760,17,673,10,580,9,485,18,393,38,348,54,305,73,265,97,227,125,195,159,168,199,148,243,133,288,115,375,108,444"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1pdb_1_1ConcreteSymbolEnumerator.html" title=" " alt="" coords="847,120,1129,161"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,445,159,374,189,336,224,304,271,277,336,253,413,231,500,211,682,178,846,154,847,159,682,183,501,216,415,236,337,258,273,282,227,308,193,340,164,377,122,448"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1pdb_1_1ConcreteSymbolEnumerator.html" title=" " alt="" coords="409,107,588,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="105,444,113,382,133,306,149,266,169,228,194,193,224,164,267,139,314,124,363,117,409,115,409,121,363,122,315,129,269,143,227,168,198,197,173,231,154,268,138,307,119,383,110,445"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1pdb_1_1NullEnumerator.html" title=" " alt="" coords="413,260,585,301"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="125,446,167,395,194,370,224,349,270,326,319,309,412,287,413,293,320,314,272,331,227,353,198,374,171,399,129,449"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="401,325,597,366"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="161,451,225,425,325,391,417,364,419,369,326,396,227,430,163,456"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="401,424,597,465"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="217,467,400,451,400,456,217,473"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="401,489,597,530"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="218,497,226,498,315,504,400,507,400,512,315,510,225,503,217,503"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="401,555,597,595"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="155,506,190,522,226,536,315,555,401,567,400,572,314,561,225,541,188,527,153,511"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="401,632,597,673"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="132,511,174,554,199,574,227,592,269,610,314,624,401,642,400,647,312,630,267,615,224,596,196,579,170,558,129,515"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="401,711,597,751"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="120,514,136,551,160,592,190,633,227,667,268,690,312,706,357,717,401,724,400,729,356,723,310,711,265,694,224,671,186,636,155,595,132,553,115,516"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="401,791,597,831"/>
+<area shape="poly" id="edge25_Node000001_Node000024" title=" " alt="" coords="113,516,125,568,147,632,180,696,202,725,227,749,267,774,311,792,356,802,401,808,400,813,355,808,309,797,264,779,224,754,198,728,175,699,142,634,120,570,108,517"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="401,884,597,925"/>
+<area shape="poly" id="edge27_Node000001_Node000026" title=" " alt="" coords="109,516,116,584,135,670,151,714,171,758,196,798,227,833,266,861,310,880,356,893,401,900,400,905,355,898,308,885,263,866,224,837,192,801,166,761,146,716,130,671,111,585,104,517"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="604,112,823,83,881,74,882,80,823,89,604,118"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="604,136,621,137,847,141,846,146,621,142,603,141"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1pdb_1_1DIAEnumSymbols.html" title=" " alt="" coords="893,333,1083,359"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="612,343,893,343,893,348,612,348"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1pdb_1_1NativeEnumGlobals.html" title=" " alt="" coords="889,382,1087,408"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="613,355,889,382,888,388,612,360"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1pdb_1_1NativeEnumModules.html" title=" " alt="" coords="886,185,1090,211"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="590,315,595,311,603,298,606,285,609,272,619,258,639,247,666,237,733,221,811,210,886,202,886,207,811,215,734,226,667,242,641,252,623,262,614,274,611,286,608,300,599,314,594,319"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1pdb_1_1NativeEnumSymbols.html" title=" " alt="" coords="886,234,1091,260"/>
+<area shape="poly" id="edge11_Node000006_Node000010" title=" " alt="" coords="579,317,596,310,620,297,688,278,757,264,885,249,885,254,758,269,689,283,622,302,598,315,581,322"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1pdb_1_1NativeEnumTypes.html" title=" " alt="" coords="894,284,1083,309"/>
+<area shape="poly" id="edge12_Node000006_Node000011" title=" " alt="" coords="612,326,621,324,893,300,893,305,621,330,612,331"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1pdb_1_1DIAEnumSourceFiles.html" title=" " alt="" coords="898,432,1078,473"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="613,444,898,448,897,454,613,449"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1pdb_1_1DIAEnumDebugStreams.html" title=" " alt="" coords="875,497,1101,523"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="612,507,874,507,874,512,612,512"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1pdb_1_1DIAEnumLineNumbers.html" title=" " alt="" coords="880,546,1096,572"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="613,569,879,560,880,565,613,574"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1pdb_1_1NativeEnumLineNumbers.html" title=" " alt="" coords="899,596,1077,637"/>
+<area shape="poly" id="edge19_Node000016_Node000018" title=" " alt="" coords="612,582,899,606,898,612,612,587"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1pdb_1_1DIAEnumTables.html" title=" " alt="" coords="900,661,1077,687"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="612,655,899,667,899,673,612,660"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1pdb_1_1DIAEnumInjectedSources.html" title=" " alt="" coords="896,711,1081,751"/>
+<area shape="poly" id="edge23_Node000021_Node000022" title=" " alt="" coords="613,728,895,728,895,734,613,734"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1pdb_1_1NativeEnumInjectedSources.html" title=" " alt="" coords="888,776,1088,817"/>
+<area shape="poly" id="edge24_Node000021_Node000023" title=" " alt="" coords="613,744,888,780,887,786,612,749"/>
+<area shape="rect" id="Node000025" href="$classllvm_1_1pdb_1_1DIAEnumSectionContribs.html" title=" " alt="" coords="896,841,1080,882"/>
+<area shape="poly" id="edge26_Node000024_Node000025" title=" " alt="" coords="613,820,896,850,896,855,612,825"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1pdb_1_1DIAEnumFrameData.html" title=" " alt="" coords="886,906,1090,932"/>
+<area shape="poly" id="edge28_Node000026_Node000027" title=" " alt="" coords="613,905,886,913,885,919,612,910"/>
+</map>

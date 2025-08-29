@@ -1,0 +1,19 @@
+<map id="llvm::sandboxir::GlobalVariable" name="llvm::sandboxir::GlobalVariable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1590,48,1790,74"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1GlobalWithNodeAPI.html" title=" " alt="" coords="1313,26,1541,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1556,58,1589,58,1589,64,1556,64"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1GlobalObject.html" title=" " alt="" coords="866,5,1059,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1075,19,1179,24,1290,34,1313,37,1312,43,1289,39,1179,30,1074,24"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1GlobalValue.html" title=" " alt="" coords="618,5,805,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="820,16,866,16,866,21,820,21"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1Constant.html" title=" " alt="" coords="399,5,569,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="585,16,618,16,618,21,585,21"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1User.html" title="A sandboxir::User has operands." alt="" coords="204,5,349,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="365,16,398,16,398,21,365,21"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1sandboxir_1_1Value.html" title="A SandboxIR Value has users. This is the base class." alt="" coords="5,5,155,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="170,16,204,16,204,21,170,21"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1sandboxir_1_1GlobalWithNodeAPI.html" title="Provides API functions, like getIterator() and getReverseIterator() to GlobalIFunc,..." alt="" coords="854,74,1071,130"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1087,107,1186,107,1289,98,1312,94,1313,99,1290,103,1186,112,1087,112"/>
+<area shape="rect" id="Node000009" href="$classParentT.html" title=" " alt="" coords="678,89,745,115"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="761,100,854,100,854,105,761,105"/>
+</map>

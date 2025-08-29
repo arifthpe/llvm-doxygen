@@ -1,0 +1,16 @@
+<map id="llvm::sandboxir::AllocaInst" name="llvm::sandboxir::AllocaInst">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,507,217,533"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1UnaryInstruction.html" title="An abstract class, parent of unary instructions." alt="" coords="22,432,236,458"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,473,132,507,126,507,126,473"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1SingleLLVMInstructionImpl.html" title=" " alt="" coords="5,342,253,383"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,398,132,432,126,432,126,398"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1Instruction.html" title="A sandboxir::User with operands, opcode and linked with previous/next instructions in an instruction ..." alt="" coords="34,155,213,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,196,131,342,126,342,122,197"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1sandboxir_1_1SingleLLVMInstructionImpl.html" title="Instructions that contain a single LLVM Instruction can inherit from this." alt="" coords="145,230,393,271"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="160,187,235,228,232,232,158,191"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1User.html" title="A sandboxir::User has operands." alt="" coords="51,80,196,106"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="126,121,126,155,121,155,121,121"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1Value.html" title="A SandboxIR Value has users. This is the base class." alt="" coords="49,5,198,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="126,46,126,80,121,80,121,46"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="234,283,155,344,152,340,231,279"/>
+</map>

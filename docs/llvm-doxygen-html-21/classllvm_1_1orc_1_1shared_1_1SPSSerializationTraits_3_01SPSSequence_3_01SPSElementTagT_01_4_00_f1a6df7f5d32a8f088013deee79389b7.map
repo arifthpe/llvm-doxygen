@@ -1,0 +1,5 @@
+<map id="llvm::orc::shared::SPSSerializationTraits&lt; SPSSequence&lt; SPSElementTagT &gt;, SequenceT, std::enable_if_t&lt; TrivialSPSSequenceSerialization&lt; SPSElementTagT, SequenceT &gt;::available &gt; &gt;" name="llvm::orc::shared::SPSSerializationTraits&lt; SPSSequence&lt; SPSElementTagT &gt;, SequenceT, std::enable_if_t&lt; TrivialSPSSequenceSerialization&lt; SPSElementTagT, SequenceT &gt;::available &gt; &gt;">
+<area shape="rect" id="Node000001" title="&#39;Trivial&#39; sequence serialization: Sequence is serialized as a uint64_t size followed by a for&#45;earch l..." alt="" coords="5,213,310,314"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1shared_1_1SPSSerializationTraits.html" title="Specialize to describe how to serialize/deserialize to/from the given concrete type." alt="" coords="67,5,248,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,77,160,213,155,213,155,77"/>
+</map>

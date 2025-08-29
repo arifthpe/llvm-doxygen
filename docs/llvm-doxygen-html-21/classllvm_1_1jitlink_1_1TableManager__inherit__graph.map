@@ -1,0 +1,35 @@
+<map id="llvm::jitlink::TableManager&lt; TableManagerImplT &gt;" name="llvm::jitlink::TableManager&lt; TableManagerImplT &gt;">
+<area shape="rect" id="Node000001" title="A CRTP base for tables that are built on demand, e.g." alt="" coords="5,431,178,471"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1jitlink_1_1TableManager.html" title=" " alt="" coords="404,71,576,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,415,145,349,171,312,200,278,261,224,328,177,391,138,444,110,447,114,394,143,331,182,264,229,204,282,175,315,149,352,111,418"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1jitlink_1_1TableManager.html" title=" " alt="" coords="404,201,576,242"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,420,451,240,454,245,144,425"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1jitlink_1_1TableManager.html" title=" " alt="" coords="404,431,576,471"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="193,448,403,448,403,454,193,454"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1jitlink_1_1TableManager.html" title=" " alt="" coords="369,532,611,573"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="148,476,202,497,286,519,369,534,368,539,285,524,201,502,146,481"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1jitlink_1_1TableManager.html" title=" " alt="" coords="367,620,613,661"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="114,483,151,534,176,558,203,579,242,598,283,613,367,630,366,636,282,618,240,603,200,583,172,562,147,537,110,486"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1jitlink_1_1aarch32_1_1GOTBuilder.html" title="Populate a Global Offset Table from edges that request it." alt="" coords="709,5,846,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="590,66,708,39,709,44,591,71"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1jitlink_1_1aarch64_1_1GOTTableManager.html" title="Global Offset Table Builder." alt="" coords="708,71,847,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="534,190,593,155,661,122,707,106,709,111,663,127,596,160,537,195"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1jitlink_1_1loongarch_1_1GOTTableManager.html" title="Global Offset Table Builder." alt="" coords="704,136,851,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="590,196,703,170,704,176,591,201"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1jitlink_1_1x86_1_1GOTTableManager.html" title="Global Offset Table Builder." alt="" coords="708,201,847,242"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="591,219,708,219,708,224,591,224"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1jitlink_1_1x86__64_1_1GOTTableManager.html" title="Global Offset Table Builder." alt="" coords="698,267,857,307"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="592,242,698,266,697,272,590,247"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1jitlink_1_1aarch64_1_1PLTTableManager.html" title="Procedure Linkage Table Builder." alt="" coords="709,332,846,373"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="556,422,661,383,708,369,709,374,663,388,558,427"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1jitlink_1_1loongarch_1_1PLTTableManager.html" title="Procedure Linkage Table Builder." alt="" coords="704,397,851,438"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="591,437,703,424,704,429,592,442"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1jitlink_1_1x86_1_1PLTTableManager.html" title="Procedure Linkage Table Builder." alt="" coords="710,463,845,503"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="591,460,710,473,710,478,591,465"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1jitlink_1_1x86__64_1_1PLTTableManager.html" title="Procedure Linkage Table Builder." alt="" coords="700,528,855,569"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="559,475,663,512,703,525,701,530,661,518,557,480"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1jitlink_1_1ppc64_1_1PLTTableManager.html" title=" " alt="" coords="664,593,891,634"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="604,574,679,590,678,595,603,579"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1jitlink_1_1ppc64_1_1TOCTableManager.html" title=" " alt="" coords="662,659,893,699"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="628,656,662,661,662,666,628,662"/>
+</map>

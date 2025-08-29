@@ -1,0 +1,13 @@
+<map id="llvm::sandboxir::FunctionPassManager" name="llvm::sandboxir::FunctionPassManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="881,30,1048,70"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1PassManager.html" title=" " alt="" coords="618,30,832,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="847,48,881,48,881,53,847,53"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1FunctionPass.html" title="A pass that runs on a sandbox::Function." alt="" coords="208,5,406,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="422,22,595,34,618,36,618,42,594,39,422,27"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1Pass.html" title="The base class of a Sandbox IR Pass." alt="" coords="5,5,153,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="168,16,208,16,208,21,168,21"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1PassManager.html" title="Base class." alt="" coords="202,62,412,102"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="428,89,510,89,594,83,660,68,661,74,595,88,510,94,428,94"/>
+<area shape="rect" id="Node000006" href="$classParentPass.html" title=" " alt="" coords="34,69,124,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="139,80,202,80,202,85,139,85"/>
+</map>

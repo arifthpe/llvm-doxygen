@@ -1,0 +1,18 @@
+<map id="llvm::sandboxir::FuncletPadInst" name="llvm::sandboxir::FuncletPadInst">
+<area shape="rect" id="Node000001" title=" " alt="" coords="126,432,287,473"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1sandboxir_1_1CatchPadInst.html" title=" " alt="" coords="5,530,203,555"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="174,485,120,531,116,527,171,481"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1sandboxir_1_1CleanupPadInst.html" title=" " alt="" coords="227,522,392,563"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="243,481,288,519,285,523,239,485"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1SingleLLVMInstructionImpl.html" title=" " alt="" coords="83,342,330,383"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,398,209,432,204,432,204,398"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1Instruction.html" title="A sandboxir::User with operands, opcode and linked with previous/next instructions in an instruction ..." alt="" coords="112,155,290,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,196,209,342,203,342,199,197"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1SingleLLVMInstructionImpl.html" title="Instructions that contain a single LLVM Instruction can inherit from this." alt="" coords="223,230,470,271"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="238,187,313,228,310,232,235,191"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1User.html" title="A sandboxir::User has operands." alt="" coords="129,80,274,106"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,121,204,155,199,155,199,121"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1Value.html" title="A SandboxIR Value has users. This is the base class." alt="" coords="127,5,276,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="204,46,204,80,199,80,199,46"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="311,283,233,344,230,340,308,279"/>
+</map>

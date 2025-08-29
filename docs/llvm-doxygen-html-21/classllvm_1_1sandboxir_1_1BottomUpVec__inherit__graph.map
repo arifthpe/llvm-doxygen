@@ -1,0 +1,7 @@
+<map id="llvm::sandboxir::BottomUpVec" name="llvm::sandboxir::BottomUpVec">
+<area shape="rect" id="Node000001" title="This is a simple bottom&#45;up vectorizer Region pass." alt="" coords="5,153,205,178"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1RegionPass.html" title="A pass that runs on a sandbox::Region." alt="" coords="11,79,199,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,120,108,152,102,152,102,120"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1Pass.html" title="The base class of a Sandbox IR Pass." alt="" coords="31,5,179,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,46,108,79,102,79,102,46"/>
+</map>

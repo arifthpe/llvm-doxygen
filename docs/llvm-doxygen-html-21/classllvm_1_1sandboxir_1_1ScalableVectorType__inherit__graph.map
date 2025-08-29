@@ -1,0 +1,7 @@
+<map id="llvm::sandboxir::ScalableVectorType" name="llvm::sandboxir::ScalableVectorType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,153,181,193"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1VectorType.html" title=" " alt="" coords="5,79,189,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,120,100,152,94,152,94,120"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1Type.html" title="Just like llvm::Type these are immutable, unique, never get freed and can only be created via static ..." alt="" coords="24,5,170,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,46,100,79,94,79,94,46"/>
+</map>

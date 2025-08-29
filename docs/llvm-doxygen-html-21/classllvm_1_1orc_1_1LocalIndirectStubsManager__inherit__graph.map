@@ -1,0 +1,9 @@
+<map id="llvm::orc::LocalIndirectStubsManager&lt; TargetT &gt;" name="llvm::orc::LocalIndirectStubsManager&lt; TargetT &gt;">
+<area shape="rect" id="Node000001" title="IndirectStubsManager implementation for the host architecture, e.g." alt="" coords="17,256,190,297"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1IndirectStubsManager.html" title="Base class for managing collections of named indirect stubs." alt="" coords="25,168,182,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,224,106,256,101,256,101,224"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1RedirectableSymbolManager.html" title="Base class for managing redirectable symbols in which a call gets redirected to another symbol in run..." alt="" coords="5,79,202,120"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,135,106,167,101,167,101,135"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1RedirectionManager.html" title="Base class for performing redirection of call to symbol to another symbol in runtime." alt="" coords="6,5,201,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,46,106,79,101,79,101,46"/>
+</map>

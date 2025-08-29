@@ -1,0 +1,5 @@
+<map id="llvm::orc::EHFrameRegistrationPlugin" name="llvm::orc::EHFrameRegistrationPlugin">
+<area shape="rect" id="Node000001" title="Adds AllocationActions to register and deregister eh&#45;frame sections in the absence of native Platform..." alt="" coords="5,94,211,135"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1LinkGraphLinkingLayer_1_1Plugin.html" title="Plugin instances can be added to the ObjectLinkingLayer to receive callbacks when code is loaded or e..." alt="" coords="18,5,198,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,62,111,94,105,94,105,62"/>
+</map>

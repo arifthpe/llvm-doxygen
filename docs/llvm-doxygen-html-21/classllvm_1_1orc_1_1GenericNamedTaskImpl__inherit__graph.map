@@ -1,0 +1,16 @@
+<map id="llvm::orc::GenericNamedTaskImpl&lt; FnT &gt;" name="llvm::orc::GenericNamedTaskImpl&lt; FnT &gt;">
+<area shape="rect" id="Node000001" title="Generic task implementation." alt="" coords="5,377,200,418"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1GenericNamedTask.html" title="Base class for generic tasks." alt="" coords="5,302,200,328"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,344,105,377,100,377,100,344"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="8,212,197,253"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,268,105,302,100,302,100,268"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="15,88,64,114"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="55,126,96,211,91,213,50,129"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="74,5,158,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="117,47,106,212,101,212,111,46"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1RTTIExtends.html" title="Inheritance utility for extensible RTTI." alt="" coords="140,80,319,121"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="147,38,203,78,200,82,144,42"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="201,134,123,214,120,210,197,131"/>
+<area shape="rect" id="Node000007" href="$classParentT.html" title=" " alt="" coords="196,5,263,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="232,47,232,80,226,80,226,47"/>
+</map>

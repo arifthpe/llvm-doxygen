@@ -1,0 +1,13 @@
+<map id="llvm::object::GenericBinaryError" name="llvm::object::GenericBinaryError">
+<area shape="rect" id="Node000001" title="Generic binary error." alt="" coords="9,302,188,343"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1object_1_1EmptyResError.html" title=" " alt="" coords="5,392,192,418"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="101,358,101,392,96,392,96,358"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="13,212,184,253"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,269,101,302,96,302,96,269"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="9,88,95,114"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="64,127,94,211,89,213,59,129"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="118,80,276,121"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="175,135,115,214,111,210,171,132"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="130,5,264,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="200,47,200,80,194,80,194,47"/>
+</map>
