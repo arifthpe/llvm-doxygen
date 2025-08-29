@@ -5,12 +5,13 @@
 set -e
 set -x
 
-if [ -z "$1" ]; then
-  echo "Usage: $0 <llvm_version>"
+if [ -z "$1" ] || [ -z "$2" ]; then
+  echo "Usage: $0 <llvm_version> <threads>"
   exit 1
 fi
 
 LLVM_VERSION=$1
+THREADS=$2
 
 echo "Building LLVM doxygen documentation for version $LLVM_VERSION"
 
@@ -22,6 +23,6 @@ mkdir build
 cd build
 
 cmake -DCMAKE_BUILD_TYPE=Release -DLLVM_ENABLE_DOXYGEN=ON -DLLVM_BUILD_DOCS=ON -DLLVM_ENABLE_PROJECTS=clang ..
-make doxygen -j8
+make doxygen -j$THREADS
 
 cp -r docs/doxygen/html ../../../llvm-doxygen-html-$LLVM_VERSION
