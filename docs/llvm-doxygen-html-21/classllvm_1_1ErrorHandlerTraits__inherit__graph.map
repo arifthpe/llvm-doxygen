@@ -1,0 +1,33 @@
+<map id="llvm::ErrorHandlerTraits&lt; HandlerT &gt;" name="llvm::ErrorHandlerTraits&lt; HandlerT &gt;">
+<area shape="rect" id="Node000001" title="Helper for testing applicability of, and applying, handlers for ErrorInfo types." alt="" coords="5,478,165,519"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ErrorHandlerTraits.html" title=" " alt="" coords="352,173,511,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,462,100,416,119,362,147,308,166,282,187,260,224,235,266,216,310,204,351,196,352,201,311,209,268,221,227,239,190,264,170,286,152,310,124,364,105,418,95,463"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ErrorHandlerTraits_3_01RetT_07C_1_1_5_08_07ErrT_01_6_08_01const_01_4.html" title=" " alt="" coords="565,138,753,179"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="83,462,87,399,102,320,115,279,133,240,157,204,187,174,233,144,284,125,338,114,393,110,447,112,499,117,588,135,587,140,498,123,447,117,393,116,339,119,286,130,236,149,190,178,161,207,138,242,120,281,107,321,93,399,88,463"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ErrorHandlerTraits_3_01RetT_07C_1_1_5_08_07ErrT_01_6_08_4.html" title=" " alt="" coords="579,26,739,67"/>
+<area shape="poly" id="edge12_Node000001_Node000004" title=" " alt="" coords="84,462,88,393,103,305,116,257,134,211,157,167,187,127,227,91,275,64,326,45,380,33,434,27,487,26,579,31,579,37,487,31,435,33,381,39,328,50,277,69,230,95,191,131,162,170,139,213,121,259,109,306,94,394,89,463"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ErrorHandlerTraits_3_01RetT_07C_1_1_5_08_07const_01ErrT_01_6_08_01const_01_4.html" title=" " alt="" coords="579,327,739,382"/>
+<area shape="poly" id="edge13_Node000001_Node000005" title=" " alt="" coords="156,470,188,460,399,406,578,367,580,372,400,411,189,465,157,475"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ErrorHandlerTraits_3_01RetT_07C_1_1_5_08_07const_01ErrT_01_6_08_4.html" title=" " alt="" coords="567,221,751,261"/>
+<area shape="poly" id="edge14_Node000001_Node000006" title=" " alt="" coords="125,467,187,424,264,374,346,332,460,290,567,260,569,265,461,295,348,337,267,378,190,429,128,471"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ErrorHandlerTraits.html" title=" " alt="" coords="347,513,516,569"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="168,520,189,524,270,534,346,538,346,543,269,539,188,530,167,526"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ErrorHandlerTraits_3_01RetT_07C_1_1_5_08_07std_1_1unique__ptr_3_01ErrT_01_4_08_01const_01_4.html" title="Specialization for member functions of the form &#39;RetT (std::unique_ptr&lt;ErrT&gt;) const&#39;." alt="" coords="578,465,740,521"/>
+<area shape="poly" id="edge15_Node000001_Node000008" title=" " alt="" coords="180,482,189,481,294,477,399,477,578,484,578,490,399,482,294,482,189,486,180,487"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1ErrorHandlerTraits_3_01RetT_07C_1_1_5_08_07std_1_1unique__ptr_3_01ErrT_01_4_08_4.html" title="Specialization for member functions of the form &#39;RetT (std::unique_ptr&lt;ErrT&gt;)&#39;." alt="" coords="578,552,740,608"/>
+<area shape="poly" id="edge16_Node000001_Node000009" title=" " alt="" coords="131,525,228,578,286,603,347,622,394,631,431,632,516,622,582,606,583,611,516,627,431,638,393,636,346,627,285,608,225,583,129,530"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1ErrorHandlerTraits_3_01Error_07_6_08_07ErrT_01_6_08_4.html" title=" " alt="" coords="352,683,511,724"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="98,533,111,568,130,608,157,645,190,675,228,694,269,705,311,710,351,710,351,715,311,715,268,710,226,699,187,680,153,649,126,610,106,570,93,535"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1ErrorHandlerTraits_3_01Error_07_6_08_07std_1_1unique__ptr_3_01ErrT_01_4_08_4.html" title="Specialization for functions of the form &#39;Error (std::unique_ptr&lt;ErrT&gt;)&#39;." alt="" coords="352,748,511,804"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="91,534,99,586,116,649,128,680,145,710,165,737,190,760,227,779,268,789,311,791,351,789,351,794,311,797,268,794,225,784,187,764,161,741,140,713,124,683,110,651,94,588,86,535"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1ErrorHandlerTraits_3_01void_07_6_08_07ErrT_01_6_08_4.html" title=" " alt="" coords="352,827,511,868"/>
+<area shape="poly" id="edge17_Node000001_Node000012" title=" " alt="" coords="88,534,93,598,107,677,120,717,138,756,161,791,190,821,227,842,268,854,310,858,351,858,351,863,310,864,267,859,225,847,187,825,157,794,133,758,115,719,102,678,87,599,83,535"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1ErrorHandlerTraits_3_01void_07_6_08_07std_1_1unique__ptr_3_01ErrT_01_4_08_4.html" title="Specialization for functions of the form &#39;void (std::unique_ptr&lt;ErrT&gt;)&#39;." alt="" coords="349,893,514,949"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="93,534,104,624,124,738,137,793,152,843,170,882,190,908,226,928,266,938,308,941,348,937,349,943,308,946,265,944,224,933,187,912,166,885,147,845,132,795,118,739,99,625,87,535"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="526,176,564,170,565,175,527,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="481,162,515,142,627,65,630,69,517,146,483,167"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="498,218,518,230,627,324,624,328,514,234,496,223"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="527,210,567,219,566,224,526,216"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="531,517,577,508,578,513,532,523"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="532,555,578,563,577,569,531,561"/>
+</map>

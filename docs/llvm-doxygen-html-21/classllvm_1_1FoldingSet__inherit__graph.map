@@ -1,0 +1,60 @@
+<map id="llvm::FoldingSet&lt; T &gt;" name="llvm::FoldingSet&lt; T &gt;">
+<area shape="rect" id="Node000001" title="FoldingSet &#45; This template class is used to instantiate a specialized implementation of the folding s..." alt="" coords="735,812,882,837"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1117,36,1291,61"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="809,796,820,636,840,408,853,294,868,194,885,119,894,93,904,77,930,57,959,43,990,33,1022,28,1086,26,1142,32,1142,38,1085,32,1022,33,991,39,961,48,933,62,908,81,899,95,890,120,873,195,858,295,845,408,825,636,814,796"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,86,1280,126"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="807,796,809,658,820,461,832,361,849,269,873,193,887,164,905,143,920,132,942,123,999,112,1065,105,1128,103,1128,108,1065,111,1000,117,944,129,923,137,908,146,892,167,878,195,854,270,837,361,825,462,814,659,812,796"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1125,151,1283,192"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="807,796,811,670,824,493,836,402,853,320,875,253,889,227,905,208,920,197,942,189,997,177,1062,171,1125,168,1125,174,1062,176,998,183,943,194,922,202,908,212,893,230,880,255,858,322,841,403,829,493,816,670,813,796"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,216,1280,257"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="808,796,814,682,828,524,841,444,857,371,878,312,890,289,905,272,920,261,942,253,999,242,1065,236,1128,233,1128,239,1065,241,1000,247,944,258,923,266,908,276,895,292,883,314,862,373,846,445,834,525,819,682,813,797"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,282,1280,322"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="809,796,816,693,833,554,845,484,861,421,881,369,904,335,920,324,943,316,1000,305,1065,300,1128,298,1128,304,1065,305,1000,311,944,321,923,329,908,338,885,372,866,422,850,485,838,555,821,693,814,796"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,347,1280,388"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="810,796,819,704,837,583,849,523,865,468,883,424,905,395,921,385,943,377,1000,367,1065,363,1128,362,1128,368,1066,368,1001,373,944,382,923,389,908,398,888,427,870,470,854,524,842,584,824,705,815,796"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1110,412,1298,453"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="811,796,823,720,843,622,870,530,886,494,904,471,927,454,951,441,1004,425,1058,418,1110,418,1110,423,1059,423,1005,430,953,446,930,459,908,474,891,497,875,532,848,623,828,720,816,797"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,478,1280,518"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="807,796,812,740,826,668,838,631,855,594,877,561,905,533,921,524,943,516,1000,505,1128,496,1128,501,1001,510,945,521,923,528,908,537,881,565,860,597,843,633,831,669,817,741,813,797"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,543,1280,584"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="810,796,818,750,835,694,862,638,882,613,905,592,944,576,1001,566,1128,560,1128,565,1002,572,945,581,908,596,885,616,867,641,839,696,823,751,815,797"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,608,1280,649"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="816,796,829,765,848,730,873,696,905,668,959,642,1017,627,1075,620,1128,619,1128,625,1076,625,1018,632,961,647,908,672,877,699,852,733,834,767,821,798"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,674,1280,714"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="829,799,862,767,905,739,961,719,1020,705,1077,696,1128,692,1128,697,1078,702,1021,710,963,724,908,744,866,771,833,802"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,739,1280,780"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="865,804,906,794,1022,775,1128,763,1128,768,1023,780,907,799,866,809"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,804,1280,845"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="898,822,1128,822,1128,827,898,827"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,870,1280,910"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="866,840,907,850,1023,869,1128,881,1128,887,1022,875,906,855,864,845"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,935,1280,976"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="833,847,866,878,908,905,963,926,1021,939,1078,948,1128,952,1128,957,1077,953,1020,945,961,931,905,910,862,882,829,851"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,1000,1280,1041"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="821,851,834,882,852,916,877,950,908,977,961,1003,1018,1017,1076,1024,1128,1024,1128,1030,1075,1029,1017,1023,959,1008,905,982,873,954,848,919,829,884,816,853"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,1066,1280,1106"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="815,852,823,898,839,953,867,1009,885,1033,908,1053,933,1069,960,1080,1017,1094,1075,1098,1128,1095,1128,1101,1075,1103,1016,1099,958,1085,930,1074,905,1058,882,1036,862,1011,834,955,818,899,810,853"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,1131,1280,1172"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="812,853,815,912,828,988,840,1027,857,1064,879,1098,908,1127,932,1143,959,1154,1016,1167,1074,1169,1128,1164,1128,1170,1075,1175,1016,1172,957,1159,930,1147,905,1131,875,1102,852,1067,835,1029,823,989,810,913,807,853"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,1196,1280,1237"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="816,852,826,934,845,1039,872,1138,889,1175,908,1199,932,1215,958,1227,1016,1238,1074,1239,1128,1232,1129,1238,1075,1244,1015,1244,957,1232,930,1220,905,1203,885,1178,867,1140,840,1040,821,935,810,853"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,1262,1280,1302"/>
+<area shape="poly" id="edge24_Node000001_Node000024" title=" " alt="" coords="814,852,823,948,839,1075,852,1138,867,1195,886,1240,908,1270,932,1286,958,1297,1015,1308,1074,1308,1128,1300,1128,1305,1074,1313,1015,1314,957,1302,929,1290,904,1273,882,1243,862,1197,847,1139,834,1076,817,948,809,853"/>
+<area shape="rect" id="Node000025" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,1327,1280,1368"/>
+<area shape="poly" id="edge25_Node000001_Node000025" title=" " alt="" coords="813,853,819,962,834,1110,847,1184,863,1251,883,1304,895,1324,908,1339,933,1355,960,1367,989,1374,1019,1377,1079,1375,1133,1365,1134,1371,1079,1380,1018,1383,988,1379,958,1372,930,1360,905,1343,891,1328,878,1307,858,1252,841,1185,829,1110,814,962,808,853"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,1392,1280,1433"/>
+<area shape="poly" id="edge26_Node000001_Node000026" title=" " alt="" coords="813,853,816,975,829,1144,841,1229,858,1305,880,1367,893,1390,908,1407,933,1424,961,1435,990,1442,1021,1445,1082,1442,1137,1431,1138,1436,1083,1447,1021,1450,989,1448,959,1441,930,1429,905,1411,889,1393,875,1369,853,1307,836,1230,824,1144,811,975,807,853"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,1458,1280,1498"/>
+<area shape="poly" id="edge27_Node000001_Node000027" title=" " alt="" coords="812,853,813,987,824,1177,836,1273,853,1360,877,1430,892,1456,908,1475,923,1483,944,1489,1000,1494,1065,1491,1127,1486,1128,1491,1065,1497,1000,1499,943,1494,921,1488,905,1479,887,1459,872,1432,848,1361,831,1274,819,1177,808,987,807,853"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,1523,1280,1564"/>
+<area shape="poly" id="edge28_Node000001_Node000028" title=" " alt="" coords="812,853,812,995,822,1199,834,1303,851,1397,876,1473,891,1502,908,1523,931,1540,957,1553,985,1561,1014,1566,1073,1567,1128,1560,1128,1565,1074,1572,1014,1571,984,1566,955,1558,929,1545,904,1527,887,1505,871,1475,846,1398,829,1303,817,1199,807,995,807,853"/>
+<area shape="rect" id="Node000029" href="$classllvm_1_1FoldingSet.html" title=" " alt="" coords="1128,1588,1280,1629"/>
+<area shape="poly" id="edge29_Node000001_Node000029" title=" " alt="" coords="814,853,824,1018,843,1256,856,1375,871,1478,889,1556,898,1582,908,1596,932,1614,958,1626,987,1633,1016,1637,1076,1636,1131,1627,1132,1632,1077,1641,1016,1643,986,1639,956,1631,929,1618,904,1600,894,1584,884,1558,866,1479,851,1375,838,1256,819,1019,809,853"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="530,804,686,845"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="701,822,735,822,735,827,701,827"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1FoldingSetBase.html" title="FoldingSetBase &#45; Implements the folding set functionality." alt="" coords="5,816,151,841"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,821,324,815,506,815,530,816,530,822,506,821,324,820,166,826"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1FoldingSetImpl.html" title="FoldingSetImpl &#45; An implementation detail that lets us share code between FoldingSet and ContextualFo..." alt="" coords="200,836,340,877"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="167,839,200,844,199,849,166,844"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="355,850,506,838,530,835,530,840,507,844,355,856"/>
+</map>

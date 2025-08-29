@@ -1,0 +1,20 @@
+<map id="llvm::ImmutableMapRef&lt; KeyT, ValT, ValInfo &gt;::iterator" name="llvm::ImmutableMapRef&lt; KeyT, ValT, ValInfo &gt;::iterator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1751,194,1911,250"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ImutAVLValueIterator.html" title=" " alt="" coords="1526,202,1702,242"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1717,219,1751,219,1751,225,1717,225"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="815,128,1083,244"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1098,191,1502,213,1526,214,1526,219,1502,218,1098,196"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="288,5,509,76"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="525,29,588,29,656,34,725,45,792,65,844,92,890,126,887,130,841,96,790,70,724,51,655,39,588,34,525,34"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="276,192,521,263"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="537,213,545,213,815,193,815,198,546,218,537,219"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="852,270,1046,371"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="453,270,496,300,546,322,625,339,705,344,783,342,852,335,852,340,783,347,705,350,624,344,545,328,494,305,450,275"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,192,227,263"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="242,225,276,225,276,230,242,230"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1ImutAVLValueIterator.html" title="Generic iterator that wraps a T::TreeTy::iterator and exposes iterator::getValue() on dereference." alt="" coords="1132,245,1339,271"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="1355,248,1502,236,1526,233,1526,238,1503,241,1355,254"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1060,294,1173,269,1174,274,1061,299"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="288,329,509,400"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="525,360,654,354,791,343,852,335,852,341,792,349,654,359,525,365"/>
+</map>

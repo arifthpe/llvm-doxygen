@@ -1,0 +1,99 @@
+<map id="llvm::FoldingSetBase::Node" name="llvm::FoldingSetBase::Node">
+<area shape="rect" id="Node000001" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set." alt="" coords="5,639,151,680"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ArgumentInit.html" title=" " alt="" coords="248,5,376,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,624,88,494,109,319,125,231,144,151,168,85,182,60,197,40,220,24,247,16,249,21,223,29,200,44,186,63,173,87,149,152,130,232,114,320,94,495,84,624"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AttributeImpl.html" title="This class represents a single, uniqued attribute." alt="" coords="248,55,376,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="79,623,90,503,112,344,128,263,147,190,170,130,183,107,197,90,220,74,247,66,249,71,223,79,200,93,187,110,175,133,152,192,133,264,118,344,96,504,85,624"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1AttributeListImpl.html" title="This class represents a set of attributes that apply to the function, return type,..." alt="" coords="238,104,386,130"/>
+<area shape="poly" id="edge5_Node000001_Node000010" title=" " alt="" coords="80,623,93,513,116,368,132,295,150,229,172,176,197,139,215,126,236,118,238,123,218,131,201,143,177,178,155,231,137,296,121,369,98,514,85,624"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1AttributeSetNode.html" title="This class represents a group of attributes that apply to one element: function, return type,..." alt="" coords="235,153,388,179"/>
+<area shape="poly" id="edge6_Node000001_Node000011" title=" " alt="" coords="81,623,95,523,119,392,135,327,153,269,174,221,197,188,214,176,234,168,236,173,217,181,201,192,178,224,158,271,140,329,125,393,101,523,86,624"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1BinOpInit.html" title="!op (X, Y) &#45; Combine two inits." alt="" coords="258,203,366,228"/>
+<area shape="poly" id="edge7_Node000001_Node000012" title=" " alt="" coords="75,624,78,544,84,493,94,440,109,385,130,331,159,281,197,237,225,220,257,213,258,218,227,225,200,242,164,284,135,333,114,386,99,441,89,494,84,544,81,624"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1BitsInit.html" title="&#39;{ a, b, c }&#39; &#45; Represents an initializer for a BitsRecTy value." alt="" coords="265,252,359,278"/>
+<area shape="poly" id="edge8_Node000001_Node000013" title=" " alt="" coords="77,624,83,552,101,461,116,414,136,367,163,324,197,287,229,269,264,262,265,267,231,274,200,291,167,327,141,370,121,416,106,463,88,553,82,624"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1CondOpInit.html" title="!cond(condition_1: value1, ... , condition_n: value) Selects the first value for which condition is t..." alt="" coords="252,301,372,327"/>
+<area shape="poly" id="edge9_Node000001_Node000014" title=" " alt="" coords="79,623,88,561,108,483,123,443,143,404,167,367,197,336,223,321,251,313,252,318,225,326,200,340,171,371,147,406,128,445,113,485,93,562,84,624"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1DIEAbbrev.html" title="Dwarf abbreviation, describes the organization of a debug information object." alt="" coords="253,351,370,376"/>
+<area shape="poly" id="edge10_Node000001_Node000015" title=" " alt="" coords="82,623,94,570,115,505,149,440,171,411,197,385,223,371,252,363,253,368,225,376,200,390,175,414,153,443,120,507,99,571,87,624"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1DagInit.html" title="(v a, b) &#45; Represent a DAG tree value." alt="" coords="264,400,360,426"/>
+<area shape="poly" id="edge11_Node000001_Node000016" title=" " alt="" coords="86,623,100,579,123,528,155,477,175,455,197,435,229,419,263,411,264,417,231,424,200,439,178,458,159,481,128,531,105,581,91,625"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1DebugNamesAbbrev.html" title=" " alt="" coords="225,449,399,475"/>
+<area shape="poly" id="edge12_Node000001_Node000017" title=" " alt="" coords="91,623,108,590,132,552,161,515,197,484,223,471,225,476,200,488,165,518,136,555,113,592,96,626"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1ExistsOpInit.html" title="!exists&lt;type&gt;(expr) &#45; Dynamically determine if a record of type named expr exists." alt="" coords="249,499,374,524"/>
+<area shape="poly" id="edge13_Node000001_Node000018" title=" " alt="" coords="100,625,142,577,168,553,197,533,222,522,248,515,250,521,224,527,200,538,171,557,145,581,104,628"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1FastFoldingSetNode.html" title="FastFoldingSetNode &#45; This is a subclass of FoldingSetNode which stores a FoldingSetNodeID value rathe..." alt="" coords="226,548,398,574"/>
+<area shape="poly" id="edge14_Node000001_Node000019" title=" " alt="" coords="117,628,155,604,198,582,230,572,232,577,200,587,158,608,120,632"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1FoldOpInit.html" title="!foldl (a, b, expr, start, lst) &#45; Fold over a list." alt="" coords="255,597,368,623"/>
+<area shape="poly" id="edge15_Node000001_Node000020" title=" " alt="" coords="165,638,254,619,255,625,167,644"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1FoldingSetNodeWrapper.html" title="FoldingSetNodeWrapper &#45; This template class is used to &quot;wrap&quot; arbitrary types in an enclosing object ..." alt="" coords="199,647,425,672"/>
+<area shape="poly" id="edge16_Node000001_Node000021" title=" " alt="" coords="166,657,198,657,198,662,166,662"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1ImmutableListImpl.html" title=" " alt="" coords="216,696,408,722"/>
+<area shape="poly" id="edge17_Node000001_Node000022" title=" " alt="" coords="166,675,248,693,247,698,165,681"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1InstancesOpInit.html" title="!instances&lt;type&gt;([regex]) &#45; Produces a list of records whose type is type." alt="" coords="239,745,384,771"/>
+<area shape="poly" id="edge18_Node000001_Node000023" title=" " alt="" coords="120,687,158,711,200,732,240,744,238,749,198,737,155,715,117,691"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1IsAOpInit.html" title="!isa&lt;type&gt;(expr) &#45; Dynamically determine the type of an expression." alt="" coords="258,795,366,820"/>
+<area shape="poly" id="edge19_Node000001_Node000024" title=" " alt="" coords="104,691,145,738,171,762,200,781,228,793,258,800,257,805,227,798,197,786,168,766,142,742,100,694"/>
+<area shape="rect" id="Node000025" href="$classllvm_1_1ListInit.html" title="[AL, AH, CL] &#45; Represent a list of defs" alt="" coords="266,844,358,870"/>
+<area shape="poly" id="edge20_Node000001_Node000025" title=" " alt="" coords="96,693,113,727,136,764,165,801,200,831,232,845,266,852,264,857,230,850,197,835,161,804,132,767,108,729,91,696"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1RecordRecTy.html" title="&#39;[classname]&#39; &#45; Type of record values that have zero or more superclasses." alt="" coords="245,893,378,919"/>
+<area shape="poly" id="edge21_Node000001_Node000026" title=" " alt="" coords="91,694,105,738,128,788,159,838,178,861,200,880,222,892,246,899,244,904,220,897,197,884,175,864,155,842,123,791,100,740,86,696"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1SCEV.html" title="This class represents an analyzed expression in the program." alt="" coords="267,943,357,968"/>
+<area shape="poly" id="edge22_Node000001_Node000027" title=" " alt="" coords="87,695,99,748,120,812,153,876,175,905,200,929,232,946,267,953,266,958,230,951,197,934,171,908,149,879,115,814,94,749,82,696"/>
+<area shape="rect" id="Node000051" href="$classllvm_1_1SCEVPredicate.html" title="This class represents an assumption made using SCEV expressions which can be checked at run&#45;time." alt="" coords="239,1004,384,1030"/>
+<area shape="poly" id="edge30_Node000001_Node000051" title=" " alt="" coords="85,695,95,756,115,832,130,872,149,911,172,947,200,979,219,992,240,1002,238,1007,216,997,197,983,168,950,145,913,125,874,110,834,90,757,80,696"/>
+<area shape="rect" id="Node000055" href="$classllvm_1_1SDNode.html" title="Represents one node in the SelectionDAG." alt="" coords="260,1176,364,1202"/>
+<area shape="poly" id="edge34_Node000001_Node000055" title=" " alt="" coords="89,695,104,762,127,849,159,946,201,1041,225,1081,252,1118,300,1174,296,1177,248,1121,220,1084,196,1043,155,948,122,851,98,763,84,696"/>
+<area shape="rect" id="Node000107" href="$classllvm_1_1SDVTListNode.html" title=" " alt="" coords="241,1225,382,1251"/>
+<area shape="poly" id="edge44_Node000001_Node000107" title=" " alt="" coords="85,695,96,813,119,968,134,1046,153,1117,175,1174,201,1212,219,1225,241,1233,240,1238,217,1230,197,1216,170,1176,148,1118,129,1047,113,969,91,813,79,696"/>
+<area shape="rect" id="Node000108" href="$classllvm_1_1TernOpInit.html" title="!op (X, Y, Z) &#45; Combine two inits." alt="" coords="255,1275,368,1300"/>
+<area shape="poly" id="edge45_Node000001_Node000108" title=" " alt="" coords="84,695,94,822,115,992,131,1078,150,1156,173,1219,186,1243,200,1262,226,1278,256,1285,254,1290,224,1283,197,1265,182,1246,168,1222,145,1157,126,1079,110,993,89,822,79,695"/>
+<area shape="rect" id="Node000109" href="$classllvm_1_1UnOpInit.html" title="!op (X) &#45; Transform an init." alt="" coords="259,1324,364,1350"/>
+<area shape="poly" id="edge46_Node000001_Node000109" title=" " alt="" coords="83,696,92,832,112,1017,127,1110,147,1195,171,1265,185,1291,200,1311,228,1328,259,1335,258,1340,226,1333,197,1315,181,1294,166,1267,142,1197,122,1111,107,1018,87,832,78,696"/>
+<area shape="rect" id="Node000110" href="$classllvm_1_1UniqueMachineInstr.html" title="A class that wraps MachineInstrs and derives from FoldingSetNode in order to be uniqued in a CSEMap." alt="" coords="227,1373,396,1399"/>
+<area shape="poly" id="edge47_Node000001_Node000110" title=" " alt="" coords="83,695,90,840,109,1041,124,1142,144,1234,169,1310,184,1339,201,1360,213,1370,228,1378,226,1382,210,1375,197,1364,180,1341,165,1312,139,1236,119,1143,103,1041,85,841,78,696"/>
+<area shape="rect" id="Node000111" href="$classllvm_1_1VarDefInit.html" title="classname&lt;targs...&gt; &#45; Represent an uninstantiated anonymous class instantiation." alt="" coords="256,1423,368,1448"/>
+<area shape="poly" id="edge48_Node000001_Node000111" title=" " alt="" coords="83,695,88,849,106,1064,121,1174,141,1274,168,1355,183,1386,200,1410,226,1426,256,1434,255,1439,224,1431,197,1413,179,1389,163,1357,136,1275,115,1175,100,1065,83,850,77,695"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1EnumAttributeImpl.html" title="A set of classes that contain the value of the attribute object." alt="" coords="492,31,653,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="390,58,491,48,491,54,391,63"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1StringAttributeImpl.html" title=" " alt="" coords="492,80,653,106"/>
+<area shape="poly" id="edge4_Node000003_Node000009" title=" " alt="" coords="391,72,491,82,491,88,390,78"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1SCEVCastExpr.html" title="This is the base class for unary cast operator classes." alt="" coords="500,633,645,659"/>
+<area shape="poly" id="edge23_Node000027_Node000028" title=" " alt="" coords="372,953,400,945,423,930,445,898,453,867,452,834,447,802,441,769,440,735,449,702,471,668,498,651,501,656,475,672,453,704,446,736,447,768,452,801,458,834,458,867,450,901,427,933,402,950,373,958"/>
+<area shape="rect" id="Node000034" href="$classllvm_1_1SCEVConstant.html" title="This class represents a constant integer value." alt="" coords="500,683,644,708"/>
+<area shape="poly" id="edge24_Node000027_Node000034" title=" " alt="" coords="371,952,399,945,423,930,442,905,449,879,450,853,447,826,444,799,444,772,452,744,471,718,499,701,501,705,475,721,457,747,449,773,449,799,452,826,455,853,455,880,446,907,427,933,402,950,373,958"/>
+<area shape="rect" id="Node000035" href="$structllvm_1_1SCEVCouldNotCompute.html" title="An object of this class is returned by queries that could not be answered." alt="" coords="473,732,671,758"/>
+<area shape="poly" id="edge25_Node000027_Node000035" title=" " alt="" coords="371,952,399,944,423,930,438,911,446,891,447,850,448,809,455,787,471,767,486,756,489,760,475,771,460,790,453,809,452,851,451,892,443,913,427,933,401,949,373,957"/>
+<area shape="rect" id="Node000036" href="$classllvm_1_1SCEVNAryExpr.html" title="This node is a base class providing common functionality for n&#39;ary operators." alt="" coords="498,781,646,807"/>
+<area shape="poly" id="edge26_Node000027_Node000036" title=" " alt="" coords="372,951,399,943,423,929,435,917,442,903,447,875,451,845,458,830,471,816,497,801,499,806,475,820,463,833,456,847,452,875,447,905,440,920,427,934,401,948,374,956"/>
+<area shape="rect" id="Node000048" href="$classllvm_1_1SCEVUDivExpr.html" title="This class represents a binary unsigned division operation." alt="" coords="498,831,646,856"/>
+<area shape="poly" id="edge27_Node000027_Node000048" title=" " alt="" coords="371,948,399,941,423,929,439,915,447,898,455,882,471,865,497,853,499,858,475,870,459,885,452,901,443,918,427,934,400,946,373,953"/>
+<area shape="rect" id="Node000049" href="$classllvm_1_1SCEVUnknown.html" title="This means that we are dealing with an entirely unknown SCEV value, and only represent it as its LLVM..." alt="" coords="500,880,645,906"/>
+<area shape="poly" id="edge28_Node000027_Node000049" title=" " alt="" coords="371,941,424,929,472,914,513,904,514,909,474,919,426,934,373,946"/>
+<area shape="rect" id="Node000050" href="$classllvm_1_1SCEVVScale.html" title="This class represents the value of vscale, as used when defining the length of a scalable vector or r..." alt="" coords="506,929,638,955"/>
+<area shape="poly" id="edge29_Node000027_Node000050" title=" " alt="" coords="372,950,505,943,506,948,373,955"/>
+<area shape="rect" id="Node000052" href="$classllvm_1_1SCEVComparePredicate.html" title="This class represents an assumption that the expression LHS Pred RHS evaluates to true,..." alt="" coords="473,979,671,1004"/>
+<area shape="poly" id="edge31_Node000051_Node000052" title=" " alt="" coords="400,1006,472,999,473,1004,400,1011"/>
+<area shape="rect" id="Node000053" href="$classllvm_1_1SCEVUnionPredicate.html" title="This class represents a composition of other SCEV predicates, and is the class that most clients will..." alt="" coords="482,1028,662,1054"/>
+<area shape="poly" id="edge32_Node000051_Node000053" title=" " alt="" coords="400,1022,482,1030,482,1035,400,1028"/>
+<area shape="rect" id="Node000054" href="$classllvm_1_1SCEVWrapPredicate.html" title="This class represents an assumption made on an AddRec expression." alt="" coords="484,1077,660,1103"/>
+<area shape="poly" id="edge33_Node000051_Node000054" title=" " alt="" coords="369,1032,474,1064,514,1074,513,1079,472,1069,368,1037"/>
+<area shape="rect" id="Node000056" href="$classllvm_1_1AddrSpaceCastSDNode.html" title=" " alt="" coords="474,1127,670,1152"/>
+<area shape="poly" id="edge35_Node000055_Node000056" title=" " alt="" coords="378,1174,500,1150,501,1156,379,1179"/>
+<area shape="rect" id="Node000057" href="$classllvm_1_1AssertAlignSDNode.html" title="An SDNode that records if a register contains a value that is guaranteed to be aligned accordingly." alt="" coords="487,1176,657,1202"/>
+<area shape="poly" id="edge36_Node000055_Node000057" title=" " alt="" coords="379,1186,487,1186,487,1192,379,1192"/>
+<area shape="rect" id="Node000058" href="$classllvm_1_1BasicBlockSDNode.html" title=" " alt="" coords="488,1225,657,1251"/>
+<area shape="poly" id="edge37_Node000055_Node000058" title=" " alt="" coords="379,1199,501,1222,500,1227,378,1204"/>
+<area shape="rect" id="Node000059" href="$classllvm_1_1BlockAddressSDNode.html" title=" " alt="" coords="480,1275,664,1300"/>
+<area shape="poly" id="edge38_Node000055_Node000059" title=" " alt="" coords="380,1194,426,1211,442,1223,451,1237,460,1249,474,1261,497,1272,495,1276,472,1266,456,1253,447,1240,438,1227,424,1215,378,1199"/>
+<area shape="rect" id="Node000060" href="$classllvm_1_1BuildVectorSDNode.html" title="A &quot;pseudo&#45;class&quot; with methods for operating on BUILD_VECTORs." alt="" coords="487,1324,657,1350"/>
+<area shape="poly" id="edge39_Node000055_Node000060" title=" " alt="" coords="380,1190,404,1198,427,1211,439,1223,446,1236,452,1262,457,1287,464,1299,475,1311,491,1321,489,1326,471,1315,459,1302,452,1289,447,1263,441,1238,434,1226,423,1215,402,1203,378,1195"/>
+<area shape="rect" id="Node000061" href="$classllvm_1_1CondCodeSDNode.html" title=" " alt="" coords="490,1373,655,1399"/>
+<area shape="poly" id="edge40_Node000055_Node000061" title=" " alt="" coords="379,1189,404,1197,427,1211,442,1229,450,1249,452,1287,454,1325,461,1343,475,1360,490,1371,487,1375,471,1364,456,1345,449,1326,447,1287,445,1250,438,1232,423,1215,402,1201,378,1194"/>
+<area shape="rect" id="Node000062" href="$classllvm_1_1ConstantFPSDNode.html" title=" " alt="" coords="486,1423,659,1448"/>
+<area shape="poly" id="edge41_Node000055_Node000062" title=" " alt="" coords="379,1188,405,1196,427,1211,445,1236,454,1261,455,1287,452,1312,449,1337,450,1362,458,1386,475,1410,489,1420,486,1424,471,1413,453,1388,445,1363,444,1337,447,1312,449,1287,448,1262,441,1238,423,1215,402,1201,378,1193"/>
+<area shape="rect" id="Node000063" href="$classllvm_1_1ConstantPoolSDNode.html" title=" " alt="" coords="481,1472,663,1498"/>
+<area shape="poly" id="edge42_Node000055_Node000063" title=" " alt="" coords="380,1188,405,1196,427,1211,449,1242,457,1274,457,1305,452,1337,447,1368,447,1399,454,1429,475,1459,488,1469,485,1474,471,1463,450,1431,441,1399,442,1368,447,1336,452,1305,452,1274,444,1244,423,1215,403,1201,378,1193"/>
+<area shape="rect" id="Node000064" href="$classllvm_1_1ConstantSDNode.html" title=" " alt="" coords="494,1521,650,1547"/>
+<area shape="poly" id="edge43_Node000055_Node000064" title=" " alt="" coords="380,1187,405,1196,427,1211,442,1230,452,1248,461,1286,459,1324,452,1362,445,1399,443,1436,451,1472,461,1490,475,1508,495,1523,492,1527,471,1512,456,1493,446,1474,438,1436,440,1398,447,1360,454,1323,456,1287,447,1250,438,1233,423,1215,403,1200,378,1192"/>
+</map>

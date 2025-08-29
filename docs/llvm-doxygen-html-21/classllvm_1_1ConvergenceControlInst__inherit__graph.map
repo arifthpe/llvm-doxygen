@@ -1,0 +1,75 @@
+<map id="llvm::ConvergenceControlInst" name="llvm::ConvergenceControlInst">
+<area shape="rect" id="Node000001" title="Represents calls to the llvm.experimintal.convergence.* intrinsics." alt="" coords="4121,344,4316,370"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1IntrinsicInst.html" title="A wrapper class for inspecting calls to intrinsic functions." alt="" coords="3951,344,4072,370"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="4087,355,4121,355,4121,360,4087,360"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1CallInst.html" title="This class represents a function call, abstracting a target machine&#39;s calling convention." alt="" coords="3803,344,3901,370"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="3917,355,3950,355,3950,360,3917,360"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1CallBase.html" title="Base class for all callable instructions (InvokeInst and CallInst) Holds everything related to callin..." alt="" coords="3647,344,3754,370"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="3769,355,3802,355,3802,360,3769,360"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1Instruction.html" title=" " alt="" coords="3484,344,3598,370"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="3614,355,3647,355,3647,360,3614,360"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1User.html" title=" " alt="" coords="3310,303,3392,329"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="3407,325,3484,342,3483,347,3406,331"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="2885,303,2970,329"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="2986,313,3310,313,3310,319,2986,319"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ilist__node__with__parent.html" title=" " alt="" coords="3268,353,3434,439"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="3449,373,3483,366,3484,372,3450,379"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="2601,361,2786,402"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="2802,381,3268,391,3267,397,2802,386"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1ilist__node__impl.html" title=" " alt="" coords="2030,270,2212,341"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="2228,316,2577,361,2601,365,2600,370,2577,367,2227,321"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1ilist__node__base.html" title=" " alt="" coords="1611,462,1793,533"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1808,478,1922,453,1969,437,2001,419,2010,408,2014,395,2016,381,2025,366,2055,339,2058,343,2029,370,2021,383,2019,396,2015,410,2005,423,1972,442,1923,458,1809,483"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1ilist__detail_1_1node__base__prevnext.html" title=" " alt="" coords="1065,515,1316,570"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1301,506,1315,500,1327,492,1339,485,1409,472,1481,468,1550,471,1611,478,1610,483,1549,476,1481,474,1410,477,1341,490,1329,497,1318,505,1303,511"/>
+<area shape="rect" id="Node000025" href="$classllvm_1_1ilist__node__base.html" title=" " alt="" coords="1608,559,1796,614"/>
+<area shape="poly" id="edge26_Node000025_Node000012" title=" " alt="" coords="1332,544,1455,551,1584,563,1608,566,1607,571,1583,568,1454,556,1332,549"/>
+<area shape="rect" id="Node000030" href="$classllvm_1_1ilist__node__base.html" title=" " alt="" coords="1619,659,1784,730"/>
+<area shape="poly" id="edge36_Node000030_Node000012" title=" " alt="" coords="1316,578,1318,581,1329,601,1330,622,1331,640,1342,657,1379,668,1450,677,1619,689,1618,694,1450,682,1378,673,1339,661,1326,642,1325,622,1324,603,1314,584,1312,582"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1ilist__detail_1_1node__base__parent.html" title=" " alt="" coords="1119,595,1262,650"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="1276,597,1315,580,1327,572,1339,563,1408,538,1479,520,1548,508,1610,501,1611,506,1549,514,1481,526,1410,543,1342,568,1330,576,1318,585,1278,602"/>
+<area shape="poly" id="edge27_Node000025_Node000013" title=" " alt="" coords="1277,597,1340,585,1480,577,1607,579,1607,584,1480,582,1341,591,1278,602"/>
+<area shape="poly" id="edge37_Node000030_Node000013" title=" " alt="" coords="1254,656,1296,675,1341,689,1413,701,1487,705,1618,701,1619,707,1487,711,1413,706,1340,695,1294,680,1251,661"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1ilist__node__base.html" title="Base class for ilist nodes." alt="" coords="1104,747,1278,802"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="1231,734,1280,695,1339,660,1376,648,1409,643,1469,646,1496,646,1524,643,1552,633,1582,612,1592,597,1594,581,1596,564,1606,545,1620,531,1624,535,1610,548,1601,565,1600,582,1597,599,1586,616,1555,637,1525,648,1497,652,1468,651,1409,649,1377,653,1341,665,1283,699,1234,738"/>
+<area shape="poly" id="edge28_Node000025_Node000014" title=" " alt="" coords="1294,780,1364,778,1440,767,1478,757,1515,743,1550,726,1582,704,1592,691,1595,677,1597,662,1606,645,1623,627,1643,613,1646,617,1627,632,1610,648,1602,663,1600,678,1597,693,1586,708,1553,731,1517,748,1480,762,1441,772,1364,783,1294,785"/>
+<area shape="poly" id="edge38_Node000030_Node000014" title=" " alt="" coords="1251,808,1294,829,1341,845,1410,862,1465,872,1492,872,1519,868,1549,860,1582,845,1604,828,1629,798,1676,729,1681,732,1633,801,1607,831,1585,850,1551,865,1520,874,1492,877,1465,877,1409,867,1340,850,1292,834,1248,813"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1ilist__detail_1_1node__base__prevnext.html" title=" " alt="" coords="546,681,784,767"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="800,723,917,728,1041,740,1104,751,1103,756,1041,745,917,733,799,728"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1ilist__detail_1_1node__base__prevnext.html" title=" " alt="" coords="5,696,257,752"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="272,721,545,721,545,727,272,727"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1ilist__detail_1_1node__base__parent.html" title=" " alt="" coords="593,905,736,961"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="752,943,818,947,891,945,967,935,1040,912,1080,890,1115,861,1168,801,1172,805,1118,864,1083,894,1042,917,968,940,892,950,817,952,752,948"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1ilist__detail_1_1node__parent__access.html" title=" " alt="" coords="1340,119,1584,249"/>
+<area shape="poly" id="edge17_Node000010_Node000018" title=" " alt="" coords="1599,182,1691,187,1793,197,1900,214,2004,240,2065,267,2062,272,2002,245,1899,219,1792,202,1690,192,1599,187"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1ilist__detail_1_1node__parent__access.html" title="Mixin base class that is used to add getParent() and setParent(ParentTy*) methods to ilist_node_impl ..." alt="" coords="590,360,740,416"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="684,345,705,310,732,272,766,237,807,210,873,182,943,163,1014,150,1086,144,1156,143,1223,146,1340,158,1340,163,1223,151,1156,148,1086,149,1015,156,944,168,875,187,809,214,770,241,736,276,709,313,689,348"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1ilist__detail_1_1node__parent__access.html" title=" " alt="" coords="1098,421,1283,491"/>
+<area shape="poly" id="edge22_Node000022_Node000019" title=" " alt="" coords="755,412,808,424,961,443,1098,451,1098,456,961,448,808,429,754,417"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1ilist__detail_1_1node__parent__access.html" title=" " alt="" coords="1354,267,1570,383"/>
+<area shape="poly" id="edge30_Node000026_Node000019" title=" " alt="" coords="754,368,808,360,956,345,1104,335,1354,325,1354,330,1104,341,956,351,808,365,755,373"/>
+<area shape="rect" id="Node000031" href="$classllvm_1_1ilist__detail_1_1node__parent__access.html" title=" " alt="" coords="1360,880,1564,1011"/>
+<area shape="poly" id="edge40_Node000031_Node000019" title=" " alt="" coords="691,428,742,510,774,556,810,599,874,669,927,720,985,764,1066,812,1140,848,1218,878,1361,921,1359,926,1216,883,1138,853,1064,817,983,769,923,724,870,673,806,603,770,559,738,513,687,431"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node." alt="" coords="1632,396,1772,436"/>
+<area shape="poly" id="edge19_Node000010_Node000020" title=" " alt="" coords="1742,384,1778,362,1819,344,1872,329,1927,318,2029,306,2030,311,1928,323,1874,334,1821,349,1781,367,1745,389"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1ilist__node__impl.html" title=" " alt="" coords="2027,381,2215,451"/>
+<area shape="poly" id="edge31_Node000024_Node000020" title=" " alt="" coords="1787,413,2026,413,2026,419,1787,419"/>
+<area shape="rect" id="Node000029" href="$classllvm_1_1ilist__node__impl.html" title=" " alt="" coords="2038,547,2204,618"/>
+<area shape="poly" id="edge41_Node000029_Node000020" title=" " alt="" coords="1787,440,1798,447,1806,457,1810,466,1814,475,1822,483,1873,515,1930,539,1986,557,2039,568,2037,574,1985,562,1928,544,1871,519,1818,487,1810,478,1805,468,1802,460,1794,451,1784,444"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="1103,371,1278,397"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="1294,388,1632,409,1631,414,1294,393"/>
+<area shape="poly" id="edge21_Node000020_Node000022" title=" " alt="" coords="1298,445,1632,419,1632,424,1299,450"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="2265,396,2395,436"/>
+<area shape="poly" id="edge23_Node000009_Node000023" title=" " alt="" coords="2410,406,2600,387,2601,393,2411,411"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="2610,445,2778,486"/>
+<area shape="poly" id="edge42_Node000028_Node000023" title=" " alt="" coords="2411,431,2419,432,2609,456,2609,461,2419,438,2410,436"/>
+<area shape="poly" id="edge24_Node000023_Node000024" title=" " alt="" coords="2231,413,2264,413,2264,419,2231,419"/>
+<area shape="poly" id="edge25_Node000024_Node000025" title=" " alt="" coords="1812,598,1859,598,1908,594,1956,583,2002,564,2015,551,2025,533,2090,450,2094,453,2029,536,2019,554,2004,569,1958,588,1909,599,1859,604,1812,603"/>
+<area shape="poly" id="edge29_Node000024_Node000026" title=" " alt="" coords="1585,313,1678,310,1784,313,1895,325,2004,348,2038,361,2069,378,2067,383,2036,366,2002,353,1894,330,1784,319,1678,316,1585,318"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1ilist__node__with__parent.html" title="An ilist node that can access its parent list." alt="" coords="2836,437,3019,493"/>
+<area shape="poly" id="edge32_Node000008_Node000027" title=" " alt="" coords="3035,477,3137,478,3191,473,3243,461,3269,451,3294,437,3296,442,3271,456,3245,466,3192,478,3137,483,3035,482"/>
+<area shape="poly" id="edge33_Node000027_Node000028" title=" " alt="" coords="2793,463,2835,463,2835,468,2793,468"/>
+<area shape="poly" id="edge34_Node000028_Node000029" title=" " alt="" coords="2219,560,2608,480,2610,485,2220,565"/>
+<area shape="poly" id="edge35_Node000029_Node000030" title=" " alt="" coords="1799,666,2037,602,2039,607,1800,671"/>
+<area shape="poly" id="edge39_Node000029_Node000031" title=" " alt="" coords="1577,890,1778,790,1891,729,2002,664,2072,616,2075,621,2004,669,1894,734,1780,795,1579,895"/>
+</map>

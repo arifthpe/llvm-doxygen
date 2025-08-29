@@ -1,0 +1,15 @@
+<map id="llvm::IntrusiveRefCntPtr&lt; T &gt;" name="llvm::IntrusiveRefCntPtr&lt; T &gt;">
+<area shape="rect" id="Node000001" title="A smart pointer to a reference&#45;counted object that inherits from RefCountedBase or ThreadSafeRefCount..." alt="" coords="5,188,200,213"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1IntrusiveRefCntPtr.html" title=" " alt="" coords="468,8,630,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,173,160,120,189,93,222,72,284,47,348,32,411,25,467,23,468,28,412,30,349,38,285,52,225,76,193,97,164,124,122,176"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1IntrusiveRefCntPtr.html" title=" " alt="" coords="468,74,630,114"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,177,176,155,223,135,286,119,351,107,467,94,468,100,351,112,287,124,225,140,178,159,138,182"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1IntrusiveRefCntPtr.html" title=" " alt="" coords="465,139,634,180"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,182,223,179,350,168,464,160,464,166,350,173,224,185,199,188"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1IntrusiveRefCntPtr.html" title=" " alt="" coords="433,219,666,275"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="142,218,181,235,224,248,277,256,331,260,433,257,433,263,330,265,276,261,223,253,179,240,140,223"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1IntrusiveRefCntPtr.html" title=" " alt="" coords="433,314,666,370"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="121,225,162,281,191,309,225,330,275,347,328,356,382,359,432,357,432,363,382,364,328,362,274,352,223,335,188,313,158,285,116,228"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1IntrusiveRefCntPtr.html" title=" " alt="" coords="450,394,648,434"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="115,227,130,265,153,310,184,354,204,372,225,388,279,412,337,424,395,428,450,426,450,431,395,433,336,429,277,417,222,393,200,376,180,357,148,313,125,267,110,229"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="llvm::DIContext" name="llvm::DIContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="263,5,376,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1BTFContext.html" title=" " alt="" coords="5,79,130,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,38,111,81,110,76,262,33"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DWARFContext.html" title="DWARFContext This data structure is the top level entity that deals with dwarf debug information pars..." alt="" coords="153,79,302,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,43,245,81,241,77,290,39"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1gsym_1_1GsymContext.html" title="GSYM DI Context This data structure is the top level entity that deals with GSYM symbolication." alt="" coords="326,79,500,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="349,39,399,77,396,81,346,43"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1pdb_1_1PDBContext.html" title="PDBContext This data structure is the top level entity that deals with PDB debug information parsing." alt="" coords="524,79,680,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="383,33,555,76,553,81,382,38"/>
+</map>

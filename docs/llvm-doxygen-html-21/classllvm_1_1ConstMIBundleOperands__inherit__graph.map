@@ -1,0 +1,14 @@
+<map id="llvm::ConstMIBundleOperands" name="llvm::ConstMIBundleOperands">
+<area shape="rect" id="Node000001" title="ConstMIBundleOperands &#45; Iterate over all operands in a const bundle of machine instructions." alt="" coords="1615,100,1815,125"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MIBundleOperandIteratorBase.html" title=" " alt="" coords="1357,92,1566,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1582,110,1615,110,1615,115,1582,115"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="707,38,920,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="936,83,1333,102,1356,103,1356,108,1333,107,936,88"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,85,227,156"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="242,100,250,99,496,84,706,79,707,84,496,89,251,104,243,105"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="470,121,683,192"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="227,158,251,163,307,169,363,171,469,167,469,172,363,177,306,174,250,168,226,163"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MIBundleOperandIteratorBase.html" title="MIBundleOperandIteratorBase &#45; Iterator that visits all operands in a bundle of MachineInstrs." alt="" coords="944,128,1143,169"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1158,139,1332,125,1356,122,1356,128,1333,130,1158,144"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="699,152,944,147,944,153,699,157"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="llvm::ContextualFoldingSet&lt; T, Ctx &gt;" name="llvm::ContextualFoldingSet&lt; T, Ctx &gt;">
+<area shape="rect" id="Node000001" title="ContextualFoldingSet &#45; This template class is a further refinement of FoldingSet which provides a con..." alt="" coords="5,317,184,358"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1FoldingSetImpl.html" title=" " alt="" coords="15,212,174,268"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,283,97,317,92,317,92,283"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1FoldingSetBase.html" title="FoldingSetBase &#45; Implements the folding set functionality." alt="" coords="16,5,162,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,46,97,212,91,212,87,46"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1FoldingSetImpl.html" title="FoldingSetImpl &#45; An implementation detail that lets us share code between FoldingSet and ContextualFo..." alt="" coords="111,80,251,121"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="116,39,161,78,157,82,113,43"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="163,136,114,213,109,210,158,133"/>
+</map>

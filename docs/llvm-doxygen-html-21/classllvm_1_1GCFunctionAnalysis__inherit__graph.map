@@ -1,0 +1,13 @@
+<map id="llvm::GCFunctionAnalysis" name="llvm::GCFunctionAnalysis">
+<area shape="rect" id="Node000001" title="An analysis pass which caches information about the Function." alt="" coords="93,319,267,344"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="97,229,263,269"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,285,183,318,177,318,177,285"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,117,171,158"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,168,166,227,162,230,112,171"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="20,5,156,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,61,91,117,85,117,85,61"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="195,117,352,158"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="249,171,199,230,195,227,245,168"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="205,5,342,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="276,61,276,117,271,117,271,61"/>
+</map>

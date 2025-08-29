@@ -1,0 +1,19 @@
+<map id="llvm::ELFAttributeParser" name="llvm::ELFAttributeParser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,179,170,204"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ELFCompactAttrParser.html" title=" " alt="" coords="219,129,408,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,172,251,153,252,158,165,177"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ELFExtendedAttrParser.html" title=" " alt="" coords="218,203,409,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="185,199,218,203,217,208,185,204"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ARMAttributeParser.html" title=" " alt="" coords="468,5,638,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="340,117,391,77,456,40,485,29,486,34,458,45,394,82,343,121"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1CSKYAttributeParser.html" title=" " alt="" coords="466,55,641,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="363,121,456,89,494,78,496,84,458,94,365,126"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1HexagonAttributeParser.html" title=" " alt="" coords="457,104,649,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="423,128,456,124,457,130,424,133"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MSP430AttributeParser.html" title=" " alt="" coords="458,153,648,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="424,151,458,154,457,159,423,156"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1RISCVAttributeParser.html" title=" " alt="" coords="463,203,643,228"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="366,158,458,189,496,200,495,205,456,194,364,163"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1AArch64AttributeParser.html" title=" " alt="" coords="458,252,648,278"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="395,229,488,249,487,254,394,235"/>
+</map>

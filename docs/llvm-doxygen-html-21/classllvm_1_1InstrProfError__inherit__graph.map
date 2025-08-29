@@ -1,0 +1,10 @@
+<map id="llvm::InstrProfError" name="llvm::InstrProfError">
+<area shape="rect" id="Node000001" title=" " alt="" coords="22,282,154,308"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,192,171,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,248,91,282,85,282,85,248"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="16,5,149,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,46,90,192,85,192,81,47"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="104,80,261,121"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="111,39,160,78,157,82,108,43"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="158,134,107,193,103,190,154,131"/>
+</map>
