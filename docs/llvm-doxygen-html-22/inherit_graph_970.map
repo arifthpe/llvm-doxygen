@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1BlockFrequencyInfoImplBase.html" title="Base class for BlockFrequencyInfoImpl." alt="" coords="5,71,175,111"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1BlockFrequencyInfoImpl.html" title=" " alt="" coords="231,5,400,46"/>
+<area shape="poly" id="edge908_Node000000_Node000001" title=" " alt="" coords="176,63,245,45,240,48,178,68"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1BlockFrequencyInfoImpl.html" title=" " alt="" coords="223,71,408,111"/>
+<area shape="poly" id="edge909_Node000000_Node000002" title=" " alt="" coords="189,88,225,90,220,92,190,94"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1BlockFrequencyInfoImpl.html" title="Shared implementation for block frequency analysis." alt="" coords="231,136,400,177"/>
+<area shape="poly" id="edge910_Node000000_Node000003" title=" " alt="" coords="177,114,245,135,240,136,177,119"/>
+</map>

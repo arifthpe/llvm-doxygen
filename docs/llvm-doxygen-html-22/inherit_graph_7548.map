@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,172,138,213"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1orc_1_1DebugInfoPreservationPlugin.html" title=" " alt="" coords="198,5,410,46"/>
+<area shape="poly" id="edge10900_Node000000_Node000001" title=" " alt="" coords="91,157,130,105,156,79,184,57,212,45,208,48,187,61,159,83,134,109,95,160"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1ELFDebugObjectPlugin.html" title="Debugger support for ELF platforms with the GDB JIT Interface." alt="" coords="214,71,394,111"/>
+<area shape="poly" id="edge10901_Node000000_Node000002" title=" " alt="" coords="113,161,185,122,221,110,217,114,187,127,117,165"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1GDBJITDebugInfoRegistrationPlugin.html" title="For each object containing debug info, installs JITLink passes to synthesize a debug object and then ..." alt="" coords="210,136,398,177"/>
+<area shape="poly" id="edge10902_Node000000_Node000003" title=" " alt="" coords="152,177,212,169,208,172,154,182"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1JITLinkReentryTrampolines_1_1TrampolineAddrScraperPlugin.html" title=" " alt="" coords="186,200,422,256"/>
+<area shape="poly" id="edge10903_Node000000_Node000004" title=" " alt="" coords="152,202,188,209,183,211,154,207"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1orc_1_1LazyObjectLinkingLayer_1_1RenamerPlugin.html" title=" " alt="" coords="211,280,397,321"/>
+<area shape="poly" id="edge10904_Node000000_Node000005" title=" " alt="" coords="110,219,147,244,187,266,217,279,211,280,185,271,144,249,110,225"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1orc_1_1LazyReexportsManager_1_1Plugin.html" title=" " alt="" coords="220,345,388,386"/>
+<area shape="poly" id="edge10905_Node000000_Node000006" title=" " alt="" coords="93,224,133,279,158,307,187,330,223,349,217,349,184,335,155,311,129,283,91,229"/>
+</map>

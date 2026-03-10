@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,155,142,181"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1sampleprof_1_1HashKeyMap.html" title=" " alt="" coords="190,5,426,61"/>
+<area shape="poly" id="edge11321_Node000000_Node000001" title=" " alt="" coords="96,142,137,105,188,70,213,60,209,63,191,74,141,109,100,145"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sampleprof_1_1HashKeyMap.html" title=" " alt="" coords="211,84,405,155"/>
+<area shape="poly" id="edge11323_Node000000_Node000003" title=" " alt="" coords="154,149,212,138,208,141,156,154"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sampleprof_1_1HashKeyMap.html" title=" " alt="" coords="207,179,409,250"/>
+<area shape="poly" id="edge11324_Node000000_Node000004" title=" " alt="" coords="156,182,208,193,204,195,157,187"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sampleprof_1_1HashKeyMap.html" title=" " alt="" coords="211,274,405,344"/>
+<area shape="poly" id="edge11325_Node000000_Node000005" title=" " alt="" coords="100,189,142,224,191,259,215,273,210,273,188,263,139,229,99,194"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sampleprof_1_1SampleProfileMap.html" title="This class provides operator overloads to the map container using MD5 as the key type,..." alt="" coords="474,13,643,54"/>
+<area shape="poly" id="edge11322_Node000001_Node000002" title=" " alt="" coords="441,31,476,32,471,34,442,36"/>
+</map>

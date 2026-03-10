@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classPredicate.html" title=" " alt="" coords="5,267,82,293"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1PatternMatch_1_1cstval__pred__ty.html" title=" " alt="" coords="131,5,316,61"/>
+<area shape="poly" id="edge10916_Node000000_Node000001" title=" " alt="" coords="47,251,56,212,72,164,95,115,128,71,145,59,143,64,132,75,100,118,76,166,61,213,52,252"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PatternMatch_1_1cstval__pred__ty.html" title=" " alt="" coords="131,85,316,141"/>
+<area shape="poly" id="edge10917_Node000000_Node000002" title=" " alt="" coords="54,252,84,201,104,174,128,150,146,139,143,144,131,154,108,177,88,203,59,254"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PatternMatch_1_1BinOpPred__match.html" title=" " alt="" coords="137,164,310,235"/>
+<area shape="poly" id="edge10918_Node000000_Node000003" title=" " alt="" coords="86,258,144,234,141,238,90,262"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PatternMatch_1_1apf__pred__ty.html" title="This helper class is used to match scalar and vector constants that satisfy a specified predicate,..." alt="" coords="135,260,312,300"/>
+<area shape="poly" id="edge10919_Node000000_Node000004" title=" " alt="" coords="96,277,137,278,132,281,98,282"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1PatternMatch_1_1api__pred__ty.html" title="This helper class is used to match scalar and vector constants that satisfy a specified predicate,..." alt="" coords="136,325,311,366"/>
+<area shape="poly" id="edge10920_Node000000_Node000005" title=" " alt="" coords="93,296,131,309,166,323,161,325,129,314,95,301"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PatternMatch_1_1cstval__pred__ty.html" title="This helper class is used to match constant scalars, vector splats, and fixed width vectors that sati..." alt="" coords="130,389,317,445"/>
+<area shape="poly" id="edge10921_Node000000_Node000006" title=" " alt="" coords="62,303,93,340,131,375,151,388,146,389,128,379,89,344,62,308"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1SCEVPatternMatch_1_1cst__pred__ty.html" title=" " alt="" coords="135,469,312,510"/>
+<area shape="poly" id="edge10922_Node000000_Node000007" title=" " alt="" coords="51,305,64,341,79,381,102,421,131,455,148,469,143,468,128,459,97,424,75,383,59,342,51,310"/>
+</map>
