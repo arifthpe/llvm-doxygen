@@ -1,0 +1,10 @@
+<map id="llvm::orc::UnsatisfiedSymbolDependencies" name="llvm::orc::UnsatisfiedSymbolDependencies">
+<area shape="rect" id="Node000001" title="Used to report failure due to unsatisfiable symbol dependencies." alt="" coords="5,282,195,323"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="9,192,191,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,246,102,283,98,281,98,250"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="28,5,161,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,45,102,192,97,192,93,48"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="116,80,273,121"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="121,38,173,79,168,81,122,44"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="166,135,119,193,115,190,170,131"/>
+</map>

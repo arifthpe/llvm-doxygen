@@ -1,0 +1,12 @@
+<map id="llvm::orc::shared::TrivialSPSSequenceDeserialization&lt; SPSElementTagT, ConcreteSequenceT &gt;" name="llvm::orc::shared::TrivialSPSSequenceDeserialization&lt; SPSElementTagT, ConcreteSequenceT &gt;">
+<area shape="rect" id="Node000001" title="Specialize this to implement &#39;trivial&#39; sequence deserialization for a concrete sequence type." alt="" coords="5,127,280,183"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1shared_1_1TrivialSPSSequenceDeserialization_3_01SPSElementTagT_00_01SmallVector_3_01T_00_01N_01_4_01_4.html" title="Trivial SPSSequence&lt;SPSElementTagT&gt; &#45;&gt; SmallVectorImpl&lt;T&gt; deserialization." alt="" coords="861,43,1089,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,117,250,94,303,77,377,62,452,53,604,46,744,50,864,62,858,63,744,56,604,51,453,58,378,68,304,82,252,99,204,122"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1shared_1_1TrivialSPSSequenceDeserialization_3_01SPSElementTagT_00_01SmallVectorImpl_3_01T_01_4_01_4.html" title="Trivial SPSSequence&lt;SPSElementTagT&gt; &#45;&gt; SmallVectorImpl&lt;T&gt; deserialization." alt="" coords="529,87,812,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="295,141,530,124,526,128,296,146"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1shared_1_1TrivialSPSSequenceDeserialization_3_01SPSElementTagT_00_01std_1_1vector_3_01T_01_4_01_4.html" title="Trivial SPSSequence&lt;SPSElementTagT&gt; &#45;&gt; std::vector&lt;T&gt; deserialization." alt="" coords="546,167,795,223"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="274,184,304,188,428,197,548,200,543,200,428,202,303,193,275,189"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1orc_1_1shared_1_1TrivialSPSSequenceDeserialization_3_01char_00_01std_1_1string_01_4.html" title="Trivial SPSSequence&lt;char&gt; &#45;&gt; std::string deserialization." alt="" coords="557,247,784,303"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="209,188,255,209,304,226,368,242,434,254,559,270,553,270,433,259,367,247,303,232,253,214,208,193"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="827,93,864,91,858,92,828,99"/>
+</map>

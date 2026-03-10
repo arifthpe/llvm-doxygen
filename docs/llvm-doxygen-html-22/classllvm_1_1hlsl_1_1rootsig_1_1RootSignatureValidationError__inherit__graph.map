@@ -1,0 +1,10 @@
+<map id="llvm::hlsl::rootsig::RootSignatureValidationError" name="llvm::hlsl::rootsig::RootSignatureValidationError">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,302,203,343"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,212,204,253"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,267,107,303,102,301,103,271"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="32,5,166,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,45,107,212,101,212,98,48"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="120,80,278,121"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="126,38,177,79,172,81,126,44"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="178,132,121,214,117,210,174,136"/>
+</map>

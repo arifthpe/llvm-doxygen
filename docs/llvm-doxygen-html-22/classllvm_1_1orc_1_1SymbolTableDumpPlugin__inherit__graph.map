@@ -1,0 +1,5 @@
+<map id="llvm::orc::SymbolTableDumpPlugin" name="llvm::orc::SymbolTableDumpPlugin">
+<area shape="rect" id="Node000001" title="Dumps symbol tables from LinkGraphs to enable backtrace symbolication." alt="" coords="5,94,195,135"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1LinkGraphLinkingLayer_1_1Plugin.html" title="Plugin instances can be added to the ObjectLinkingLayer to receive callbacks when code is loaded or e..." alt="" coords="10,5,190,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,60,102,95,98,93,98,64"/>
+</map>

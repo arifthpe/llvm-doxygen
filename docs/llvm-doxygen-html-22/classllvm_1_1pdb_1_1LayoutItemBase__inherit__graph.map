@@ -1,0 +1,15 @@
+<map id="llvm::pdb::LayoutItemBase" name="llvm::pdb::LayoutItemBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,183,106"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1pdb_1_1DataMemberLayoutItem.html" title=" " alt="" coords="231,5,453,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,71,230,40,274,31,269,33,231,45,142,76"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1pdb_1_1UDTLayoutBase.html" title=" " alt="" coords="252,55,432,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,80,254,76,249,78,199,85"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1pdb_1_1VBPtrLayoutItem.html" title=" " alt="" coords="251,104,433,130"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="198,100,253,107,248,109,198,106"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1pdb_1_1VTableLayoutItem.html" title=" " alt="" coords="248,153,436,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="143,109,231,140,275,153,270,153,230,145,142,114"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1pdb_1_1BaseClassLayout.html" title=" " alt="" coords="501,31,686,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="446,55,503,52,498,53,447,60"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1pdb_1_1ClassLayout.html" title=" " alt="" coords="516,80,671,106"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="447,75,518,85,513,85,447,81"/>
+</map>

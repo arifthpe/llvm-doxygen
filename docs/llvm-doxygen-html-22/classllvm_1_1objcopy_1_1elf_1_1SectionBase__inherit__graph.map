@@ -1,0 +1,39 @@
+<map id="llvm::objcopy::elf::SectionBase" name="llvm::objcopy::elf::SectionBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,284,126,325"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1objcopy_1_1elf_1_1CompressedSection.html" title=" " alt="" coords="184,5,331,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,268,83,221,104,165,133,108,152,81,173,57,193,44,190,49,177,61,156,84,138,111,109,167,89,223,76,269"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1objcopy_1_1elf_1_1DecompressedSection.html" title=" " alt="" coords="177,71,338,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="77,269,114,196,141,157,173,122,195,110,192,114,177,126,145,160,118,198,82,271"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1objcopy_1_1elf_1_1GnuDebugLinkSection.html" title=" " alt="" coords="178,136,337,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="89,270,126,228,173,187,199,175,195,179,177,192,130,232,94,273"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1objcopy_1_1elf_1_1GroupSection.html" title=" " alt="" coords="198,201,318,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="123,275,174,253,206,241,203,244,176,257,127,279"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1objcopy_1_1elf_1_1OwnedDataSection.html" title=" " alt="" coords="186,267,329,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="140,295,188,292,184,295,143,300"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1objcopy_1_1elf_1_1RelocationSectionBase.html" title=" " alt="" coords="175,332,340,373"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="140,321,177,330,172,333,142,326"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1objcopy_1_1elf_1_1Section.html" title=" " alt="" coords="198,397,318,438"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="103,332,176,382,202,396,197,397,174,387,103,337"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1objcopy_1_1elf_1_1SectionIndexSection.html" title=" " alt="" coords="183,463,332,503"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="85,336,124,393,149,422,177,448,197,462,192,463,173,452,145,426,120,396,85,341"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1objcopy_1_1elf_1_1StringTableSection.html" title=" " alt="" coords="188,528,327,569"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="77,337,93,379,114,425,141,472,177,513,195,527,190,528,173,517,137,475,109,427,88,380,76,342"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1objcopy_1_1elf_1_1SymbolTableSection.html" title=" " alt="" coords="184,593,332,634"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="72,337,85,392,104,455,134,521,154,551,177,578,194,593,188,592,173,582,150,554,130,523,99,457,80,393,71,343"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1objcopy_1_1elf_1_1RelocSectionWithSymtabBase.html" title=" " alt="" coords="850,306,1066,362"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="356,347,851,334,849,339,356,352"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1objcopy_1_1elf_1_1RelocSectionWithSymtabBase.html" title=" " alt="" coords="854,218,1063,274"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="331,322,339,317,353,301,361,284,371,267,388,253,446,228,506,211,569,201,631,197,692,198,751,202,856,220,850,221,750,208,692,203,631,202,569,206,507,216,447,233,391,257,375,271,366,286,358,304,342,321,335,326"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1objcopy_1_1elf_1_1RelocSectionWithSymtabBase.html" title=" " alt="" coords="390,267,599,323"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="354,326,392,319,387,322,357,331"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1objcopy_1_1elf_1_1DynamicRelocationSection.html" title=" " alt="" coords="1116,313,1303,354"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1082,331,1118,333,1113,334,1082,336"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1objcopy_1_1elf_1_1RelocationSection.html" title=" " alt="" coords="1142,225,1277,266"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1078,243,1144,245,1139,246,1079,248"/>
+<area shape="poly" id="edge12_Node000012_Node000008" title=" " alt="" coords="614,312,623,313,740,322,852,330,847,331,740,328,623,318,615,317"/>
+<area shape="poly" id="edge13_Node000012_Node000010" title=" " alt="" coords="614,281,826,259,856,258,850,260,826,265,615,286"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1objcopy_1_1elf_1_1DynamicSection.html" title=" " alt="" coords="432,463,557,503"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="333,436,434,465,429,466,333,441"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1objcopy_1_1elf_1_1DynamicSymbolTableSection.html" title=" " alt="" coords="394,397,594,438"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="333,415,396,417,391,419,334,420"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="llvm::object::OwningBinary&lt; T &gt;" name="llvm::object::OwningBinary&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,78,215,104"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1object_1_1OwningBinary.html" title=" " alt="" coords="430,5,607,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,72,238,60,432,34,427,37,239,66,183,77"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1object_1_1OwningBinary.html" title=" " alt="" coords="430,71,607,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="230,88,431,89,427,93,230,94"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1object_1_1OwningBinary.html" title=" " alt="" coords="429,136,608,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="181,105,239,117,431,145,426,148,238,122,181,110"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1object_1_1OffloadFile.html" title="A class to contain the binary information for a single OffloadBinary that owns its memory." alt="" coords="657,13,817,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="622,23,660,25,654,26,623,28"/>
+</map>

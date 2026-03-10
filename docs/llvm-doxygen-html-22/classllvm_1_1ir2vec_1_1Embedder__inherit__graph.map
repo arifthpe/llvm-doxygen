@@ -1,0 +1,7 @@
+<map id="llvm::ir2vec::Embedder" name="llvm::ir2vec::Embedder">
+<area shape="rect" id="Node000001" title="Embedder provides the interface to generate embeddings (vector representations) for instructions,..." alt="" coords="156,5,312,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ir2vec_1_1FlowAwareEmbedder.html" title="Class for computing the Flow&#45;aware embeddings of IR2Vec." alt="" coords="5,79,226,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,39,137,81,135,76,199,40"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ir2vec_1_1SymbolicEmbedder.html" title="Class for computing the Symbolic embeddings of IR2Vec." alt="" coords="250,79,459,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,37,336,78,331,78,267,42"/>
+</map>

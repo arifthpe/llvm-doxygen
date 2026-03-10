@@ -1,0 +1,7 @@
+<map id="llvm::dxil::PaddingExtType" name="llvm::dxil::PaddingExtType">
+<area shape="rect" id="Node000001" title="The dx.Padding target extension type." alt="" coords="5,153,182,178"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TargetExtType.html" title="Class to represent target extensions types, which are generally unintrospectable from target&#45;independ..." alt="" coords="25,79,162,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,118,96,153,91,151,92,122"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="53,5,134,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,44,96,79,91,78,92,49"/>
+</map>

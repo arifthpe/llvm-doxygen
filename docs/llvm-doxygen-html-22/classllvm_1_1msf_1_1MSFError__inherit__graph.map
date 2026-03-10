@@ -1,0 +1,15 @@
+<map id="llvm::msf::MSFError" name="llvm::msf::MSFError">
+<area shape="rect" id="Node000001" title="Base class for errors originating when parsing raw PDB files." alt="" coords="114,454,254,479"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="97,364,271,404"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,418,186,455,182,452,182,421"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1StringError.html" title="This class wraps a string in an Error." alt="" coords="70,289,186,314"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="146,325,173,363,168,364,144,330"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,192,195,218"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="108,230,127,288,122,288,107,235"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="23,5,156,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="92,44,102,192,97,192,90,49"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="111,80,268,121"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="116,38,168,79,163,81,117,44"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="210,133,216,145,216,168,210,242,200,315,191,364,186,362,195,314,205,241,211,168,211,145,210,138"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="133,133,121,147,110,170,104,192,99,191,105,168,117,143,136,128"/>
+</map>

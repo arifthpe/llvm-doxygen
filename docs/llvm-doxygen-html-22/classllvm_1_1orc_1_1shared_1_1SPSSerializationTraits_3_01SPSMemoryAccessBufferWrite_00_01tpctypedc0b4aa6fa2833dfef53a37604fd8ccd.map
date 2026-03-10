@@ -1,0 +1,5 @@
+<map id="llvm::orc::shared::SPSSerializationTraits&lt; SPSMemoryAccessBufferWrite, tpctypes::BufferWrite &gt;" name="llvm::orc::shared::SPSSerializationTraits&lt; SPSMemoryAccessBufferWrite, tpctypes::BufferWrite &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,226,223"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1shared_1_1SPSSerializationTraits.html" title="Specialize to describe how to serialize/deserialize to/from the given concrete type." alt="" coords="25,5,206,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,75,118,153,113,151,114,79"/>
+</map>

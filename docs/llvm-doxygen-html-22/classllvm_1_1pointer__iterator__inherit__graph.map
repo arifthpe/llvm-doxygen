@@ -1,0 +1,21 @@
+<map id="llvm::pointer_iterator&lt; WrappedIteratorT, T &gt;" name="llvm::pointer_iterator&lt; WrappedIteratorT, T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="571,280,730,321"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1pointer__iterator.html" title=" " alt="" coords="947,51,1173,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="659,263,671,227,690,186,717,145,752,113,798,89,848,75,898,68,949,68,944,69,899,73,849,80,800,94,756,117,721,149,695,188,676,229,663,267"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1pointer__iterator.html" title=" " alt="" coords="969,131,1151,171"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="669,265,703,219,726,197,753,179,806,158,862,146,917,141,971,142,966,144,918,146,863,151,807,163,755,184,730,201,707,223,672,269"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1pointer__iterator.html" title=" " alt="" coords="974,198,1146,253"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="704,270,753,252,810,240,867,232,976,226,971,227,868,237,811,245,755,258,706,275"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1pointer__iterator.html" title=" " alt="" coords="964,280,1156,321"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="746,298,966,300,961,301,746,303"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1pointer__iterator.html" title=" " alt="" coords="984,346,1136,401"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="701,325,755,346,814,359,874,367,986,375,981,375,874,372,813,364,753,352,700,331"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1pointer__iterator.html" title=" " alt="" coords="974,426,1146,481"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="671,332,707,379,730,401,755,419,809,440,865,452,922,458,976,461,971,461,921,463,865,458,807,445,753,423,726,405,703,383,669,337"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1pointer__iterator.html" title=" " alt="" coords="988,505,1132,546"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="662,333,675,372,694,414,721,454,756,487,782,502,811,514,873,528,934,533,986,534,991,534,933,538,872,534,810,519,780,507,752,491,717,457,690,416,670,374,659,338"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="276,265,521,336"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="537,298,573,300,568,301,538,303"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,265,227,336"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,298,278,299,273,301,243,303"/>
+</map>

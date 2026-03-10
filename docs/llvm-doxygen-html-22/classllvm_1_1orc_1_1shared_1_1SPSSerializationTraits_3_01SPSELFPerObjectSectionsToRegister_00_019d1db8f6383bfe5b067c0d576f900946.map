@@ -1,0 +1,5 @@
+<map id="llvm::orc::shared::SPSSerializationTraits&lt; SPSELFPerObjectSectionsToRegister, ELFPerObjectSectionsToRegister &gt;" name="llvm::orc::shared::SPSSerializationTraits&lt; SPSELFPerObjectSectionsToRegister, ELFPerObjectSectionsToRegister &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,173,265,243"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1shared_1_1SPSSerializationTraits.html" title="Specialize to describe how to serialize/deserialize to/from the given concrete type." alt="" coords="44,5,226,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,75,138,173,132,172,133,78"/>
+</map>

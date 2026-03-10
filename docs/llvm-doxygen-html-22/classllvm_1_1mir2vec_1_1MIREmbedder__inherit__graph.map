@@ -1,0 +1,5 @@
+<map id="llvm::mir2vec::MIREmbedder" name="llvm::mir2vec::MIREmbedder">
+<area shape="rect" id="Node000001" title="Base class for MIR embedders." alt="" coords="32,5,224,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1mir2vec_1_1SymbolicMIREmbedder.html" title="Class for computing Symbolic embeddings Symbolic embeddings are constructed based on the entity&#45;level..." alt="" coords="5,79,251,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,45,130,80,126,77,126,48"/>
+</map>

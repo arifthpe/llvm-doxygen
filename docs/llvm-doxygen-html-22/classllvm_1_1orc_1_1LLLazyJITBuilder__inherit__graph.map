@@ -1,0 +1,17 @@
+<map id="llvm::orc::LLLazyJITBuilder" name="llvm::orc::LLLazyJITBuilder">
+<area shape="rect" id="Node000001" title="Constructs LLLazyJIT instances." alt="" coords="1183,50,1363,76"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1LLLazyJITBuilderState.html" title=" " alt="" coords="920,5,1100,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1116,38,1185,50,1180,50,1116,43"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1LLJITBuilderState.html" title=" " alt="" coords="454,13,638,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="653,23,922,25,917,26,653,28"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1LLLazyJITBuilderSetters.html" title=" " alt="" coords="887,70,1133,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1149,77,1180,75,1185,75,1149,82"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1orc_1_1LLJITBuilderSetters.html" title=" " alt="" coords="444,64,648,120"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="663,91,889,96,884,97,664,96"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1orc_1_1LLJITBuilderSetters.html" title=" " alt="" coords="5,72,205,113"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="220,90,445,90,442,94,221,95"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1orc_1_1LLLazyJITBuilderSetters.html" title=" " alt="" coords="449,144,643,200"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="658,166,758,158,862,142,930,126,935,126,864,148,759,163,659,172"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1orc_1_1LLJITBuilderSetters.html" title=" " alt="" coords="5,152,205,193"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="220,170,450,170,447,175,221,175"/>
+</map>

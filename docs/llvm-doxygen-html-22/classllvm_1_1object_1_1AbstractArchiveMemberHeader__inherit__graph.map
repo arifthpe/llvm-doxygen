@@ -1,0 +1,15 @@
+<map id="llvm::object::AbstractArchiveMemberHeader" name="llvm::object::AbstractArchiveMemberHeader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,195,87"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1object_1_1CommonArchiveMemberHeader.html" title=" " alt="" coords="635,5,888,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,40,244,32,346,18,427,11,508,9,611,12,637,16,632,16,611,18,508,15,427,16,347,23,244,38,202,45"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1object_1_1CommonArchiveMemberHeader.html" title=" " alt="" coords="639,87,884,127"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,88,244,96,348,107,453,111,642,113,636,113,453,117,347,112,244,102,198,94"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1object_1_1CommonArchiveMemberHeader.html" title=" " alt="" coords="244,47,437,87"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="210,64,246,67,241,67,210,70"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1object_1_1ArchiveMemberHeader.html" title=" " alt="" coords="937,5,1124,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="903,23,939,26,934,26,904,28"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1object_1_1BigArchiveMemberHeader.html" title=" " alt="" coords="951,87,1110,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="899,104,953,107,948,107,899,110"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="453,53,638,38,632,38,453,59"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="453,87,462,89,552,97,641,105,636,105,551,103,461,94,452,93"/>
+</map>

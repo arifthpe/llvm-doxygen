@@ -1,0 +1,9 @@
+<map id="llvm::orc::shared::detail::ResultSerializer&lt; SPSRetTagT, RetT &gt;" name="llvm::orc::shared::detail::ResultSerializer&lt; SPSRetTagT, RetT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,163,141"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1shared_1_1detail_1_1ResultSerializer_3_01SPSRetTagT_00_01Error_01_4.html" title=" " alt="" coords="434,5,590,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,85,186,83,317,58,436,42,431,44,317,63,187,88,179,90"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1shared_1_1detail_1_1ResultSerializer_3_01SPSRetTagT_00_01ErrorSuccess_01_4.html" title=" " alt="" coords="409,85,616,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,111,410,111,407,115,178,116"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1shared_1_1detail_1_1ResultSerializer_3_01SPSRetTagT_00_01Expected_3_01T_01_4_01_4.html" title=" " alt="" coords="405,165,620,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,145,187,159,242,172,298,181,407,192,401,192,298,186,241,177,186,164,149,151"/>
+</map>

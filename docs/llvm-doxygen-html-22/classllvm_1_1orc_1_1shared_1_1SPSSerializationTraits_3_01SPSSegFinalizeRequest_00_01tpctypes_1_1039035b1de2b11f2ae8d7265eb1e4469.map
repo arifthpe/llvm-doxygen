@@ -1,0 +1,5 @@
+<map id="llvm::orc::shared::SPSSerializationTraits&lt; SPSSegFinalizeRequest, tpctypes::SegFinalizeRequest &gt;" name="llvm::orc::shared::SPSSerializationTraits&lt; SPSSegFinalizeRequest, tpctypes::SegFinalizeRequest &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,218,223"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1shared_1_1SPSSerializationTraits.html" title="Specialize to describe how to serialize/deserialize to/from the given concrete type." alt="" coords="21,5,202,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,75,114,153,109,151,110,79"/>
+</map>

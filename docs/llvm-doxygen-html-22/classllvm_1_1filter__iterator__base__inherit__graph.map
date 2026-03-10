@@ -1,0 +1,32 @@
+<map id="llvm::filter_iterator_base&lt; WrappedIteratorT, PredicateT, IterTag &gt;" name="llvm::filter_iterator_base&lt; WrappedIteratorT, PredicateT, IterTag &gt;">
+<area shape="rect" id="Node000001" title="An iterator adaptor that filters the elements of given inner iterators." alt="" coords="1082,266,1252,321"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1filter__iterator__impl.html" title=" " alt="" coords="2148,193,2375,264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1213,254,1243,236,1275,222,1368,196,1447,182,1519,177,1586,177,1726,188,1809,192,1905,192,2015,187,2063,187,2124,192,2150,198,2145,198,2124,197,2063,192,2015,192,1905,197,1809,197,1726,193,1586,183,1519,182,1448,187,1369,201,1277,227,1245,241,1215,259"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1filter__iterator__base.html" title=" " alt="" coords="1465,258,1636,329"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1268,291,1467,293,1462,294,1268,296"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1filter__iterator__base.html" title=" " alt="" coords="1692,396,1881,466"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1242,325,1344,366,1401,386,1459,401,1518,412,1579,420,1694,430,1688,430,1579,425,1518,418,1458,406,1400,391,1342,371,1241,331"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="803,228,1033,359"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1048,291,1084,293,1079,294,1049,296"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="288,185,509,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="525,213,649,218,715,225,780,236,806,245,800,245,779,241,715,230,649,223,525,219"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="276,330,521,401"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="537,377,656,378,718,372,779,361,800,357,805,356,780,366,719,377,656,383,537,383"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,330,227,401"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="242,363,278,365,273,366,243,368"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1filter__iterator__impl.html" title=" " alt="" coords="2597,5,2883,91"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="2308,180,2350,146,2398,116,2446,97,2497,81,2594,63,2600,62,2498,86,2448,102,2401,121,2353,150,2310,184"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1filter__iterator__impl.html" title=" " alt="" coords="2617,115,2863,216"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="2391,209,2614,182,2619,181,2391,214"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1filter__iterator__impl.html" title=" " alt="" coords="2615,240,2865,341"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="2362,266,2400,276,2509,290,2617,296,2612,296,2509,295,2399,281,2362,271"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1filter__iterator__impl.html" title=" " alt="" coords="2635,366,2845,466"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="2307,272,2351,309,2401,341,2458,365,2519,383,2637,407,2632,407,2518,388,2457,370,2398,346,2348,314,2305,277"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1filter__iterator__impl.html" title="Specialization of filter_iterator_base for forward iteration only." alt="" coords="1703,266,1870,321"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1651,291,1706,293,1700,294,1651,296"/>
+<area shape="poly" id="edge12_Node000012_Node000006" title=" " alt="" coords="1885,295,2000,292,2062,286,2123,276,2173,265,2179,264,2125,281,2063,291,2000,297,1885,300"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1filter__iterator__impl_3_01WrappedIteratorT_00_01PredicateT_00_01std_1_1bidirectional__iterator__tag_01_4.html" title="Specialization of filter_iterator_base for bidirectional iteration." alt="" coords="2167,396,2356,466"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1838,328,1871,348,1906,364,1965,382,2013,389,2062,393,2124,402,2169,412,2164,412,2124,407,2061,398,2012,394,1964,387,1904,369,1869,352,1837,333"/>
+<area shape="poly" id="edge15_Node000014_Node000013" title=" " alt="" coords="1896,436,2169,438,2164,438,1897,441"/>
+<area shape="poly" id="edge16_Node000014_Node000013" title=" " alt="" coords="1896,420,2169,423,2164,424,1897,426"/>
+</map>

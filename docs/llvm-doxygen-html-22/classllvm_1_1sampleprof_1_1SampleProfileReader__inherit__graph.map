@@ -1,0 +1,15 @@
+<map id="llvm::sampleprof::SampleProfileReader" name="llvm::sampleprof::SampleProfileReader">
+<area shape="rect" id="Node000001" title="Sample&#45;based profile reader." alt="" coords="5,103,175,143"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sampleprof_1_1SampleProfileReaderBinary.html" title=" " alt="" coords="223,37,392,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,95,239,77,235,80,175,100"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sampleprof_1_1SampleProfileReaderGCC.html" title=" " alt="" coords="223,103,392,143"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="190,120,225,122,220,124,190,126"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1sampleprof_1_1SampleProfileReaderText.html" title=" " alt="" coords="223,168,392,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="174,146,240,167,234,168,174,151"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sampleprof_1_1SampleProfileReaderExtBinaryBase.html" title="SampleProfileReaderExtBinaryBase/SampleProfileWriterExtBinaryBase defines the basic structure of the ..." alt="" coords="440,5,627,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="407,41,442,38,437,40,408,46"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sampleprof_1_1SampleProfileReaderRawBinary.html" title=" " alt="" coords="449,71,618,111"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="407,70,451,78,446,79,408,75"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sampleprof_1_1SampleProfileReaderExtBinary.html" title=" " alt="" coords="675,5,845,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="643,23,678,25,672,26,643,28"/>
+</map>
