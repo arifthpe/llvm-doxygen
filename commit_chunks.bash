@@ -3,7 +3,7 @@
 # Commit and push a bunch of changes in chunks of some number of files, to avoid
 # commit/push size limits.
 
-set -e
+set -ex
 
 if [ -z "$1" ]; then
   echo "Usage: $0 <commit message> [chunk size]"
