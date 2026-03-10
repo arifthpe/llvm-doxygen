@@ -1,0 +1,22 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1SmallVectorBase.html" title=" " alt="" coords="5,63,164,119"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1SmallVectorTemplateCommon.html" title=" " alt="" coords="212,71,394,111"/>
+<area shape="poly" id="edge9325_Node000000_Node000001" title=" " alt="" coords="179,88,213,90,209,92,180,94"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SmallVectorTemplateBase.html" title=" " alt="" coords="442,71,619,111"/>
+<area shape="poly" id="edge9326_Node000001_Node000002" title=" " alt="" coords="409,88,444,90,439,92,410,94"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="677,71,827,111"/>
+<area shape="poly" id="edge9327_Node000002_Node000003" title=" " alt="" coords="635,88,679,91,674,91,635,94"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="888,136,1024,177"/>
+<area shape="poly" id="edge9328_Node000003_Node000004" title=" " alt="" coords="832,114,893,136,888,135,832,119"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="887,201,1026,242"/>
+<area shape="poly" id="edge9329_Node000003_Node000006" title=" " alt="" coords="830,117,838,122,854,139,863,155,872,170,886,186,906,201,901,200,883,190,867,173,859,157,850,142,835,126,829,122"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="885,5,1028,46"/>
+<area shape="poly" id="edge9330_Node000003_Node000007" title=" " alt="" coords="831,63,888,47,893,46,833,68"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="888,71,1024,111"/>
+<area shape="poly" id="edge9331_Node000003_Node000008" title=" " alt="" coords="842,88,890,91,885,91,843,94"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="667,136,837,177"/>
+<area shape="poly" id="edge9332_Node000005_Node000004" title=" " alt="" coords="852,154,890,156,885,156,852,159"/>
+<area shape="poly" id="edge9333_Node000005_Node000006" title=" " alt="" coords="833,179,893,201,888,200,832,185"/>
+<area shape="poly" id="edge9334_Node000005_Node000007" title=" " alt="" coords="828,126,835,121,850,105,859,90,867,74,883,57,901,48,906,46,886,61,872,77,863,93,854,109,838,125,830,131"/>
+<area shape="poly" id="edge9335_Node000005_Node000008" title=" " alt="" coords="832,128,888,113,893,111,833,133"/>
+</map>

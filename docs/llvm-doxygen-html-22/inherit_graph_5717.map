@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1ScaledNumberBase.html" title=" " alt="" coords="5,46,175,72"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1ScaledNumber.html" title=" " alt="" coords="223,5,362,46"/>
+<area shape="poly" id="edge6387_Node000000_Node000001" title=" " alt="" coords="186,40,225,36,220,38,188,46"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ScaledNumber.html" title="Simple representation of a scaled number." alt="" coords="223,71,362,111"/>
+<area shape="poly" id="edge6388_Node000000_Node000002" title=" " alt="" coords="190,72,225,80,220,80,190,77"/>
+</map>

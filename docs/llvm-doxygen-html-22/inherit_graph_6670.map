@@ -1,0 +1,67 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1TargetFrameLowering.html" title="Information about stack frame layout on the target." alt="" coords="5,597,184,623"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1AArch64FrameLowering.html" title=" " alt="" coords="249,5,441,31"/>
+<area shape="poly" id="edge10493_Node000000_Node000001" title=" " alt="" coords="96,582,110,464,137,302,155,219,176,144,201,82,215,58,230,40,250,28,247,32,233,44,219,61,206,84,182,145,160,220,142,303,116,465,101,582"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AMDGPUFrameLowering.html" title="Information about the stack frame layout on the AMDGPU targets." alt="" coords="244,55,446,80"/>
+<area shape="poly" id="edge10494_Node000000_Node000002" title=" " alt="" coords="97,582,113,473,140,326,159,251,180,183,203,127,230,90,247,79,245,83,234,93,208,130,185,185,164,252,146,327,118,474,102,582"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ARCFrameLowering.html" title=" " alt="" coords="259,104,430,130"/>
+<area shape="poly" id="edge10497_Node000000_Node000005" title=" " alt="" coords="92,582,95,496,100,438,111,376,128,311,153,248,186,190,230,139,260,122,257,127,233,143,190,193,158,251,133,313,116,377,106,439,100,496,97,582"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ARMFrameLowering.html" title=" " alt="" coords="259,153,431,179"/>
+<area shape="poly" id="edge10498_Node000000_Node000006" title=" " alt="" coords="93,581,99,503,106,452,118,396,135,340,159,284,190,233,230,188,260,172,257,177,233,192,194,236,163,287,140,341,123,398,111,453,104,503,99,582"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1AVRFrameLowering.html" title="Utilities for creating function call frames." alt="" coords="261,203,429,228"/>
+<area shape="poly" id="edge10500_Node000000_Node000008" title=" " alt="" coords="95,581,103,511,124,418,142,369,165,320,194,276,230,237,262,221,259,226,233,242,198,279,169,323,147,371,130,419,108,512,100,582"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1BPFFrameLowering.html" title=" " alt="" coords="261,252,429,278"/>
+<area shape="poly" id="edge10501_Node000000_Node000009" title=" " alt="" coords="96,582,108,520,131,440,149,398,171,357,197,319,230,287,262,271,259,275,233,291,202,323,175,360,153,400,136,442,113,521,102,582"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1CSKYFrameLowering.html" title=" " alt="" coords="255,301,434,327"/>
+<area shape="poly" id="edge10502_Node000000_Node000010" title=" " alt="" coords="99,582,113,529,138,462,177,394,201,363,230,336,256,323,253,327,233,340,205,366,181,397,143,464,118,530,104,583"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1DirectXFrameLowering.html" title=" " alt="" coords="252,351,438,376"/>
+<area shape="poly" id="edge10503_Node000000_Node000011" title=" " alt="" coords="102,582,119,538,146,485,182,431,205,406,230,385,253,375,250,379,233,390,209,410,187,434,150,487,124,540,107,584"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1HexagonFrameLowering.html" title=" " alt="" coords="248,400,442,426"/>
+<area shape="poly" id="edge10504_Node000000_Node000012" title=" " alt="" coords="107,582,127,548,154,507,189,468,230,435,255,424,252,428,233,439,193,472,158,511,131,550,112,584"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1LanaiFrameLowering.html" title=" " alt="" coords="258,449,432,475"/>
+<area shape="poly" id="edge10505_Node000000_Node000013" title=" " alt="" coords="114,584,163,532,195,506,230,484,260,474,256,477,233,489,198,510,167,536,118,586"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1LoongArchFrameLowering.html" title=" " alt="" coords="243,499,447,524"/>
+<area shape="poly" id="edge10506_Node000000_Node000014" title=" " alt="" coords="126,587,175,559,231,533,268,523,264,527,233,538,177,563,130,590"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1M68kFrameLowering.html" title=" " alt="" coords="258,548,432,574"/>
+<area shape="poly" id="edge10507_Node000000_Node000015" title=" " alt="" coords="177,592,278,572,274,576,180,596"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1MSP430FrameLowering.html" title=" " alt="" coords="249,597,441,623"/>
+<area shape="poly" id="edge10508_Node000000_Node000016" title=" " alt="" coords="198,608,250,609,246,612,201,612"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1MipsFrameLowering.html" title=" " alt="" coords="260,647,430,672"/>
+<area shape="poly" id="edge10509_Node000000_Node000017" title=" " alt="" coords="177,624,278,644,274,648,179,629"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1NVPTXFrameLowering.html" title=" " alt="" coords="251,696,438,722"/>
+<area shape="poly" id="edge10512_Node000000_Node000020" title=" " alt="" coords="128,629,177,657,233,682,269,694,264,697,231,687,175,662,129,634"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1PPCFrameLowering.html" title=" " alt="" coords="260,745,430,771"/>
+<area shape="poly" id="edge10513_Node000000_Node000021" title=" " alt="" coords="115,633,167,684,198,710,233,732,262,744,257,746,230,737,195,715,163,688,116,638"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1RISCVFrameLowering.html" title=" " alt="" coords="253,795,437,820"/>
+<area shape="poly" id="edge10514_Node000000_Node000022" title=" " alt="" coords="109,635,131,670,158,710,193,749,233,781,256,793,251,795,230,786,189,753,154,713,127,673,110,640"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1SPIRVFrameLowering.html" title=" " alt="" coords="253,844,436,870"/>
+<area shape="poly" id="edge10515_Node000000_Node000023" title=" " alt="" coords="104,635,124,680,150,733,187,786,209,810,233,831,255,843,250,845,230,835,205,814,182,790,146,736,119,682,105,640"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1SparcFrameLowering.html" title=" " alt="" coords="257,893,433,919"/>
+<area shape="poly" id="edge10516_Node000000_Node000024" title=" " alt="" coords="101,636,118,690,143,756,181,824,205,854,233,880,259,895,254,896,230,884,201,858,177,827,138,759,113,692,101,641"/>
+<area shape="rect" id="Node000025" href="$classllvm_1_1SystemZFrameLowering.html" title=" " alt="" coords="247,943,442,968"/>
+<area shape="poly" id="edge10517_Node000000_Node000025" title=" " alt="" coords="99,636,113,699,136,779,153,820,175,861,202,898,233,929,251,942,246,943,230,934,197,901,171,863,149,823,131,780,108,700,99,641"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1VEFrameLowering.html" title=" " alt="" coords="265,992,425,1018"/>
+<area shape="poly" id="edge10520_Node000000_Node000028" title=" " alt="" coords="97,636,108,708,130,801,147,850,169,897,198,941,233,979,248,989,267,998,262,999,246,994,230,983,194,944,165,900,142,852,124,802,103,709,97,641"/>
+<area shape="rect" id="Node000029" href="$classllvm_1_1WebAssemblyFrameLowering.html" title=" " alt="" coords="232,1041,458,1067"/>
+<area shape="poly" id="edge10521_Node000000_Node000029" title=" " alt="" coords="96,636,104,717,111,768,123,823,140,879,163,934,194,984,233,1028,249,1041,244,1041,230,1032,190,988,159,936,135,881,118,824,106,769,99,718,96,642"/>
+<area shape="rect" id="Node000030" href="$classllvm_1_1X86FrameLowering.html" title=" " alt="" coords="262,1091,428,1116"/>
+<area shape="poly" id="edge10522_Node000000_Node000030" title=" " alt="" coords="95,636,100,724,106,781,116,843,133,907,158,970,190,1027,233,1077,265,1097,259,1097,230,1082,186,1031,153,972,128,909,111,845,100,782,95,725,95,641"/>
+<area shape="rect" id="Node000031" href="$classllvm_1_1XCoreFrameLowering.html" title=" " alt="" coords="255,1140,434,1166"/>
+<area shape="poly" id="edge10523_Node000000_Node000031" title=" " alt="" coords="100,636,118,746,146,894,164,968,185,1036,208,1090,234,1127,257,1144,252,1143,230,1131,203,1093,180,1038,159,970,140,895,113,747,99,641"/>
+<area shape="rect" id="Node000032" href="$classllvm_1_1XtensaFrameLowering.html" title=" " alt="" coords="253,1189,436,1215"/>
+<area shape="poly" id="edge10524_Node000000_Node000032" title=" " alt="" coords="99,636,116,755,142,918,160,1000,182,1075,206,1136,219,1159,233,1176,255,1193,250,1192,230,1180,215,1162,201,1138,176,1077,155,1001,137,919,110,756,98,641"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1R600FrameLowering.html" title=" " alt="" coords="529,31,702,56"/>
+<area shape="poly" id="edge10495_Node000002_Node000003" title=" " alt="" coords="459,55,531,50,526,53,462,59"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SIFrameLowering.html" title=" " alt="" coords="538,80,693,106"/>
+<area shape="poly" id="edge10496_Node000002_Node000004" title=" " alt="" coords="460,76,540,84,535,87,462,81"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1Thumb1FrameLowering.html" title=" " alt="" coords="521,153,710,179"/>
+<area shape="poly" id="edge10499_Node000006_Node000007" title=" " alt="" coords="445,164,523,165,518,168,448,168"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1Mips16FrameLowering.html" title=" " alt="" coords="524,623,708,648"/>
+<area shape="poly" id="edge10510_Node000017_Node000018" title=" " alt="" coords="445,648,525,642,521,645,447,653"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1MipsSEFrameLowering.html" title=" " alt="" coords="522,672,710,698"/>
+<area shape="poly" id="edge10511_Node000017_Node000019" title=" " alt="" coords="445,666,523,675,519,677,447,671"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1SystemZELFFrameLowering.html" title=" " alt="" coords="506,915,725,940"/>
+<area shape="poly" id="edge10518_Node000025_Node000026" title=" " alt="" coords="457,941,508,938,503,940,459,946"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1SystemZXPLINKFrameLowering.html" title=" " alt="" coords="520,964,711,1005"/>
+<area shape="poly" id="edge10519_Node000025_Node000027" title=" " alt="" coords="457,965,522,974,517,975,458,970"/>
+</map>

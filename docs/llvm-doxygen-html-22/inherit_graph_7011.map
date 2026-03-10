@@ -1,0 +1,41 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1WasmYAML_1_1Section.html" title=" " alt="" coords="5,404,182,430"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1WasmYAML_1_1CodeSection.html" title=" " alt="" coords="238,55,445,80"/>
+<area shape="poly" id="edge10702_Node000000_Node000001" title=" " alt="" coords="95,388,106,326,129,245,146,202,168,161,195,122,228,89,248,79,244,83,231,94,199,126,173,163,151,204,134,246,111,327,100,389"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1WasmYAML_1_1CustomSection.html" title=" " alt="" coords="230,104,452,130"/>
+<area shape="poly" id="edge10703_Node000000_Node000002" title=" " alt="" coords="98,388,112,335,137,267,175,198,199,167,228,140,251,128,248,132,231,144,203,171,179,201,142,270,117,336,103,389"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1WasmYAML_1_1DataCountSection.html" title=" " alt="" coords="244,154,439,194"/>
+<area shape="poly" id="edge10709_Node000000_Node000008" title=" " alt="" coords="102,389,120,348,147,298,183,247,228,204,250,193,247,197,231,208,187,251,152,301,125,350,107,391"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1WasmYAML_1_1DataSection.html" title=" " alt="" coords="239,219,444,244"/>
+<area shape="poly" id="edge10710_Node000000_Node000009" title=" " alt="" coords="107,389,155,320,189,284,228,253,254,243,251,247,231,258,192,288,159,323,112,391"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1WasmYAML_1_1ElemSection.html" title=" " alt="" coords="238,268,444,294"/>
+<area shape="poly" id="edge10711_Node000000_Node000010" title=" " alt="" coords="115,391,164,345,195,322,229,302,259,292,255,296,231,307,198,326,168,349,119,394"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1WasmYAML_1_1ExportSection.html" title=" " alt="" coords="234,317,448,343"/>
+<area shape="poly" id="edge10712_Node000000_Node000011" title=" " alt="" coords="132,395,178,373,229,353,274,342,270,345,231,358,180,378,136,399"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1WasmYAML_1_1FunctionSection.html" title=" " alt="" coords="250,367,432,408"/>
+<area shape="poly" id="edge10713_Node000000_Node000012" title=" " alt="" coords="196,402,252,397,248,400,199,407"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1WasmYAML_1_1GlobalSection.html" title=" " alt="" coords="235,432,448,458"/>
+<area shape="poly" id="edge10714_Node000000_Node000013" title=" " alt="" coords="196,426,236,431,232,434,198,431"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1WasmYAML_1_1ImportSection.html" title=" " alt="" coords="235,481,448,507"/>
+<area shape="poly" id="edge10715_Node000000_Node000014" title=" " alt="" coords="138,433,230,468,273,480,268,482,229,473,139,439"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1WasmYAML_1_1MemorySection.html" title=" " alt="" coords="230,531,453,556"/>
+<area shape="poly" id="edge10716_Node000000_Node000015" title=" " alt="" coords="119,438,169,479,199,500,231,517,261,529,256,531,229,522,196,504,166,484,119,443"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1WasmYAML_1_1StartSection.html" title=" " alt="" coords="239,580,444,606"/>
+<area shape="poly" id="edge10717_Node000000_Node000016" title=" " alt="" coords="110,440,160,505,193,539,231,567,256,579,250,580,228,571,190,543,156,509,110,445"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1WasmYAML_1_1TableSection.html" title=" " alt="" coords="238,629,445,655"/>
+<area shape="poly" id="edge10718_Node000000_Node000017" title=" " alt="" coords="105,442,126,483,152,530,188,577,231,616,252,629,247,629,228,620,184,581,148,533,121,485,105,447"/>
+<area shape="rect" id="Node000018" href="$structllvm_1_1WasmYAML_1_1TagSection.html" title=" " alt="" coords="243,679,440,704"/>
+<area shape="poly" id="edge10719_Node000000_Node000018" title=" " alt="" coords="102,442,119,493,145,553,182,614,205,642,231,665,251,678,245,678,228,670,201,646,177,618,140,556,114,495,101,448"/>
+<area shape="rect" id="Node000019" href="$structllvm_1_1WasmYAML_1_1TypeSection.html" title=" " alt="" coords="239,728,444,754"/>
+<area shape="poly" id="edge10720_Node000000_Node000019" title=" " alt="" coords="99,443,114,502,138,576,155,614,176,651,201,685,231,715,249,728,244,727,228,719,197,689,171,654,150,617,133,578,109,504,98,448"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1WasmYAML_1_1DylinkSection.html" title=" " alt="" coords="504,5,717,31"/>
+<area shape="poly" id="edge10704_Node000002_Node000003" title=" " alt="" coords="441,96,452,91,466,79,475,66,484,53,500,40,527,30,523,33,502,44,488,56,479,69,470,82,454,95,445,100"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1WasmYAML_1_1LinkingSection.html" title=" " alt="" coords="502,55,719,80"/>
+<area shape="poly" id="edge10705_Node000002_Node000004" title=" " alt="" coords="429,98,539,79,534,83,432,103"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1WasmYAML_1_1NameSection.html" title=" " alt="" coords="505,104,716,130"/>
+<area shape="poly" id="edge10706_Node000002_Node000005" title=" " alt="" coords="467,114,507,116,502,118,469,119"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1WasmYAML_1_1ProducersSection.html" title=" " alt="" coords="515,154,706,194"/>
+<area shape="poly" id="edge10707_Node000002_Node000006" title=" " alt="" coords="419,131,517,153,512,155,421,136"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1WasmYAML_1_1TargetFeaturesSection.html" title=" " alt="" coords="501,219,720,260"/>
+<area shape="poly" id="edge10708_Node000002_Node000007" title=" " alt="" coords="442,134,455,140,471,156,480,173,488,189,503,204,526,218,520,219,499,208,483,192,475,175,467,159,451,144,443,139"/>
+</map>

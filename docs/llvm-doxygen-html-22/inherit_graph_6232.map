@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1SmallVectorBase.html" title=" " alt="" coords="5,31,164,87"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1SmallVectorTemplateCommon.html" title=" " alt="" coords="212,39,389,79"/>
+<area shape="poly" id="edge9376_Node000000_Node000001" title=" " alt="" coords="179,56,214,58,209,60,180,62"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SmallVectorTemplateBase.html" title=" " alt="" coords="437,39,614,79"/>
+<area shape="poly" id="edge9377_Node000001_Node000002" title=" " alt="" coords="404,56,439,59,434,59,405,62"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="672,39,822,79"/>
+<area shape="poly" id="edge9378_Node000002_Node000003" title=" " alt="" coords="630,56,674,59,669,59,630,62"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="880,5,1012,46"/>
+<area shape="poly" id="edge9379_Node000003_Node000004" title=" " alt="" coords="836,41,877,37,882,36,837,47"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="880,71,1012,111"/>
+<area shape="poly" id="edge9380_Node000003_Node000006" title=" " alt="" coords="837,71,882,80,877,80,837,76"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="880,136,1012,177"/>
+<area shape="poly" id="edge9381_Node000003_Node000007" title=" " alt="" coords="819,84,833,90,881,121,905,136,900,135,878,125,830,95,819,89"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="662,104,832,145"/>
+<area shape="poly" id="edge9382_Node000005_Node000004" title=" " alt="" coords="818,95,830,89,878,57,900,47,905,46,881,61,833,93,820,100"/>
+<area shape="poly" id="edge9383_Node000005_Node000006" title=" " alt="" coords="847,105,877,102,882,102,847,110"/>
+<area shape="poly" id="edge9384_Node000005_Node000007" title=" " alt="" coords="847,138,882,146,877,146,847,143"/>
+</map>

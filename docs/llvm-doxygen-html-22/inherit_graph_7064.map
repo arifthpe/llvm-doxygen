@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1XCOFFYAML_1_1AuxSymbolEnt.html" title=" " alt="" coords="5,169,233,195"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1XCOFFYAML_1_1BlockAuxEnt.html" title=" " alt="" coords="282,5,498,31"/>
+<area shape="poly" id="edge10725_Node000000_Node000001" title=" " alt="" coords="139,156,198,97,237,66,279,40,310,30,305,33,282,45,240,70,202,101,143,159"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1XCOFFYAML_1_1CsectAuxEnt.html" title=" " alt="" coords="281,55,499,80"/>
+<area shape="poly" id="edge10726_Node000000_Node000002" title=" " alt="" coords="151,158,210,124,280,90,321,79,316,82,282,95,212,128,155,163"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1XCOFFYAML_1_1ExcpetionAuxEnt.html" title=" " alt="" coords="291,104,489,145"/>
+<area shape="poly" id="edge10727_Node000000_Node000003" title=" " alt="" coords="197,163,292,144,288,147,199,168"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1XCOFFYAML_1_1FileAuxEnt.html" title=" " alt="" coords="288,169,492,195"/>
+<area shape="poly" id="edge10728_Node000000_Node000004" title=" " alt="" coords="248,180,290,181,285,183,249,185"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1XCOFFYAML_1_1FunctionAuxEnt.html" title=" " alt="" coords="295,219,485,260"/>
+<area shape="poly" id="edge10729_Node000000_Node000005" title=" " alt="" coords="198,196,297,218,292,221,198,201"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1XCOFFYAML_1_1SectAuxEntForDWARF.html" title=" " alt="" coords="295,284,485,325"/>
+<area shape="poly" id="edge10730_Node000000_Node000006" title=" " alt="" coords="154,201,213,235,282,269,316,284,311,284,280,274,211,240,154,206"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1XCOFFYAML_1_1SectAuxEntForStat.html" title=" " alt="" coords="295,350,485,390"/>
+<area shape="poly" id="edge10731_Node000000_Node000007" title=" " alt="" coords="141,205,200,270,239,305,282,335,309,350,304,349,279,339,236,309,197,274,139,210"/>
+</map>
