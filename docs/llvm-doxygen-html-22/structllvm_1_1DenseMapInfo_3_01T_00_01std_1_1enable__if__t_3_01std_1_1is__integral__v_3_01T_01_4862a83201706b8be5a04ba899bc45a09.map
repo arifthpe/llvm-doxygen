@@ -1,0 +1,5 @@
+<map id="llvm::DenseMapInfo&lt; T, std::enable_if_t&lt; std::is_integral_v&lt; T &gt; &amp;&amp;!std::is_same_v&lt; T, char &gt; &gt; &gt;" name="llvm::DenseMapInfo&lt; T, std::enable_if_t&lt; std::is_integral_v&lt; T &gt; &amp;&amp;!std::is_same_v&lt; T, char &gt; &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,178,174,264"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DenseMapInfo.html" title="An information struct used to provide DenseMap with the various necessary components for a given valu..." alt="" coords="20,5,159,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,60,92,178,87,177,87,63"/>
+</map>

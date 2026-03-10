@@ -1,0 +1,19 @@
+<map id="llvm::CastInfo&lt; VPPhiAccessors, VPRecipeBase * &gt;" name="llvm::CastInfo&lt; VPPhiAccessors, VPRecipeBase * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1472,84,1690,124"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="607,28,858,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="873,49,1140,60,1295,69,1448,83,1474,88,1469,88,1448,88,1294,75,1140,65,873,54"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1CastInfoVPPhiAccessors.html" title=" " alt="" coords="1036,84,1238,124"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="873,65,1038,90,1033,90,873,70"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="5,61,151,102"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="165,65,174,64,404,50,610,47,605,49,404,55,175,69,167,70"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="372,96,558,136"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="166,87,373,106,370,110,166,92"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1253,101,1474,104,1469,104,1253,107"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1CastInfoVPPhiAccessors.html" title="Support casting from VPRecipeBase &#45;&gt; VPPhiAccessors, by down&#45;casting to the recipe types implementing..." alt="" coords="631,96,834,136"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="849,118,1012,116,1038,117,1033,118,1012,122,850,124"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="573,113,634,116,628,116,574,119"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1CastInfo.html" title="This struct provides a method for customizing the way a cast is performed." alt="" coords="1070,154,1204,195"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="1219,173,1328,167,1388,161,1447,150,1491,138,1531,126,1536,125,1493,143,1449,155,1389,166,1328,173,1219,178"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="660,161,805,202"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="821,177,1072,176,1067,176,821,183"/>
+</map>

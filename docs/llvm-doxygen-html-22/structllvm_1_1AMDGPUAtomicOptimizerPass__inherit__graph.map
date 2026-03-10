@@ -1,0 +1,7 @@
+<map id="llvm::AMDGPUAtomicOptimizerPass" name="llvm::AMDGPUAtomicOptimizerPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,207,245,233"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="10,117,240,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,171,127,208,123,205,123,175"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="57,5,193,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,59,128,117,122,116,124,64"/>
+</map>

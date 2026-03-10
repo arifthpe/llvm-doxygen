@@ -1,0 +1,21 @@
+<map id="llvm::AADenormalFPMath" name="llvm::AADenormalFPMath">
+<area shape="rect" id="Node000001" title="An abstract Attribute for specializing &quot;dynamic&quot; components of &quot;denormal&#45;fp&#45;math&quot; and &quot;denormal&#45;fp&#45;ma..." alt="" coords="827,100,1000,126"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1StateWrapper.html" title=" " alt="" coords="607,85,778,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="793,110,829,113,824,113,794,115"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1AbstractAttribute.html" title="Base struct for all &quot;concrete attribute&quot; deductions." alt="" coords="234,55,385,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,73,584,93,610,99,604,99,583,98,400,78"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1IRPosition.html" title="Helper to describe and deal with positions in the LLVM&#45;IR." alt="" coords="29,5,143,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="158,31,250,53,246,55,159,37"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AADepGraphNode.html" title="}" alt="" coords="5,55,167,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="181,65,236,66,231,69,183,70"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1DenormalFPMathState.html" title=" " alt="" coords="216,104,402,130"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="418,113,610,113,604,114,418,118"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute." alt="" coords="19,104,153,130"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="167,114,218,116,213,118,169,119"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1StateWrapper.html" title="Helper to tie a abstract state implementation to an abstract attribute." alt="" coords="221,156,397,197"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="413,179,496,175,583,162,640,142,645,141,584,167,497,181,413,184"/>
+<area shape="rect" id="Node000009" href="$classBaseType.html" title=" " alt="" coords="46,157,126,183"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="141,169,223,173,218,175,142,174"/>
+<area shape="rect" id="Node000010" href="$classStateTy.html" title=" " alt="" coords="53,207,119,232"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="134,208,218,194,223,193,135,213"/>
+</map>

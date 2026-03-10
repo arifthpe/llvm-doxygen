@@ -1,0 +1,7 @@
+<map id="llvm::DropUnnecessaryAssumesPass" name="llvm::DropUnnecessaryAssumesPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,227,249,253"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="9,137,245,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,191,129,228,125,226,125,195"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="59,5,195,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,60,130,137,124,136,125,64"/>
+</map>

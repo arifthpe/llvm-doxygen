@@ -1,0 +1,8 @@
+<map id="llvm::GraphTraits&lt; const DataDependenceGraph * &gt;" name="llvm::GraphTraits&lt; const DataDependenceGraph * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,207,243,248"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1GraphTraits_3_01const_01DDGNode_01_5_01_4.html" title="const versions of the grapth trait specializations for DDG" alt="" coords="286,117,430,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,163,185,209,183,204,291,164"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="5,5,135,46"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="60,59,55,108,57,133,63,157,82,183,106,206,101,207,77,187,59,159,52,134,50,108,59,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,49,309,115,304,118,135,54"/>
+</map>

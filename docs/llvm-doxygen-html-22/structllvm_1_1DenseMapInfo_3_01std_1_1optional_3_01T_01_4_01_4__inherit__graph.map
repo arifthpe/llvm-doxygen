@@ -1,0 +1,5 @@
+<map id="llvm::DenseMapInfo&lt; std::optional&lt; T &gt; &gt;" name="llvm::DenseMapInfo&lt; std::optional&lt; T &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,154,158"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DenseMapInfo.html" title="An information struct used to provide DenseMap with the various necessary components for a given valu..." alt="" coords="10,5,149,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,60,82,117,77,116,77,63"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="PreservedCFGCheckerAnalysis" name="PreservedCFGCheckerAnalysis">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1186,49,1393,74"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="905,41,1136,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1152,59,1188,62,1183,62,1152,64"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="408,8,639,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="655,34,907,54,902,54,655,40"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,8,142,49"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="157,26,408,26,406,31,157,31"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="445,73,602,114"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="617,88,881,74,902,75,907,74,881,79,617,93"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,73,142,114"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="158,91,445,91,444,96,158,96"/>
+</map>
