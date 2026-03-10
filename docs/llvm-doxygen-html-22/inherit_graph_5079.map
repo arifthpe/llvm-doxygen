@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,23,197,64"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1X86FixupInstTuningPass.html" title="Return a pass that replaces equivalent slower instructions with faster ones." alt="" coords="263,5,462,31"/>
+<area shape="poly" id="edge5896_Node000000_Node000001" title=" " alt="" coords="212,30,265,27,260,28,213,35"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1X86FixupVectorConstantsPass.html" title="Return a pass that reduces the size of vector constant pool loads." alt="" coords="245,55,481,80"/>
+<area shape="poly" id="edge5897_Node000000_Node000002" title=" " alt="" coords="212,51,247,57,241,57,212,56"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1RefCountedBase.html" title=" " alt="" coords="5,63,159,103"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1vfs_1_1OutputBackend.html" title="Interface for virtualized outputs." alt="" coords="207,70,376,96"/>
+<area shape="poly" id="edge6105_Node000000_Node000001" title=" " alt="" coords="174,80,209,82,204,84,175,86"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1vfs_1_1HashingOutputBackend.html" title="An output backend that only generates the hash for outputs." alt="" coords="448,5,614,46"/>
+<area shape="poly" id="edge6106_Node000001_Node000002" title=" " alt="" coords="362,63,445,46,450,45,363,69"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1vfs_1_1OnDiskOutputBackend.html" title="An output backend that creates files on disk, wrapping APIs in sys::fs." alt="" coords="424,70,637,96"/>
+<area shape="poly" id="edge6107_Node000001_Node000003" title=" " alt="" coords="391,80,426,83,421,83,392,86"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1vfs_1_1ProxyOutputBackend.html" title="A helper class for proxying another backend, with the default implementation to forward to the underl..." alt="" coords="429,120,632,145"/>
+<area shape="poly" id="edge6108_Node000001_Node000004" title=" " alt="" coords="372,97,467,119,462,119,372,102"/>
+</map>

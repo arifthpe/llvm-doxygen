@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title=" " alt="" coords="5,96,202,137"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1pdb_1_1DIAEnumSymbols.html" title=" " alt="" coords="257,5,448,31"/>
+<area shape="poly" id="edge5936_Node000000_Node000001" title=" " alt="" coords="151,86,198,62,249,40,286,30,281,33,251,45,200,67,154,91"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1pdb_1_1NativeEnumGlobals.html" title=" " alt="" coords="253,55,452,80"/>
+<area shape="poly" id="edge5937_Node000000_Node000002" title=" " alt="" coords="216,92,286,80,282,82,218,97"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1pdb_1_1NativeEnumModules.html" title=" " alt="" coords="251,104,454,130"/>
+<area shape="poly" id="edge5938_Node000000_Node000003" title=" " alt="" coords="217,114,253,116,248,118,218,119"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1pdb_1_1NativeEnumSymbols.html" title=" " alt="" coords="250,153,455,179"/>
+<area shape="poly" id="edge5939_Node000000_Node000004" title=" " alt="" coords="217,137,287,152,281,153,217,142"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1pdb_1_1NativeEnumTypes.html" title=" " alt="" coords="258,203,447,228"/>
+<area shape="poly" id="edge5940_Node000000_Node000005" title=" " alt="" coords="153,143,200,167,251,189,286,202,281,202,249,194,198,172,152,148"/>
+</map>

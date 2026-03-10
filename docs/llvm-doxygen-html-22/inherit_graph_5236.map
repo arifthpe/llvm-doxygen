@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1PBQPRAConstraint.html" title="Abstract base for classes implementing PBQP register allocation constraints (e.g." alt="" coords="5,31,175,56"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1A57ChainingConstraint.html" title="Add the accumulator chaining constraint to a PBQP graph." alt="" coords="224,5,412,31"/>
+<area shape="poly" id="edge5920_Node000000_Node000001" title=" " alt="" coords="190,30,226,28,221,29,191,35"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1PBQPRAConstraintList.html" title="PBQP register allocation constraint composer." alt="" coords="223,55,413,80"/>
+<area shape="poly" id="edge5921_Node000000_Node000002" title=" " alt="" coords="190,51,225,57,220,58,190,57"/>
+</map>

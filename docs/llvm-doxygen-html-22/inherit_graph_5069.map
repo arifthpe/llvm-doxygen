@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,5,202,46"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1X86AvoidTrailingCallPass.html" title="Return a pass that inserts int3 at the end of the function if it ends with a CALL instruction." alt="" coords="250,13,454,38"/>
+<area shape="poly" id="edge5886_Node000000_Node000001" title=" " alt="" coords="217,23,252,26,246,26,218,28"/>
+</map>

@@ -1,0 +1,89 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="86,1013,223,1054"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1DOTGraphTraitsPrinter.html" title=" " alt="" coords="401,885,588,941"/>
+<area shape="poly" id="edge5254_Node000000_Node000001" title=" " alt="" coords="215,1004,351,951,403,936,399,940,353,956,219,1008"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1DOTGraphTraitsPrinter.html" title=" " alt="" coords="401,965,588,1021"/>
+<area shape="poly" id="edge5256_Node000000_Node000003" title=" " alt="" coords="236,1021,403,1002,399,1006,239,1026"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1DOTGraphTraitsPrinter.html" title=" " alt="" coords="395,1045,595,1101"/>
+<area shape="poly" id="edge5258_Node000000_Node000005" title=" " alt="" coords="237,1040,397,1060,392,1063,239,1045"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1DOTGraphTraitsPrinter.html" title=" " alt="" coords="395,1125,595,1181"/>
+<area shape="poly" id="edge5260_Node000000_Node000007" title=" " alt="" coords="216,1058,353,1111,397,1126,392,1128,351,1116,218,1063"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1DOTGraphTraitsViewer.html" title=" " alt="" coords="400,1205,590,1261"/>
+<area shape="poly" id="edge5262_Node000000_Node000009" title=" " alt="" coords="186,1062,260,1128,305,1162,353,1191,402,1212,397,1214,350,1196,302,1166,256,1132,187,1068"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1DOTGraphTraitsViewer.html" title=" " alt="" coords="400,1285,590,1341"/>
+<area shape="poly" id="edge5264_Node000000_Node000011" title=" " alt="" coords="174,1065,205,1112,246,1168,295,1224,353,1271,402,1294,397,1296,350,1275,292,1227,241,1171,201,1115,175,1070"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1DOTGraphTraitsViewer.html" title=" " alt="" coords="395,1365,595,1421"/>
+<area shape="poly" id="edge5266_Node000000_Node000013" title=" " alt="" coords="167,1066,195,1129,233,1206,258,1246,286,1284,318,1320,353,1351,397,1375,391,1376,350,1355,314,1324,282,1288,254,1249,229,1209,190,1131,168,1071"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1DOTGraphTraitsViewer.html" title=" " alt="" coords="395,1445,595,1501"/>
+<area shape="poly" id="edge5268_Node000000_Node000015" title=" " alt="" coords="163,1066,186,1144,222,1242,247,1294,277,1344,312,1391,353,1431,373,1444,397,1456,392,1458,371,1449,350,1435,308,1394,273,1347,242,1296,217,1244,181,1146,163,1071"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="383,1525,606,1611"/>
+<area shape="poly" id="edge5270_Node000000_Node000017" title=" " alt="" coords="161,1066,180,1157,215,1275,240,1338,271,1401,309,1459,353,1511,385,1535,380,1536,350,1515,304,1462,266,1403,235,1340,210,1277,175,1158,161,1071"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="424,1634,566,1675"/>
+<area shape="poly" id="edge5271_Node000000_Node000018" title=" " alt="" coords="156,1066,167,1177,178,1249,195,1327,220,1407,253,1485,297,1558,324,1591,353,1620,387,1640,426,1652,421,1653,385,1645,350,1625,320,1594,293,1561,249,1488,215,1409,190,1328,173,1250,162,1178,156,1072"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="424,242,566,283"/>
+<area shape="poly" id="edge5272_Node000000_Node000019" title=" " alt="" coords="158,997,181,845,221,634,248,526,278,428,312,348,330,317,350,294,366,281,384,272,425,262,422,266,386,277,369,286,354,298,335,320,317,351,283,430,253,528,226,635,186,846,163,998"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1PassManager.html" title=" " alt="" coords="424,308,566,348"/>
+<area shape="poly" id="edge5273_Node000000_Node000020" title=" " alt="" coords="152,997,156,876,164,794,180,704,204,610,239,519,261,475,287,434,316,395,350,359,366,347,384,338,426,328,422,332,386,343,369,351,353,363,321,398,291,437,266,478,244,521,209,612,185,705,169,794,161,876,157,998"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1PassManager_3_01Loop_00_01LoopAnalysisManager_00_01LoopStandardAnalysisResults_01_6_00_01LPMUpdater_01_6_01_4.html" title=" " alt="" coords="395,1699,595,1770"/>
+<area shape="poly" id="edge5274_Node000000_Node000021" title=" " alt="" coords="156,1067,165,1186,175,1265,192,1351,216,1440,250,1528,296,1611,323,1649,354,1685,373,1700,397,1714,391,1715,370,1705,350,1688,319,1653,291,1614,246,1531,211,1442,187,1352,170,1265,160,1187,156,1072"/>
+<area shape="rect" id="Node000023" href="$structllvm_1_1RequireAnalysisPass_3_01AnalysisT_00_01LazyCallGraph_1_1SCC_00_01CGSCCAnalysisMana0ed9ea89433c050c446a0a1ac6232466.html" title="An explicit specialization of the require analysis template pass." alt="" coords="352,1794,638,1864"/>
+<area shape="poly" id="edge5275_Node000000_Node000023" title=" " alt="" coords="163,1066,200,1232,252,1458,307,1667,333,1741,354,1781,366,1794,361,1793,350,1784,328,1743,302,1669,247,1459,195,1233,163,1071"/>
+<area shape="rect" id="Node000025" href="$structllvm_1_1RequireAnalysisPass_3_01AnalysisT_00_01Loop_00_01LoopAnalysisManager_00_01LoopStan3bf5a976eadfbcaf71c516454c894dae.html" title="A partial specialization of the require analysis template pass to forward the extra parameters from a..." alt="" coords="368,1895,622,1966"/>
+<area shape="poly" id="edge5276_Node000000_Node000025" title=" " alt="" coords="166,1067,306,1665,314,1728,315,1779,317,1802,323,1826,335,1850,354,1875,374,1895,369,1894,350,1879,330,1852,318,1827,312,1803,309,1779,309,1728,301,1666,162,1070"/>
+<area shape="rect" id="Node000027" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="417,373,573,414"/>
+<area shape="poly" id="edge5277_Node000000_Node000027" title=" " alt="" coords="153,997,160,886,171,812,187,731,212,647,246,565,292,489,319,455,350,423,381,404,418,394,414,398,383,409,353,427,323,458,296,492,251,568,217,649,192,732,176,812,166,886,159,998"/>
+<area shape="rect" id="Node000038" href="$structllvm_1_1DOTGraphTraitsPrinter.html" title=" " alt="" coords="395,437,595,493"/>
+<area shape="poly" id="edge5288_Node000000_Node000038" title=" " alt="" coords="156,997,169,899,181,835,200,766,225,695,258,625,299,560,350,503,370,488,396,478,392,482,373,493,353,507,303,563,262,628,230,697,205,768,187,836,174,900,161,997"/>
+<area shape="rect" id="Node000039" href="$structllvm_1_1DOTGraphTraitsViewer.html" title=" " alt="" coords="395,517,595,573"/>
+<area shape="poly" id="edge5289_Node000000_Node000039" title=" " alt="" coords="158,997,176,912,210,801,236,742,267,684,305,630,350,583,370,569,396,559,393,563,373,574,353,587,309,634,271,687,240,744,215,803,181,914,164,998"/>
+<area shape="rect" id="Node000040" href="$classllvm_1_1MachineLICMBasePass.html" title=" " alt="" coords="398,597,592,638"/>
+<area shape="poly" id="edge5290_Node000000_Node000040" title=" " alt="" coords="161,997,181,923,218,828,243,778,273,730,309,685,350,647,372,634,399,625,395,629,374,638,353,651,313,689,277,733,247,781,222,830,186,925,166,999"/>
+<area shape="rect" id="Node000041" href="$classllvm_1_1PassManager.html" title="Manages a sequence of passes over a particular unit of IR." alt="" coords="402,661,588,717"/>
+<area shape="poly" id="edge5291_Node000000_Node000041" title=" " alt="" coords="166,998,192,938,231,865,284,791,315,757,350,727,374,713,403,703,399,707,377,717,353,731,319,761,288,794,236,868,197,941,171,999"/>
+<area shape="rect" id="Node000042" href="$structllvm_1_1RequireAnalysisPass.html" title="A utility pass template to force an analysis result to be available." alt="" coords="396,741,594,797"/>
+<area shape="poly" id="edge5292_Node000000_Node000042" title=" " alt="" coords="174,999,203,955,244,903,294,851,350,807,397,787,394,791,353,811,297,855,248,906,208,958,179,1001"/>
+<area shape="rect" id="Node000043" href="$classllvm_1_1TailDuplicatePassBase.html" title=" " alt="" coords="401,821,589,862"/>
+<area shape="poly" id="edge5293_Node000000_Node000043" title=" " alt="" coords="183,1000,255,934,301,900,351,871,402,854,398,858,353,876,304,904,259,938,188,1003"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DomOnlyPrinter.html" title=" " alt="" coords="746,900,893,926"/>
+<area shape="poly" id="edge5255_Node000001_Node000002" title=" " alt="" coords="603,911,748,912,744,915,605,916"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1DomPrinter.html" title=" " alt="" coords="760,980,879,1006"/>
+<area shape="poly" id="edge5257_Node000003_Node000004" title=" " alt="" coords="603,991,762,992,757,995,605,996"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PostDomOnlyPrinter.html" title=" " alt="" coords="733,1060,906,1086"/>
+<area shape="poly" id="edge5259_Node000005_Node000006" title=" " alt="" coords="610,1071,735,1072,730,1075,612,1076"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1PostDomPrinter.html" title=" " alt="" coords="746,1140,893,1166"/>
+<area shape="poly" id="edge5261_Node000007_Node000008" title=" " alt="" coords="610,1151,748,1152,744,1155,612,1156"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1DomOnlyViewer.html" title=" " alt="" coords="746,1220,894,1246"/>
+<area shape="poly" id="edge5263_Node000009_Node000010" title=" " alt="" coords="604,1231,747,1232,743,1234,605,1236"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1DomViewer.html" title=" " alt="" coords="759,1300,880,1326"/>
+<area shape="poly" id="edge5265_Node000011_Node000012" title=" " alt="" coords="604,1311,761,1312,756,1314,606,1316"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1PostDomOnlyViewer.html" title=" " alt="" coords="732,1380,907,1406"/>
+<area shape="poly" id="edge5267_Node000013_Node000014" title=" " alt="" coords="610,1391,734,1392,729,1394,611,1396"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1PostDomViewer.html" title=" " alt="" coords="746,1460,894,1486"/>
+<area shape="poly" id="edge5269_Node000015_Node000016" title=" " alt="" coords="610,1471,747,1472,743,1474,611,1476"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1InnerAnalysisManagerProxy.html" title=" " alt="" coords="710,325,929,381"/>
+<area shape="poly" id="edge5278_Node000027_Node000028" title=" " alt="" coords="587,380,712,365,707,368,590,384"/>
+<area shape="rect" id="Node000029" href="$classllvm_1_1InnerAnalysisManagerProxy.html" title=" " alt="" coords="720,405,919,461"/>
+<area shape="poly" id="edge5279_Node000027_Node000029" title=" " alt="" coords="587,402,723,420,718,422,589,407"/>
+<area shape="rect" id="Node000030" href="$classllvm_1_1InnerAnalysisManagerProxy.html" title=" " alt="" coords="712,485,928,541"/>
+<area shape="poly" id="edge5280_Node000027_Node000030" title=" " alt="" coords="587,403,639,423,655,435,664,447,673,459,687,471,713,485,708,487,685,475,669,463,660,450,651,439,637,427,589,408"/>
+<area shape="rect" id="Node000031" href="$classllvm_1_1InnerAnalysisManagerProxy.html" title=" " alt="" coords="712,565,928,621"/>
+<area shape="poly" id="edge5281_Node000027_Node000031" title=" " alt="" coords="587,398,616,408,640,423,654,439,661,455,665,488,669,521,675,536,688,551,714,570,708,571,684,555,671,539,664,522,660,489,656,457,649,442,636,427,613,412,589,403"/>
+<area shape="rect" id="Node000032" href="$classllvm_1_1InnerAnalysisManagerProxy.html" title=" " alt="" coords="710,645,930,701"/>
+<area shape="poly" id="edge5282_Node000027_Node000032" title=" " alt="" coords="587,396,616,406,640,423,659,449,667,476,668,502,666,529,663,555,663,580,671,606,688,631,712,651,707,652,684,635,666,608,658,581,657,554,660,528,663,502,662,477,654,452,636,427,614,411,589,401"/>
+<area shape="rect" id="Node000033" href="$classllvm_1_1OuterAnalysisManagerProxy.html" title=" " alt="" coords="686,725,953,781"/>
+<area shape="poly" id="edge5283_Node000027_Node000033" title=" " alt="" coords="588,395,617,406,640,423,665,460,674,496,672,532,666,568,659,604,658,640,665,676,688,711,701,724,696,725,684,715,661,678,652,641,654,604,661,568,667,532,668,497,660,462,636,427,614,410,590,400"/>
+<area shape="rect" id="Node000034" href="$classllvm_1_1OuterAnalysisManagerProxy.html" title=" " alt="" coords="710,5,929,61"/>
+<area shape="poly" id="edge5284_Node000027_Node000034" title=" " alt="" coords="587,386,614,375,636,358,659,323,668,289,667,254,660,218,654,182,652,145,661,108,684,71,711,52,708,57,688,75,666,110,658,146,659,181,666,217,672,253,673,289,664,326,640,362,617,379,590,390"/>
+<area shape="rect" id="Node000035" href="$classllvm_1_1OuterAnalysisManagerProxy.html" title=" " alt="" coords="689,85,950,141"/>
+<area shape="poly" id="edge5285_Node000027_Node000035" title=" " alt="" coords="586,385,614,374,636,358,654,333,662,309,663,283,660,258,657,231,658,205,666,178,684,151,701,139,698,144,688,155,671,180,663,206,663,231,665,257,668,283,667,310,659,336,640,362,616,379,590,389"/>
+<area shape="rect" id="Node000036" href="$classllvm_1_1OuterAnalysisManagerProxy.html" title=" " alt="" coords="714,165,926,221"/>
+<area shape="poly" id="edge5286_Node000027_Node000036" title=" " alt="" coords="586,383,613,373,636,358,649,343,656,328,660,297,664,264,671,247,684,231,715,213,711,217,688,235,675,250,669,265,665,297,661,330,653,346,640,362,616,378,590,387"/>
+<area shape="rect" id="Node000037" href="$classllvm_1_1OuterAnalysisManagerProxy.html" title=" " alt="" coords="714,245,926,301"/>
+<area shape="poly" id="edge5287_Node000027_Node000037" title=" " alt="" coords="586,377,637,358,651,347,660,335,669,323,685,311,715,298,711,302,687,315,673,327,664,338,655,351,639,362,590,381"/>
+<area shape="rect" id="Node000022" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="54,1677,255,1763"/>
+<area shape="poly" id="edge5294_Node000022_Node000021" title=" " alt="" coords="270,1722,396,1729,392,1732,271,1727"/>
+<area shape="rect" id="Node000024" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,1786,304,1872"/>
+<area shape="poly" id="edge5295_Node000024_Node000023" title=" " alt="" coords="319,1827,354,1829,349,1830,320,1832"/>
+<area shape="rect" id="Node000026" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="28,1896,281,1981"/>
+<area shape="poly" id="edge5296_Node000026_Node000025" title=" " alt="" coords="297,1932,370,1933,365,1934,297,1938"/>
+</map>

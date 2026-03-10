@@ -1,0 +1,135 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="54,992,142,1018"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="271,897,424,953"/>
+<area shape="poly" id="edge335_Node000000_Node000001" title=" " alt="" coords="153,985,272,947,269,952,157,989"/>
+<area shape="rect" id="Node000051" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="277,977,418,1033"/>
+<area shape="poly" id="edge337_Node000000_Node000051" title=" " alt="" coords="156,1003,278,1003,275,1007,159,1007"/>
+<area shape="rect" id="Node000053" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="242,1056,453,1097"/>
+<area shape="poly" id="edge339_Node000000_Node000053" title=" " alt="" coords="156,1019,276,1054,272,1057,158,1024"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1vfs_1_1InMemoryFileSystem.html" title="An in&#45;memory file system." alt="" coords="504,912,707,938"/>
+<area shape="poly" id="edge336_Node000001_Node000002" title=" " alt="" coords="438,923,506,923,502,926,441,927"/>
+<area shape="rect" id="Node000052" href="$classllvm_1_1vfs_1_1OverlayFileSystem.html" title="A file system that allows overlaying one AbstractFileSystem on top of another." alt="" coords="510,992,701,1018"/>
+<area shape="poly" id="edge338_Node000051_Node000052" title=" " alt="" coords="432,1002,512,1003,508,1006,434,1007"/>
+<area shape="rect" id="Node000054" href="$classllvm_1_1vfs_1_1ProxyFileSystem.html" title="By default, this delegates all calls to the underlying file system." alt="" coords="516,1064,695,1090"/>
+<area shape="poly" id="edge340_Node000053_Node000054" title=" " alt="" coords="467,1074,518,1075,513,1078,470,1079"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1orc_1_1IRLayer.html" title="Interface for layers that accept LLVM IR." alt="" coords="35,149,161,175"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1orc_1_1CompileOnDemandLayer.html" title=" " alt="" coords="251,170,444,210"/>
+<area shape="poly" id="edge341_Node000016_Node000017" title=" " alt="" coords="174,169,252,178,248,181,178,173"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1orc_1_1IRCompileLayer.html" title=" " alt="" coords="261,235,434,260"/>
+<area shape="poly" id="edge342_Node000016_Node000018" title=" " alt="" coords="139,180,240,220,283,233,279,236,238,225,142,184"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1orc_1_1IRPartitionLayer.html" title="A layer that breaks up IR modules into smaller submodules that only contains looked up symbols." alt="" coords="261,5,434,31"/>
+<area shape="poly" id="edge343_Node000016_Node000019" title=" " alt="" coords="119,136,170,87,202,62,237,41,271,29,268,34,240,46,205,67,174,91,124,139"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1orc_1_1IRSpeculationLayer.html" title=" " alt="" coords="267,55,428,96"/>
+<area shape="poly" id="edge344_Node000016_Node000020" title=" " alt="" coords="143,141,238,105,275,94,271,98,240,110,147,145"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1orc_1_1IRTransformLayer.html" title="A layer that applies a transform to emitted modules." alt="" coords="255,120,440,146"/>
+<area shape="poly" id="edge345_Node000016_Node000021" title=" " alt="" coords="174,151,257,142,253,146,178,155"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1orc_1_1ReOptimizeLayer.html" title=" " alt="" coords="257,284,438,310"/>
+<area shape="poly" id="edge346_Node000016_Node000015" title=" " alt="" coords="121,183,175,229,206,251,240,270,269,282,264,285,238,275,203,256,171,233,123,188"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1orc_1_1LinkGraphLayer.html" title=" " alt="" coords="13,456,183,482"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1orc_1_1LinkGraphLinkingLayer.html" title="LinkGraphLinkingLayer links LinkGraphs into the Executor using JITLink." alt="" coords="258,448,437,489"/>
+<area shape="poly" id="edge347_Node000007_Node000006" title=" " alt="" coords="197,467,259,467,255,471,200,471"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1orc_1_1ObjectLinkingLayer.html" title="An ObjectLayer implementation built on JITLink." alt="" coords="526,738,685,778"/>
+<area shape="poly" id="edge348_Node000006_Node000005" title=" " alt="" coords="450,494,458,499,595,737,590,738,454,503,451,499"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="52,752,144,778"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="278,737,417,793"/>
+<area shape="poly" id="edge349_Node000012_Node000004" title=" " alt="" coords="158,763,279,763,276,767,161,767"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="269,817,426,873"/>
+<area shape="poly" id="edge351_Node000012_Node000013" title=" " alt="" coords="154,780,270,818,266,821,156,785"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="255,657,440,713"/>
+<area shape="poly" id="edge353_Node000012_Node000011" title=" " alt="" coords="153,745,260,711,257,715,157,749"/>
+<area shape="poly" id="edge350_Node000004_Node000005" title=" " alt="" coords="431,760,528,759,524,762,434,765"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1orc_1_1ObjectTransformLayer.html" title=" " alt="" coords="518,824,694,865"/>
+<area shape="poly" id="edge352_Node000013_Node000014" title=" " alt="" coords="440,843,519,843,515,846,443,847"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1orc_1_1RTDyldObjectLinkingLayer.html" title=" " alt="" coords="504,528,707,569"/>
+<area shape="poly" id="edge354_Node000011_Node000010" title=" " alt="" coords="442,649,455,642,520,604,578,567,575,572,523,609,457,647,446,652"/>
+<area shape="rect" id="Node000050" title=" " alt="" coords="45,1136,151,1162"/>
+<area shape="rect" id="Node000048" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="278,1121,417,1177"/>
+<area shape="poly" id="edge355_Node000050_Node000048" title=" " alt="" coords="165,1147,279,1147,275,1151,168,1151"/>
+<area shape="rect" id="Node000049" href="$classllvm_1_1vfs_1_1NullOutputFileImpl.html" title=" " alt="" coords="512,1136,699,1162"/>
+<area shape="poly" id="edge356_Node000048_Node000049" title=" " alt="" coords="432,1146,514,1147,509,1150,434,1151"/>
+<area shape="rect" id="Node000059" href="$classParentT.html" title=" " alt="" coords="64,564,132,590"/>
+<area shape="rect" id="Node000058" href="$classllvm_1_1RTTIExtends.html" title="Inheritance utility for extensible RTTI." alt="" coords="258,592,437,633"/>
+<area shape="poly" id="edge357_Node000059_Node000058" title=" " alt="" coords="145,582,259,598,255,602,148,586"/>
+<area shape="rect" id="Node000060" href="$classllvm_1_1sandboxir_1_1GlobalWithNodeAPI.html" title="Provides API functions, like getIterator() and getReverseIterator() to GlobalIFunc,..." alt="" coords="239,513,456,569"/>
+<area shape="poly" id="edge358_Node000059_Node000060" title=" " alt="" coords="145,568,240,555,236,559,149,572"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="56,1229,140,1255"/>
+<area shape="poly" id="edge382_Node000003_Node000001" title=" " alt="" coords="137,1220,165,1199,188,1173,203,1144,209,1118,208,1067,207,1041,209,1016,218,990,237,963,252,950,272,940,269,944,255,954,241,967,223,992,215,1017,212,1042,213,1066,214,1118,208,1146,193,1176,169,1203,142,1223"/>
+<area shape="poly" id="edge387_Node000003_Node000051" title=" " alt="" coords="135,1220,164,1198,189,1173,199,1155,205,1139,210,1107,216,1076,223,1059,237,1043,255,1029,278,1019,275,1023,258,1033,241,1047,228,1062,221,1077,215,1108,210,1140,204,1157,193,1176,167,1202,139,1223"/>
+<area shape="poly" id="edge388_Node000003_Node000053" title=" " alt="" coords="131,1219,161,1197,189,1172,202,1155,211,1138,220,1123,237,1107,260,1096,257,1100,240,1111,224,1126,215,1141,207,1158,193,1176,164,1201,136,1222"/>
+<area shape="poly" id="edge359_Node000003_Node000004" title=" " alt="" coords="138,1220,166,1199,188,1173,210,1122,216,1074,213,1029,205,985,198,941,197,897,208,851,220,827,237,803,255,787,279,776,275,780,258,791,241,807,224,830,213,853,202,897,203,941,210,984,218,1028,222,1075,215,1123,193,1176,170,1203,143,1223"/>
+<area shape="poly" id="edge360_Node000003_Node000013" title=" " alt="" coords="138,1220,166,1199,188,1173,206,1133,212,1096,211,1060,206,1026,202,991,203,956,213,921,237,883,250,870,270,860,266,865,254,874,241,887,218,923,208,957,208,991,212,1025,216,1060,218,1096,211,1135,193,1176,170,1203,143,1223"/>
+<area shape="poly" id="edge374_Node000003_Node000011" title=" " alt="" coords="139,1220,167,1199,188,1173,204,1141,214,1111,219,1081,220,1053,214,998,203,944,193,891,191,837,194,810,203,782,217,753,237,723,256,707,253,712,241,727,221,755,208,783,200,811,196,838,198,890,208,943,220,997,226,1053,224,1082,219,1112,209,1143,193,1176,170,1203,143,1223"/>
+<area shape="poly" id="edge383_Node000003_Node000048" title=" " alt="" coords="147,1222,279,1173,276,1177,150,1226"/>
+<area shape="poly" id="edge392_Node000003_Node000058" title=" " alt="" coords="139,1220,167,1199,188,1173,197,1151,204,1125,209,1061,206,905,203,825,205,751,215,689,224,664,237,643,259,627,256,632,241,647,229,666,220,690,210,752,208,825,211,905,215,1061,209,1126,202,1153,193,1176,171,1203,144,1223"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="253,1251,442,1292"/>
+<area shape="poly" id="edge361_Node000003_Node000022" title=" " alt="" coords="155,1247,255,1259,251,1262,157,1251"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="278,1382,417,1422"/>
+<area shape="poly" id="edge364_Node000003_Node000026" title=" " alt="" coords="120,1264,173,1316,205,1343,240,1366,280,1385,275,1387,237,1371,202,1347,169,1320,121,1269"/>
+<area shape="rect" id="Node000029" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="276,1316,419,1357"/>
+<area shape="poly" id="edge367_Node000003_Node000029" title=" " alt="" coords="140,1259,240,1301,278,1315,273,1317,238,1306,142,1265"/>
+<area shape="rect" id="Node000031" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="277,1446,418,1502"/>
+<area shape="poly" id="edge369_Node000003_Node000031" title=" " alt="" coords="123,1263,159,1300,193,1342,207,1368,214,1391,223,1411,240,1432,279,1456,274,1457,237,1436,218,1414,209,1392,202,1370,188,1345,155,1303,125,1269"/>
+<area shape="rect" id="Node000033" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="261,1656,434,1697"/>
+<area shape="poly" id="edge371_Node000003_Node000033" title=" " alt="" coords="127,1263,164,1298,193,1342,208,1387,213,1427,211,1465,206,1501,203,1536,205,1570,216,1605,241,1642,263,1660,258,1661,237,1645,211,1607,199,1571,197,1536,201,1501,205,1465,208,1427,203,1388,188,1345,159,1302,128,1268"/>
+<area shape="rect" id="Node000037" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="278,1787,417,1828"/>
+<area shape="poly" id="edge375_Node000003_Node000037" title=" " alt="" coords="128,1263,164,1298,193,1342,204,1384,209,1437,209,1564,210,1628,213,1688,223,1737,231,1757,241,1772,258,1787,280,1799,274,1799,255,1791,237,1776,226,1759,218,1739,208,1688,204,1629,204,1564,204,1438,199,1385,188,1345,160,1301,129,1268"/>
+<area shape="rect" id="Node000039" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="263,1526,432,1566"/>
+<area shape="poly" id="edge377_Node000003_Node000039" title=" " alt="" coords="126,1263,162,1299,193,1342,204,1368,209,1391,211,1433,216,1473,225,1492,240,1512,265,1530,259,1531,237,1516,220,1495,211,1474,206,1434,204,1392,199,1369,188,1345,158,1302,127,1268"/>
+<area shape="rect" id="Node000041" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="778,1186,940,1242"/>
+<area shape="poly" id="edge389_Node000003_Node000041" title=" " alt="" coords="155,1237,779,1215,777,1220,157,1243"/>
+<area shape="rect" id="Node000045" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="253,1722,442,1762"/>
+<area shape="poly" id="edge384_Node000003_Node000045" title=" " alt="" coords="127,1263,164,1298,193,1342,211,1396,215,1446,211,1492,203,1535,198,1578,199,1619,212,1662,241,1707,255,1721,250,1721,237,1711,207,1664,194,1620,193,1577,198,1535,206,1491,210,1446,205,1397,188,1345,160,1301,129,1268"/>
+<area shape="rect" id="Node000055" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="278,1852,417,1907"/>
+<area shape="poly" id="edge390_Node000003_Node000055" title=" " alt="" coords="128,1263,164,1298,180,1319,193,1343,205,1390,210,1451,209,1597,208,1671,212,1739,222,1796,230,1819,241,1838,258,1853,280,1867,275,1866,255,1858,237,1841,225,1822,216,1798,206,1740,203,1671,203,1597,205,1451,200,1391,188,1344,176,1322,160,1301,129,1268"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1orc_1_1GenericNamedTask.html" title="Base class for generic tasks." alt="" coords="508,1265,703,1291"/>
+<area shape="poly" id="edge362_Node000022_Node000023" title=" " alt="" coords="456,1272,511,1274,506,1277,458,1277"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1orc_1_1GenericNamedTaskImpl.html" title="Generic task implementation." alt="" coords="762,1266,956,1306"/>
+<area shape="poly" id="edge363_Node000023_Node000024" title=" " alt="" coords="717,1279,764,1282,759,1284,719,1284"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1orc_1_1IdleTask.html" title="IdleTask can be used as the basis for low&#45;priority tasks, e.g." alt="" coords="542,1389,670,1415"/>
+<area shape="poly" id="edge365_Node000026_Node000027" title=" " alt="" coords="432,1400,543,1401,539,1403,434,1405"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1orc_1_1SimpleLazyReexportsSpeculator_1_1SpeculateTask.html" title=" " alt="" coords="755,1382,963,1422"/>
+<area shape="poly" id="edge366_Node000027_Node000028" title=" " alt="" coords="684,1400,757,1401,752,1403,686,1405"/>
+<area shape="rect" id="Node000030" href="$classllvm_1_1orc_1_1LookupTask.html" title="Lookups are usually run on the current thread, but in some cases they may be run as tasks,..." alt="" coords="531,1324,680,1350"/>
+<area shape="poly" id="edge368_Node000029_Node000030" title=" " alt="" coords="434,1334,533,1336,528,1338,435,1339"/>
+<area shape="rect" id="Node000032" href="$classllvm_1_1orc_1_1MaterializationTask.html" title="A materialization task." alt="" coords="510,1461,701,1487"/>
+<area shape="poly" id="edge370_Node000031_Node000032" title=" " alt="" coords="433,1472,512,1473,507,1475,435,1477"/>
+<area shape="rect" id="Node000034" href="$classllvm_1_1orc_1_1ObjectLayer.html" title="Interface for Layers that accept object files." alt="" coords="531,1664,680,1690"/>
+<area shape="poly" id="edge372_Node000033_Node000034" title=" " alt="" coords="449,1674,533,1676,528,1678,450,1679"/>
+<area shape="rect" id="Node000035" href="$classllvm_1_1orc_1_1LazyObjectLinkingLayer.html" title="LazyObjectLinkingLayer is an adapter for ObjectLinkingLayer that builds lazy reexports for all functi..." alt="" coords="766,1656,952,1697"/>
+<area shape="poly" id="edge373_Node000034_Node000035" title=" " alt="" coords="696,1674,768,1676,763,1677,696,1679"/>
+<area shape="rect" id="Node000038" href="$classllvm_1_1orc_1_1Task.html" title="Represents an abstract task for ORC to run." alt="" coords="552,1795,659,1820"/>
+<area shape="poly" id="edge376_Node000037_Node000038" title=" " alt="" coords="433,1805,554,1807,549,1808,433,1810"/>
+<area shape="rect" id="Node000040" href="$classllvm_1_1vfs_1_1FileSystem.html" title="The virtual file system interface." alt="" coords="533,1533,678,1559"/>
+<area shape="poly" id="edge378_Node000039_Node000040" title=" " alt="" coords="447,1544,535,1545,530,1547,448,1549"/>
+<area shape="poly" id="edge379_Node000040_Node000041" title=" " alt="" coords="671,1524,690,1513,705,1498,724,1466,731,1436,731,1406,728,1376,724,1346,725,1316,733,1285,753,1252,780,1234,776,1237,757,1256,738,1287,730,1317,730,1346,733,1376,737,1406,736,1437,729,1468,709,1501,693,1517,674,1529"/>
+<area shape="rect" id="Node000043" href="$classllvm_1_1FileCollectorFileSystem.html" title=" " alt="" coords="763,1533,955,1559"/>
+<area shape="poly" id="edge381_Node000040_Node000043" title=" " alt="" coords="693,1544,765,1545,760,1547,694,1549"/>
+<area shape="rect" id="Node000042" href="$classllvm_1_1vfs_1_1RedirectingFileSystem.html" title="A virtual file system parsed from a YAML file." alt="" coords="1011,1194,1177,1234"/>
+<area shape="poly" id="edge380_Node000041_Node000042" title=" " alt="" coords="955,1212,1013,1213,1008,1215,956,1217"/>
+<area shape="rect" id="Node000046" href="$classllvm_1_1vfs_1_1OutputFileImpl.html" title=" " alt="" coords="524,1729,688,1755"/>
+<area shape="poly" id="edge385_Node000045_Node000046" title=" " alt="" coords="457,1740,526,1742,520,1743,458,1745"/>
+<area shape="rect" id="Node000047" href="$classllvm_1_1vfs_1_1HashingOutputFile.html" title="HashingOutputFile." alt="" coords="776,1722,942,1762"/>
+<area shape="poly" id="edge386_Node000046_Node000047" title=" " alt="" coords="703,1740,778,1742,773,1743,704,1745"/>
+<area shape="rect" id="Node000056" href="$classllvm_1_1vfs_1_1TracingFileSystem.html" title="File system that tracks the number of calls to the underlying file system." alt="" coords="512,1867,700,1892"/>
+<area shape="poly" id="edge391_Node000055_Node000056" title=" " alt="" coords="433,1877,514,1879,508,1880,433,1882"/>
+<area shape="rect" id="Node000057" title=" " alt="" coords="37,1867,159,1892"/>
+<area shape="poly" id="edge393_Node000057_Node000055" title=" " alt="" coords="174,1877,280,1879,275,1880,174,1882"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1orc_1_1ResourceManager.html" title="Listens for ResourceTracker operations." alt="" coords="5,369,191,395"/>
+<area shape="poly" id="edge397_Node000008_Node000015" title=" " alt="" coords="138,361,238,320,283,308,279,312,240,325,142,364"/>
+<area shape="poly" id="edge395_Node000008_Node000006" title=" " alt="" coords="150,398,289,446,284,449,153,403"/>
+<area shape="poly" id="edge396_Node000008_Node000010" title=" " alt="" coords="205,383,265,388,329,398,394,413,457,434,495,454,531,479,586,527,581,529,528,483,493,459,455,439,393,418,328,403,264,393,208,387"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1orc_1_1LazyReexportsManager.html" title=" " alt="" coords="264,334,431,374"/>
+<area shape="poly" id="edge394_Node000008_Node000009" title=" " alt="" coords="204,368,265,362,261,365,208,372"/>
+<area shape="rect" id="Node000036" href="$classllvm_1_1RTTIRoot.html" title="Base class for the extensible RTTI hierarchy." alt="" coords="42,1696,154,1722"/>
+<area shape="poly" id="edge398_Node000036_Node000033" title=" " alt="" coords="168,1697,263,1686,259,1690,170,1702"/>
+<area shape="poly" id="edge399_Node000036_Node000037" title=" " alt="" coords="139,1726,240,1772,280,1787,275,1788,238,1777,138,1732"/>
+<area shape="poly" id="edge400_Node000036_Node000039" title=" " alt="" coords="118,1682,169,1629,202,1601,237,1577,267,1565,263,1569,240,1582,205,1606,172,1633,122,1686"/>
+<area shape="poly" id="edge401_Node000036_Node000045" title=" " alt="" coords="169,1716,255,1728,250,1731,170,1721"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="73,1356,123,1382"/>
+<area shape="poly" id="edge402_Node000025_Node000022" title=" " alt="" coords="135,1348,238,1302,276,1291,272,1294,240,1307,138,1352"/>
+<area shape="poly" id="edge403_Node000025_Node000026" title=" " alt="" coords="137,1372,279,1391,275,1395,139,1377"/>
+<area shape="poly" id="edge404_Node000025_Node000029" title=" " alt="" coords="137,1362,277,1344,273,1348,139,1366"/>
+<area shape="poly" id="edge405_Node000025_Node000031" title=" " alt="" coords="136,1385,240,1432,279,1448,274,1450,238,1437,137,1390"/>
+<area shape="rect" id="Node000044" href="$classllvm_1_1ThreadSafeRefCountedBase.html" title=" " alt="" coords="252,1591,442,1632"/>
+<area shape="poly" id="edge406_Node000044_Node000040" title=" " alt="" coords="444,1584,554,1558,549,1561,446,1589"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,5,196,46"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1X86LowerAMXTypePass.html" title="The pass transforms load/store &lt;256 x i32&gt; to AMX load/store intrinsics or split the data to two &lt;128..." alt="" coords="244,13,442,38"/>
+<area shape="poly" id="edge5903_Node000000_Node000001" title=" " alt="" coords="211,23,246,26,241,26,211,28"/>
+</map>

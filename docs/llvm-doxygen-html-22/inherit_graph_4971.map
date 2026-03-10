@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,23,187,64"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1SelectionDAGISelPass.html" title=" " alt="" coords="235,31,424,56"/>
+<area shape="poly" id="edge5767_Node000000_Node000001" title=" " alt="" coords="202,41,237,43,232,44,202,46"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AMDGPUISelDAGToDAGPass.html" title=" " alt="" coords="472,5,709,31"/>
+<area shape="poly" id="edge5768_Node000001_Node000002" title=" " alt="" coords="439,30,474,29,469,30,440,36"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1X86ISelDAGToDAGPass.html" title=" " alt="" coords="490,55,691,80"/>
+<area shape="poly" id="edge5769_Node000001_Node000003" title=" " alt="" coords="440,51,492,58,487,58,439,56"/>
+</map>

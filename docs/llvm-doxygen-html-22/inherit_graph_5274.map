@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1pdb_1_1IPDBSession.html" title="IPDBSession defines an interface used to provide a context for querying debug information from a debu..." alt="" coords="5,31,167,56"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1pdb_1_1DIASession.html" title=" " alt="" coords="222,5,374,31"/>
+<area shape="poly" id="edge5962_Node000000_Node000001" title=" " alt="" coords="182,29,224,27,219,28,183,35"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1pdb_1_1NativeSession.html" title=" " alt="" coords="215,55,382,80"/>
+<area shape="poly" id="edge5963_Node000000_Node000002" title=" " alt="" coords="182,52,217,58,212,58,182,57"/>
+</map>

@@ -1,0 +1,43 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1RegisterBankInfo.html" title="Holds all the information related to register banks." alt="" coords="5,244,160,269"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1AArch64GenRegisterBankInfo.html" title=" " alt="" coords="238,5,414,46"/>
+<area shape="poly" id="edge6126_Node000000_Node000001" title=" " alt="" coords="91,228,107,189,132,143,165,96,206,56,239,40,236,43,209,60,169,99,136,145,112,191,96,230"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AMDGPUGenRegisterBankInfo.html" title="This class provides the information for the target register banks." alt="" coords="208,70,445,96"/>
+<area shape="poly" id="edge6128_Node000000_Node000003" title=" " alt="" coords="96,229,139,165,170,132,206,105,232,94,229,98,209,109,174,136,143,169,100,231"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ARMGenRegisterBankInfo.html" title=" " alt="" coords="222,120,430,145"/>
+<area shape="poly" id="edge6130_Node000000_Node000005" title=" " alt="" coords="105,230,149,190,177,171,207,154,238,144,234,147,209,159,180,175,153,195,109,234"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1BPFGenRegisterBankInfo.html" title=" " alt="" coords="224,169,428,194"/>
+<area shape="poly" id="edge6132_Node000000_Node000007" title=" " alt="" coords="125,235,207,203,251,194,247,197,208,208,128,239"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1M68kGenRegisterBankInfo.html" title=" " alt="" coords="221,218,432,244"/>
+<area shape="poly" id="edge6134_Node000000_Node000009" title=" " alt="" coords="174,244,223,240,218,243,176,249"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1MipsGenRegisterBankInfo.html" title=" " alt="" coords="223,268,430,293"/>
+<area shape="poly" id="edge6136_Node000000_Node000011" title=" " alt="" coords="175,263,225,269,220,271,176,268"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1PPCGenRegisterBankInfo.html" title=" " alt="" coords="223,317,430,342"/>
+<area shape="poly" id="edge6138_Node000000_Node000013" title=" " alt="" coords="127,273,208,303,252,315,247,317,207,308,127,278"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1RISCVGenRegisterBankInfo.html" title=" " alt="" coords="216,366,436,392"/>
+<area shape="poly" id="edge6140_Node000000_Node000015" title=" " alt="" coords="107,278,153,317,180,337,209,353,239,365,234,366,207,357,177,341,150,321,107,283"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1SPIRVGenRegisterBankInfo.html" title=" " alt="" coords="217,416,436,441"/>
+<area shape="poly" id="edge6142_Node000000_Node000017" title=" " alt="" coords="99,280,144,343,174,376,209,402,233,415,228,415,206,407,170,379,140,347,98,285"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1X86GenRegisterBankInfo.html" title=" " alt="" coords="226,465,427,490"/>
+<area shape="poly" id="edge6144_Node000000_Node000019" title=" " alt="" coords="93,281,111,321,135,367,168,413,209,451,230,465,225,464,206,456,164,417,131,370,106,323,92,286"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AArch64RegisterBankInfo.html" title="This class provides the information for the target register banks." alt="" coords="498,13,702,38"/>
+<area shape="poly" id="edge6127_Node000001_Node000002" title=" " alt="" coords="429,23,500,24,495,27,431,28"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AMDGPURegisterBankInfo.html" title=" " alt="" coords="493,70,706,96"/>
+<area shape="poly" id="edge6129_Node000003_Node000004" title=" " alt="" coords="460,80,495,82,490,84,462,86"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ARMRegisterBankInfo.html" title="This class provides the information for the target register banks." alt="" coords="508,120,692,145"/>
+<area shape="poly" id="edge6131_Node000005_Node000006" title=" " alt="" coords="446,130,509,131,504,133,447,135"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1BPFRegisterBankInfo.html" title=" " alt="" coords="510,169,690,194"/>
+<area shape="poly" id="edge6133_Node000007_Node000008" title=" " alt="" coords="443,179,511,181,506,183,444,184"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1M68kRegisterBankInfo.html" title="This class provides the information for the target register banks." alt="" coords="506,218,693,244"/>
+<area shape="poly" id="edge6135_Node000009_Node000010" title=" " alt="" coords="446,228,509,230,504,232,448,234"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1MipsRegisterBankInfo.html" title="This class provides the information for the target register banks." alt="" coords="508,268,691,293"/>
+<area shape="poly" id="edge6137_Node000011_Node000012" title=" " alt="" coords="445,278,510,280,505,281,446,283"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1PPCRegisterBankInfo.html" title=" " alt="" coords="508,317,691,342"/>
+<area shape="poly" id="edge6139_Node000013_Node000014" title=" " alt="" coords="445,327,510,329,505,330,446,332"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1RISCVRegisterBankInfo.html" title="This class provides the information for the target register banks." alt="" coords="502,366,698,392"/>
+<area shape="poly" id="edge6141_Node000015_Node000016" title=" " alt="" coords="452,376,504,379,499,379,452,382"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1SPIRVRegisterBankInfo.html" title=" " alt="" coords="502,416,697,441"/>
+<area shape="poly" id="edge6143_Node000017_Node000018" title=" " alt="" coords="452,426,504,428,499,429,452,431"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1X86RegisterBankInfo.html" title="This class provides the information for the target register banks." alt="" coords="511,465,688,490"/>
+<area shape="poly" id="edge6145_Node000019_Node000020" title=" " alt="" coords="442,475,513,478,508,478,442,480"/>
+</map>

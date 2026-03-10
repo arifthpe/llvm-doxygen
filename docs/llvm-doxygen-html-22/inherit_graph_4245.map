@@ -1,0 +1,29 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1orc_1_1MaterializationUnit.html" title="A MaterializationUnit represents a set of symbol definitions that can be materialized as a group,..." alt="" coords="5,324,193,349"/>
+<area shape="rect" id="Node000001" href="$classLLVMOrcLazyCallThroughManagerRef_1_1OrcCAPIMaterializationUnit.html" title=" " alt="" coords="259,5,482,46"/>
+<area shape="poly" id="edge5049_Node000000_Node000001" title=" " alt="" coords="104,307,119,254,145,186,185,116,210,85,239,57,262,45,258,49,242,61,214,88,189,119,150,188,124,256,109,309"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1AbsoluteSymbolsMaterializationUnit.html" title="A MaterializationUnit implementation for pre&#45;existing absolute symbols." alt="" coords="280,71,462,111"/>
+<area shape="poly" id="edge5050_Node000000_Node000002" title=" " alt="" coords="108,308,127,266,155,216,193,165,239,122,282,103,278,107,242,127,197,169,160,219,132,269,113,310"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1BasicObjectLayerMaterializationUnit.html" title="Materializes the given object file (represented by a MemoryBuffer instance) by calling &#39;emit&#39; on the ..." alt="" coords="280,136,462,177"/>
+<area shape="poly" id="edge5051_Node000000_Node000003" title=" " alt="" coords="115,309,166,247,200,214,239,186,281,170,277,174,242,191,204,218,170,250,120,312"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1IRMaterializationUnit.html" title="IRMaterializationUnit is a convenient base class for MaterializationUnits wrapping LLVM IR." alt="" coords="270,201,472,226"/>
+<area shape="poly" id="edge5052_Node000000_Node000004" title=" " alt="" coords="124,311,176,272,240,237,279,225,275,229,242,241,179,277,128,315"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1orc_1_1LazyReexportsManager_1_1MU.html" title=" " alt="" coords="287,251,454,291"/>
+<area shape="poly" id="edge5055_Node000000_Node000007" title=" " alt="" coords="169,317,289,289,285,293,171,322"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1orc_1_1LazyReexportsMaterializationUnit.html" title="A materialization unit that builds lazy re&#45;exports." alt="" coords="287,316,454,357"/>
+<area shape="poly" id="edge5056_Node000000_Node000008" title=" " alt="" coords="207,334,289,335,284,338,209,339"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1orc_1_1LinkGraphMaterializationUnit.html" title="MaterializationUnit for wrapping LinkGraphs." alt="" coords="248,381,494,406"/>
+<area shape="poly" id="edge5057_Node000000_Node000009" title=" " alt="" coords="172,351,241,366,301,379,296,381,240,371,173,356"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1orc_1_1ReExportsMaterializationUnit.html" title="A materialization unit for symbol aliases." alt="" coords="246,430,496,456"/>
+<area shape="poly" id="edge5058_Node000000_Node000010" title=" " alt="" coords="130,356,182,388,242,417,278,429,273,430,240,421,179,392,131,361"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1orc_1_1RedirectableMaterializationUnit.html" title="RedirectableMaterializationUnit materializes redirectable symbol by invoking RedirectableSymbolManage..." alt="" coords="241,480,501,505"/>
+<area shape="poly" id="edge5059_Node000000_Node000011" title=" " alt="" coords="120,359,172,415,205,443,242,466,270,479,264,479,239,471,202,447,168,419,119,364"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1orc_1_1SectCreateMaterializationUnit.html" title=" " alt="" coords="244,529,498,554"/>
+<area shape="poly" id="edge5060_Node000000_Node000012" title=" " alt="" coords="113,360,135,398,163,440,199,481,242,515,265,528,260,528,239,520,196,485,159,443,131,400,113,366"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1orc_1_1SimpleMachOHeaderMU.html" title=" " alt="" coords="259,578,483,604"/>
+<area shape="poly" id="edge5061_Node000000_Node000013" title=" " alt="" coords="109,361,128,408,156,464,193,519,216,544,242,565,263,578,257,577,239,569,213,548,189,522,151,466,124,410,108,367"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1orc_1_1BasicIRLayerMaterializationUnit.html" title="MaterializationUnit that materializes modules by calling the &#39;emit&#39; method on the given IRLayer." alt="" coords="549,177,815,202"/>
+<area shape="poly" id="edge5053_Node000004_Node000005" title=" " alt="" coords="486,202,551,199,546,201,488,207"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1orc_1_1PartitioningIRMaterializationUnit.html" title=" " alt="" coords="549,226,815,252"/>
+<area shape="poly" id="edge5054_Node000004_Node000006" title=" " alt="" coords="486,221,551,227,546,229,488,226"/>
+</map>
