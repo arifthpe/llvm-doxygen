@@ -1,0 +1,27 @@
+<map id="llvm::VPPhiAccessors" name="llvm::VPPhiAccessors">
+<area shape="rect" id="Node000001" title="Helper type to provide functions to access incoming values and blocks for phi&#45;like recipes." alt="" coords="5,207,158,232"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1VPHeaderPHIRecipe.html" title="A pure virtual base class for all recipes modeling header phis, including phis for first order recurr..." alt="" coords="206,132,383,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,198,205,166,242,157,238,160,207,171,127,203"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1VPIRPhi.html" title="An overlay for VPIRInstructions wrapping PHI nodes enabling convenient use cast/dyn_cast/isa and exec..." alt="" coords="242,181,346,207"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="173,206,244,199,240,202,174,211"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1VPPhi.html" title=" " alt="" coords="249,231,340,256"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="173,227,251,237,246,239,174,232"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1VPWidenPHIRecipe.html" title="A recipe for widened phis." alt="" coords="208,280,380,306"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="127,236,207,266,243,279,238,280,205,271,127,241"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1VPActiveLaneMaskPHIRecipe.html" title="A recipe for generating the active lane mask for the vector loop that is used to predicate the vector..." alt="" coords="431,5,661,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="318,119,367,78,398,57,430,40,463,30,458,33,432,45,400,62,371,82,322,123"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1VPCanonicalIVPHIRecipe.html" title="Canonical scalar induction phi of the vector loop." alt="" coords="443,55,649,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="338,123,430,89,475,80,470,82,432,94,340,128"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1VPEVLBasedIVPHIRecipe.html" title="A recipe for generating the phi node for the current index of elements, adjusted in accordance with E..." alt="" coords="441,104,651,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="398,131,443,128,438,129,399,136"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1VPFirstOrderRecurrencePHIRecipe.html" title="A recipe for handling first&#45;order recurrence phis." alt="" coords="448,154,644,194"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="398,154,450,162,445,163,399,160"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1VPReductionPHIRecipe.html" title="A recipe for handling reduction phis." alt="" coords="449,219,643,244"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="371,161,384,166,399,176,409,186,418,195,432,204,466,218,461,218,430,209,415,199,405,190,396,180,382,171,371,166"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1VPWidenInductionRecipe.html" title="Base class for widened induction (VPWidenIntOrFpInductionRecipe and VPWidenPointerInductionRecipe),..." alt="" coords="445,268,647,294"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="379,163,385,167,403,189,409,212,416,234,433,255,452,268,447,267,429,259,411,237,404,214,398,192,381,171,378,168"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1VPWidenIntOrFpInductionRecipe.html" title="A recipe for handling phi nodes of integer and floating&#45;point inductions, producing their vector valu..." alt="" coords="709,227,915,268"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="663,264,706,261,712,260,663,269"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1VPWidenPointerInductionRecipe.html" title=" " alt="" coords="711,292,913,333"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="663,292,713,301,708,301,663,298"/>
+</map>

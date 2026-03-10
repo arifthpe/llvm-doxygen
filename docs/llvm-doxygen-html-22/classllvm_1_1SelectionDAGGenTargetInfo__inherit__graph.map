@@ -1,0 +1,49 @@
+<map id="llvm::SelectionDAGGenTargetInfo" name="llvm::SelectionDAGGenTargetInfo">
+<area shape="rect" id="Node000001" title="Proxy class that targets should inherit from if they wish to use the generated node descriptions." alt="" coords="248,540,466,566"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AArch64SelectionDAGInfo.html" title=" " alt="" coords="518,5,727,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="355,524,359,431,366,369,379,300,399,230,426,161,464,96,486,67,512,40,531,30,527,34,516,44,491,70,468,99,431,163,404,232,384,302,372,369,364,432,360,525"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AMDGPUSelectionDAGInfo.html" title=" " alt="" coords="514,55,731,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="356,523,363,438,372,382,386,321,405,258,432,196,468,139,512,89,531,79,528,83,516,94,472,142,437,199,410,260,391,322,377,383,368,439,361,525"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ARCSelectionDAGInfo.html" title=" " alt="" coords="529,104,716,130"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="357,524,367,447,392,343,412,287,438,233,471,182,512,139,532,128,528,132,516,143,475,186,443,235,417,289,397,344,373,448,363,525"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ARMSelectionDAGInfo.html" title=" " alt="" coords="528,153,717,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="359,523,372,455,399,364,419,316,444,269,475,226,512,188,532,178,529,182,516,192,479,229,449,272,424,318,404,366,377,456,364,525"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1AVRSelectionDAGInfo.html" title="Holds information about the AVR instruction selection DAG." alt="" coords="530,203,715,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="361,524,377,464,406,386,426,345,450,305,479,269,512,237,534,227,530,231,516,242,483,273,454,308,430,348,411,388,382,466,366,526"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1BPFSelectionDAGInfo.html" title=" " alt="" coords="530,252,715,278"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="364,524,382,473,413,408,456,342,482,312,512,287,535,276,531,280,516,291,486,316,460,345,418,411,387,475,369,526"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1CSKYSelectionDAGInfo.html" title=" " alt="" coords="525,301,720,327"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="367,525,389,483,420,431,462,379,486,356,513,336,537,326,533,329,515,340,490,360,466,383,425,434,393,485,372,527"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1HexagonSelectionDAGInfo.html" title=" " alt="" coords="518,351,728,376"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="373,525,429,455,468,417,513,385,540,375,536,379,515,390,472,421,433,458,377,529"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1LanaiSelectionDAGInfo.html" title=" " alt="" coords="528,400,717,426"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="381,528,439,481,475,456,513,436,549,425,545,428,515,441,478,461,442,485,385,531"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1LoongArchSelectionDAGInfo.html" title=" " alt="" coords="538,450,707,490"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="411,532,513,500,552,490,548,493,515,505,414,537"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1M68kSelectionDAGInfo.html" title=" " alt="" coords="528,515,718,540"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="480,539,529,535,525,538,483,543"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1MSP430SelectionDAGInfo.html" title=" " alt="" coords="518,564,727,590"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="480,562,521,566,516,568,482,567"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1MipsSelectionDAGInfo.html" title=" " alt="" coords="530,613,716,639"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="411,568,515,600,560,612,554,614,513,605,412,574"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1NVPTXSelectionDAGInfo.html" title=" " alt="" coords="521,663,724,688"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="387,573,445,612,515,649,548,661,543,663,513,654,442,617,387,578"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1PPCSelectionDAGInfo.html" title=" " alt="" coords="530,712,716,738"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="377,575,436,638,473,671,515,698,542,711,537,712,513,703,470,675,432,642,377,580"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1RISCVSelectionDAGInfo.html" title=" " alt="" coords="522,761,723,787"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="372,577,396,617,428,663,468,709,515,748,539,761,533,761,513,752,464,713,423,666,391,619,371,582"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1SparcSelectionDAGInfo.html" title=" " alt="" coords="526,811,719,836"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="368,578,389,627,420,687,462,747,487,774,515,797,536,810,531,810,513,802,484,778,458,751,416,690,385,630,367,583"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1SystemZSelectionDAGInfo.html" title=" " alt="" coords="517,860,728,886"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="365,578,384,637,413,710,433,748,456,784,484,818,516,847,535,859,529,859,512,851,480,822,452,787,428,750,408,712,379,639,364,583"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1VESelectionDAGInfo.html" title=" " alt="" coords="534,909,711,935"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="363,579,379,646,406,732,426,777,451,821,480,861,516,896,537,910,532,910,512,900,476,865,446,824,421,780,401,734,374,648,362,584"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1WebAssemblySelectionDAGInfo.html" title=" " alt="" coords="527,959,718,1000"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="362,578,375,654,401,752,421,804,447,856,478,904,516,946,532,959,527,958,512,949,474,907,442,858,416,807,396,754,370,655,360,583"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1XCoreSelectionDAGInfo.html" title=" " alt="" coords="525,1024,720,1050"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="360,579,369,666,378,721,391,782,411,844,438,905,472,961,516,1009,534,1024,529,1023,512,1014,468,964,433,907,406,846,386,783,373,722,364,666,358,584"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1XtensaSelectionDAGInfo.html" title=" " alt="" coords="523,1073,722,1099"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="359,579,365,674,372,736,385,803,404,873,431,942,468,1005,491,1034,516,1060,531,1073,526,1072,512,1064,487,1038,464,1008,427,944,399,875,379,805,367,737,359,674,357,584"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SelectionDAGTargetInfo.html" title="Targets can subclass this to parameterize the SelectionDAG lowering and instruction selection process..." alt="" coords="5,540,200,566"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,551,249,551,245,554,217,555"/>
+</map>

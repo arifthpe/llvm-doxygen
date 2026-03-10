@@ -1,0 +1,13 @@
+<map id="llvm::SSAUpdaterTraits&lt; T &gt;" name="llvm::SSAUpdaterTraits&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,144,197,169"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SSAUpdaterTraits.html" title=" " alt="" coords="403,5,562,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,132,169,101,220,74,265,58,313,45,405,31,400,34,314,51,267,63,222,79,172,106,131,136"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SSAUpdaterTraits_3_01DebugSSAUpdater_01_4.html" title=" " alt="" coords="403,71,562,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,137,220,126,404,99,400,102,221,131,171,142"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SSAUpdaterTraits_3_01LDVSSAUpdater_01_4.html" title="Template specialization to give SSAUpdater access to CFG and value information." alt="" coords="403,136,562,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,154,404,155,400,158,212,159"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1SSAUpdaterTraits_3_01MachineSSAUpdater_01_4.html" title="SSAUpdaterTraits&lt;MachineSSAUpdater&gt; &#45; Traits for the SSAUpdaterImpl template, specialized for Machine..." alt="" coords="399,201,566,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="168,171,221,182,400,210,396,213,220,187,169,176"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SSAUpdaterTraits_3_01SSAUpdater_01_4.html" title=" " alt="" coords="403,267,562,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="129,177,172,207,222,234,267,250,314,262,405,280,400,280,313,268,265,255,220,239,169,212,129,182"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::X86SuppressAPXForRelocationPass" name="llvm::X86SuppressAPXForRelocationPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,242,275,268"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="30,137,250,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,207,142,243,138,241,138,211"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="72,5,208,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="141,60,143,137,137,136,139,64"/>
+</map>

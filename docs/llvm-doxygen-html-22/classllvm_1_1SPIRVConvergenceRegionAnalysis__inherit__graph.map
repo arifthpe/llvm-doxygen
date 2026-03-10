@@ -1,0 +1,13 @@
+<map id="llvm::SPIRVConvergenceRegionAnalysis" name="llvm::SPIRVConvergenceRegionAnalysis">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1154,62,1366,102"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="850,62,1104,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1120,79,1156,82,1150,82,1120,85"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="369,28,623,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="639,54,826,66,852,70,847,71,826,71,639,59"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,28,142,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="157,46,370,46,367,51,158,51"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="418,94,574,134"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="589,115,703,116,826,109,883,103,888,103,826,115,703,121,589,121"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,94,142,134"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="157,111,418,111,417,117,157,117"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="llvm::VarDefInit" name="llvm::VarDefInit">
+<area shape="rect" id="Node000001" title="classname&lt;targs...&gt; &#45; Represent an uninstantiated anonymous class instantiation." alt="" coords="1516,108,1628,134"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TypedInit.html" title="This is the common superclass of types that have a specific, explicit type, stored in ValueTy." alt="" coords="1319,59,1425,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1440,86,1519,108,1514,108,1440,91"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1Init.html" title=" " alt="" coords="995,59,1067,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1082,69,1321,72,1316,72,1082,75"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set." alt="" coords="1315,108,1429,134"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1444,119,1518,121,1513,121,1444,124"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1TrailingObjects.html" title=" " alt="" coords="1277,159,1467,214"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1473,151,1528,135,1533,134,1474,156"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="728,85,927,200"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="943,147,1253,171,1279,176,1274,176,1252,176,943,152"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="5,166,213,237"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="203,158,236,149,368,131,502,124,625,125,730,133,725,134,625,131,502,130,369,136,237,154,205,163"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="446,194,704,294"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="170,243,203,261,237,274,289,284,342,286,395,282,443,278,448,278,396,288,342,291,288,289,236,279,201,266,169,248"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1TrailingObjects.html" title="See the file comment for details on the usage of the TrailingObjects type." alt="" coords="951,216,1111,256"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="1126,228,1252,214,1274,212,1279,212,1253,219,1127,234"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="719,239,954,237,948,237,719,244"/>
+</map>

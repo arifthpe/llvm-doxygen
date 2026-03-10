@@ -1,0 +1,9 @@
+<map id="llvm::SparseMultiSet&lt; ValueT, KeyT, KeyFunctorT, SparseT &gt;" name="llvm::SparseMultiSet&lt; ValueT, KeyT, KeyFunctorT, SparseT &gt;">
+<area shape="rect" id="Node000001" title="Fast multiset implementation for objects that can be identified by small unsigned keys." alt="" coords="5,99,199,154"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SparseMultiSet.html" title=" " alt="" coords="465,19,679,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,90,222,74,284,62,347,53,467,46,462,48,347,59,285,67,223,80,177,95"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SparseMultiSet.html" title=" " alt="" coords="489,99,655,154"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,124,490,124,487,129,215,129"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SparseMultiSet.html" title=" " alt="" coords="462,179,682,234"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,158,223,172,284,185,346,193,464,205,458,205,345,199,283,190,222,178,177,163"/>
+</map>

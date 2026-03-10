@@ -1,0 +1,7 @@
+<map id="llvm::X86LowerTileCopyPass" name="llvm::X86LowerTileCopyPass">
+<area shape="rect" id="Node000001" title="Return a pass that lower the tile copy instruction." alt="" coords="5,207,199,233"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="9,117,195,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,171,104,208,100,205,100,175"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="34,5,170,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,59,105,117,99,116,101,64"/>
+</map>

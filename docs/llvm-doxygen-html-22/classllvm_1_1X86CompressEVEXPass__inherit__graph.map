@@ -1,0 +1,7 @@
+<map id="llvm::X86CompressEVEXPass" name="llvm::X86CompressEVEXPass">
+<area shape="rect" id="Node000001" title="This pass compress instructions from EVEX space to legacy/VEX/EVEX space when possible in order to re..." alt="" coords="5,207,208,233"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="9,117,204,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,171,109,208,104,205,105,175"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="38,5,175,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,59,109,117,104,116,105,64"/>
+</map>

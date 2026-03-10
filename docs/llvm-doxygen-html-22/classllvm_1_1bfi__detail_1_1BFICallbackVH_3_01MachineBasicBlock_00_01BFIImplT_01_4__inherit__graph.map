@@ -1,0 +1,5 @@
+<map id="llvm::bfi_detail::BFICallbackVH&lt; MachineBasicBlock, BFIImplT &gt;" name="llvm::bfi_detail::BFICallbackVH&lt; MachineBasicBlock, BFIImplT &gt;">
+<area shape="rect" id="Node000001" title="Dummy implementation since MachineBasicBlocks aren&#39;t Values, so ValueHandles don&#39;t apply to them." alt="" coords="5,137,247,178"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1bfi__detail_1_1BFICallbackVH.html" title=" " alt="" coords="33,5,219,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,60,129,138,123,136,124,64"/>
+</map>

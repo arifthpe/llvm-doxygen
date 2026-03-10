@@ -1,0 +1,7 @@
+<map id="llvm::X86CallFrameOptimizationPass" name="llvm::X86CallFrameOptimizationPass">
+<area shape="rect" id="Node000001" title="Return a pass that optimizes the code&#45;size of x86 call sequences." alt="" coords="5,242,245,268"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="30,137,220,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,207,127,243,123,241,123,211"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="57,5,193,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,60,128,137,122,136,124,64"/>
+</map>

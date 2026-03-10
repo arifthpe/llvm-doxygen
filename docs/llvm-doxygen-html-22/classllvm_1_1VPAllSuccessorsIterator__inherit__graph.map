@@ -1,0 +1,11 @@
+<map id="llvm::VPAllSuccessorsIterator&lt; BlockPtrTy &gt;" name="llvm::VPAllSuccessorsIterator&lt; BlockPtrTy &gt;">
+<area shape="rect" id="Node000001" title="Iterator to traverse all successors of a VPBlockBase node." alt="" coords="743,49,938,89"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1VPAllSuccessorsIterator.html" title=" " alt="" coords="1144,15,1338,56"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="953,57,1140,44,1146,44,954,62"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1VPAllSuccessorsIterator.html" title=" " alt="" coords="1144,81,1338,121"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="953,84,962,85,1146,99,1141,99,961,91,953,90"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="482,34,694,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="709,66,745,69,740,69,710,72"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,34,227,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,66,483,67,479,71,243,72"/>
+</map>

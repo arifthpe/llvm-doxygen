@@ -1,0 +1,5 @@
+<map id="llvm::cas::builtin::BuiltinCASContext" name="llvm::cas::builtin::BuiltinCASContext">
+<area shape="rect" id="Node000001" title="CASContext for LLVM builtin CAS using BLAKE3 hash type." alt="" coords="14,79,153,120"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1cas_1_1CASContext.html" title="Context for CAS identifiers." alt="" coords="5,5,162,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,44,86,79,81,78,82,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::WebAssemblyTargetAsmStreamer" name="llvm::WebAssemblyTargetAsmStreamer">
+<area shape="rect" id="Node000001" title="This part is for ascii assembly output." alt="" coords="18,153,219,193"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1WebAssemblyTargetStreamer.html" title="WebAssembly&#45;specific streamer interface, to implement support WebAssembly&#45;specific assembly directive..." alt="" coords="5,79,232,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,118,121,153,116,151,117,122"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MCTargetStreamer.html" title="Target specific streamer interface." alt="" coords="37,5,200,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,44,121,79,116,78,117,49"/>
+</map>

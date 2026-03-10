@@ -1,0 +1,7 @@
+<map id="llvm::SIFormMemoryClausesPass" name="llvm::SIFormMemoryClausesPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,207,227,233"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="9,117,223,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,171,118,208,114,205,114,175"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="48,5,184,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,59,119,117,113,116,115,64"/>
+</map>

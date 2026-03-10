@@ -1,0 +1,13 @@
+<map id="llvm::SparcTargetMachine" name="llvm::SparcTargetMachine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="225,153,398,178"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SparcV8TargetMachine.html" title="Sparc 32&#45;bit target machine." alt="" coords="5,226,194,252"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="264,185,136,228,135,223,259,182"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1SparcV9TargetMachine.html" title="Sparc 64&#45;bit target machine." alt="" coords="217,226,406,252"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="313,192,314,227,309,224,310,196"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SparcelTargetMachine.html" title=" " alt="" coords="430,226,612,252"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="362,181,488,226,482,226,361,186"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1CodeGenTargetMachineImpl.html" title="implements a set of functionality in the TargetMachine class for targets that make use of the indepen..." alt="" coords="202,79,421,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,118,314,154,309,151,310,122"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine." alt="" coords="242,5,381,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="313,44,314,80,309,77,310,49"/>
+</map>

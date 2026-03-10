@@ -1,0 +1,9 @@
+<map id="llvm::abi::PointerLikeType" name="llvm::abi::PointerLikeType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="114,79,286,105"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1abi_1_1MemberPointerType.html" title=" " alt="" coords="5,153,200,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,113,120,155,117,150,169,115"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1abi_1_1PointerType.html" title=" " alt="" coords="224,153,371,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,112,284,152,278,152,228,117"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1abi_1_1Type.html" title="Represents the ABI&#45;specific view of a type in LLVM." alt="" coords="147,5,253,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,44,202,80,197,77,198,49"/>
+</map>

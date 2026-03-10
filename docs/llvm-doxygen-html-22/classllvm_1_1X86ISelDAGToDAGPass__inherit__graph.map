@@ -1,0 +1,9 @@
+<map id="llvm::X86ISelDAGToDAGPass" name="llvm::X86ISelDAGToDAGPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,282,207,308"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SelectionDAGISelPass.html" title=" " alt="" coords="11,207,201,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,246,108,283,104,281,104,250"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="15,117,197,158"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,171,109,207,103,206,105,175"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="38,5,174,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="107,59,109,117,103,116,105,64"/>
+</map>

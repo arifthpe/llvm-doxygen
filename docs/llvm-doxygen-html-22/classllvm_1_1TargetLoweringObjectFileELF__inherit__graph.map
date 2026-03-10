@@ -1,0 +1,41 @@
+<map id="llvm::TargetLoweringObjectFileELF" name="llvm::TargetLoweringObjectFileELF">
+<area shape="rect" id="Node000001" title=" " alt="" coords="457,384,636,425"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AArch64__ELFTargetObjectFile.html" title="This implementation is used for AArch64 ELF targets (Linux in particular)." alt="" coords="684,5,914,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="548,368,558,299,580,210,597,163,620,118,648,76,683,40,702,30,698,33,686,44,652,80,624,121,602,165,585,211,563,300,553,370"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1AMDGPUTargetObjectFile.html" title=" " alt="" coords="695,55,903,80"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="550,368,563,307,587,232,604,192,626,155,652,120,683,89,703,79,699,83,686,94,656,123,630,157,609,195,592,234,568,309,555,370"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ARMElfTargetObjectFile.html" title=" " alt="" coords="702,104,896,130"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="554,368,569,317,595,254,632,191,656,163,683,139,704,129,700,132,686,143,659,167,636,195,599,257,574,319,558,371"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1AVRTargetObjectFile.html" title="Lowering for an AVR ELF32 object file." alt="" coords="712,153,886,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="558,368,576,327,603,278,639,230,683,189,714,176,709,179,686,194,643,233,608,281,581,329,563,371"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1BPFTargetLoweringObjectFileELF.html" title=" " alt="" coords="696,203,902,244"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="568,370,616,310,648,279,683,253,708,243,704,246,686,258,651,284,620,314,572,373"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1CSKYELFTargetObjectFile.html" title=" " alt="" coords="694,268,904,294"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="580,372,627,335,683,302,716,293,712,296,685,307,630,340,583,376"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1HexagonTargetObjectFile.html" title=" " alt="" coords="699,317,899,343"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="612,376,684,352,729,342,724,345,685,357,614,381"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1LanaiTargetObjectFile.html" title=" " alt="" coords="709,367,889,392"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="651,392,711,388,706,389,653,397"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1M68kELFTargetObjectFile.html" title=" " alt="" coords="697,416,901,442"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="651,412,699,418,694,420,652,417"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1MipsTargetObjectFile.html" title=" " alt="" coords="711,465,887,491"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="614,428,685,452,729,464,724,465,684,457,615,434"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1PPC64LinuxTargetObjectFile.html" title="PPC64LinuxTargetObjectFile &#45; This implementation is used for 64&#45;bit PowerPC Linux." alt="" coords="688,515,910,540"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="582,433,630,469,685,501,717,514,712,514,683,506,627,474,581,438"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1RISCVELFTargetObjectFile.html" title="This implementation is used for RISC&#45;V ELF targets." alt="" coords="692,564,906,590"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="570,436,619,496,651,526,686,551,711,564,706,563,683,555,647,530,615,500,569,441"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1SparcELFTargetObjectFile.html" title=" " alt="" coords="696,613,902,639"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="563,437,583,477,610,521,644,564,686,600,708,613,702,613,683,604,641,568,606,524,579,479,561,442"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1SystemZELFTargetObjectFile.html" title="This implementation is used for SystemZ ELF targets." alt="" coords="686,663,912,688"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="558,438,576,488,602,545,638,602,661,627,686,649,705,662,700,662,683,654,657,631,634,605,597,548,571,490,556,443"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1X86ELFTargetObjectFile.html" title="This implementation is used for X86 ELF targets that don&#39;t have a further specialization (and as a ba..." alt="" coords="701,712,897,738"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="555,438,570,497,595,568,612,604,632,639,657,671,686,699,704,712,699,711,683,703,653,675,628,642,607,607,590,570,565,499,553,443"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1XCoreTargetObjectFile.html" title=" " alt="" coords="706,761,892,787"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="553,438,565,507,587,591,605,634,627,676,653,715,686,748,709,764,703,763,683,752,649,718,622,679,600,636,582,592,559,508,550,443"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TargetLoweringObjectFile.html" title=" " alt="" coords="209,392,409,418"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="424,402,459,404,454,406,425,407"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MCObjectFileInfo.html" title=" " alt="" coords="5,392,161,418"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="175,403,210,403,206,406,178,407"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1X86__64ELFTargetObjectFile.html" title="This implementation is used for X86_64 ELF targets, and defers to X86ELFTargetObjectFile for commonal..." alt="" coords="962,712,1178,738"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="912,722,964,725,959,725,913,727"/>
+</map>

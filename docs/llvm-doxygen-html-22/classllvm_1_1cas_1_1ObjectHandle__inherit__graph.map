@@ -1,0 +1,5 @@
+<map id="llvm::cas::ObjectHandle" name="llvm::cas::ObjectHandle">
+<area shape="rect" id="Node000001" title="Handle to a loaded object in a ObjectStore instance." alt="" coords="11,79,172,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1cas_1_1ReferenceBase.html" title="Base class for references to things in ObjectStore." alt="" coords="5,5,178,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,45,94,80,89,78,90,48"/>
+</map>

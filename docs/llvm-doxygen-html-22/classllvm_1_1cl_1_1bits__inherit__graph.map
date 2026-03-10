@@ -1,0 +1,9 @@
+<map id="llvm::cl::bits&lt; DataType, Storage, ParserClass &gt;" name="llvm::cl::bits&lt; DataType, Storage, ParserClass &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,207,188,248"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1cl_1_1Option.html" title=" " alt="" coords="5,124,115,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,162,98,206,93,207,72,166"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1cl_1_1bits__storage_3_01DataType_00_01bool_01_4.html" title=" " alt="" coords="138,117,280,158"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,167,130,209,127,204,172,169"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1cl_1_1bits__storage.html" title=" " alt="" coords="115,5,304,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="211,59,212,118,207,116,208,64"/>
+</map>
