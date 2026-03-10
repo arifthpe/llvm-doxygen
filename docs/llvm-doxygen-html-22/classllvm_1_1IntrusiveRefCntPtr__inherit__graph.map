@@ -1,0 +1,17 @@
+<map id="llvm::IntrusiveRefCntPtr&lt; T &gt;" name="llvm::IntrusiveRefCntPtr&lt; T &gt;">
+<area shape="rect" id="Node000001" title="A smart pointer to a reference&#45;counted object that inherits from RefCountedBase or ThreadSafeRefCount..." alt="" coords="5,247,200,273"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1IntrusiveRefCntPtr.html" title=" " alt="" coords="468,21,630,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,231,125,194,149,149,181,105,200,86,222,70,251,55,282,43,347,30,410,26,470,29,465,32,410,31,347,35,284,48,253,60,225,74,204,90,185,109,153,152,130,196,115,233"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1IntrusiveRefCntPtr.html" title=" " alt="" coords="468,87,630,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,233,162,183,190,158,223,138,284,116,349,103,412,98,470,99,465,102,412,103,349,108,285,121,225,143,193,162,165,186,123,236"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1IntrusiveRefCntPtr.html" title=" " alt="" coords="465,152,634,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,237,175,212,223,192,285,178,349,170,467,167,462,170,349,175,286,183,224,197,177,217,137,240"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1IntrusiveRefCntPtr.html" title=" " alt="" coords="433,232,666,288"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="215,258,434,258,431,262,216,263"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1IntrusiveRefCntPtr.html" title=" " alt="" coords="433,319,666,375"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="133,280,176,306,225,327,276,339,330,346,435,353,430,354,329,352,275,344,223,332,173,311,133,285"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1IntrusiveRefCntPtr.html" title=" " alt="" coords="450,399,648,439"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="121,283,165,335,193,360,225,379,280,400,338,413,396,420,452,424,447,425,396,425,337,419,278,405,222,384,190,364,161,338,120,289"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1IntrusiveRefCntPtr.html" title=" " alt="" coords="453,464,646,505"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="113,285,130,325,153,370,185,414,204,433,225,449,279,474,338,488,397,493,455,496,450,496,397,499,337,493,278,479,222,453,200,437,180,417,148,373,125,327,112,290"/>
+</map>

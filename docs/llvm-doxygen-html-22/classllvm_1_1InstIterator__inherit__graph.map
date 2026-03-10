@@ -1,0 +1,7 @@
+<map id="llvm::InstIterator&lt; BB_t, BB_i_t, BI_t, II_t &gt;" name="llvm::InstIterator&lt; BB_t, BB_i_t, BI_t, II_t &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,114,151,170"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1InstIterator.html" title=" " alt="" coords="424,49,636,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,113,174,111,303,94,426,87,421,89,304,99,175,117,167,118"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1InstIterator.html" title=" " alt="" coords="418,156,642,242"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,176,150,190,175,201,236,213,299,219,360,218,414,217,420,217,360,224,299,224,235,219,174,206,148,195,125,181"/>
+</map>

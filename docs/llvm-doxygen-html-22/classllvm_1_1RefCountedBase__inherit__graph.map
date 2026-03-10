@@ -1,0 +1,13 @@
+<map id="llvm::RefCountedBase&lt; Derived &gt;" name="llvm::RefCountedBase&lt; Derived &gt;">
+<area shape="rect" id="Node000001" title="A CRTP mixin class that adds reference counting to a type." alt="" coords="5,63,159,103"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RefCountedBase.html" title=" " alt="" coords="329,63,482,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,80,331,81,326,85,174,86"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1vfs_1_1OutputBackend.html" title="Interface for virtualized outputs." alt="" coords="531,70,701,96"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="497,80,534,83,528,83,498,86"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1vfs_1_1HashingOutputBackend.html" title="An output backend that only generates the hash for outputs." alt="" coords="774,5,940,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="687,63,771,46,776,45,688,69"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1vfs_1_1OnDiskOutputBackend.html" title="An output backend that creates files on disk, wrapping APIs in sys::fs." alt="" coords="750,70,963,96"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="716,80,752,83,747,83,717,86"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1vfs_1_1ProxyOutputBackend.html" title="A helper class for proxying another backend, with the default implementation to forward to the underl..." alt="" coords="755,120,958,145"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="698,97,793,119,788,119,697,102"/>
+</map>

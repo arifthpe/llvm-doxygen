@@ -1,0 +1,7 @@
+<map id="llvm::OptPassGate" name="llvm::OptPassGate">
+<area shape="rect" id="Node000001" title="Extensions to this class implement mechanisms to disable passes and individual optimizations at compi..." alt="" coords="64,5,196,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1OptBisect.html" title="This class implements a mechanism to disable passes and individual optimizations at compile time base..." alt="" coords="5,79,117,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,41,74,81,71,76,106,43"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1OptDisable.html" title="This class implements a mechanism to disable passes and individual optimizations at compile time base..." alt="" coords="140,79,259,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,39,191,79,185,78,151,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::RegAllocBase" name="llvm::RegAllocBase">
+<area shape="rect" id="Node000001" title="RegAllocBase provides the register allocation driver and interface that can be extended to add intere..." alt="" coords="56,5,193,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RABasic.html" title="RABasic provides a minimal implementation of the basic register allocation algorithm." alt="" coords="5,79,111,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,42,71,81,67,77,101,43"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1RAGreedy.html" title=" " alt="" coords="134,79,248,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,40,183,79,177,78,145,45"/>
+</map>

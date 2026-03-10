@@ -1,0 +1,5 @@
+<map id="llvm::RegAllocPriorityAdvisorProvider" name="llvm::RegAllocPriorityAdvisorProvider">
+<area shape="rect" id="Node000001" title="Common provider for getting the priority advisor and logging rewards." alt="" coords="5,5,197,46"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ReleaseModePriorityAdvisorProvider.html" title=" " alt="" coords="14,94,188,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,60,103,95,99,93,99,64"/>
+</map>

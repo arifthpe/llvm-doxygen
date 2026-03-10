@@ -1,0 +1,13 @@
+<map id="llvm::RegAllocEvictionAdvisorAnalysis" name="llvm::RegAllocEvictionAdvisorAnalysis">
+<area shape="rect" id="Node000001" title="A MachineFunction analysis for fetching the Eviction Advisor." alt="" coords="1094,62,1291,102"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="805,62,1044,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1060,79,1096,82,1090,82,1060,85"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="354,28,593,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="609,54,781,66,807,71,802,71,781,71,609,59"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,28,142,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="157,46,355,46,352,51,157,51"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="395,94,552,134"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="567,116,670,116,781,109,835,103,840,103,781,115,670,121,567,121"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,94,142,134"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="157,111,395,111,394,117,158,117"/>
+</map>

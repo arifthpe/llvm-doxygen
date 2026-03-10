@@ -1,0 +1,23 @@
+<map id="llvm::OuterAnalysisManagerProxy&lt; AnalysisManagerT, IRUnitT, ExtraArgTs &gt;" name="llvm::OuterAnalysisManagerProxy&lt; AnalysisManagerT, IRUnitT, ExtraArgTs &gt;">
+<area shape="rect" id="Node000001" title="An analysis over an &quot;inner&quot; IR unit that provides access to an analysis manager over a &quot;outer&quot; IR uni..." alt="" coords="1064,217,1249,272"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1OuterAnalysisManagerProxy.html" title=" " alt="" coords="1553,57,1820,112"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1180,202,1218,154,1243,131,1272,113,1340,87,1413,73,1485,67,1555,70,1550,70,1485,72,1414,78,1342,92,1274,118,1247,135,1222,157,1183,206"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1OuterAnalysisManagerProxy.html" title=" " alt="" coords="1577,137,1796,192"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1227,208,1272,193,1351,177,1431,168,1579,163,1574,163,1431,173,1352,183,1274,198,1228,213"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1OuterAnalysisManagerProxy.html" title=" " alt="" coords="1556,217,1817,272"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1265,242,1558,244,1553,245,1265,247"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1OuterAnalysisManagerProxy.html" title=" " alt="" coords="1580,297,1793,352"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1229,276,1274,291,1353,306,1434,316,1583,326,1577,326,1433,321,1352,311,1272,296,1228,281"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1OuterAnalysisManagerProxy.html" title=" " alt="" coords="1580,377,1793,432"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1183,283,1222,332,1247,354,1274,371,1311,386,1350,398,1430,413,1509,417,1578,418,1583,417,1509,422,1430,418,1349,404,1309,391,1272,376,1244,358,1219,335,1181,288"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="815,209,1014,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1030,242,1066,244,1060,245,1030,247"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="379,167,578,237"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="593,202,690,208,791,218,817,224,812,224,791,223,690,213,594,208"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,182,142,222"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="157,199,380,200,377,204,158,205"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="400,266,556,306"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="572,290,677,291,735,288,791,282,812,280,817,279,791,287,735,294,678,297,572,295"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,266,142,306"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="157,283,401,284,399,288,158,289"/>
+</map>

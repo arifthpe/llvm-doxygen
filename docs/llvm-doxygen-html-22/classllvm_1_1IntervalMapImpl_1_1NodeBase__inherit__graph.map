@@ -1,0 +1,30 @@
+<map id="llvm::IntervalMapImpl::NodeBase&lt; T1, T2, N &gt;" name="llvm::IntervalMapImpl::NodeBase&lt; T1, T2, N &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,172,176,212"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1IntervalMapImpl_1_1NodeBase.html" title=" " alt="" coords="403,62,552,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,165,199,156,404,110,401,114,200,161,173,169"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1IntervalMapImpl_1_1NodeBase.html" title=" " alt="" coords="398,156,556,212"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,187,400,184,396,187,192,192"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1IntervalMapImpl_1_1NodeBase.html" title=" " alt="" coords="390,336,565,392"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="153,216,414,334,410,337,152,222"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1IntervalMapImpl_1_1NodeBase.html" title=" " alt="" coords="589,633,762,719"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="103,225,141,311,168,358,202,401,246,443,295,482,399,550,501,603,591,644,586,644,499,608,396,554,292,486,242,447,198,404,164,361,136,314,103,230"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1IntervalMapImpl_1_1BranchNode.html" title=" " alt="" coords="1245,137,1428,193"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="572,179,1247,165,1243,169,572,184"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1IntervalMapImpl_1_1BranchNode.html" title=" " alt="" coords="1248,5,1426,61"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="552,147,588,131,698,90,784,60,873,37,988,17,1056,11,1124,11,1250,20,1244,22,1124,16,1056,17,989,22,874,42,786,65,700,95,590,136,555,151"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1IntervalMapImpl_1_1BranchNode.html" title=" " alt="" coords="786,91,965,146"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="571,166,589,163,788,131,784,134,589,168,573,170"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="980,134,989,135,1123,149,1247,160,1242,161,1123,154,988,140,981,139"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="979,94,988,92,1096,76,1203,61,1250,53,1245,55,1204,66,1097,82,989,97,981,99"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1IntervalMapImpl_1_1LeafNode.html" title=" " alt="" coords="1253,415,1420,470"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="537,397,623,446,733,501,858,554,924,575,989,592,1051,607,1101,618,1124,619,1148,616,1174,607,1202,592,1212,584,1215,573,1218,561,1225,548,1263,505,1300,472,1305,469,1267,508,1230,551,1223,563,1220,575,1216,587,1205,597,1176,612,1149,621,1124,624,1100,623,1050,613,988,597,922,580,857,559,731,506,620,451,536,403"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1IntervalMapImpl_1_1LeafNode.html" title=" " alt="" coords="1243,268,1430,353"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="566,328,691,289,768,270,851,253,938,241,1027,236,1117,238,1204,251,1252,267,1247,267,1203,256,1116,244,1027,241,938,247,851,259,769,275,693,294,568,333"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1IntervalMapImpl_1_1LeafNode.html" title=" " alt="" coords="794,379,957,434"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="580,372,797,397,792,399,581,377"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="972,411,1255,436,1250,436,972,417"/>
+<area shape="poly" id="edge13_Node000010_Node000009" title=" " alt="" coords="967,371,988,365,1048,353,1095,347,1203,335,1245,329,1240,331,1204,340,1096,353,1049,358,989,370,968,376"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1IntervalMapImpl_1_1LeafNode.html" title=" " alt="" coords="1228,561,1446,676"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="896,446,935,507,960,536,990,560,1047,587,1108,605,1170,615,1230,622,1225,622,1169,620,1107,610,1045,592,987,564,957,540,930,510,894,451"/>
+<area shape="poly" id="edge16_Node000012_Node000011" title=" " alt="" coords="778,665,1203,629,1225,630,1230,629,1204,634,778,671"/>
+</map>

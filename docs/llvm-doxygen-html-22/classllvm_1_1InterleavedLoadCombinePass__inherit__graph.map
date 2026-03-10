@@ -1,0 +1,7 @@
+<map id="llvm::InterleavedLoadCombinePass" name="llvm::InterleavedLoadCombinePass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,227,233,253"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="9,137,229,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,191,121,228,117,226,117,195"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="51,5,187,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,60,122,137,116,136,117,64"/>
+</map>

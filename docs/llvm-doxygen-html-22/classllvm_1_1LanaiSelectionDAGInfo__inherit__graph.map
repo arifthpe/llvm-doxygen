@@ -1,0 +1,7 @@
+<map id="llvm::LanaiSelectionDAGInfo" name="llvm::LanaiSelectionDAGInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="20,153,209,178"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SelectionDAGGenTargetInfo.html" title="Proxy class that targets should inherit from if they wish to use the generated node descriptions." alt="" coords="5,79,224,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,118,117,153,112,151,113,122"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SelectionDAGTargetInfo.html" title="Targets can subclass this to parameterize the SelectionDAG lowering and instruction selection process..." alt="" coords="17,5,212,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,44,117,79,112,78,113,49"/>
+</map>

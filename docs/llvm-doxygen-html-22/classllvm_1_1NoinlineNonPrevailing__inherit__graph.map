@@ -1,0 +1,7 @@
+<map id="llvm::NoinlineNonPrevailing" name="llvm::NoinlineNonPrevailing">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,207,187,233"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="9,117,183,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,171,98,208,94,206,94,175"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="28,5,164,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,59,99,117,93,116,95,64"/>
+</map>

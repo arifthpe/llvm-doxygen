@@ -1,0 +1,13 @@
+<map id="llvm::InlineAdvisorAnalysis" name="llvm::InlineAdvisorAnalysis">
+<area shape="rect" id="Node000001" title="The InlineAdvisorAnalysis is a module pass because the InlineAdvisor needs to capture state right bef..." alt="" coords="95,319,273,344"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="99,229,269,269"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,283,186,320,182,317,182,286"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,117,176,158"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,167,170,228,165,229,116,172"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="22,5,159,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,59,93,117,88,116,90,64"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="200,117,357,158"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="254,168,202,230,199,226,250,171"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="210,5,347,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="280,59,281,118,276,116,277,64"/>
+</map>

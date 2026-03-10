@@ -1,0 +1,5 @@
+<map id="llvm::RNSuccIterator&lt; NodeRef, BlockT, RegionT &gt;" name="llvm::RNSuccIterator&lt; NodeRef, BlockT, RegionT &gt;">
+<area shape="rect" id="Node000001" title="Hierarchical RegionNode successor iterator." alt="" coords="5,5,207,46"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RNSuccIterator_3_01FlatIt_3_01NodeRef_01_4_00_01BlockT_00_01RegionT_01_4.html" title="Flat RegionNode iterator." alt="" coords="34,137,178,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,60,109,137,103,136,104,63"/>
+</map>
