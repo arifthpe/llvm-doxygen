@@ -1,0 +1,219 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="5,1258,139,1284"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="192,5,406,46"/>
+<area shape="poly" id="edge3325_Node000000_Node000001" title=" " alt="" coords="71,1242,80,997,101,621,116,429,134,259,157,129,170,85,185,57,202,44,199,49,189,61,175,87,162,130,140,260,121,429,106,621,86,998,77,1243"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="202,71,396,111"/>
+<area shape="poly" id="edge3327_Node000000_Node000003" title=" " alt="" coords="72,1242,81,1009,102,653,117,471,136,311,158,189,171,147,185,121,203,107,201,112,189,125,176,149,163,190,141,312,123,472,108,653,86,1009,77,1243"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="198,136,401,161"/>
+<area shape="poly" id="edge3329_Node000000_Node000005" title=" " alt="" coords="72,1243,81,1018,103,677,118,505,136,352,158,236,171,196,185,172,202,159,200,164,189,175,176,199,164,237,142,353,123,505,108,678,87,1018,77,1243"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="218,185,380,226"/>
+<area shape="poly" id="edge3331_Node000000_Node000007" title=" " alt="" coords="72,1242,83,1030,106,710,121,548,139,405,160,296,172,259,185,236,199,223,220,214,217,218,202,227,189,239,177,261,166,298,145,406,126,549,111,710,88,1030,77,1243"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="206,250,393,276"/>
+<area shape="poly" id="edge3333_Node000000_Node000009" title=" " alt="" coords="72,1242,83,1038,106,734,122,580,140,445,161,342,172,307,185,285,207,271,204,275,189,289,177,309,166,343,145,446,127,581,111,734,89,1038,77,1242"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="212,300,386,325"/>
+<area shape="poly" id="edge3335_Node000000_Node000011" title=" " alt="" coords="72,1242,84,1047,108,759,123,613,141,485,162,388,173,355,185,335,213,317,210,322,189,338,178,357,167,390,146,486,129,614,113,759,90,1047,78,1242"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="191,349,408,374"/>
+<area shape="poly" id="edge3345_Node000000_Node000021" title=" " alt="" coords="70,1243,70,1069,74,946,82,811,95,677,116,554,129,500,145,453,164,414,185,384,201,373,198,378,189,387,168,416,150,455,135,502,121,555,101,678,87,812,79,946,76,1070,75,1243"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="211,398,388,424"/>
+<area shape="poly" id="edge3347_Node000000_Node000023" title=" " alt="" coords="70,1242,72,1077,76,960,85,834,99,708,119,593,147,498,165,461,185,433,212,416,209,421,189,437,169,464,152,500,124,594,104,709,90,834,82,961,77,1077,76,1242"/>
+<area shape="rect" id="Node000025" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="195,448,404,473"/>
+<area shape="poly" id="edge3349_Node000000_Node000025" title=" " alt="" coords="71,1243,74,1087,88,858,102,740,122,632,149,543,166,509,185,483,201,471,199,476,189,486,170,511,154,545,127,633,107,741,93,859,79,1087,76,1243"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="211,497,388,522"/>
+<area shape="poly" id="edge3351_Node000000_Node000027" title=" " alt="" coords="71,1242,76,1095,91,882,106,772,125,672,151,590,167,558,185,533,212,516,210,521,189,537,172,560,156,592,130,673,111,773,97,882,81,1095,76,1242"/>
+<area shape="rect" id="Node000029" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="217,547,382,587"/>
+<area shape="poly" id="edge3353_Node000000_Node000029" title=" " alt="" coords="72,1242,79,1107,97,914,111,815,130,724,155,649,169,620,185,597,199,585,218,576,215,581,202,589,189,601,173,622,159,651,135,725,117,816,102,914,84,1107,77,1243"/>
+<area shape="rect" id="Node000031" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="209,612,390,637"/>
+<area shape="poly" id="edge3355_Node000000_Node000031" title=" " alt="" coords="72,1242,80,1115,99,937,113,846,132,763,156,695,169,668,185,648,210,632,208,637,189,652,174,671,161,697,137,764,119,847,104,938,85,1116,77,1243"/>
+<area shape="rect" id="Node000033" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="202,661,396,702"/>
+<area shape="poly" id="edge3357_Node000000_Node000033" title=" " alt="" coords="73,1242,83,1128,104,969,119,889,137,816,159,755,185,713,203,700,201,705,189,717,164,757,142,817,124,890,109,970,89,1128,78,1243"/>
+<area shape="rect" id="Node000036" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="202,727,396,767"/>
+<area shape="poly" id="edge3360_Node000000_Node000036" title=" " alt="" coords="74,1242,86,1140,108,1001,123,931,141,867,161,815,185,779,203,765,201,770,189,782,166,817,146,869,129,933,114,1002,91,1141,79,1243"/>
+<area shape="rect" id="Node000039" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="202,792,396,833"/>
+<area shape="poly" id="edge3363_Node000000_Node000039" title=" " alt="" coords="74,1243,89,1152,112,1033,145,918,164,873,185,843,203,830,201,835,189,846,168,876,150,920,118,1034,94,1153,80,1243"/>
+<area shape="rect" id="Node000042" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="198,857,400,882"/>
+<area shape="poly" id="edge3366_Node000000_Node000042" title=" " alt="" coords="70,1243,74,1172,89,1078,104,1027,124,978,150,933,185,893,205,881,202,885,188,897,155,936,128,981,109,1029,94,1079,79,1172,76,1243"/>
+<area shape="rect" id="Node000044" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="213,907,386,947"/>
+<area shape="poly" id="edge3368_Node000000_Node000044" title=" " alt="" coords="73,1242,81,1183,100,1107,114,1067,133,1027,156,991,185,958,214,941,211,946,188,962,161,994,138,1030,119,1069,105,1108,86,1184,78,1243"/>
+<area shape="rect" id="Node000046" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="216,972,383,1013"/>
+<area shape="poly" id="edge3370_Node000000_Node000046" title=" " alt="" coords="76,1242,88,1195,109,1136,141,1076,161,1048,185,1024,217,1006,214,1011,188,1028,165,1051,145,1078,114,1138,93,1196,81,1243"/>
+<area shape="rect" id="Node000048" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="216,1037,383,1078"/>
+<area shape="poly" id="edge3372_Node000000_Node000048" title=" " alt="" coords="81,1243,96,1208,119,1166,148,1125,185,1089,217,1073,214,1077,188,1093,152,1128,123,1169,101,1210,86,1244"/>
+<area shape="rect" id="Node000050" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="217,1103,382,1143"/>
+<area shape="poly" id="edge3374_Node000000_Node000050" title=" " alt="" coords="89,1245,130,1197,156,1173,185,1153,218,1139,215,1143,188,1157,160,1177,134,1201,94,1247"/>
+<area shape="rect" id="Node000052" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="205,1168,394,1193"/>
+<area shape="poly" id="edge3376_Node000000_Node000052" title=" " alt="" coords="103,1248,142,1224,186,1203,226,1192,223,1196,188,1208,144,1229,107,1251"/>
+<area shape="rect" id="Node000064" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="187,1217,412,1258"/>
+<area shape="poly" id="edge3388_Node000000_Node000064" title=" " alt="" coords="152,1257,188,1252,184,1256,156,1261"/>
+<area shape="rect" id="Node000066" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="215,1283,384,1323"/>
+<area shape="poly" id="edge3390_Node000000_Node000066" title=" " alt="" coords="152,1280,216,1289,212,1293,155,1285"/>
+<area shape="rect" id="Node000068" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="214,1348,385,1389"/>
+<area shape="poly" id="edge3392_Node000000_Node000068" title=" " alt="" coords="105,1290,188,1333,222,1346,218,1349,186,1337,108,1295"/>
+<area shape="rect" id="Node000070" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="200,1413,398,1454"/>
+<area shape="poly" id="edge3394_Node000000_Node000070" title=" " alt="" coords="89,1294,132,1348,158,1375,188,1398,213,1412,208,1414,185,1403,155,1379,128,1351,90,1300"/>
+<area shape="rect" id="Node000072" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="220,1479,378,1519"/>
+<area shape="poly" id="edge3396_Node000000_Node000072" title=" " alt="" coords="81,1296,99,1335,121,1380,151,1425,188,1464,222,1483,218,1485,185,1468,146,1428,116,1382,94,1337,82,1301"/>
+<area shape="rect" id="Node000074" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="205,1544,394,1569"/>
+<area shape="poly" id="edge3398_Node000000_Node000074" title=" " alt="" coords="77,1297,90,1349,110,1412,142,1475,163,1504,188,1529,208,1542,204,1544,185,1533,159,1508,138,1478,105,1414,85,1350,77,1302"/>
+<area shape="rect" id="Node000076" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="209,1593,390,1618"/>
+<area shape="poly" id="edge3400_Node000000_Node000076" title=" " alt="" coords="75,1297,85,1358,103,1435,117,1475,136,1513,159,1549,188,1580,211,1594,206,1596,185,1584,155,1552,131,1516,112,1477,98,1436,80,1359,75,1302"/>
+<area shape="rect" id="Node000078" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="210,1643,389,1683"/>
+<area shape="poly" id="edge3402_Node000000_Node000078" title=" " alt="" coords="74,1297,82,1367,98,1455,112,1502,132,1548,157,1591,188,1629,212,1646,207,1648,185,1633,152,1594,127,1551,107,1504,93,1457,76,1367,74,1302"/>
+<area shape="rect" id="Node000080" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="211,1708,388,1749"/>
+<area shape="poly" id="edge3404_Node000000_Node000080" title=" " alt="" coords="77,1297,94,1388,118,1507,150,1620,169,1664,189,1693,213,1711,208,1713,185,1697,164,1666,145,1622,113,1508,89,1389,77,1302"/>
+<area shape="rect" id="Node000082" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="214,1773,384,1814"/>
+<area shape="poly" id="edge3406_Node000000_Node000082" title=" " alt="" coords="76,1297,91,1401,114,1539,129,1608,146,1672,166,1724,189,1758,216,1778,211,1780,185,1762,162,1726,141,1673,124,1610,108,1540,86,1402,76,1302"/>
+<area shape="rect" id="Node000084" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="214,1839,384,1879"/>
+<area shape="poly" id="edge3408_Node000000_Node000084" title=" " alt="" coords="75,1297,89,1414,110,1571,124,1651,143,1724,164,1783,189,1824,216,1844,211,1846,185,1827,159,1786,137,1725,119,1652,104,1572,83,1414,75,1302"/>
+<area shape="rect" id="Node000086" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="217,1904,382,1945"/>
+<area shape="poly" id="edge3410_Node000000_Node000086" title=" " alt="" coords="75,1297,86,1425,105,1602,120,1693,139,1775,162,1843,175,1869,189,1889,202,1901,219,1911,214,1913,199,1905,185,1893,170,1872,157,1845,134,1777,115,1694,100,1603,81,1426,75,1302"/>
+<area shape="rect" id="Node000088" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="217,1969,382,2010"/>
+<area shape="poly" id="edge3412_Node000000_Node000088" title=" " alt="" coords="74,1297,84,1437,101,1634,116,1735,135,1827,159,1903,173,1932,189,1955,202,1966,219,1976,214,1978,199,1971,185,1958,169,1935,154,1905,130,1828,111,1736,96,1634,78,1437,74,1302"/>
+<area shape="rect" id="Node000090" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="210,2035,388,2075"/>
+<area shape="poly" id="edge3414_Node000000_Node000090" title=" " alt="" coords="74,1297,81,1448,97,1665,112,1776,131,1879,157,1963,172,1995,189,2020,212,2038,207,2040,185,2023,167,1998,152,1965,126,1880,106,1777,92,1665,76,1449,74,1302"/>
+<area shape="rect" id="Node000092" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="219,2100,380,2141"/>
+<area shape="poly" id="edge3416_Node000000_Node000092" title=" " alt="" coords="73,1297,79,1460,94,1696,108,1818,127,1930,154,2023,170,2058,189,2085,203,2098,221,2108,216,2110,200,2102,185,2089,166,2061,149,2024,122,1931,102,1819,88,1696,74,1460,73,1302"/>
+<area shape="rect" id="Node000094" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="214,2165,385,2206"/>
+<area shape="poly" id="edge3418_Node000000_Node000094" title=" " alt="" coords="73,1297,77,1472,81,1594,90,1727,104,1860,124,1982,152,2082,169,2121,189,2150,216,2171,211,2173,185,2154,164,2124,147,2084,119,1983,98,1861,85,1728,76,1595,72,1472,73,1302"/>
+<area shape="rect" id="Node000096" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="216,2231,382,2271"/>
+<area shape="poly" id="edge3420_Node000000_Node000096" title=" " alt="" coords="75,1297,90,1496,114,1788,129,1935,147,2064,167,2163,178,2196,189,2216,202,2228,218,2238,213,2239,198,2232,185,2219,173,2198,162,2164,142,2065,124,1935,109,1788,85,1496,75,1302"/>
+<area shape="rect" id="Node000098" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="216,2296,382,2337"/>
+<area shape="poly" id="edge3422_Node000000_Node000098" title=" " alt="" coords="75,1297,89,1508,112,1820,127,1979,145,2118,166,2224,177,2260,189,2281,202,2293,218,2303,213,2305,198,2297,185,2285,172,2262,161,2225,140,2119,122,1979,107,1821,84,1508,75,1302"/>
+<area shape="rect" id="Node000100" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="207,2361,392,2402"/>
+<area shape="poly" id="edge3424_Node000000_Node000100" title=" " alt="" coords="75,1297,88,1520,110,1853,125,2022,144,2172,165,2285,177,2324,189,2347,209,2364,203,2365,185,2350,172,2326,160,2287,138,2172,120,2023,105,1853,82,1520,74,1302"/>
+<area shape="rect" id="Node000102" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="209,2427,390,2467"/>
+<area shape="poly" id="edge3426_Node000000_Node000102" title=" " alt="" coords="74,1297,87,1532,108,1886,123,2066,142,2225,164,2347,176,2387,189,2412,211,2431,205,2431,185,2415,171,2389,158,2348,136,2226,118,2067,103,1886,81,1532,74,1302"/>
+<area shape="rect" id="Node000104" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="213,2492,386,2533"/>
+<area shape="poly" id="edge3428_Node000000_Node000104" title=" " alt="" coords="74,1297,86,1543,106,1919,121,2110,140,2279,162,2408,175,2451,189,2477,215,2498,210,2499,185,2481,170,2453,157,2409,135,2280,116,2110,101,1919,80,1544,74,1302"/>
+<area shape="rect" id="Node000106" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="208,2557,391,2598"/>
+<area shape="poly" id="edge3430_Node000000_Node000106" title=" " alt="" coords="74,1297,85,1556,104,1952,119,2154,138,2333,161,2469,175,2515,189,2543,210,2561,205,2561,185,2546,170,2517,156,2470,133,2333,114,2154,99,1952,79,1556,74,1302"/>
+<area shape="rect" id="Node000108" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="221,2623,378,2663"/>
+<area shape="poly" id="edge3432_Node000000_Node000108" title=" " alt="" coords="74,1297,84,1567,102,1984,117,2197,136,2386,160,2530,174,2579,189,2608,203,2621,223,2633,217,2632,200,2625,185,2611,169,2581,155,2531,131,2387,112,2198,97,1984,78,1567,74,1302"/>
+<area shape="rect" id="Node000002" href="$classDXNotSupportedError.html" title=" " alt="" coords="511,13,659,38"/>
+<area shape="poly" id="edge3326_Node000001_Node000002" title=" " alt="" coords="420,24,513,24,509,27,424,28"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1BinaryStreamError.html" title="Base class for errors originating when parsing raw PDB files." alt="" coords="505,78,665,104"/>
+<area shape="poly" id="edge3328_Node000003_Node000004" title=" " alt="" coords="410,89,507,89,503,93,414,93"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1CGDataError.html" title=" " alt="" coords="520,136,650,161"/>
+<area shape="poly" id="edge3330_Node000005_Node000006" title=" " alt="" coords="415,146,522,147,518,150,418,150"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1DWARFDebugNames_1_1SentinelError.html" title="Error returned by NameIndex::getEntry to report it has reached the end of the entry list." alt="" coords="494,185,676,226"/>
+<area shape="poly" id="edge3332_Node000007_Node000008" title=" " alt="" coords="395,204,496,204,492,207,398,208"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1DWPError.html" title=" " alt="" coords="528,250,642,276"/>
+<area shape="poly" id="edge3334_Node000009_Node000010" title=" " alt="" coords="407,261,530,261,526,265,410,265"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1ECError.html" title="This class wraps a std::error_code in a Error." alt="" coords="535,300,635,325"/>
+<area shape="poly" id="edge3336_Node000011_Node000012" title=" " alt="" coords="401,310,536,311,532,314,404,314"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="768,195,957,235"/>
+<area shape="poly" id="edge3337_Node000012_Node000013" title=" " alt="" coords="649,304,680,297,709,286,723,277,733,267,742,257,757,246,787,234,783,238,760,251,746,261,737,271,727,281,712,291,682,302,652,308"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="771,260,954,301"/>
+<area shape="poly" id="edge3339_Node000012_Node000015" title=" " alt="" coords="649,303,772,289,768,293,652,307"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="770,325,955,366"/>
+<area shape="poly" id="edge3341_Node000012_Node000017" title=" " alt="" coords="649,318,771,333,767,336,652,322"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="778,391,947,431"/>
+<area shape="poly" id="edge3343_Node000012_Node000019" title=" " alt="" coords="649,316,682,323,712,334,727,344,737,355,746,365,760,375,787,389,783,391,757,380,742,369,733,358,723,348,709,339,680,328,652,321"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1HTTPServerError.html" title=" " alt="" coords="1026,202,1180,228"/>
+<area shape="poly" id="edge3338_Node000013_Node000014" title=" " alt="" coords="971,213,1028,213,1023,217,974,217"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1object_1_1BinaryError.html" title="Base class for all errors indicating malformed binary files." alt="" coords="1022,268,1184,293"/>
+<area shape="poly" id="edge3340_Node000015_Node000016" title=" " alt="" coords="968,278,1024,279,1019,282,971,283"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1vfs_1_1OutputError.html" title="Error related to an OutputFile." alt="" coords="1030,333,1176,358"/>
+<area shape="poly" id="edge3342_Node000017_Node000018" title=" " alt="" coords="969,343,1031,344,1027,347,972,348"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1windows__manifest_1_1WindowsManifestError.html" title=" " alt="" coords="1022,391,1184,431"/>
+<area shape="poly" id="edge3344_Node000019_Node000020" title=" " alt="" coords="961,409,1024,410,1019,412,964,413"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1ErrorDiagnostic.html" title="Class to represent an error holding a diagnostic with location information used when printing it." alt="" coords="514,349,657,374"/>
+<area shape="poly" id="edge3346_Node000021_Node000022" title=" " alt="" coords="422,360,515,360,511,363,425,364"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1ErrorList.html" title="Special ErrorInfo subclass representing a list of ErrorInfos." alt="" coords="534,398,636,424"/>
+<area shape="poly" id="edge3348_Node000023_Node000024" title=" " alt="" coords="401,409,536,409,532,413,404,413"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1ErrorReported.html" title="An error that has already been reported." alt="" coords="518,448,652,473"/>
+<area shape="poly" id="edge3350_Node000025_Node000026" title=" " alt="" coords="418,458,520,459,516,462,421,462"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1FileError.html" title="This class wraps a filename and another Error." alt="" coords="534,497,636,522"/>
+<area shape="poly" id="edge3352_Node000027_Node000028" title=" " alt="" coords="401,508,536,508,532,511,404,512"/>
+<area shape="rect" id="Node000030" href="$classllvm_1_1InstrProfError.html" title=" " alt="" coords="520,546,651,572"/>
+<area shape="poly" id="edge3354_Node000029_Node000030" title=" " alt="" coords="396,562,521,559,517,563,399,566"/>
+<area shape="rect" id="Node000032" href="$structllvm_1_1LLVMRemarkSetupErrorInfo.html" title=" " alt="" coords="488,596,682,637"/>
+<area shape="poly" id="edge3356_Node000031_Node000032" title=" " alt="" coords="403,619,490,617,486,621,407,623"/>
+<area shape="rect" id="Node000034" href="$structllvm_1_1LLVMRemarkSetupErrorInfo.html" title=" " alt="" coords="470,661,700,702"/>
+<area shape="poly" id="edge3358_Node000033_Node000034" title=" " alt="" coords="410,680,472,680,468,683,414,684"/>
+<area shape="rect" id="Node000035" href="$structllvm_1_1LLVMRemarkSetupFileError.html" title=" " alt="" coords="769,661,956,702"/>
+<area shape="poly" id="edge3359_Node000034_Node000035" title=" " alt="" coords="714,679,771,680,766,683,717,684"/>
+<area shape="rect" id="Node000037" href="$structllvm_1_1LLVMRemarkSetupErrorInfo.html" title=" " alt="" coords="460,727,710,767"/>
+<area shape="poly" id="edge3361_Node000036_Node000037" title=" " alt="" coords="410,745,462,745,458,749,414,749"/>
+<area shape="rect" id="Node000038" href="$structllvm_1_1LLVMRemarkSetupFormatError.html" title=" " alt="" coords="759,727,966,767"/>
+<area shape="poly" id="edge3362_Node000037_Node000038" title=" " alt="" coords="724,745,760,745,756,749,727,749"/>
+<area shape="rect" id="Node000040" href="$structllvm_1_1LLVMRemarkSetupErrorInfo.html" title=" " alt="" coords="460,792,710,833"/>
+<area shape="poly" id="edge3364_Node000039_Node000040" title=" " alt="" coords="410,810,462,811,458,814,413,814"/>
+<area shape="rect" id="Node000041" href="$structllvm_1_1LLVMRemarkSetupPatternError.html" title=" " alt="" coords="758,792,967,833"/>
+<area shape="poly" id="edge3365_Node000040_Node000041" title=" " alt="" coords="725,810,760,811,755,814,727,815"/>
+<area shape="rect" id="Node000043" href="$classllvm_1_1MachO_1_1TextAPIError.html" title=" " alt="" coords="496,857,674,882"/>
+<area shape="poly" id="edge3367_Node000042_Node000043" title=" " alt="" coords="414,868,498,868,493,871,417,872"/>
+<area shape="rect" id="Node000045" href="$classllvm_1_1NotFoundError.html" title=" " alt="" coords="516,914,654,940"/>
+<area shape="poly" id="edge3369_Node000044_Node000045" title=" " alt="" coords="399,925,518,925,514,929,402,929"/>
+<area shape="rect" id="Node000047" href="$classllvm_1_1OverflowError.html" title="Class to represent an overflow error that might result when manipulating a value." alt="" coords="518,980,652,1005"/>
+<area shape="poly" id="edge3371_Node000046_Node000047" title=" " alt="" coords="397,990,520,991,516,994,400,995"/>
+<area shape="rect" id="Node000049" href="$classllvm_1_1ResolverError.html" title=" " alt="" coords="518,1045,652,1070"/>
+<area shape="poly" id="edge3373_Node000048_Node000049" title=" " alt="" coords="397,1055,520,1056,516,1059,400,1060"/>
+<area shape="rect" id="Node000051" href="$classllvm_1_1RuntimeDyldError.html" title="Base class for errors originating in RuntimeDyld, e.g." alt="" coords="506,1110,664,1136"/>
+<area shape="poly" id="edge3375_Node000050_Node000051" title=" " alt="" coords="395,1121,508,1121,504,1125,398,1125"/>
+<area shape="rect" id="Node000053" href="$classllvm_1_1StringError.html" title="This class wraps a string in an Error." alt="" coords="528,1168,643,1193"/>
+<area shape="poly" id="edge3377_Node000052_Node000053" title=" " alt="" coords="408,1178,529,1179,525,1182,411,1183"/>
+<area shape="rect" id="Node000054" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="775,1029,950,1070"/>
+<area shape="poly" id="edge3378_Node000053_Node000054" title=" " alt="" coords="656,1169,684,1159,709,1146,724,1131,732,1115,741,1098,757,1081,782,1068,778,1072,760,1085,745,1101,737,1117,728,1134,712,1150,686,1164,659,1173"/>
+<area shape="rect" id="Node000056" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="775,1095,950,1135"/>
+<area shape="poly" id="edge3380_Node000053_Node000056" title=" " alt="" coords="656,1161,777,1134,773,1137,659,1166"/>
+<area shape="rect" id="Node000058" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="778,1160,947,1201"/>
+<area shape="poly" id="edge3382_Node000053_Node000058" title=" " alt="" coords="657,1178,779,1179,775,1182,660,1183"/>
+<area shape="rect" id="Node000060" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="775,1225,950,1266"/>
+<area shape="poly" id="edge3384_Node000053_Node000060" title=" " alt="" coords="657,1192,711,1203,788,1223,783,1226,710,1208,659,1197"/>
+<area shape="rect" id="Node000062" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="776,1291,949,1331"/>
+<area shape="poly" id="edge3386_Node000053_Node000062" title=" " alt="" coords="657,1183,686,1191,712,1204,729,1221,737,1240,745,1258,760,1276,781,1289,776,1291,757,1280,740,1261,732,1242,725,1224,709,1208,684,1195,659,1188"/>
+<area shape="rect" id="Node000055" href="$classllvm_1_1codeview_1_1CodeViewError.html" title="Base class for errors originating when parsing raw PDB files." alt="" coords="1015,1029,1191,1070"/>
+<area shape="poly" id="edge3379_Node000054_Node000055" title=" " alt="" coords="965,1047,1016,1048,1012,1051,967,1052"/>
+<area shape="rect" id="Node000057" href="$classllvm_1_1msf_1_1MSFError.html" title="Base class for errors originating when parsing raw PDB files." alt="" coords="1033,1102,1172,1128"/>
+<area shape="poly" id="edge3381_Node000056_Node000057" title=" " alt="" coords="964,1113,1035,1114,1030,1116,966,1117"/>
+<area shape="rect" id="Node000059" href="$classllvm_1_1pdb_1_1DIAError.html" title="Base class for errors originating in DIA SDK, e.g. COM calls." alt="" coords="1036,1168,1170,1193"/>
+<area shape="poly" id="edge3383_Node000058_Node000059" title=" " alt="" coords="962,1178,1038,1179,1033,1182,964,1183"/>
+<area shape="rect" id="Node000061" href="$classllvm_1_1pdb_1_1PDBError.html" title="Base class for errors originating when parsing raw PDB files." alt="" coords="1034,1233,1172,1258"/>
+<area shape="poly" id="edge3385_Node000060_Node000061" title=" " alt="" coords="964,1243,1036,1244,1031,1247,966,1248"/>
+<area shape="rect" id="Node000063" href="$classllvm_1_1pdb_1_1RawError.html" title="Base class for errors originating when parsing raw PDB files." alt="" coords="1034,1298,1172,1324"/>
+<area shape="poly" id="edge3387_Node000062_Node000063" title=" " alt="" coords="964,1309,1036,1310,1031,1312,966,1313"/>
+<area shape="rect" id="Node000065" href="$classllvm_1_1SymbolRemappingParseError.html" title=" " alt="" coords="486,1217,684,1258"/>
+<area shape="poly" id="edge3389_Node000064_Node000065" title=" " alt="" coords="426,1235,488,1236,484,1239,429,1240"/>
+<area shape="rect" id="Node000067" href="$classllvm_1_1UndefVarError.html" title="Class to represent an undefined variable error, which quotes that variable&#39;s name when printed." alt="" coords="518,1290,653,1316"/>
+<area shape="poly" id="edge3391_Node000066_Node000067" title=" " alt="" coords="398,1301,519,1301,515,1305,401,1305"/>
+<area shape="rect" id="Node000069" href="$classllvm_1_1coverage_1_1CoverageMapError.html" title=" " alt="" coords="500,1348,670,1389"/>
+<area shape="poly" id="edge3393_Node000068_Node000069" title=" " alt="" coords="399,1366,502,1367,497,1370,402,1371"/>
+<area shape="rect" id="Node000071" href="$classllvm_1_1hlsl_1_1rootsig_1_1RootSignatureValidationError.html" title=" " alt="" coords="487,1413,683,1454"/>
+<area shape="poly" id="edge3395_Node000070_Node000071" title=" " alt="" coords="413,1431,489,1432,485,1435,416,1436"/>
+<area shape="rect" id="Node000073" href="$classllvm_1_1jitlink_1_1JITLinkError.html" title="Base class for errors originating in JIT linker, e.g." alt="" coords="504,1486,666,1512"/>
+<area shape="poly" id="edge3397_Node000072_Node000073" title=" " alt="" coords="392,1497,506,1497,501,1501,395,1501"/>
+<area shape="rect" id="Node000075" href="$classllvm_1_1json_1_1ParseError.html" title=" " alt="" coords="512,1544,659,1569"/>
+<area shape="poly" id="edge3399_Node000074_Node000075" title=" " alt="" coords="408,1554,513,1555,509,1558,411,1559"/>
+<area shape="rect" id="Node000077" href="$classllvm_1_1lsp_1_1LSPError.html" title="This class models an LSP error as an llvm::Error." alt="" coords="520,1593,651,1618"/>
+<area shape="poly" id="edge3401_Node000076_Node000077" title=" " alt="" coords="404,1603,521,1604,517,1607,406,1608"/>
+<area shape="rect" id="Node000079" href="$structllvm_1_1mca_1_1InstStreamPause.html" title="This is actually not an error but a marker to indicate that the instruction stream is paused." alt="" coords="492,1650,679,1676"/>
+<area shape="poly" id="edge3403_Node000078_Node000079" title=" " alt="" coords="403,1661,493,1661,489,1665,406,1665"/>
+<area shape="rect" id="Node000081" href="$classllvm_1_1mca_1_1InstructionError.html" title=" " alt="" coords="482,1716,689,1741"/>
+<area shape="poly" id="edge3405_Node000080_Node000081" title=" " alt="" coords="402,1726,483,1727,479,1730,404,1731"/>
+<area shape="rect" id="Node000083" href="$classllvm_1_1mca_1_1RecycledInstErr.html" title=" " alt="" coords="495,1781,675,1806"/>
+<area shape="poly" id="edge3407_Node000082_Node000083" title=" " alt="" coords="399,1791,497,1792,492,1795,401,1796"/>
+<area shape="rect" id="Node000085" href="$classllvm_1_1orc_1_1DuplicateDefinition.html" title=" " alt="" coords="490,1846,680,1872"/>
+<area shape="poly" id="edge3409_Node000084_Node000085" title=" " alt="" coords="399,1857,492,1857,488,1861,401,1861"/>
+<area shape="rect" id="Node000087" href="$classllvm_1_1orc_1_1FailedToMaterialize.html" title="Used to notify a JITDylib that the given set of symbols failed to materialize." alt="" coords="490,1912,681,1937"/>
+<area shape="poly" id="edge3411_Node000086_Node000087" title=" " alt="" coords="396,1922,491,1923,487,1926,398,1927"/>
+<area shape="rect" id="Node000089" href="$classllvm_1_1orc_1_1JITDylibDefunct.html" title="Returned by operations that fail because a JITDylib has been closed." alt="" coords="498,1977,672,2002"/>
+<area shape="poly" id="edge3413_Node000088_Node000089" title=" " alt="" coords="396,1987,500,1988,496,1991,398,1992"/>
+<area shape="rect" id="Node000091" href="$classllvm_1_1orc_1_1JITSymbolNotFound.html" title=" " alt="" coords="486,2042,685,2068"/>
+<area shape="poly" id="edge3415_Node000090_Node000091" title=" " alt="" coords="403,2053,488,2054,483,2056,405,2057"/>
+<area shape="rect" id="Node000093" href="$classllvm_1_1orc_1_1MissingSymbolDefinitions.html" title="Errors of this type should be returned if a module fails to include definitions that are claimed by t..." alt="" coords="501,2100,669,2141"/>
+<area shape="poly" id="edge3417_Node000092_Node000093" title=" " alt="" coords="394,2118,503,2119,498,2122,396,2123"/>
+<area shape="rect" id="Node000095" href="$classllvm_1_1orc_1_1ResourceTrackerDefunct.html" title=" " alt="" coords="496,2165,675,2206"/>
+<area shape="poly" id="edge3419_Node000094_Node000095" title=" " alt="" coords="400,2183,497,2184,493,2187,402,2188"/>
+<area shape="rect" id="Node000097" href="$classllvm_1_1orc_1_1SymbolsCouldNotBeRemoved.html" title="Used to notify clients that a set of symbols could not be removed." alt="" coords="492,2231,678,2271"/>
+<area shape="poly" id="edge3421_Node000096_Node000097" title=" " alt="" coords="397,2248,494,2250,490,2252,399,2254"/>
+<area shape="rect" id="Node000099" href="$classllvm_1_1orc_1_1SymbolsNotFound.html" title="Used to notify clients when symbols can not be found during a lookup." alt="" coords="492,2304,679,2329"/>
+<area shape="poly" id="edge3423_Node000098_Node000099" title=" " alt="" coords="397,2314,493,2315,488,2317,399,2319"/>
+<area shape="rect" id="Node000101" href="$classllvm_1_1orc_1_1UnexpectedSymbolDefinitions.html" title="Errors of this type should be returned if a module contains definitions for symbols that are not clai..." alt="" coords="488,2361,682,2402"/>
+<area shape="poly" id="edge3425_Node000100_Node000101" title=" " alt="" coords="407,2379,490,2381,485,2383,408,2384"/>
+<area shape="rect" id="Node000103" href="$classllvm_1_1orc_1_1UnsatisfiedSymbolDependencies.html" title="Used to report failure due to unsatisfiable symbol dependencies." alt="" coords="490,2427,680,2467"/>
+<area shape="poly" id="edge3427_Node000102_Node000103" title=" " alt="" coords="405,2444,493,2446,488,2448,406,2450"/>
+<area shape="rect" id="Node000105" href="$classllvm_1_1remarks_1_1EndOfFileError.html" title=" " alt="" coords="502,2492,668,2533"/>
+<area shape="poly" id="edge3429_Node000104_Node000105" title=" " alt="" coords="401,2510,504,2512,499,2513,402,2515"/>
+<area shape="rect" id="Node000107" href="$classllvm_1_1remarks_1_1YAMLParseError.html" title=" " alt="" coords="497,2557,673,2598"/>
+<area shape="poly" id="edge3431_Node000106_Node000107" title=" " alt="" coords="406,2575,499,2577,494,2578,407,2580"/>
+</map>

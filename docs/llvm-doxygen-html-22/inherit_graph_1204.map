@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1codeview_1_1DebugSubsectionRef.html" title=" " alt="" coords="5,308,246,333"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1codeview_1_1DebugChecksumsSubsectionRef.html" title=" " alt="" coords="294,5,518,46"/>
+<area shape="poly" id="edge1105_Node000000_Node000001" title=" " alt="" coords="134,292,156,241,190,178,235,113,262,83,292,57,316,44,313,48,295,61,266,87,239,116,194,181,161,244,139,294"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1codeview_1_1DebugCrossModuleExportsSubsectionRef.html" title=" " alt="" coords="309,71,503,111"/>
+<area shape="poly" id="edge1106_Node000000_Node000002" title=" " alt="" coords="140,293,165,255,200,209,243,162,292,122,319,110,316,114,295,127,246,166,204,212,169,258,145,295"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1codeview_1_1DebugCrossModuleImportsSubsectionRef.html" title=" " alt="" coords="309,136,502,177"/>
+<area shape="poly" id="edge1107_Node000000_Node000003" title=" " alt="" coords="149,295,211,241,251,212,292,187,325,175,321,179,295,192,254,217,215,245,153,298"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1codeview_1_1DebugFrameDataSubsectionRef.html" title=" " alt="" coords="310,201,502,242"/>
+<area shape="poly" id="edge1108_Node000000_Node000004" title=" " alt="" coords="171,299,293,252,334,241,330,244,295,258,174,304"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1codeview_1_1DebugInlineeLinesSubsectionRef.html" title=" " alt="" coords="310,267,502,307"/>
+<area shape="poly" id="edge1109_Node000000_Node000005" title=" " alt="" coords="253,303,312,297,307,300,255,307"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1codeview_1_1DebugLinesSubsectionRef.html" title=" " alt="" coords="313,332,498,373"/>
+<area shape="poly" id="edge1110_Node000000_Node000006" title=" " alt="" coords="258,333,315,341,310,343,260,338"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1codeview_1_1DebugStringTableSubsectionRef.html" title="Represents a read&#45;only view of a CodeView string table." alt="" coords="312,397,500,438"/>
+<area shape="poly" id="edge1111_Node000000_Node000007" title=" " alt="" coords="174,337,295,382,335,396,330,397,293,387,174,342"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1codeview_1_1DebugSymbolRVASubsectionRef.html" title=" " alt="" coords="307,463,505,503"/>
+<area shape="poly" id="edge1112_Node000000_Node000008" title=" " alt="" coords="151,341,215,395,254,423,295,447,325,462,320,462,292,452,251,427,211,399,151,347"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1codeview_1_1DebugSymbolsSubsectionRef.html" title=" " alt="" coords="303,528,508,569"/>
+<area shape="poly" id="edge1113_Node000000_Node000009" title=" " alt="" coords="142,344,169,383,204,428,246,474,295,513,320,528,315,528,292,517,243,478,200,431,165,386,142,349"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1codeview_1_1DebugUnknownSubsectionRef.html" title=" " alt="" coords="301,593,510,634"/>
+<area shape="poly" id="edge1114_Node000000_Node000010" title=" " alt="" coords="137,345,161,396,194,459,239,523,266,553,295,578,317,593,312,592,292,582,262,556,235,527,190,462,156,399,136,350"/>
+</map>

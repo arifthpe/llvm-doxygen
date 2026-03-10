@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1DebugEpochBase_1_1HandleBase.html" title=" " alt="" coords="5,133,164,174"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1DenseMapIterator.html" title=" " alt="" coords="221,5,392,61"/>
+<area shape="poly" id="edge2342_Node000000_Node000001" title=" " alt="" coords="126,122,210,71,237,60,233,63,213,76,130,126"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DenseMapIterator.html" title=" " alt="" coords="221,85,392,141"/>
+<area shape="poly" id="edge2343_Node000000_Node000002" title=" " alt="" coords="177,134,223,127,218,130,180,139"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DenseMapIterator.html" title=" " alt="" coords="221,165,392,221"/>
+<area shape="poly" id="edge2344_Node000000_Node000003" title=" " alt="" coords="178,167,223,177,218,179,179,173"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SmallPtrSetIteratorImpl.html" title="SmallPtrSetIteratorImpl &#45; This is the common base class shared between all instances of SmallPtrSetIt..." alt="" coords="212,246,401,271"/>
+<area shape="poly" id="edge2345_Node000000_Node000004" title=" " alt="" coords="126,180,167,207,213,231,247,245,242,245,211,236,165,211,125,185"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1SmallPtrSetIterator.html" title=" " alt="" coords="449,173,613,214"/>
+<area shape="poly" id="edge2346_Node000004_Node000005" title=" " alt="" coords="372,238,400,231,462,215,467,213,402,236,374,244"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SmallPtrSetIterator.html" title=" " alt="" coords="449,238,613,279"/>
+<area shape="poly" id="edge2347_Node000004_Node000006" title=" " alt="" coords="416,256,451,258,446,259,417,261"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1SmallPtrSetIterator.html" title="SmallPtrSetIterator &#45; This implements a const_iterator for SmallPtrSet." alt="" coords="449,304,613,344"/>
+<area shape="poly" id="edge2348_Node000004_Node000007" title=" " alt="" coords="368,274,461,303,456,303,367,279"/>
+</map>

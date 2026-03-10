@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1dwarf__linker_1_1parallel_1_1OutputSections.html" title="This class keeps contents and offsets to the debug sections." alt="" coords="5,49,174,90"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1dwarf__linker_1_1parallel_1_1DWARFLinkerImpl_1_1LinkContext.html" title="Keeps track of data associated with one object during linking." alt="" coords="222,5,409,61"/>
+<area shape="poly" id="edge3249_Node000000_Node000001" title=" " alt="" coords="188,51,224,47,219,49,190,56"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1dwarf__linker_1_1parallel_1_1DwarfUnit.html" title="Base class for all Dwarf units(Compile unit/Type table unit)." alt="" coords="247,85,384,126"/>
+<area shape="poly" id="edge3250_Node000000_Node000002" title=" " alt="" coords="189,82,249,94,244,95,189,88"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1dwarf__linker_1_1parallel_1_1CompileUnit.html" title="Stores all information related to a compile unit, be it in its original instance of the object file o..." alt="" coords="457,52,607,92"/>
+<area shape="poly" id="edge3251_Node000002_Node000003" title=" " alt="" coords="399,90,459,83,454,84,400,95"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1dwarf__linker_1_1parallel_1_1TypeUnit.html" title="Type Unit is used to represent an artificial compilation unit which keeps all type information." alt="" coords="467,117,597,158"/>
+<area shape="poly" id="edge3252_Node000002_Node000004" title=" " alt="" coords="400,115,469,128,464,128,399,120"/>
+</map>
