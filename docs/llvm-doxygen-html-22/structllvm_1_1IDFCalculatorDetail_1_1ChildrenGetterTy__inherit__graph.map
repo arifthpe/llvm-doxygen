@@ -1,0 +1,5 @@
+<map id="llvm::IDFCalculatorDetail::ChildrenGetterTy&lt; NodeTy, IsPostDom &gt;" name="llvm::IDFCalculatorDetail::ChildrenGetterTy&lt; NodeTy, IsPostDom &gt;">
+<area shape="rect" id="Node000001" title="Generic utility class used for getting the children of a basic block." alt="" coords="16,5,204,61"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1IDFCalculatorDetail_1_1ChildrenGetterTy_3_01BasicBlock_00_01IsPostDom_01_4.html" title="Specialization for BasicBlock for the optional use of GraphDiff." alt="" coords="5,132,215,188"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,75,113,132,107,131,108,78"/>
+</map>

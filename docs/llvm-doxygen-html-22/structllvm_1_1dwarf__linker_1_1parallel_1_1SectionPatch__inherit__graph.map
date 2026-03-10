@@ -1,0 +1,25 @@
+<map id="llvm::dwarf_linker::parallel::SectionPatch" name="llvm::dwarf_linker::parallel::SectionPatch">
+<area shape="rect" id="Node000001" title="There are fields(sizes, offsets) which should be updated after sections are generated." alt="" coords="5,345,162,386"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1dwarf__linker_1_1parallel_1_1DebugDieRefPatch.html" title="This structure is used to update reference to the DIE." alt="" coords="212,5,403,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,329,99,270,121,197,137,159,156,121,180,87,208,56,226,44,223,49,211,60,184,90,161,124,142,161,126,199,104,271,92,330"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1dwarf__linker_1_1parallel_1_1DebugDieTypeRefPatch.html" title="This structure is used to update reference to the type DIE." alt="" coords="215,70,400,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,329,110,286,134,234,167,182,208,136,227,124,224,128,211,140,171,185,139,237,115,288,98,331"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1dwarf__linker_1_1parallel_1_1DebugLineStrPatch.html" title="This structure is used to update strings offsets into .debug_line_str." alt="" coords="212,149,403,190"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="100,331,144,265,174,231,208,201,233,188,230,193,211,205,178,234,148,268,105,333"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1dwarf__linker_1_1parallel_1_1DebugLocPatch.html" title="This structure is used to update location list offset into .debug_loc/.debug_loclists." alt="" coords="222,215,393,255"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="115,334,158,299,208,266,238,254,235,258,211,271,162,303,120,337"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1dwarf__linker_1_1parallel_1_1DebugOffsetPatch.html" title=" " alt="" coords="214,280,400,321"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="168,338,237,319,233,323,172,343"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1dwarf__linker_1_1parallel_1_1DebugRangePatch.html" title="This structure is used to update range list offset into .debug_ranges/.debug_rnglists." alt="" coords="213,345,402,386"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="176,363,215,364,211,367,179,368"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1dwarf__linker_1_1parallel_1_1DebugStrPatch.html" title="This structure is used to update strings offsets into .debug_str." alt="" coords="224,411,391,451"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="169,388,237,409,233,411,171,393"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1dwarf__linker_1_1parallel_1_1DebugType2TypeDieRefPatch.html" title="This structure is used to update reference to the type DIE." alt="" coords="218,475,397,531"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="118,393,162,428,211,461,234,474,229,475,208,465,159,432,119,399"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1dwarf__linker_1_1parallel_1_1DebugTypeLineStrPatch.html" title=" " alt="" coords="215,555,400,611"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="102,397,147,470,177,508,211,541,230,554,224,555,208,545,173,511,142,473,101,403"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1dwarf__linker_1_1parallel_1_1DebugTypeStrPatch.html" title=" " alt="" coords="210,635,405,675"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="93,398,110,450,133,509,167,569,188,597,211,621,229,634,223,634,208,625,183,600,162,572,128,511,105,451,92,404"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1dwarf__linker_1_1parallel_1_1DebugULEB128DieRefPatch.html" title="This structure is used to update reference to the DIE of ULEB128 form." alt="" coords="211,699,404,755"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="90,399,104,461,126,537,161,616,184,652,212,685,226,699,221,698,208,689,180,655,156,618,121,539,99,462,89,404"/>
+</map>

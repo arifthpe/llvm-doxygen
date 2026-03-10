@@ -1,0 +1,7 @@
+<map id="llvm::SizeOffsetAPInt" name="llvm::SizeOffsetAPInt">
+<area shape="rect" id="Node000001" title="SizeOffsetAPInt &#45; Used by ObjectSizeOffsetVisitor, which works with APInts." alt="" coords="21,207,170,233"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1SizeOffsetType.html" title=" " alt="" coords="5,117,186,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,171,98,208,93,206,94,175"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1SizeOffsetType.html" title="SizeOffsetType &#45; A base template class for the object size visitors." alt="" coords="24,5,167,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,59,98,117,93,116,94,64"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="llvm::enum_iteration_traits&lt; EnumT &gt;" name="llvm::enum_iteration_traits&lt; EnumT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,144,111"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1enum__iteration__traits_3_01InstCounterType_01_4.html" title=" " alt="" coords="338,5,515,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,64,167,60,254,44,340,34,335,36,255,49,168,66,156,69"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1enum__iteration__traits_3_01RTLIB_1_1Libcall_01_4.html" title=" " alt="" coords="344,71,508,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,88,345,89,342,93,159,94"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1enum__iteration__traits_3_01RTLIB_1_1LibcallImpl_01_4.html" title=" " alt="" coords="332,136,521,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,113,168,117,252,133,334,146,329,147,251,138,167,122,154,119"/>
+</map>

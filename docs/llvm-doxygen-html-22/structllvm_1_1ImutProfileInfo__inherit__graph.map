@@ -1,0 +1,18 @@
+<map id="llvm::ImutProfileInfo&lt; T &gt;" name="llvm::ImutProfileInfo&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Generic profile template." alt="" coords="5,140,176,165"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ImutContainerInfo_3_01T_01_5_01_4.html" title="ImutContainerInfo &#45; Specialization for pointer values to treat pointers as references to unique objec..." alt="" coords="577,35,734,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,163,271,168,363,166,459,156,507,145,552,131,588,108,629,77,633,75,591,112,554,136,508,150,460,161,363,172,271,173,191,168"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ImutContainerInfo.html" title="ImutContainerInfo &#45; Generic definition of comparison operations for elements of immutable containers ..." alt="" coords="282,89,471,114"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,134,302,113,298,117,183,139"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ImutProfileInfo.html" title=" " alt="" coords="307,189,446,230"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="134,169,200,191,254,201,309,208,304,208,254,206,199,197,134,174"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1ImutProfileInfo_3_01T_01_5_01_4.html" title="Generic profile trait for pointer types." alt="" coords="307,5,446,46"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="134,131,329,44,328,49,137,135"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1ImutProfileInfo_3_01bool_01_4.html" title="Profile traits for booleans." alt="" coords="307,255,446,295"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="117,173,156,202,201,229,254,249,309,264,304,264,253,254,199,234,153,207,117,178"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="472,83,579,67,574,69,473,88"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ImutContainerInfo.html" title=" " alt="" coords="577,132,734,173"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="466,115,579,138,574,139,466,121"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="460,190,579,168,574,169,461,195"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="461,22,553,28,579,35,574,35,553,34,462,27"/>
+</map>

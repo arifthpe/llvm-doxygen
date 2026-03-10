@@ -1,0 +1,15 @@
+<map id="llvm::VPlanPatternMatch::Recipe_match&lt; Ops_t, Opcode, Commutative, RecipeTys &gt;" name="llvm::VPlanPatternMatch::Recipe_match&lt; Ops_t, Opcode, Commutative, RecipeTys &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,334,244,390"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="562,59,810,145"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,319,158,277,186,229,222,184,266,148,301,129,337,115,414,96,490,88,564,89,559,91,491,93,415,101,339,120,303,134,269,152,225,188,190,232,163,279,144,321"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="562,168,810,254"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,323,217,295,267,271,341,248,418,232,564,215,560,218,419,237,343,254,269,276,220,299,176,327"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="592,278,780,349"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="258,342,267,340,439,326,594,318,589,320,440,331,268,346,261,346"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="570,373,802,444"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="214,392,268,404,346,413,425,417,572,416,567,418,425,422,345,418,267,409,215,397"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="583,468,788,538"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="157,399,206,448,236,470,269,487,308,500,348,510,431,520,511,521,585,518,580,519,511,526,430,525,347,515,306,505,267,492,233,474,203,452,156,404"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="587,562,785,633"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="139,402,158,450,185,503,222,553,244,574,269,591,307,609,347,621,388,629,430,632,512,630,584,622,589,622,513,635,430,637,387,634,345,626,305,614,266,596,241,578,218,556,180,506,153,452,137,407"/>
+</map>

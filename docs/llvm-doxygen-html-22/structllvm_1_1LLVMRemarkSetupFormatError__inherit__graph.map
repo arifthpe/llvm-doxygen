@@ -1,0 +1,18 @@
+<map id="llvm::LLVMRemarkSetupFormatError" name="llvm::LLVMRemarkSetupFormatError">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1606,43,1813,84"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1LLVMRemarkSetupErrorInfo.html" title=" " alt="" coords="1307,43,1557,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1572,61,1608,63,1603,63,1572,66"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="607,15,802,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="817,35,1283,51,1310,55,1304,55,1283,57,817,40"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="5,52,139,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="128,44,187,30,298,12,385,4,472,5,584,13,610,18,605,18,583,18,472,10,385,9,298,17,189,35,130,49"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="188,44,345,85"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="154,62,190,64,185,65,155,67"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="614,80,795,105"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="128,80,188,94,303,106,418,109,525,105,611,102,617,102,525,111,418,114,302,111,188,99,127,85"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="361,56,610,41,604,42,361,61"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="361,85,370,86,497,95,617,97,611,97,497,100,369,92,360,90"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1LLVMRemarkSetupErrorInfo.html" title=" " alt="" coords="851,72,1045,113"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="1061,86,1283,74,1304,75,1310,75,1284,80,1061,91"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="810,90,853,93,848,93,810,95"/>
+</map>

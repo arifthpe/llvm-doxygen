@@ -1,0 +1,13 @@
+<map id="llvm::RequireAnalysisPass&lt; AnalysisT, Loop, LoopAnalysisManager, LoopStandardAnalysisResults &amp;, LPMUpdater &amp; &gt;" name="llvm::RequireAnalysisPass&lt; AnalysisT, Loop, LoopAnalysisManager, LoopStandardAnalysisResults &amp;, LPMUpdater &amp; &gt;">
+<area shape="rect" id="Node000001" title="A partial specialization of the require analysis template pass to forward the extra parameters from a..." alt="" coords="934,72,1187,142"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="496,5,632,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="648,37,936,86,931,87,648,42"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="438,70,691,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="706,108,936,108,931,109,707,113"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,92,142,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="157,110,438,110,436,115,158,115"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1RequireAnalysisPass.html" title="A utility pass template to force an analysis result to be available." alt="" coords="466,183,663,239"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="679,219,792,218,851,211,909,198,966,173,1013,144,1019,142,968,177,911,203,852,216,792,224,679,225"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="5,191,142,231"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="157,208,465,208,465,214,158,214"/>
+</map>

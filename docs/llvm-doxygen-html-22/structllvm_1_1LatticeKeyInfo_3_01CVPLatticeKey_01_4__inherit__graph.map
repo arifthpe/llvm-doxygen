@@ -1,0 +1,5 @@
+<map id="llvm::LatticeKeyInfo&lt; CVPLatticeKey &gt;" name="llvm::LatticeKeyInfo&lt; CVPLatticeKey &gt;">
+<area shape="rect" id="Node000001" title="A specialization of LatticeKeyInfo for CVPLatticeKeys." alt="" coords="5,117,143,158"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1LatticeKeyInfo.html" title="A template for translating between LLVM Values and LatticeKeys." alt="" coords="5,5,143,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,60,77,117,71,116,72,63"/>
+</map>

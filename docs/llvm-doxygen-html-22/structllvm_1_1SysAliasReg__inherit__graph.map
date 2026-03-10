@@ -1,0 +1,13 @@
+<map id="llvm::SysAliasReg" name="llvm::SysAliasReg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,80,288,106"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1AArch64GIC_1_1GIC.html" title=" " alt="" coords="346,5,505,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,70,335,40,372,31,367,33,337,45,265,75"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1AArch64GICR_1_1GICR.html" title=" " alt="" coords="336,55,515,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="303,80,338,78,333,79,304,85"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AArch64IC_1_1IC.html" title=" " alt="" coords="356,104,495,130"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="303,100,358,108,353,109,303,105"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1AArch64MLBI_1_1MLBI.html" title=" " alt="" coords="339,153,512,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="266,110,337,140,372,153,367,153,335,145,265,115"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1SysAlias.html" title=" " alt="" coords="5,80,111,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,90,161,92,156,94,127,95"/>
+</map>
