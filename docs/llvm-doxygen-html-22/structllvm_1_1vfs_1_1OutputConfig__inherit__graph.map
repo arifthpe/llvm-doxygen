@@ -1,0 +1,5 @@
+<map id="llvm::vfs::OutputConfig" name="llvm::vfs::OutputConfig">
+<area shape="rect" id="Node000001" title="Full configuration for an output for use by the OutputBackend." alt="" coords="5,94,162,120"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1vfs_1_1detail_1_1EmptyBaseClass.html" title="Unused and empty base class to allow OutputConfig constructor to be constexpr, with commas before eve..." alt="" coords="22,5,145,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,60,86,94,81,92,82,64"/>
+</map>

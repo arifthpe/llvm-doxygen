@@ -1,0 +1,9 @@
+<map id="llvm::object::Elf_Phdr_Impl&lt; ELFT &gt;" name="llvm::object::Elf_Phdr_Impl&lt; ELFT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,152,121"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1object_1_1Elf__Phdr__Impl.html" title=" " alt="" coords="359,5,554,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,70,175,52,269,34,361,27,356,29,269,39,176,58,132,75"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1object_1_1Elf__Phdr__Impl_3_01ELFType_3_01Endianness_00_01false_01_4_01_4.html" title=" " alt="" coords="356,72,557,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,98,357,98,354,102,167,103"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1object_1_1Elf__Phdr__Impl_3_01ELFType_3_01Endianness_00_01true_01_4_01_4.html" title=" " alt="" coords="356,152,557,208"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,126,176,146,267,166,358,178,352,178,266,171,175,152,127,131"/>
+</map>

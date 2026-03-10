@@ -1,0 +1,5 @@
+<map id="llvm::yaml::MappingContextTraits&lt; minidump::MemoryDescriptor, BinaryRef &gt;" name="llvm::yaml::MappingContextTraits&lt; minidump::MemoryDescriptor, BinaryRef &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,137,246,193"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1MappingContextTraits.html" title="This class is similar to MappingTraits&lt;T&gt; but allows you to pass in additional context for each map o..." alt="" coords="33,5,218,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,60,128,137,123,136,123,63"/>
+</map>

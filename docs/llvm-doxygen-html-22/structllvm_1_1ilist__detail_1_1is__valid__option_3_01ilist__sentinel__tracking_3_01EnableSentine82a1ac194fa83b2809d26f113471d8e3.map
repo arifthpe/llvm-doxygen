@@ -1,0 +1,10 @@
+<map id="llvm::ilist_detail::is_valid_option&lt; ilist_sentinel_tracking&lt; EnableSentinelTracking &gt; &gt;" name="llvm::ilist_detail::is_valid_option&lt; ilist_sentinel_tracking&lt; EnableSentinelTracking &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="34,212,260,283"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,113,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,44,63,82,71,120,94,169,122,212,116,212,89,171,66,122,58,83,58,49"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__detail_1_1is__valid__option.html" title="Check whether an option is valid." alt="" coords="81,80,258,121"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="88,38,145,79,140,81,88,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="306,88,407,114"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="359,127,355,160,349,176,340,190,303,218,261,235,259,230,301,213,336,186,344,174,350,159,356,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,133,151,146,147,179,146,213,141,211,141,179,146,144,150,137"/>
+</map>

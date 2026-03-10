@@ -1,0 +1,5 @@
+<map id="llvm::yaml::SequenceElementTraits&lt; T, std::enable_if_t&lt; std::is_fundamental_v&lt; T &gt; &gt; &gt;" name="llvm::yaml::SequenceElementTraits&lt; T, std::enable_if_t&lt; std::is_fundamental_v&lt; T &gt; &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,158,201,228"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1SequenceElementTraits.html" title="This class should be specialized by any type for which vectors of that type need to be converted to/f..." alt="" coords="5,5,201,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,60,106,158,100,157,101,63"/>
+</map>

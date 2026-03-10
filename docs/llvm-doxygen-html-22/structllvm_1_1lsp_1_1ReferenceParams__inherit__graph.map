@@ -1,0 +1,5 @@
+<map id="llvm::lsp::ReferenceParams" name="llvm::lsp::ReferenceParams">
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,94,202,120"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1lsp_1_1TextDocumentPositionParams.html" title=" " alt="" coords="5,5,216,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,60,113,95,108,92,109,64"/>
+</map>

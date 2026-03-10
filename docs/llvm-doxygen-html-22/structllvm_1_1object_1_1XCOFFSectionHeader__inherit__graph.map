@@ -1,0 +1,11 @@
+<map id="llvm::object::XCOFFSectionHeader&lt; T &gt;" name="llvm::object::XCOFFSectionHeader&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,191,79"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1object_1_1XCOFFSectionHeader.html" title=" " alt="" coords="416,5,648,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,48,417,32,414,37,207,53"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1object_1_1XCOFFSectionHeader.html" title=" " alt="" coords="416,71,648,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,78,215,79,317,87,418,92,412,92,317,92,214,85,206,84"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1object_1_1XCOFFSectionHeader32.html" title=" " alt="" coords="697,5,883,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="664,23,699,25,694,26,664,28"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1object_1_1XCOFFSectionHeader64.html" title=" " alt="" coords="697,71,883,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="664,88,699,91,694,91,664,94"/>
+</map>

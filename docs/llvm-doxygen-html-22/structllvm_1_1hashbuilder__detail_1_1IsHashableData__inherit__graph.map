@@ -1,0 +1,7 @@
+<map id="llvm::hashbuilder_detail::IsHashableData&lt; U &gt;" name="llvm::hashbuilder_detail::IsHashableData&lt; U &gt;">
+<area shape="rect" id="Node000001" title="Trait to indicate whether a type&#39;s bits can be hashed directly (after endianness correction)." alt="" coords="5,207,163,248"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1is__integral__or__enum.html" title=" " alt="" coords="19,117,149,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,171,87,207,81,206,82,175"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1is__integral__or__enum.html" title="Metafunction that determines whether the given type is either an integral type or an enumeration type..." alt="" coords="19,5,149,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,59,87,117,81,116,83,64"/>
+</map>

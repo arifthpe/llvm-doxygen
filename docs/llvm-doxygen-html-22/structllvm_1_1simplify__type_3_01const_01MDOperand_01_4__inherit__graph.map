@@ -1,0 +1,5 @@
+<map id="llvm::simplify_type&lt; const MDOperand &gt;" name="llvm::simplify_type&lt; const MDOperand &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,157,158"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1simplify__type.html" title="Define a template that can be specialized by smart pointers to reflect the fact that they are automat..." alt="" coords="16,5,146,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,60,84,117,78,116,79,63"/>
+</map>

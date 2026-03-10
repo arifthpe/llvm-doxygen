@@ -1,0 +1,7 @@
+<map id="llvm::is_bitmask_enum&lt; E, Enable &gt;" name="llvm::is_bitmask_enum&lt; E, Enable &gt;">
+<area shape="rect" id="Node000001" title="Traits class to determine whether an enum has a LLVM_BITMASK_LARGEST_ENUMERATOR enumerator." alt="" coords="162,49,317,89"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1is__bitmask__enum_3_01E_00_01std_1_1void__t_3_01decltype_07E_1_1LLVM__BITMASK__LARGEST__ENUMERATOR_08_4_01_4.html" title=" " alt="" coords="570,34,781,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="333,66,573,69,567,69,333,72"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,56,113,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,66,164,69,159,69,129,72"/>
+</map>

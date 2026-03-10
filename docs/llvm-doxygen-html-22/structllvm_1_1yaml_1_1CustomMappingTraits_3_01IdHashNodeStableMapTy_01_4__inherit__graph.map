@@ -1,0 +1,5 @@
+<map id="llvm::yaml::CustomMappingTraits&lt; IdHashNodeStableMapTy &gt;" name="llvm::yaml::CustomMappingTraits&lt; IdHashNodeStableMapTy &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,233,158"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1CustomMappingTraits.html" title="This class should be specialized by any type that needs to be converted to/from a YAML mapping in the..." alt="" coords="27,5,211,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,60,122,118,116,116,117,63"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="llvm::yaml::ScalarBitSetTraits&lt; T, Enable &gt;" name="llvm::yaml::ScalarBitSetTraits&lt; T, Enable &gt;">
+<area shape="rect" id="Node000001" title="This class should be specialized by any integer type that is a union of bit values and the YAML repre..." alt="" coords="5,324,168,365"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01COFF_1_1Characteristics_01_4.html" title=" " alt="" coords="471,30,681,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,308,96,257,114,195,127,163,144,133,165,106,190,83,222,63,256,48,292,37,329,30,403,26,473,31,468,33,403,31,330,36,293,42,258,53,224,68,193,87,169,109,149,136,132,165,119,196,102,258,93,309"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01COFF_1_1DLLCharacteristics_01_4.html" title=" " alt="" coords="459,95,693,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,309,105,269,124,223,152,179,170,160,190,144,210,134,237,126,304,116,382,111,460,111,456,114,382,117,305,122,238,132,212,139,193,148,173,164,156,183,129,226,110,271,98,310"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01COFF_1_1SectionCharacteristics_01_4.html" title=" " alt="" coords="449,160,703,201"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="105,310,141,264,164,242,190,224,253,198,320,182,386,173,451,172,446,175,387,179,321,187,255,203,193,229,167,246,145,267,110,312"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01MachO_1_1ArchitectureSet_01_4.html" title=" " alt="" coords="467,226,685,266"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="135,315,191,292,261,274,333,261,468,249,464,252,334,267,262,279,193,297,139,319"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01TBDFlags_01_4.html" title=" " alt="" coords="495,291,657,332"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="183,336,496,315,493,319,184,341"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01WasmYAML_1_1LimitFlags_01_4.html" title=" " alt="" coords="467,356,684,397"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="182,361,192,361,335,371,469,376,464,379,335,377,191,366,185,365"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01WasmYAML_1_1SegmentFlags_01_4.html" title=" " alt="" coords="455,422,696,462"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="128,371,160,389,193,403,258,420,327,431,457,442,452,445,326,436,257,425,191,408,157,394,129,376"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01WasmYAML_1_1SymbolFlags_01_4.html" title=" " alt="" coords="459,487,692,528"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="105,376,143,426,166,450,193,468,257,494,326,509,395,516,461,518,456,520,395,521,326,514,256,499,190,473,163,454,139,430,106,381"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01XCOFF_1_1SectionTypeFlags_01_4.html" title=" " alt="" coords="458,552,694,593"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="95,377,109,420,128,466,156,510,173,530,193,546,212,555,238,562,305,571,382,575,460,577,455,578,381,580,304,576,237,567,210,560,190,550,169,533,151,514,123,468,104,421,95,383"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01support_1_1detail_1_1packed__endian__specific__intee228323e62d6b5a598e952cdfa137a2c.html" title=" " alt="" coords="465,664,686,780"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="93,378,109,461,130,559,158,650,175,684,193,706,223,725,256,739,290,749,326,754,397,755,462,750,467,750,398,760,325,759,289,754,254,744,221,730,190,710,171,687,153,652,125,561,103,462,92,383"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="llvm::hashing::detail::is_hashable_data&lt; std::pair&lt; T, U &gt; &gt;" name="llvm::hashing::detail::is_hashable_data&lt; std::pair&lt; T, U &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="595,48,756,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,184,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,37,374,32,473,35,572,46,598,52,592,53,571,51,473,41,374,37,200,42"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1hashing_1_1detail_1_1is__hashable__data.html" title="Trait to indicate whether a type&#39;s bits can be hashed directly." alt="" coords="246,56,408,96"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="198,58,248,65,243,67,199,63"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="233,120,420,221"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="434,139,593,98,598,97,436,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="423,74,597,75,592,77,424,79"/>
+</map>

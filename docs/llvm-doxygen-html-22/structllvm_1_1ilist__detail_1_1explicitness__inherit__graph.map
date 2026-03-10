@@ -1,0 +1,13 @@
+<map id="llvm::ilist_detail::explicitness&lt; IsExplicit &gt;" name="llvm::ilist_detail::explicitness&lt; IsExplicit &gt;">
+<area shape="rect" id="Node000001" title="Helper trait for recording whether an option is specified explicitly." alt="" coords="5,82,182,123"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ilist__detail_1_1explicitness.html" title=" " alt="" coords="293,38,437,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,84,295,69,290,72,198,89"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__detail_1_1explicitness.html" title=" " alt="" coords="290,114,440,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,122,206,123,292,132,286,134,205,128,197,127"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ilist__detail_1_1extract__sentinel__tracking_3_01ilist__sentinel__tracking_3_01Enad8d94c5ce1ebbb4f62b588c4bdfec7d2.html" title=" " alt="" coords="493,5,676,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="452,52,496,52,490,53,453,57"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ilist__detail_1_1extract__iterator__bits_3_4.html" title=" " alt="" coords="504,114,665,155"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="455,132,507,135,501,135,456,137"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1ilist__detail_1_1extract__sentinel__tracking_3_4.html" title=" " alt="" coords="489,180,680,220"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="450,157,516,179,511,179,449,163"/>
+</map>

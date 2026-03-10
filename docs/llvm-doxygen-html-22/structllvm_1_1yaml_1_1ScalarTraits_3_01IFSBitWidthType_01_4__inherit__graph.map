@@ -1,0 +1,5 @@
+<map id="llvm::yaml::ScalarTraits&lt; IFSBitWidthType &gt;" name="llvm::yaml::ScalarTraits&lt; IFSBitWidthType &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,165,158"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1ScalarTraits.html" title="This class should be specialized by type that requires custom conversion to/from a yaml scalar." alt="" coords="5,5,165,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,60,88,117,82,116,83,63"/>
+</map>

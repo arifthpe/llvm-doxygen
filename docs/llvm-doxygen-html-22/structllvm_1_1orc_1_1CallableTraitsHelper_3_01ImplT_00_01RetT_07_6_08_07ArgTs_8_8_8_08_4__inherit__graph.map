@@ -1,0 +1,10 @@
+<map id="llvm::orc::CallableTraitsHelper&lt; ImplT, RetT(&amp;)(ArgTs...)&gt;" name="llvm::orc::CallableTraitsHelper&lt; ImplT, RetT(&amp;)(ArgTs...)&gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="611,52,771,107"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1orc_1_1CallableTraitsHelper_3_01ImplT_00_01RetT_07ArgTs_8_8_8_08_4.html" title=" " alt="" coords="362,16,562,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="578,56,613,65,608,65,577,61"/>
+<area shape="rect" id="Node000003" href="$classImplT.html" title=" " alt="" coords="6,5,164,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,20,363,30,359,34,180,25"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1orc_1_1CallableTraitsHelper.html" title="CallableTraitsHelper takes an implementation class template Impl and some callable type C and passes ..." alt="" coords="5,70,165,110"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="180,91,357,93,562,89,608,88,613,88,562,94,357,99,180,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="180,77,337,56,358,55,364,54,338,61,180,82"/>
+</map>

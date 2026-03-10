@@ -1,0 +1,7 @@
+<map id="llvm::object::ExceptionSectionEntry&lt; AddressType &gt;" name="llvm::object::ExceptionSectionEntry&lt; AddressType &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,204,79"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1object_1_1ExceptionSectionEntry.html" title=" " alt="" coords="384,5,582,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,46,386,33,381,35,220,52"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1object_1_1ExceptionSectionEntry.html" title=" " alt="" coords="384,71,582,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,74,228,75,386,88,380,89,227,81,219,80"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::yaml::ScalarBitSetTraits&lt; support::detail::packed_endian_specific_integral&lt; value_type, endian, alignment &gt;, std::enable_if_t&lt; has_ScalarBitSetTraits&lt; value_type &gt;::value &gt; &gt;" name="llvm::yaml::ScalarBitSetTraits&lt; support::detail::packed_endian_specific_integral&lt; value_type, endian, alignment &gt;, std::enable_if_t&lt; has_ScalarBitSetTraits&lt; value_type &gt;::value &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,219,227,334"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits.html" title="This class should be specialized by any integer type that is a union of bit values and the YAML repre..." alt="" coords="35,5,197,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,60,119,219,113,218,114,63"/>
+</map>
