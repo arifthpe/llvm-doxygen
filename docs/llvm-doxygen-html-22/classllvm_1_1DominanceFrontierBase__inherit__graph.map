@@ -1,0 +1,31 @@
+<map id="llvm::DominanceFrontierBase&lt; BlockT, IsPostDom &gt;" name="llvm::DominanceFrontierBase&lt; BlockT, IsPostDom &gt;">
+<area shape="rect" id="Node000001" title="DominanceFrontierBase &#45; Common base class for computing forward and inverse dominance frontiers for a..." alt="" coords="5,342,199,383"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="418,43,629,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,326,116,272,137,207,152,175,171,143,194,115,221,91,267,66,317,52,368,47,420,48,415,51,369,52,318,58,269,71,224,95,198,119,176,146,157,177,142,209,121,273,110,327"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="436,118,611,159"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,326,127,288,150,244,181,201,221,167,259,153,313,144,437,137,433,141,314,149,260,158,224,171,185,205,155,246,132,290,117,328"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="450,193,597,233"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="124,328,165,282,192,259,222,241,263,229,322,221,451,213,447,217,322,226,264,235,224,246,195,264,169,285,128,331"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="428,267,618,308"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="162,334,222,315,328,297,430,289,425,292,328,302,223,320,165,338"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="430,342,617,383"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="214,360,431,361,427,364,215,365"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="447,407,600,462"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="159,387,223,409,281,420,340,427,449,434,444,436,340,432,280,425,222,414,160,392"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="653,479,846,520"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="131,391,173,429,197,446,224,459,278,478,335,491,450,507,560,511,655,509,650,510,560,516,450,513,334,497,277,483,222,464,195,450,170,433,131,396"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="427,537,620,577"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="114,395,132,435,154,478,185,519,203,536,224,550,272,569,324,578,377,579,429,577,424,578,377,585,324,584,271,574,221,554,200,540,181,522,150,481,127,437,114,400"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="653,605,846,661"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="108,396,120,452,140,517,155,549,174,580,197,607,224,629,275,655,329,673,386,683,444,686,501,684,556,678,651,662,656,661,557,683,502,689,444,691,386,688,328,678,273,660,221,633,193,610,170,583,151,552,136,519,115,453,107,401"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1ForwardDominanceFrontierBase.html" title=" " alt="" coords="1314,503,1524,544"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="861,498,1058,502,1284,510,1316,515,1310,515,1284,516,1058,507,862,503"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1DominanceFrontier.html" title=" " alt="" coords="1579,511,1743,537"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1539,521,1581,524,1576,524,1540,526"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1ForwardDominanceFrontierBase.html" title="DominanceFrontier Class &#45; Concrete subclass of DominanceFrontierBase that is used to compute a forwar..." alt="" coords="870,537,1081,577"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="635,554,872,557,867,558,636,560"/>
+<area shape="poly" id="edge12_Node000012_Node000009" title=" " alt="" coords="1096,547,1283,533,1316,533,1310,534,1284,539,1097,552"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1ForwardDominanceFrontierBase.html" title=" " alt="" coords="1308,585,1530,625"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1096,574,1105,575,1310,597,1305,597,1104,580,1096,579"/>
+<area shape="poly" id="edge15_Node000014_Node000013" title=" " alt="" coords="862,626,1310,610,1305,610,862,631"/>
+</map>

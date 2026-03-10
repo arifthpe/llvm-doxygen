@@ -1,0 +1,23 @@
+<map id="llvm::Expected&lt; T &gt;" name="llvm::Expected&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Tagged union holding either a T or a Error." alt="" coords="5,398,146,424"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MSVCPExpected.html" title=" " alt="" coords="430,23,618,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,382,88,305,106,206,133,113,149,78,168,54,203,31,243,16,284,7,326,3,408,8,476,21,472,24,407,13,327,9,285,12,244,21,206,36,171,58,154,80,138,115,112,207,93,306,83,383"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1Expected.html" title=" " alt="" coords="425,80,622,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="74,382,78,327,92,257,104,221,120,187,141,155,168,128,204,118,268,110,427,101,423,105,268,115,205,123,171,133,145,159,124,189,109,223,97,259,83,328,79,382"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Expected.html" title=" " alt="" coords="434,159,614,230"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="79,382,89,344,106,300,132,257,149,238,168,222,206,212,273,204,435,196,431,199,273,209,207,217,171,226,152,242,136,260,111,303,94,346,84,383"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1Expected.html" title=" " alt="" coords="428,262,620,317"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="92,384,124,347,145,330,169,316,216,303,282,295,429,288,425,292,282,300,217,308,171,321,148,334,128,351,96,387"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1Expected.html" title=" " alt="" coords="431,344,617,400"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="160,401,432,378,429,382,162,406"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1Expected.html" title=" " alt="" coords="419,425,628,450"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="130,426,170,434,234,440,299,443,421,443,416,446,299,448,234,445,169,439,132,431"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1Expected.html" title=" " alt="" coords="437,474,611,515"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="101,431,134,454,171,473,238,490,308,499,376,502,439,502,434,504,376,507,308,504,237,495,169,478,131,459,103,436"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1Expected.html" title=" " alt="" coords="419,545,629,586"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="86,435,100,466,118,497,142,527,171,550,200,564,230,574,295,586,358,588,421,585,415,587,359,593,294,591,229,580,198,569,168,555,138,531,114,500,96,468,86,441"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1Expected.html" title=" " alt="" coords="446,632,602,688"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="78,437,86,489,100,550,112,581,127,610,147,636,171,657,191,667,219,673,290,677,371,674,448,669,443,670,371,679,290,682,218,678,189,672,168,662,143,640,123,613,107,583,95,551,80,490,77,442"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1Expected.html" title=" " alt="" coords="442,713,606,738"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="76,436,81,497,93,571,105,609,121,646,143,679,171,706,206,728,245,742,286,750,328,753,408,748,472,739,477,739,408,754,328,759,285,755,244,747,204,732,168,710,139,682,117,648,100,611,88,572,76,497,75,441"/>
+</map>

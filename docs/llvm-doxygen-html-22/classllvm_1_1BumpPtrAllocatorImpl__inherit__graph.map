@@ -1,0 +1,20 @@
+<map id="llvm::BumpPtrAllocatorImpl&lt; AllocatorT, SlabSize, SizeThreshold, GrowthDelay &gt;" name="llvm::BumpPtrAllocatorImpl&lt; AllocatorT, SlabSize, SizeThreshold, GrowthDelay &gt;">
+<area shape="rect" id="Node000001" title="Allocate memory in an ever growing pool, as if by bump&#45;pointer." alt="" coords="1268,56,1473,112"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1BumpPtrAllocatorImpl.html" title=" " alt="" coords="1633,63,1813,104"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1488,81,1635,84,1630,84,1488,86"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AllocatorBase.html" title=" " alt="" coords="502,19,663,90"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="679,55,1270,79,1266,81,679,61"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AllocatorBase.html" title="CRTP base class providing obvious overloads for the core Allocate() methods of LLVM&#45;style allocators." alt="" coords="5,62,140,103"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,75,502,56,501,61,156,81"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1AllocatorBase.html" title=" " alt="" coords="344,91,478,132"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="155,103,164,104,258,112,346,114,341,115,257,117,163,109,155,108"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1detail_1_1AllocatorHolder.html" title=" " alt="" coords="1038,91,1219,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1234,97,1265,96,1271,95,1235,102"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MallocAllocator.html" title=" " alt="" coords="707,99,849,125"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="865,109,1040,112,1035,112,865,114"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="494,109,709,111,704,112,494,114"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1detail_1_1AllocatorHolder.html" title=" " alt="" coords="687,149,869,189"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="884,156,1013,137,1046,133,1051,132,1014,143,885,161"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="386,156,436,182"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="452,166,689,169,684,169,452,172"/>
+</map>

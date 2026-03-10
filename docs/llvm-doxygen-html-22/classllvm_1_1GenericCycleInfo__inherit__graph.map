@@ -1,0 +1,7 @@
+<map id="llvm::GenericCycleInfo&lt; ContextT &gt;" name="llvm::GenericCycleInfo&lt; ContextT &gt;">
+<area shape="rect" id="Node000001" title="Cycle information for a function." alt="" coords="104,5,258,46"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1GenericCycleInfo.html" title=" " alt="" coords="5,117,173,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,53,93,71,86,93,87,117,82,116,81,93,89,69,103,57"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1GenericCycleInfo.html" title=" " alt="" coords="197,117,352,158"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,53,247,68,262,92,271,118,266,115,257,94,243,72,229,58"/>
+</map>

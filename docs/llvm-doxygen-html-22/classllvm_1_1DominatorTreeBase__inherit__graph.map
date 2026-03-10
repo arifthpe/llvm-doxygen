@@ -1,0 +1,29 @@
+<map id="llvm::DominatorTreeBase&lt; NodeT, IsPostDom &gt;" name="llvm::DominatorTreeBase&lt; NodeT, IsPostDom &gt;">
+<area shape="rect" id="Node000001" title="Core dominator tree base class." alt="" coords="5,206,175,247"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="403,10,572,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,191,140,129,166,99,197,73,247,50,300,35,353,27,404,26,400,28,354,32,301,40,249,55,200,78,170,102,144,132,108,193"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="403,75,572,116"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,194,157,166,198,143,249,124,302,111,405,98,400,101,303,116,250,129,200,147,160,170,125,197"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="403,141,572,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="180,200,198,196,304,178,405,168,400,170,305,184,199,201,183,204"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="403,206,572,247"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="190,224,404,224,400,228,191,229"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="403,271,572,312"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="179,248,199,252,305,269,405,283,400,285,304,275,198,257,181,253"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="395,337,580,377"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="123,255,159,282,200,306,248,323,298,336,397,352,392,353,297,341,246,328,198,310,156,287,123,260"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="403,402,572,443"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="107,258,144,320,170,351,200,375,249,398,301,413,354,421,405,426,399,426,353,426,300,418,247,403,197,380,166,354,140,324,105,263"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DominatorTree.html" title="Concrete subclass of DominatorTreeBase that is used to compute a normal dominator tree." alt="" coords="751,25,890,51"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="587,76,753,49,748,51,588,81"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MachineDominatorTree.html" title="DominatorTree Class &#45; Concrete subclass of DominatorTreeBase that is used to compute a normal dominat..." alt="" coords="726,75,915,116"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="586,134,603,130,729,109,724,111,605,136,588,139"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="732,141,909,181"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="587,158,734,160,729,162,588,164"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1MachinePostDominatorTree.html" title="MachinePostDominatorTree &#45; an analysis pass wrapper for DominatorTree used to compute the post&#45;domina..." alt="" coords="726,206,915,247"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="587,224,728,226,723,227,588,229"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1PostDominatorTree.html" title="PostDominatorTree Class &#45; Concrete subclass of DominatorTree that is used to compute the post&#45;dominat..." alt="" coords="738,271,904,312"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="587,243,740,275,735,276,587,248"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1VPDominatorTree.html" title="Template specialization of the standard LLVM dominator tree utility for VPBlockBases." alt="" coords="742,336,899,362"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="588,306,744,335,739,336,587,311"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="llvm::DebugEpochBase::HandleBase" name="llvm::DebugEpochBase::HandleBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,164,170"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DenseMapIterator.html" title=" " alt="" coords="608,115,780,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,152,213,153,399,154,584,145,611,146,605,147,584,150,399,159,213,158,180,157"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DenseMapIterator.html" title=" " alt="" coords="608,5,780,61"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="128,118,168,95,212,73,312,35,394,15,478,9,585,15,611,19,606,20,584,20,478,15,394,20,313,40,214,78,171,99,131,122"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DenseMapIterator.html" title=" " alt="" coords="222,88,393,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,133,224,127,219,130,180,137"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1SmallPtrSetIteratorImpl.html" title="SmallPtrSetIteratorImpl &#45; This is the common base class shared between all instances of SmallPtrSetIt..." alt="" coords="213,239,402,265"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="140,174,189,197,277,237,272,239,187,202,140,180"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="408,131,427,133,520,139,611,143,605,144,520,144,426,138,409,136"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="408,93,426,89,584,58,611,54,606,56,585,63,427,94,410,98"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SmallPtrSetIterator.html" title=" " alt="" coords="944,224,1108,264"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="417,242,426,241,673,228,781,226,920,231,946,235,941,235,920,236,781,231,673,233,426,246,418,247"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1SmallPtrSetIterator.html" title=" " alt="" coords="944,305,1108,346"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="389,266,493,284,609,301,706,309,804,313,946,322,941,322,804,318,706,315,608,306,493,290,389,271"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1SmallPtrSetIterator.html" title="SmallPtrSetIterator &#45; This implements a const_iterator for SmallPtrSet." alt="" coords="612,252,776,292"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="418,255,614,267,609,268,418,260"/>
+<area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="791,263,919,254,941,254,946,254,920,259,792,269"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="791,289,804,291,946,315,940,315,803,296,791,294"/>
+</map>

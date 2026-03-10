@@ -1,0 +1,9 @@
+<map id="llvm::GlobalValueSummary" name="llvm::GlobalValueSummary">
+<area shape="rect" id="Node000001" title="Function and variable summary information to aid decisions and implementation of importing." alt="" coords="159,5,337,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AliasSummary.html" title="Alias summary information." alt="" coords="5,79,144,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,39,105,81,103,76,202,36"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1FunctionSummary.html" title="Function summary information to aid decisions and implementation of importing." alt="" coords="168,79,328,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,45,250,80,246,77,246,48"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1GlobalVarSummary.html" title="Global variable summary information to aid decisions and implementation of importing." alt="" coords="352,79,517,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="294,34,405,78,400,79,293,40"/>
+</map>

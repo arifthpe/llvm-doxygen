@@ -1,0 +1,8 @@
+<map id="llvm::ErrorHandlerTraits&lt; RetT(C::*)(std::unique_ptr&lt; ErrT &gt;)&gt;" name="llvm::ErrorHandlerTraits&lt; RetT(C::*)(std::unique_ptr&lt; ErrT &gt;)&gt;">
+<area shape="rect" id="Node000001" title="Specialization for member functions of the form &#39;RetT (std::unique_ptr&lt;ErrT&gt;)&#39;." alt="" coords="565,45,727,101"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ErrorHandlerTraits.html" title=" " alt="" coords="347,83,516,138"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="531,91,562,88,568,87,532,96"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ErrorHandlerTraits.html" title="Helper for testing applicability of, and applying, handlers for ErrorInfo types." alt="" coords="5,52,165,92"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="179,52,188,51,290,46,392,47,568,63,562,64,392,53,290,51,189,56,181,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,92,189,94,270,103,349,109,344,110,269,108,188,99,180,98"/>
+</map>

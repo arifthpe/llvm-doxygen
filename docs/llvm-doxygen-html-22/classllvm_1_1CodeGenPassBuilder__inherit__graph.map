@@ -1,0 +1,9 @@
+<map id="llvm::CodeGenPassBuilder&lt; DerivedT, TargetMachineT &gt;" name="llvm::CodeGenPassBuilder&lt; DerivedT, TargetMachineT &gt;">
+<area shape="rect" id="Node000001" title="This class provides access to building LLVM&#39;s passes." alt="" coords="5,56,203,97"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1CodeGenPassBuilder.html" title=" " alt="" coords="457,9,676,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,64,226,63,458,44,454,48,227,69,218,70"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1CodeGenPassBuilder.html" title=" " alt="" coords="470,89,662,145"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,100,227,112,290,119,353,123,472,124,467,124,353,128,289,125,226,117,174,105"/>
+<area shape="rect" id="Node000004" href="$classR600CodeGenPassBuilder.html" title=" " alt="" coords="725,104,903,130"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="678,114,727,117,722,117,678,119"/>
+</map>

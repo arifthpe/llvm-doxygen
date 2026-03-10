@@ -1,0 +1,9 @@
+<map id="llvm::HashBuilder&lt; HasherT, Endianness &gt;" name="llvm::HashBuilder&lt; HasherT, Endianness &gt;">
+<area shape="rect" id="Node000001" title="Interface to help hash various types through a hasher type." alt="" coords="209,82,370,122"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1HashBuilder.html" title=" " alt="" coords="577,23,742,93"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="385,86,394,85,579,66,574,67,395,90,386,91"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1HashBuilder.html" title=" " alt="" coords="586,117,733,172"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="373,124,395,128,494,139,588,145,583,145,494,144,394,133,373,129"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1HashBuilderBase.html" title="Declares the hasher member, and functions forwarding directly to the hasher." alt="" coords="5,82,160,122"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,99,211,101,206,102,175,104"/>
+</map>

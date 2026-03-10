@@ -1,0 +1,11 @@
+<map id="llvm::ConcurrentHashTableByPtr&lt; KeyTy, KeyDataTy, AllocatorTy, Info &gt;" name="llvm::ConcurrentHashTableByPtr&lt; KeyTy, KeyDataTy, AllocatorTy, Info &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,185,135"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ConcurrentHashTableByPtr.html" title=" " alt="" coords="449,24,720,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,87,208,86,449,65,447,69,209,91,201,92"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ConcurrentHashTableByPtr.html" title=" " alt="" coords="449,119,720,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,139,209,150,269,159,331,163,451,165,446,166,331,169,269,164,208,155,169,144"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1dwarf__linker_1_1StringPool.html" title=" " alt="" coords="774,39,897,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="735,57,776,59,771,60,736,62"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1dwarf__linker_1_1parallel_1_1TypePool.html" title="TypePool keeps type descriptors which contain partially cloned DIE correspinding to each type." alt="" coords="769,134,902,174"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="736,151,772,154,766,154,736,157"/>
+</map>

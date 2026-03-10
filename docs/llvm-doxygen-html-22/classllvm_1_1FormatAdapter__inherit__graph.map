@@ -1,0 +1,23 @@
+<map id="llvm::FormatAdapter&lt; T &gt;" name="llvm::FormatAdapter&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="190,165,361,190"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1support_1_1detail_1_1AlignAdapter.html" title=" " alt="" coords="621,5,757,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="306,153,343,130,384,109,445,85,508,65,623,38,619,40,510,70,447,90,386,113,345,135,309,158"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1support_1_1detail_1_1PadAdapter.html" title=" " alt="" coords="621,71,757,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="337,158,385,146,623,101,619,104,386,151,340,163"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1support_1_1detail_1_1RepeatAdapter.html" title=" " alt="" coords="615,136,763,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="376,170,616,159,612,162,377,175"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1FormatAdapter.html" title=" " alt="" coords="609,201,769,242"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="347,192,386,198,503,210,612,219,606,220,502,216,385,203,348,197"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1FormatAdapter.html" title=" " alt="" coords="598,268,780,354"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="291,202,329,258,356,284,387,305,438,322,493,330,547,331,601,328,595,329,548,336,493,335,437,327,384,309,352,288,325,261,289,207"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1FormatAdapter.html" title=" " alt="" coords="619,377,759,418"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="286,203,300,241,321,284,349,326,387,360,414,375,443,386,504,400,565,405,616,406,621,406,564,410,503,405,441,391,412,380,384,364,345,329,316,287,295,243,284,208"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1support_1_1detail_1_1format__adapter.html" title=" " alt="" coords="5,157,141,198"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,175,192,176,187,179,157,180"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1codeview_1_1detail_1_1GuidAdapter.html" title=" " alt="" coords="829,201,976,242"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="784,219,831,221,826,222,785,224"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1pdb_1_1detail_1_1EndianAdapter.html" title=" " alt="" coords="834,291,972,331"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="795,308,836,311,830,311,795,314"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1support_1_1detail_1_1ErrorAdapter.html" title=" " alt="" coords="835,377,970,418"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="774,395,837,398,832,398,774,400"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="llvm::GenericSchedulerBase" name="llvm::GenericSchedulerBase">
+<area shape="rect" id="Node000001" title="Base class for GenericScheduler." alt="" coords="242,203,428,228"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1GenericScheduler.html" title="GenericScheduler shrinks the unscheduled zone using heuristics to balance the schedule." alt="" coords="490,141,646,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="400,196,519,167,513,168,402,201"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1PostGenericScheduler.html" title="PostGenericScheduler &#45; Interface to the scheduling algorithm used by ScheduleDAGMI." alt="" coords="476,235,659,260"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="443,228,478,235,473,235,444,233"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MachineSchedStrategy.html" title="MachineSchedStrategy &#45; Interface to the scheduling algorithm used by ScheduleDAGMI." alt="" coords="5,203,194,228"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,213,244,215,239,216,210,218"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1GCNSchedStrategy.html" title="This is a minimal scheduler strategy." alt="" coords="733,63,902,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="612,132,707,97,750,88,745,90,708,102,614,137"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1PPCPreRASchedStrategy.html" title="A MachineSchedStrategy implementation for PowerPC pre RA scheduling." alt="" coords="714,112,921,138"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="661,141,716,136,711,138,661,146"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1RISCVPreRAMachineSchedStrategy.html" title="A GenericScheduler implementation for RISCV pre RA scheduling." alt="" coords="707,162,928,202"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="661,162,710,170,704,170,662,167"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1GCNMaxILPSchedStrategy.html" title="The goal of this scheduling strategy is to maximize ILP for a single wave (i.e." alt="" coords="976,5,1190,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="895,56,1022,31,1017,32,896,61"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1GCNMaxMemoryClauseSchedStrategy.html" title="The goal of this scheduling strategy is to maximize memory clause for a single wave." alt="" coords="985,55,1181,96"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="917,73,987,75,982,76,918,78"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1GCNMaxOccupancySchedStrategy.html" title="The goal of this scheduling strategy is to maximize kernel occupancy (i.e." alt="" coords="977,120,1188,161"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="897,90,928,97,1009,120,1004,120,927,102,897,95"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1AArch64PostRASchedStrategy.html" title="A MachineSchedStrategy implementation for AArch64 post RA scheduling." alt="" coords="724,227,911,268"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="675,245,726,247,721,248,675,250"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1PPCPostRASchedStrategy.html" title="A MachineSchedStrategy implementation for PowerPC post RA scheduling." alt="" coords="711,292,924,318"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="642,262,761,291,755,291,642,267"/>
+</map>

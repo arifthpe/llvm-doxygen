@@ -1,0 +1,13 @@
+<map id="llvm::IR2VecVocabAnalysis" name="llvm::IR2VecVocabAnalysis">
+<area shape="rect" id="Node000001" title="This analysis provides the vocabulary for IR2Vec." alt="" coords="96,319,280,344"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="100,229,276,269"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,283,190,320,186,317,186,286"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,117,182,158"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,167,174,228,169,229,119,172"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="25,5,162,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,59,96,117,91,116,93,64"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="206,117,362,158"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="259,168,207,230,203,226,255,171"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="216,5,352,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="285,59,287,118,282,116,283,64"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::ByteProvider&lt; ISelOp &gt;" name="llvm::ByteProvider&lt; ISelOp &gt;">
+<area shape="rect" id="Node000001" title="Represents known origin of an individual byte in combine pattern." alt="" coords="5,5,134,46"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ByteProvider.html" title=" " alt="" coords="5,117,134,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,60,72,117,67,116,67,63"/>
+</map>

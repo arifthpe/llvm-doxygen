@@ -1,0 +1,16 @@
+<map id="llvm::AttributeListImpl" name="llvm::AttributeListImpl">
+<area shape="rect" id="Node000001" title="This class represents a set of attributes that apply to the function, return type,..." alt="" coords="1558,151,1707,177"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set." alt="" coords="1382,118,1496,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1511,140,1561,151,1555,151,1511,145"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1TrailingObjects.html" title=" " alt="" coords="1369,168,1509,224"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1524,179,1556,176,1561,176,1525,184"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="789,89,1019,204"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1035,148,1184,158,1345,174,1371,181,1366,181,1344,180,1183,163,1035,154"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="5,170,213,240"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="203,162,236,153,309,141,384,133,534,125,673,127,791,135,786,136,673,132,534,131,385,138,310,146,237,158,205,167"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="507,197,765,298"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="170,247,203,265,237,278,305,290,375,292,443,288,503,281,509,280,443,293,375,298,304,295,236,283,201,270,169,252"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1TrailingObjects.html" title="See the file comment for details on the usage of the TrailingObjects type." alt="" coords="1043,219,1203,260"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1218,232,1344,218,1366,216,1371,215,1345,223,1219,238"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="780,243,1045,241,1040,241,780,248"/>
+</map>

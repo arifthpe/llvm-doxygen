@@ -1,0 +1,10 @@
+<map id="llvm::DWARF5AccelTable" name="llvm::DWARF5AccelTable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,267,185,293"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AccelTable.html" title=" " alt="" coords="5,177,191,218"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,231,100,268,96,266,96,235"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AccelTableBase.html" title="A base class holding non&#45;template&#45;dependant functionality of the AccelTable class." alt="" coords="19,5,166,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,45,100,177,95,176,92,49"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AccelTable.html" title="This class holds an abstract representation of an Accelerator Table, consisting of a sequence of buck..." alt="" coords="115,80,292,106"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="124,37,187,79,183,81,124,42"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="178,119,120,179,116,175,182,115"/>
+</map>

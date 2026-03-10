@@ -1,0 +1,11 @@
+<map id="llvm::DiagnosticInfoOptimizationFailure" name="llvm::DiagnosticInfoOptimizationFailure">
+<area shape="rect" id="Node000001" title="Diagnostic information for optimization failures." alt="" coords="20,315,231,356"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DiagnosticInfoIROptimization.html" title="Common features for diagnostics dealing with optimization remarks that are used by IR passes." alt="" coords="13,241,238,267"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,280,128,316,123,314,124,284"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DiagnosticInfoOptimizationBase.html" title="Common features for diagnostics dealing with optimization remarks that are used by both IR and MIR pa..." alt="" coords="5,168,246,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,206,128,242,123,240,124,211"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DiagnosticInfoWithLocationBase.html" title="Common features for diagnostics with an associated location." alt="" coords="43,79,208,120"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="126,133,128,168,123,166,125,138"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DiagnosticInfo.html" title="This is the base abstract class for diagnostic reporting in the backend." alt="" coords="57,5,194,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="126,44,128,79,123,78,125,49"/>
+</map>

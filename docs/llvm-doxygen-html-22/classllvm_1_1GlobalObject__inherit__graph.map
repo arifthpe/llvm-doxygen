@@ -1,0 +1,17 @@
+<map id="llvm::GlobalObject" name="llvm::GlobalObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="130,300,258,326"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1Function.html" title=" " alt="" coords="5,374,109,399"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="160,335,82,375,79,371,155,332"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1GlobalIFunc.html" title=" " alt="" coords="133,374,256,399"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="196,339,197,375,192,372,192,343"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1GlobalVariable.html" title=" " alt="" coords="280,374,416,399"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="235,330,324,373,319,373,234,335"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1GlobalValue.html" title=" " alt="" coords="133,226,256,252"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,265,197,301,192,298,193,270"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM." alt="" coords="141,153,248,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="196,191,197,227,192,225,193,196"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1User.html" title=" " alt="" coords="154,79,235,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,118,197,153,192,151,193,123"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="152,5,237,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="195,44,197,79,192,78,194,49"/>
+</map>

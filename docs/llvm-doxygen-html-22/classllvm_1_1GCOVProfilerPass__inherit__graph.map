@@ -1,0 +1,7 @@
+<map id="llvm::GCOVProfilerPass" name="llvm::GCOVProfilerPass">
+<area shape="rect" id="Node000001" title="The gcov&#45;style instrumentation pass." alt="" coords="5,207,169,233"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="9,117,165,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,171,89,207,85,206,85,175"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="19,5,155,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,59,90,117,84,116,86,64"/>
+</map>

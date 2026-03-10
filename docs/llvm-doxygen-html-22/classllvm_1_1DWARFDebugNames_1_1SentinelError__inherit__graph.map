@@ -1,0 +1,10 @@
+<map id="llvm::DWARFDebugNames::SentinelError" name="llvm::DWARFDebugNames::SentinelError">
+<area shape="rect" id="Node000001" title="Error returned by NameIndex::getEntry to report it has reached the end of the entry list." alt="" coords="5,282,188,323"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="15,192,178,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,246,99,283,94,281,95,250"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="24,5,158,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,45,99,192,93,192,90,48"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="112,80,270,121"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="118,38,169,79,164,81,118,44"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="163,135,115,193,111,190,166,131"/>
+</map>

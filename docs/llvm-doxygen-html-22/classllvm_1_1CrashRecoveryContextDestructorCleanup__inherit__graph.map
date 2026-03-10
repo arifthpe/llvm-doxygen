@@ -1,0 +1,10 @@
+<map id="llvm::CrashRecoveryContextDestructorCleanup&lt; T &gt;" name="llvm::CrashRecoveryContextDestructorCleanup&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Cleanup handler that reclaims resource by calling destructor on it." alt="" coords="999,13,1189,54"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title=" " alt="" coords="701,5,950,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="965,31,1001,33,996,33,965,36"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1CrashRecoveryContextCleanup.html" title="Abstract base class of cleanup handlers." alt="" coords="5,10,196,51"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="211,22,427,15,552,14,677,17,704,21,698,21,677,22,552,19,427,20,211,27"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="Base class of cleanup handler that controls recovery of resources of the given type." alt="" coords="245,41,435,82"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="211,42,247,49,242,49,211,47"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="450,60,459,61,569,64,616,65,677,61,698,60,703,60,678,66,616,70,568,70,459,66,451,66"/>
+</map>
