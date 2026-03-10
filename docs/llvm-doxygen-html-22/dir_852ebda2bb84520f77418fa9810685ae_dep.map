@@ -1,0 +1,25 @@
+<map id="lib/ObjCopy" name="lib/ObjCopy">
+<area shape="rect" id="node8" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="328,137,390,162"/>
+<area shape="poly" id="edge1" href="dir_000252_000157.html" alt="" coords="87,86,124,108,173,123,223,134,315,146,310,147,222,139,171,128,122,112,86,91"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000252_000157.html" title="181" alt="" coords="299,130,320,145"/>
+<area shape="rect" id="node2" href="dir_20e217aa3fb0c7ee2a1e10d3c2f88786.html" title="COFF" alt="" coords="134,63,191,89"/>
+<area shape="poly" id="edge2" href="dir_000066_000157.html" alt="" coords="175,86,205,108,260,128,315,142,309,142,258,133,203,112,174,92"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000066_000157.html" title="35" alt="" coords="304,126,318,141"/>
+<area shape="rect" id="node3" href="dir_0a777865218df4b881851abf23e90e87.html" title="DXContainer" alt="" coords="216,63,312,89"/>
+<area shape="poly" id="edge3" href="dir_000126_000157.html" alt="" coords="281,87,333,127,328,127,279,92"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000126_000157.html" title="9" alt="" coords="330,111,337,126"/>
+<area shape="rect" id="node4" href="dir_47a4b5bb69d99967386247794b02fb19.html" title="ELF" alt="" coords="336,63,381,89"/>
+<area shape="poly" id="edge4" href="dir_000129_000157.html" alt="" coords="361,87,361,122,357,119,357,91"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000129_000157.html" title="44" alt="" coords="360,111,374,126"/>
+<area shape="rect" id="node5" href="dir_846bab61ea58bf01876a93e6f6bfccf3.html" title="MachO" alt="" coords="406,63,469,89"/>
+<area shape="poly" id="edge5" href="dir_000202_000157.html" alt="" coords="426,88,384,128,382,124,421,90"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000202_000157.html" title="38" alt="" coords="384,123,398,138"/>
+<area shape="rect" id="node6" href="dir_b62af9bf143e6f52e7a3b40d0aafd996.html" title="wasm" alt="" coords="493,63,550,89"/>
+<area shape="poly" id="edge6" href="dir_000372_000157.html" alt="" coords="512,88,483,112,444,129,405,141,404,136,442,124,480,108,507,90"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000372_000157.html" title="12" alt="" coords="403,138,417,153"/>
+<area shape="rect" id="node7" href="dir_f29b039c85cde0557f2fa3a15dd64641.html" title="XCOFF" alt="" coords="574,63,640,89"/>
+<area shape="poly" id="edge7" href="dir_000385_000157.html" alt="" coords="596,88,563,112,522,127,481,137,406,148,405,143,480,132,521,122,560,108,591,90"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000385_000157.html" title="8" alt="" coords="406,146,413,161"/>
+<area shape="rect" id="clust2" href="dir_852ebda2bb84520f77418fa9810685ae.html" alt="" coords="27,52,651,99"/>
+<area shape="rect" id="clust1" href="dir_97aefd0d527b934f1d99a682da8fe6a9.html" title="lib" alt="" coords="16,16,661,110"/>
+</map>

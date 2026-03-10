@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="5,39,192,79"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1CastInfo.html" title=" " alt="" coords="240,5,458,46"/>
+<area shape="poly" id="edge995_Node000000_Node000001" title=" " alt="" coords="206,42,242,40,237,41,208,47"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CastInfoVPPhiAccessors.html" title="Support casting from VPRecipeBase &#45;&gt; VPPhiAccessors, by down&#45;casting to the recipe types implementing..." alt="" coords="248,71,450,111"/>
+<area shape="poly" id="edge996_Node000000_Node000002" title=" " alt="" coords="207,70,250,78,245,78,207,76"/>
+</map>

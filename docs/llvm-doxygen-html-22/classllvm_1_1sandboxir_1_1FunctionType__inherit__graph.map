@@ -1,0 +1,5 @@
+<map id="llvm::sandboxir::FunctionType" name="llvm::sandboxir::FunctionType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,201,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1Type.html" title="Just like llvm::Type these are immutable, unique, never get freed and can only be created via static ..." alt="" coords="30,5,176,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,45,105,80,101,77,101,48"/>
+</map>

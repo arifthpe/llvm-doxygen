@@ -1,0 +1,30 @@
+<map id="llvm::support::detail::format_adapter" name="llvm::support::detail::format_adapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,340,141,381"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1FormatAdapter.html" title=" " alt="" coords="639,5,799,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,324,97,283,120,234,150,185,188,142,240,105,297,75,357,53,419,38,480,27,539,21,641,20,636,23,539,27,481,33,420,43,359,59,299,80,242,109,192,146,154,188,124,237,102,285,87,326"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1FormatAdapter.html" title=" " alt="" coords="628,80,810,166"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="98,326,150,269,224,199,267,165,313,132,363,104,415,82,469,70,524,69,579,76,630,90,625,91,578,81,524,74,469,75,416,87,365,109,316,137,270,169,227,203,154,273,103,330"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1FormatAdapter.html" title=" " alt="" coords="649,405,789,446"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="156,369,416,399,652,420,647,422,415,404,156,374"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1FormatAdapter.html" title=" " alt="" coords="205,288,376,313"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="155,335,243,312,239,316,157,340"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1support_1_1detail_1_1provider__format__adapter.html" title=" " alt="" coords="190,457,391,498"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="104,389,134,415,166,437,207,456,202,457,163,441,130,419,104,394"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1support_1_1detail_1_1stream__operator__format__adapter.html" title=" " alt="" coords="207,522,374,578"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="94,392,136,451,162,481,192,508,211,521,206,521,188,512,158,485,131,454,92,397"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1codeview_1_1detail_1_1GuidAdapter.html" title=" " alt="" coords="859,5,1006,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="814,23,861,25,856,26,815,28"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1pdb_1_1detail_1_1EndianAdapter.html" title=" " alt="" coords="864,103,1002,143"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="824,120,865,122,860,124,826,126"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1support_1_1detail_1_1ErrorAdapter.html" title=" " alt="" coords="865,405,1000,446"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="804,423,867,425,862,426,804,428"/>
+<area shape="poly" id="edge11_Node000008_Node000002" title=" " alt="" coords="304,272,347,204,378,168,414,135,455,113,516,88,650,45,645,48,518,93,458,117,417,140,382,171,351,208,308,275"/>
+<area shape="poly" id="edge12_Node000008_Node000004" title=" " alt="" coords="334,279,415,250,469,241,512,240,554,237,577,231,603,219,615,209,626,196,662,168,666,165,630,200,619,213,606,224,579,236,555,242,512,246,469,246,416,255,336,283"/>
+<area shape="poly" id="edge13_Node000008_Node000006" title=" " alt="" coords="322,320,366,347,416,370,467,386,509,392,605,403,651,413,646,414,604,408,508,397,466,391,414,375,364,351,322,325"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1support_1_1detail_1_1AlignAdapter.html" title=" " alt="" coords="651,275,787,315"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="391,296,653,294,648,297,392,302"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1support_1_1detail_1_1PadAdapter.html" title=" " alt="" coords="651,340,787,381"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="392,312,653,350,648,352,392,317"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1support_1_1detail_1_1RepeatAdapter.html" title=" " alt="" coords="645,209,793,250"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="387,282,647,240,642,243,389,287"/>
+</map>

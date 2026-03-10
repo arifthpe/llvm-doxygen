@@ -1,0 +1,10 @@
+<map id="llvm::support::detail::ErrorAdapter" name="llvm::support::detail::ErrorAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,282,146,323"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1FormatAdapter.html" title=" " alt="" coords="9,192,148,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,246,81,282,76,281,77,250"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1support_1_1detail_1_1format__adapter.html" title=" " alt="" coords="5,5,141,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,59,80,192,75,191,72,63"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1FormatAdapter.html" title=" " alt="" coords="94,95,265,121"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="111,53,166,94,161,96,111,58"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="156,134,100,193,96,190,159,130"/>
+</map>

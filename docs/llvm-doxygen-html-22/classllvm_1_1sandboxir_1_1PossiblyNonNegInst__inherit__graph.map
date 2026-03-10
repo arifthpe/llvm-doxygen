@@ -1,0 +1,18 @@
+<map id="llvm::sandboxir::PossiblyNonNegInst" name="llvm::sandboxir::PossiblyNonNegInst">
+<area shape="rect" id="Node000001" title="Instruction that can have a nneg flag (zext/uitofp)." alt="" coords="45,582,213,623"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1CastInst.html" title=" " alt="" coords="45,507,213,533"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,546,131,583,127,581,127,550"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1UnaryInstruction.html" title="An abstract class, parent of unary instructions." alt="" coords="22,432,236,458"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,471,132,508,126,506,128,475"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1SingleLLVMInstructionImpl.html" title=" " alt="" coords="5,342,253,383"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="130,395,132,432,126,431,128,400"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1Instruction.html" title="A sandboxir::User with operands, opcode and linked with previous/next instructions in an instruction ..." alt="" coords="34,155,213,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="125,194,131,342,126,342,123,199"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1sandboxir_1_1SingleLLVMInstructionImpl.html" title="Instructions that contain a single LLVM Instruction can inherit from this." alt="" coords="145,230,393,271"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="158,186,236,229,231,231,159,191"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1User.html" title="A sandboxir::User has operands." alt="" coords="51,80,196,106"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="124,119,126,155,121,155,123,124"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1sandboxir_1_1Value.html" title="A SandboxIR Value has users. This is the base class." alt="" coords="49,5,198,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="124,44,126,80,121,80,123,49"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="231,283,156,344,152,340,234,279"/>
+</map>

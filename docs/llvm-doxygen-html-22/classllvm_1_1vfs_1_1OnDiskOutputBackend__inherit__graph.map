@@ -1,0 +1,9 @@
+<map id="llvm::vfs::OnDiskOutputBackend" name="llvm::vfs::OnDiskOutputBackend">
+<area shape="rect" id="Node000001" title="An output backend that creates files on disk, wrapping APIs in sys::fs." alt="" coords="5,282,219,308"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1vfs_1_1OutputBackend.html" title="Interface for virtualized outputs." alt="" coords="27,207,197,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,246,114,283,110,281,110,250"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1RefCountedBase.html" title=" " alt="" coords="35,117,189,158"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,171,115,207,109,206,111,175"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1RefCountedBase.html" title="A CRTP mixin class that adds reference counting to a type." alt="" coords="35,5,189,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,59,115,117,109,116,111,64"/>
+</map>

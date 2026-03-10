@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1BTF_1_1CommonType.html" title="The BTF common type definition." alt="" coords="335,258,502,284"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1BTF_1_1ArrayType.html" title=" " alt="" coords="576,141,722,167"/>
+<area shape="poly" id="edge911_Node000000_Node000001" title=" " alt="" coords="485,251,519,237,581,200,629,168,634,166,584,204,521,242,487,255"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1BTF_1_1Enum64Type.html" title=" " alt="" coords="568,226,730,252"/>
+<area shape="poly" id="edge912_Node000000_Node000004" title=" " alt="" coords="517,255,570,250,565,251,519,260"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1BTF_1_1EnumType.html" title=" " alt="" coords="575,302,723,328"/>
+<area shape="poly" id="edge913_Node000000_Node000007" title=" " alt="" coords="504,285,581,301,576,302,505,290"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1BTF_1_1StructType.html" title=" " alt="" coords="574,360,724,385"/>
+<area shape="poly" id="edge914_Node000000_Node000010" title=" " alt="" coords="477,287,521,306,546,322,569,338,612,359,607,359,567,343,543,327,519,311,476,292"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="38,5,237,121"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TrailingObjects.html" title=" " alt="" coords="335,82,502,122"/>
+<area shape="poly" id="edge915_Node000003_Node000002" title=" " alt="" coords="252,76,337,89,332,92,253,81"/>
+<area shape="poly" id="edge916_Node000002_Node000001" title=" " alt="" coords="517,122,592,140,586,141,518,127"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="31,145,244,261"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1TrailingObjects.html" title=" " alt="" coords="318,187,520,228"/>
+<area shape="poly" id="edge917_Node000006_Node000005" title=" " alt="" coords="259,202,319,204,315,207,260,207"/>
+<area shape="poly" id="edge918_Node000005_Node000004" title=" " alt="" coords="535,221,570,227,565,228,535,226"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="5,285,270,401"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1TrailingObjects.html" title=" " alt="" coords="332,320,506,361"/>
+<area shape="poly" id="edge919_Node000009_Node000008" title=" " alt="" coords="284,339,334,340,329,342,286,344"/>
+<area shape="poly" id="edge920_Node000008_Node000007" title=" " alt="" coords="521,327,577,323,572,324,522,332"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title=" " alt="" coords="38,425,237,541"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1TrailingObjects.html" title=" " alt="" coords="325,423,513,464"/>
+<area shape="poly" id="edge921_Node000012_Node000011" title=" " alt="" coords="252,464,327,456,322,457,253,469"/>
+<area shape="poly" id="edge922_Node000011_Node000010" title=" " alt="" coords="501,415,602,387,607,385,503,420"/>
+</map>

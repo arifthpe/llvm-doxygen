@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1CaptureAnalysis.html" title="Virtual base class for providers of capture analysis." alt="" coords="5,31,155,56"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1EarliestEscapeAnalysis.html" title="Context&#45;sensitive CaptureAnalysis provider, which computes and caches the earliest common dominator c..." alt="" coords="203,5,394,31"/>
+<area shape="poly" id="edge959_Node000000_Node000001" title=" " alt="" coords="169,30,205,29,200,30,170,36"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SimpleCaptureAnalysis.html" title="Context&#45;free CaptureAnalysis provider, which computes and caches whether an object is captured in the..." alt="" coords="204,55,393,80"/>
+<area shape="poly" id="edge960_Node000000_Node000002" title=" " alt="" coords="170,51,206,57,200,57,170,56"/>
+</map>

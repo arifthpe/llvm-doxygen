@@ -1,0 +1,14 @@
+<map id="llvm::vfs::ProxyFileSystem" name="llvm::vfs::ProxyFileSystem">
+<area shape="rect" id="Node000001" title="By default, this delegates all calls to the underlying file system." alt="" coords="41,302,220,328"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="25,212,236,253"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,266,133,303,128,301,128,270"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,88,93,114"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="66,124,121,211,116,213,64,129"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="102,5,186,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="144,45,134,212,129,211,140,48"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1RTTIExtends.html" title="Inheritance utility for extensible RTTI." alt="" coords="167,80,347,121"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="173,38,232,79,227,81,173,43"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="229,131,151,214,147,210,225,134"/>
+<area shape="rect" id="Node000006" href="$classParentT.html" title=" " alt="" coords="223,5,291,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="258,44,260,81,254,79,256,49"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="llvm::sandboxir::Pass" name="llvm::sandboxir::Pass">
+<area shape="rect" id="Node000001" title="The base class of a Sandbox IR Pass." alt="" coords="5,308,153,333"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1FunctionPass.html" title="A pass that runs on a sandbox::Function." alt="" coords="201,144,398,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,296,282,167,280,172,112,300"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1sandboxir_1_1RegionPass.html" title="A pass that runs on a sandbox::Region." alt="" coords="205,472,394,497"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="110,340,283,470,278,473,110,345"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1PassManager.html" title=" " alt="" coords="447,5,660,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="327,132,381,94,445,57,478,45,474,48,447,61,383,98,331,135"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1RegionsFromBBs.html" title=" " alt="" coords="471,71,636,111"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="365,137,474,110,470,114,368,141"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1RegionsFromMetadata.html" title=" " alt="" coords="471,136,636,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="412,154,473,155,468,158,415,159"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1sandboxir_1_1SeedCollection.html" title="This pass collects the instructions that can become vectorization &quot;seeds&quot;, like stores to consecutive..." alt="" coords="451,201,656,226"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="374,171,496,199,491,201,375,176"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1FunctionPassManager.html" title=" " alt="" coords="720,5,887,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="675,23,722,25,717,27,677,28"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1sandboxir_1_1PassManager.html" title=" " alt="" coords="455,251,652,291"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="313,456,334,421,364,379,401,337,444,301,468,290,464,294,448,305,405,341,368,383,339,424,317,459"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1sandboxir_1_1BottomUpVec.html" title="This is a simple bottom&#45;up vectorizer Region pass." alt="" coords="454,316,653,341"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="319,458,372,403,407,374,445,350,474,340,470,343,447,355,410,378,375,407,323,461"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1sandboxir_1_1NullPass.html" title="A Region pass that does nothing, for use as a placeholder in tests." alt="" coords="468,365,639,390"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="331,460,383,429,445,399,482,390,477,392,447,404,386,433,334,465"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1sandboxir_1_1PackReuse.html" title="This pass aims at de&#45;duplicating packs, i.e., try to reuse already existing pack patterns instead of ..." alt="" coords="461,414,646,440"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="373,465,496,439,491,442,375,470"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1sandboxir_1_1PrintInstructionCount.html" title="A Region pass that prints the instruction count for the region to stdout." alt="" coords="451,464,656,505"/>
+<area shape="poly" id="edge13_Node000008_Node000014" title=" " alt="" coords="409,482,453,483,448,485,410,487"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1sandboxir_1_1PrintRegion.html" title="A Region pass that does nothing, for use as a placeholder in tests." alt="" coords="461,529,646,554"/>
+<area shape="poly" id="edge14_Node000008_Node000015" title=" " alt="" coords="374,498,496,527,491,529,375,504"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1sandboxir_1_1TransactionAcceptOrRevert.html" title=" " alt="" coords="461,579,646,619"/>
+<area shape="poly" id="edge15_Node000008_Node000016" title=" " alt="" coords="334,503,387,534,447,565,478,578,473,578,445,569,384,539,333,509"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1sandboxir_1_1TransactionAlwaysAccept.html" title=" " alt="" coords="461,644,646,685"/>
+<area shape="poly" id="edge16_Node000008_Node000017" title=" " alt="" coords="320,507,374,569,409,601,447,629,474,643,468,643,445,633,406,605,370,572,319,512"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1sandboxir_1_1TransactionAlwaysRevert.html" title=" " alt="" coords="461,709,646,750"/>
+<area shape="poly" id="edge17_Node000008_Node000018" title=" " alt="" coords="313,509,334,551,364,601,402,651,448,694,470,709,465,709,444,698,398,655,359,604,330,554,311,514"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1sandboxir_1_1TransactionSave.html" title=" " alt="" coords="446,774,661,800"/>
+<area shape="poly" id="edge18_Node000008_Node000019" title=" " alt="" coords="308,510,325,565,353,632,393,701,418,733,448,760,469,774,464,773,444,764,415,736,389,704,348,635,320,566,306,514"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1sandboxir_1_1RegionPassManager.html" title=" " alt="" coords="709,251,898,291"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="667,268,711,270,706,272,669,274"/>
+</map>

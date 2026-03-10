@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="5,5,243,46"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1CastInfo_3_01VPIRMetadata_00_01VPRecipeBase_01_5_01_4.html" title=" " alt="" coords="576,5,781,46"/>
+<area shape="poly" id="edge989_Node000000_Node000001" title=" " alt="" coords="258,20,291,19,528,19,578,22,573,23,528,24,291,24,258,25"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CastInfoVPIRMetadata.html" title=" " alt="" coords="291,33,528,74"/>
+<area shape="poly" id="edge990_Node000000_Node000002" title=" " alt="" coords="258,36,293,42,288,42,258,41"/>
+<area shape="poly" id="edge991_Node000002_Node000001" title=" " alt="" coords="543,37,573,37,578,36,544,42"/>
+</map>

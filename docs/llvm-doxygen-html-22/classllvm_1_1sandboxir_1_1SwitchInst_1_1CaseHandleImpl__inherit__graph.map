@@ -1,0 +1,7 @@
+<map id="llvm::sandboxir::SwitchInst::CaseHandleImpl&lt; LLVMCaseItT, BlockT, ConstT &gt;" name="llvm::sandboxir::SwitchInst::CaseHandleImpl&lt; LLVMCaseItT, BlockT, ConstT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,89,226,145"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1SwitchInst_1_1CaseHandleImpl.html" title=" " alt="" coords="478,24,686,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,88,249,86,367,72,480,65,475,66,368,77,250,91,242,93"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1SwitchInst_1_1CaseHandleImpl.html" title=" " alt="" coords="457,139,708,209"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,149,214,164,250,175,302,184,355,188,459,189,453,189,354,193,301,189,249,181,212,169,178,154"/>
+</map>

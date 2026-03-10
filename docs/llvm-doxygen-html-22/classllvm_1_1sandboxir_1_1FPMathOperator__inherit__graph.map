@@ -1,0 +1,9 @@
+<map id="llvm::sandboxir::FPMathOperator" name="llvm::sandboxir::FPMathOperator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,226,219,252"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1Operator.html" title=" " alt="" coords="28,153,196,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,192,114,227,110,225,110,196"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1User.html" title="A sandboxir::User has operands." alt="" coords="39,79,185,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,118,115,153,109,151,111,123"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1Value.html" title="A SandboxIR Value has users. This is the base class." alt="" coords="37,5,187,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,44,115,79,109,78,111,49"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="llvm::sandboxir::IRChangeBase" name="llvm::sandboxir::IRChangeBase">
+<area shape="rect" id="Node000001" title="The base class for IR Change classes." alt="" coords="5,486,212,512"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1CatchSwitchAddHandler.html" title=" " alt="" coords="282,5,474,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,470,116,389,125,336,139,278,158,218,183,160,216,105,258,57,283,42,280,46,261,61,221,108,188,162,163,220,144,279,130,337,121,390,113,471"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1CmpSwapOperands.html" title=" " alt="" coords="289,71,468,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,470,122,400,147,306,166,256,191,208,221,162,258,122,291,104,287,108,261,126,225,165,196,210,171,259,152,308,127,401,115,471"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1CreateAndInsertInst.html" title=" " alt="" coords="289,136,468,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="113,471,128,412,156,336,175,295,198,256,226,219,258,188,290,171,287,175,261,192,230,223,203,259,180,298,161,338,133,413,118,472"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1EraseFromParent.html" title=" " alt="" coords="288,201,469,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="116,471,136,424,165,365,206,304,231,277,258,253,289,237,285,242,261,257,234,281,210,308,170,367,140,426,121,473"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1GenericSetter.html" title="This class can be used for tracking most instruction setters." alt="" coords="284,267,473,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="122,472,144,436,175,395,214,353,258,317,285,305,281,309,261,321,217,356,179,398,149,439,127,474"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1sandboxir_1_1GenericSetterWithIdx.html" title="Similar to GenericSetter but the setters/getters have an index as their first argument." alt="" coords="294,331,462,387"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="136,475,192,436,258,397,296,382,292,386,261,401,195,440,141,478"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1sandboxir_1_1InsertIntoBB.html" title=" " alt="" coords="283,412,474,437"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="158,478,259,446,306,436,302,439,260,451,161,483"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1sandboxir_1_1MoveInstr.html" title=" " alt="" coords="291,461,466,486"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="226,486,292,480,288,484,229,490"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1sandboxir_1_1PHIAddIncoming.html" title=" " alt="" coords="270,510,486,536"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="226,507,272,512,267,515,228,512"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1sandboxir_1_1PHIRemoveIncoming.html" title=" " alt="" coords="284,560,473,601"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="162,515,260,546,300,558,295,560,259,551,163,520"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1sandboxir_1_1RemoveFromParent.html" title=" " alt="" coords="280,625,476,666"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="134,520,191,566,225,589,261,610,292,624,287,626,258,615,222,594,188,570,135,525"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1sandboxir_1_1ShuffleVectorSetMask.html" title=" " alt="" coords="299,691,458,731"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="125,523,149,558,180,599,218,641,261,675,302,695,296,697,258,680,214,644,176,603,145,561,125,528"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1sandboxir_1_1SwitchAddCase.html" title=" " alt="" coords="273,756,484,781"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="119,524,140,573,169,632,209,691,234,718,261,741,285,755,279,755,258,745,230,722,205,695,164,635,135,575,118,529"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1sandboxir_1_1SwitchRemoveCase.html" title=" " alt="" coords="260,805,497,830"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="116,524,134,583,161,656,180,693,203,730,230,763,261,792,280,804,275,804,258,796,226,767,199,733,176,696,156,658,129,585,115,530"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1sandboxir_1_1UseSet.html" title="Tracks the change of the source Value of a sandboxir::Use." alt="" coords="298,854,459,880"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="114,525,129,593,154,678,173,723,197,767,226,807,261,841,279,852,300,861,295,861,276,856,258,845,222,810,193,770,169,725,149,680,123,594,113,530"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1sandboxir_1_1UseSwap.html" title="Tracks swapping a Use with another Use." alt="" coords="291,904,466,929"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="112,525,124,601,148,700,167,752,191,803,223,850,261,890,294,910,288,909,258,894,219,853,187,806,162,754,143,702,119,602,111,530"/>
+</map>

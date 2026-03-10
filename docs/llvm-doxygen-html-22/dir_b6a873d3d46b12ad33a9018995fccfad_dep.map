@@ -1,0 +1,34 @@
+<map id="include/llvm/Transforms/Vectorize" name="include/llvm/Transforms/Vectorize">
+<area shape="rect" id="node1" href="dir_a69686425b3d2a1ff3a5fbf5416fab85.html" title="Scalar" alt="" coords="36,137,94,162"/>
+<area shape="rect" id="node2" href="dir_b9426ba341d3aa182dc36932de89e798.html" title="Utils" alt="" coords="118,137,167,162"/>
+<area shape="poly" id="edge3" href="dir_000369_000295.html" alt="" coords="76,86,72,122,67,121,73,90"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000369_000295.html" title="1" alt="" coords="75,112,82,127"/>
+<area shape="poly" id="edge5" href="dir_000369_000362.html" alt="" coords="87,86,124,125,119,126,86,91"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000369_000362.html" title="2" alt="" coords="122,110,129,125"/>
+<area shape="rect" id="node5" href="dir_32453792af2ba70c54e3ccae3a790d1b.html" title="ADT" alt="" coords="454,137,503,162"/>
+<area shape="poly" id="edge1" href="dir_000369_000003.html" alt="" coords="98,86,127,97,212,114,280,119,351,122,442,137,437,137,350,127,280,124,211,119,126,102,98,91"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000369_000003.html" title="21" alt="" coords="431,120,445,135"/>
+<area shape="rect" id="node7" href="dir_97cdd6ae7e6843add574fb55e792badd.html" title="Analysis" alt="" coords="527,137,598,162"/>
+<area shape="poly" id="edge2" href="dir_000369_000008.html" alt="" coords="98,86,127,97,184,109,232,117,316,121,403,123,515,136,509,137,402,128,316,127,231,122,183,115,126,102,98,91"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000369_000008.html" title="7" alt="" coords="507,120,514,135"/>
+<area shape="rect" id="node8" href="dir_ae1e398ac700924fa434b51c248a5531.html" title="Support" alt="" coords="302,137,368,162"/>
+<area shape="poly" id="edge4" href="dir_000369_000305.html" alt="" coords="99,86,127,97,207,116,289,134,284,135,206,122,126,102,99,91"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000369_000305.html" title="18" alt="" coords="278,118,292,133"/>
+<area shape="rect" id="node9" href="dir_c3e93f23a4a31c717998b98ce143b7c0.html" title="IR" alt="" coords="391,137,430,162"/>
+<area shape="poly" id="edge6" href="dir_000369_000169.html" alt="" coords="99,86,127,97,195,111,250,117,306,121,379,136,374,137,306,126,250,122,194,117,126,102,99,91"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000369_000169.html" title="8" alt="" coords="372,120,379,135"/>
+<area shape="rect" id="node4" href="dir_ec74a5cd967e32195a9d75296ac5adda.html" title="SandboxVectorizer" alt="" coords="138,63,270,89"/>
+<area shape="poly" id="edge7" href="dir_000293_000003.html" alt="" coords="256,87,442,135,437,137,255,92"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000293_000003.html" title="16" alt="" coords="432,120,446,135"/>
+<area shape="rect" id="node6" href="dir_e1dcbf35498a0fad6e27f64a2c090cf9.html" title="SandboxIR" alt="" coords="622,137,708,162"/>
+<area shape="poly" id="edge11" href="dir_000293_000291.html" alt="" coords="270,83,421,104,609,136,604,136,420,109,270,88"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000293_000291.html" title="38" alt="" coords="598,120,612,135"/>
+<area shape="poly" id="edge8" href="dir_000293_000008.html" alt="" coords="270,86,514,135,510,138,270,92"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000293_000008.html" title="6" alt="" coords="507,120,514,135"/>
+<area shape="poly" id="edge9" href="dir_000293_000305.html" alt="" coords="227,87,302,129,297,129,226,92"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000293_000305.html" title="14" alt="" coords="294,112,308,127"/>
+<area shape="poly" id="edge10" href="dir_000293_000169.html" alt="" coords="241,87,380,135,375,137,240,92"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000293_000169.html" title="3" alt="" coords="373,119,380,134"/>
+<area shape="rect" id="clust2" href="dir_b6a873d3d46b12ad33a9018995fccfad.html" alt="" coords="27,52,280,99"/>
+<area shape="rect" id="clust1" href="dir_5625ec55672b6ae9c183a884d9f7b761.html" title="Transforms" alt="" coords="16,16,291,173"/>
+</map>

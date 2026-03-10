@@ -1,0 +1,5 @@
+<map id="llvm::sandboxir::SwitchRemoveCase" name="llvm::sandboxir::SwitchRemoveCase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,243,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1IRChangeBase.html" title="The base class for IR Change classes." alt="" coords="21,5,227,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,45,126,80,122,77,122,48"/>
+</map>
