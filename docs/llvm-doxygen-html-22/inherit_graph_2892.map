@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1JITSymbolResolver.html" title="Symbol resolution interface." alt="" coords="5,5,174,31"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1LegacyJITSymbolResolver.html" title="Legacy symbol resolution interface." alt="" coords="222,5,432,31"/>
+<area shape="poly" id="edge4076_Node000000_Node000001" title=" " alt="" coords="189,16,224,17,219,19,190,21"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1LinkingSymbolResolver.html" title=" " alt="" coords="482,5,673,31"/>
+<area shape="poly" id="edge4077_Node000001_Node000002" title=" " alt="" coords="447,16,485,18,479,19,448,21"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1RTDyldMemoryManager.html" title=" " alt="" coords="480,55,675,80"/>
+<area shape="poly" id="edge4078_Node000001_Node000003" title=" " alt="" coords="411,32,511,54,506,54,411,37"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SectionMemoryManager.html" title="This is a simple memory manager which implements the methods called by the RuntimeDyld class to alloc..." alt="" coords="723,55,918,80"/>
+<area shape="poly" id="edge4079_Node000003_Node000004" title=" " alt="" coords="691,65,726,67,720,68,691,70"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1RuntimeDyld_1_1MemoryManager.html" title="Memory Management." alt="" coords="21,79,158,120"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MCJITMemoryManager.html" title=" " alt="" coords="232,55,422,80"/>
+<area shape="poly" id="edge4080_Node000006_Node000005" title=" " alt="" coords="173,86,234,80,229,81,174,91"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1orc_1_1EPCGenericRTDyldMemoryManager.html" title="Remote&#45;mapped RuntimeDyld&#45;compatible memory manager." alt="" coords="228,104,426,145"/>
+<area shape="poly" id="edge4082_Node000006_Node000007" title=" " alt="" coords="174,106,230,114,225,115,174,111"/>
+<area shape="poly" id="edge4081_Node000005_Node000003" title=" " alt="" coords="437,65,482,67,477,68,438,70"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1is__integral__or__enum.html" title=" " alt="" coords="5,5,136,46"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1hashbuilder__detail_1_1IsHashableData.html" title="Trait to indicate whether a type&#39;s bits can be hashed directly (after endianness correction)." alt="" coords="184,5,341,46"/>
+<area shape="poly" id="edge3806_Node000000_Node000001" title=" " alt="" coords="151,23,186,25,181,26,151,28"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1IRMutationStrategy.html" title="Base class for describing how to mutate a module." alt="" coords="5,179,172,204"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1InjectorIRStrategy.html" title="Strategy that injects operations into the function." alt="" coords="244,5,404,31"/>
+<area shape="poly" id="edge3796_Node000000_Node000001" title=" " alt="" coords="103,164,149,101,181,68,218,40,246,29,242,33,221,44,185,72,153,104,107,167"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1InsertCFGStrategy.html" title="Strategy to split a random block and insert a random CFG in between." alt="" coords="242,55,406,80"/>
+<area shape="poly" id="edge3797_Node000000_Node000002" title=" " alt="" coords="112,166,159,126,218,89,250,79,246,83,221,94,162,130,116,170"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1InsertFunctionStrategy.html" title="Strategy that generates new function calls and inserts function signatures to the modules." alt="" coords="231,104,416,130"/>
+<area shape="poly" id="edge3798_Node000000_Node000003" title=" " alt="" coords="133,170,219,138,261,129,256,132,220,143,136,175"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1InsertPHIStrategy.html" title="Strategy to insert PHI Nodes at the head of each basic block." alt="" coords="245,153,403,179"/>
+<area shape="poly" id="edge3799_Node000000_Node000004" title=" " alt="" coords="186,178,247,173,242,176,188,183"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1InstDeleterIRStrategy.html" title="Strategy that deletes instructions when the Module is too large." alt="" coords="234,203,414,228"/>
+<area shape="poly" id="edge3800_Node000000_Node000005" title=" " alt="" coords="186,199,236,205,231,207,188,204"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1InstModificationIRStrategy.html" title="Strategy that modifies instruction attributes and operands." alt="" coords="220,252,428,278"/>
+<area shape="poly" id="edge3801_Node000000_Node000006" title=" " alt="" coords="136,208,220,238,262,251,256,252,219,243,135,213"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ShuffleBlockStrategy.html" title="Strategy to randomly select a block and shuffle the operations without affecting data dependency." alt="" coords="236,301,412,327"/>
+<area shape="poly" id="edge3802_Node000000_Node000007" title=" " alt="" coords="115,213,163,252,221,288,251,301,246,301,218,293,160,256,114,218"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1SinkInstructionStrategy.html" title="Strategy to select a random instruction and add a new sink (user) to it to increate data dependency." alt="" coords="229,351,418,376"/>
+<area shape="poly" id="edge3803_Node000000_Node000008" title=" " alt="" coords="106,215,153,278,185,310,221,337,245,350,240,350,218,342,181,314,149,281,104,220"/>
+</map>

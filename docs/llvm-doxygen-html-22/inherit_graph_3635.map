@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1MinidumpYAML_1_1Stream.html" title="The base class for all minidump streams." alt="" coords="5,358,149,399"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title=" " alt="" coords="236,5,404,61"/>
+<area shape="poly" id="edge4802_Node000000_Node000001" title=" " alt="" coords="80,342,90,284,111,211,126,173,145,136,168,102,195,71,214,57,237,47,234,51,216,62,198,75,172,105,149,139,131,176,116,213,95,285,85,343"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title=" " alt="" coords="237,85,402,141"/>
+<area shape="poly" id="edge4803_Node000000_Node000002" title=" " alt="" coords="85,342,100,299,123,248,154,196,195,151,214,138,238,128,235,132,217,143,198,155,158,199,128,250,105,301,90,344"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title=" " alt="" coords="204,165,436,221"/>
+<area shape="poly" id="edge4804_Node000000_Node000003" title=" " alt="" coords="95,344,137,286,164,257,195,231,218,220,215,224,198,235,168,260,141,290,100,346"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title=" " alt="" coords="197,245,443,301"/>
+<area shape="poly" id="edge4805_Node000000_Node000004" title=" " alt="" coords="123,348,196,311,228,300,224,303,198,316,127,352"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1MinidumpYAML_1_1ExceptionStream.html" title="ExceptionStream minidump stream." alt="" coords="248,325,392,366"/>
+<area shape="poly" id="edge4807_Node000000_Node000006" title=" " alt="" coords="163,364,250,353,246,357,165,369"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1MinidumpYAML_1_1MemoryInfoListStream.html" title="A structure containing the list of MemoryInfo entries comprising a MemoryInfoList stream." alt="" coords="239,390,400,431"/>
+<area shape="poly" id="edge4808_Node000000_Node000007" title=" " alt="" coords="163,387,241,398,236,401,165,392"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1MinidumpYAML_1_1RawContentStream.html" title="A minidump stream represented as a sequence of hex bytes." alt="" coords="248,456,392,496"/>
+<area shape="poly" id="edge4809_Node000000_Node000008" title=" " alt="" coords="125,404,198,440,250,458,245,460,196,445,126,410"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1MinidumpYAML_1_1SystemInfoStream.html" title="SystemInfo minidump stream." alt="" coords="248,521,392,562"/>
+<area shape="poly" id="edge4810_Node000000_Node000009" title=" " alt="" coords="101,409,143,460,169,485,198,506,223,518,251,528,245,530,221,523,195,510,166,489,140,464,100,415"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1MinidumpYAML_1_1TextContentStream.html" title="A StringRef, which is printed using YAML block notation." alt="" coords="248,586,392,627"/>
+<area shape="poly" id="edge4811_Node000000_Node000010" title=" " alt="" coords="90,411,109,450,131,493,161,535,198,571,222,585,251,596,245,597,220,590,195,575,157,539,127,496,104,452,90,416"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title="A stream representing a list of abstract entries in a minidump stream." alt="" coords="248,651,392,706"/>
+<area shape="poly" id="edge4812_Node000000_Node000011" title=" " alt="" coords="85,412,101,464,122,523,155,584,175,612,198,636,222,652,250,666,245,666,219,657,195,641,171,615,150,587,118,526,96,465,85,417"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1MinidumpYAML_1_1Memory64ListStream.html" title=" " alt="" coords="491,253,644,294"/>
+<area shape="poly" id="edge4806_Node000004_Node000005" title=" " alt="" coords="458,271,493,272,488,274,459,276"/>
+</map>

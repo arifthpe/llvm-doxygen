@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1MCSection.html" title="Instances of this class represent a uniqued identifier for a section in the current translation unit." alt="" coords="5,179,124,204"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1MCSectionCOFF.html" title="This represents a section on Windows." alt="" coords="191,5,346,31"/>
+<area shape="poly" id="edge4656_Node000000_Node000001" title=" " alt="" coords="75,163,111,101,138,68,170,40,194,30,190,33,173,44,142,72,116,104,80,166"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCSectionDXContainer.html" title=" " alt="" coords="172,55,365,80"/>
+<area shape="poly" id="edge4657_Node000000_Node000002" title=" " alt="" coords="83,165,121,126,145,106,170,89,198,79,194,83,173,94,148,110,125,130,88,168"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MCSectionELF.html" title="This represents a section on linux, lots of unix variants and some bare metal systems." alt="" coords="197,104,340,130"/>
+<area shape="poly" id="edge4658_Node000000_Node000003" title=" " alt="" coords="102,169,171,138,208,129,204,132,173,143,105,173"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MCSectionGOFF.html" title=" " alt="" coords="191,153,346,179"/>
+<area shape="poly" id="edge4659_Node000000_Node000004" title=" " alt="" coords="138,180,193,174,188,177,140,185"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MCSectionMachO.html" title="This represents a section on a Mach&#45;O system (used by Mac OS X)." alt="" coords="188,203,348,228"/>
+<area shape="poly" id="edge4660_Node000000_Node000005" title=" " alt="" coords="138,198,190,205,185,207,140,203"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MCSectionSPIRV.html" title=" " alt="" coords="189,252,348,278"/>
+<area shape="poly" id="edge4661_Node000000_Node000006" title=" " alt="" coords="104,209,173,238,209,251,204,252,171,243,104,214"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MCSectionWasm.html" title="This represents a section on wasm." alt="" coords="191,301,346,327"/>
+<area shape="poly" id="edge4662_Node000000_Node000007" title=" " alt="" coords="86,214,125,253,173,288,199,301,194,301,170,292,121,257,85,219"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1MCSectionXCOFF.html" title=" " alt="" coords="187,351,350,376"/>
+<area shape="poly" id="edge4663_Node000000_Node000008" title=" " alt="" coords="79,216,116,279,142,311,173,337,195,350,189,350,170,342,138,314,112,282,77,221"/>
+</map>

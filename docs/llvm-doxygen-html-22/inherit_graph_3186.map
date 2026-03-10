@@ -1,0 +1,55 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1MachineRegisterInfo_1_1Delegate.html" title=" " alt="" coords="259,5,432,46"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1LiveRangeEdit.html" title=" " alt="" coords="546,13,684,38"/>
+<area shape="poly" id="edge4411_Node000000_Node000001" title=" " alt="" coords="447,23,547,24,543,27,449,28"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SIMachineFunctionInfo.html" title="This class keeps track of the SPI_SP_INPUT_ADDR config register, which tells the hardware which inter..." alt="" coords="521,66,708,92"/>
+<area shape="poly" id="edge4412_Node000000_Node000002" title=" " alt="" coords="447,43,549,64,544,67,449,48"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1MachineFunctionInfo.html" title="MachineFunctionInfo &#45; This class can be derived from and used by targets to hold private target&#45;speci..." alt="" coords="5,589,180,614"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1AArch64FunctionInfo.html" title="AArch64FunctionInfo &#45; This class is derived from MachineFunctionInfo and contains private AArch64&#45;spe..." alt="" coords="258,70,434,96"/>
+<area shape="poly" id="edge4413_Node000005_Node000006" title=" " alt="" coords="95,573,111,469,139,329,157,258,177,193,200,141,226,105,260,87,257,91,229,109,205,143,182,195,162,259,144,330,116,470,100,574"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AMDGPUMachineFunction.html" title=" " alt="" coords="240,120,452,145"/>
+<area shape="poly" id="edge4414_Node000005_Node000003" title=" " alt="" coords="90,573,94,491,100,436,111,377,128,317,152,257,184,202,226,154,244,143,241,148,229,158,188,205,157,260,133,318,116,378,105,437,99,491,96,574"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ARCFunctionInfo.html" title="ARCFunctionInfo &#45; This class is derived from MachineFunction private ARC target&#45;specific information ..." alt="" coords="269,169,423,194"/>
+<area shape="poly" id="edge4417_Node000005_Node000007" title=" " alt="" coords="92,573,98,498,118,398,135,345,158,293,188,245,226,204,245,191,270,184,266,188,248,196,229,208,192,248,162,296,140,347,123,400,103,499,97,573"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ARMFunctionInfo.html" title="ARMFunctionInfo &#45; This class is derived from MachineFunctionInfo and contains private ARM&#45;specific in..." alt="" coords="268,218,424,244"/>
+<area shape="poly" id="edge4418_Node000005_Node000008" title=" " alt="" coords="93,573,103,507,124,420,141,374,164,330,192,288,226,253,245,241,270,233,266,237,248,245,229,257,196,292,168,332,146,376,129,422,108,508,99,574"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1AVRMachineFunctionInfo.html" title="Contains AVR&#45;specific information for each MachineFunction." alt="" coords="246,268,446,293"/>
+<area shape="poly" id="edge4419_Node000005_Node000009" title=" " alt="" coords="95,573,108,515,131,442,148,403,170,366,195,332,226,302,247,291,244,296,229,306,199,335,174,369,153,406,136,444,113,517,100,574"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1CSKYMachineFunctionInfo.html" title=" " alt="" coords="240,317,452,342"/>
+<area shape="poly" id="edge4420_Node000005_Node000010" title=" " alt="" coords="98,573,113,524,139,464,176,403,199,375,226,352,248,341,244,345,229,356,203,379,180,406,143,466,118,526,103,574"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1HexagonMachineFunctionInfo.html" title="Hexagon target&#45;specific information for each MachineFunction." alt="" coords="233,366,459,392"/>
+<area shape="poly" id="edge4421_Node000005_Node000011" title=" " alt="" coords="102,574,120,534,146,487,182,440,226,401,250,390,247,394,229,405,186,444,151,490,124,536,107,575"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1LanaiMachineFunctionInfo.html" title=" " alt="" coords="243,416,448,441"/>
+<area shape="poly" id="edge4422_Node000005_Node000012" title=" " alt="" coords="107,574,155,511,188,478,226,450,253,440,250,444,229,455,192,482,159,514,112,577"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1LoongArchMachineFunctionInfo.html" title="LoongArchMachineFunctionInfo &#45; This class is derived from MachineFunctionInfo and contains private Lo..." alt="" coords="228,465,464,490"/>
+<area shape="poly" id="edge4423_Node000005_Node000013" title=" " alt="" coords="116,576,165,536,195,516,227,499,259,489,256,493,229,504,198,521,168,540,121,579"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1M68kMachineFunctionInfo.html" title=" " alt="" coords="243,514,449,540"/>
+<area shape="poly" id="edge4424_Node000005_Node000014" title=" " alt="" coords="137,581,227,548,272,539,268,542,228,554,141,585"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1MSP430MachineFunctionInfo.html" title="MSP430MachineFunctionInfo &#45; This class is derived from MachineFunction and contains private MSP430 ta..." alt="" coords="234,564,458,589"/>
+<area shape="poly" id="edge4425_Node000005_Node000015" title=" " alt="" coords="194,589,235,586,231,589,197,594"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1MipsFunctionInfo.html" title="MipsFunctionInfo &#45; This class is derived from MachineFunction private Mips target&#45;specific informatio..." alt="" coords="269,613,422,638"/>
+<area shape="poly" id="edge4426_Node000005_Node000016" title=" " alt="" coords="194,609,271,617,266,620,196,614"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1NVPTXMachineFunctionInfo.html" title=" " alt="" coords="236,662,456,688"/>
+<area shape="poly" id="edge4427_Node000005_Node000017" title=" " alt="" coords="139,618,228,648,273,660,268,663,227,654,141,623"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1PPCFunctionInfo.html" title="PPCFunctionInfo &#45; This class is derived from MachineFunction private PowerPC target&#45;specific informat..." alt="" coords="269,712,422,737"/>
+<area shape="poly" id="edge4428_Node000005_Node000018" title=" " alt="" coords="118,622,168,662,198,682,229,698,271,713,266,715,227,703,195,686,165,666,119,628"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1RISCVMachineFunctionInfo.html" title="RISCVMachineFunctionInfo &#45; This class is derived from MachineFunctionInfo and contains private RISCV&#45;..." alt="" coords="238,761,454,786"/>
+<area shape="poly" id="edge4429_Node000005_Node000019" title=" " alt="" coords="110,625,159,688,192,721,229,747,254,759,249,761,226,752,188,725,155,692,110,630"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1SparcMachineFunctionInfo.html" title=" " alt="" coords="242,810,450,836"/>
+<area shape="poly" id="edge4430_Node000005_Node000020" title=" " alt="" coords="104,626,125,666,151,713,186,759,229,797,251,809,246,810,226,801,182,762,147,716,120,669,104,631"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1SystemZMachineFunctionInfo.html" title=" " alt="" coords="232,860,460,885"/>
+<area shape="poly" id="edge4431_Node000005_Node000021" title=" " alt="" coords="101,627,118,677,144,736,180,796,203,823,229,846,249,858,243,860,226,850,199,827,176,799,139,739,113,679,101,632"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1VEMachineFunctionInfo.html" title=" " alt="" coords="250,909,442,934"/>
+<area shape="poly" id="edge4432_Node000005_Node000022" title=" " alt="" coords="98,627,113,686,136,759,153,797,174,833,199,867,229,896,252,910,247,911,226,900,195,870,170,836,149,799,131,761,108,688,98,632"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1WebAssemblyFunctionInfo.html" title="This class is derived from MachineFunctionInfo and contains private WebAssembly&#45;specific information ..." alt="" coords="241,958,450,984"/>
+<area shape="poly" id="edge4433_Node000005_Node000023" title=" " alt="" coords="96,627,108,695,130,781,146,826,168,870,196,910,229,945,246,957,241,958,226,949,192,914,164,873,142,828,124,782,103,696,96,632"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1X86MachineFunctionInfo.html" title="X86MachineFunctionInfo &#45; This class is derived from MachineFunction and contains private X86 target&#45;s..." alt="" coords="247,1008,444,1033"/>
+<area shape="poly" id="edge4434_Node000005_Node000024" title=" " alt="" coords="95,628,103,704,123,803,140,856,163,907,192,954,229,994,250,1009,244,1009,226,998,188,957,158,909,135,857,118,804,98,705,94,633"/>
+<area shape="rect" id="Node000025" href="$classllvm_1_1XCoreFunctionInfo.html" title="XCoreFunctionInfo &#45; This class is derived from MachineFunction private XCore target&#45;specific informat..." alt="" coords="265,1057,427,1082"/>
+<area shape="poly" id="edge4435_Node000005_Node000025" title=" " alt="" coords="93,627,99,712,106,766,116,824,133,884,157,943,188,997,229,1044,246,1055,267,1065,262,1065,244,1060,226,1048,184,1000,152,945,128,886,111,825,100,767,94,712,93,633"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1XtensaMachineFunctionInfo.html" title=" " alt="" coords="238,1106,454,1132"/>
+<area shape="poly" id="edge4436_Node000005_Node000026" title=" " alt="" coords="98,627,116,733,144,873,162,943,182,1007,205,1059,230,1093,245,1106,240,1105,226,1097,200,1061,177,1009,157,945,139,874,111,734,97,632"/>
+<area shape="poly" id="edge4416_Node000003_Node000002" title=" " alt="" coords="427,114,548,91,544,94,430,118"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1R600MachineFunctionInfo.html" title=" " alt="" coords="512,120,717,145"/>
+<area shape="poly" id="edge4415_Node000003_Node000004" title=" " alt="" coords="466,130,514,131,509,134,469,135"/>
+</map>

@@ -1,0 +1,102 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="54,153,161,179"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1DIArgList.html" title="List of ValueAsMetadata, to be used as an argument to a dbg.value intrinsic." alt="" coords="322,104,430,130"/>
+<area shape="poly" id="edge4752_Node000000_Node000001" title=" " alt="" coords="175,151,323,125,319,129,177,156"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1DistinctMDOperandPlaceholder.html" title="Placeholder metadata for operands of distinct MDNodes." alt="" coords="258,153,494,179"/>
+<area shape="poly" id="edge4753_Node000000_Node000006" title=" " alt="" coords="175,164,259,164,255,168,178,168"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MDNode.html" title="Metadata node." alt="" coords="323,203,428,228"/>
+<area shape="poly" id="edge4754_Node000000_Node000007" title=" " alt="" coords="175,176,325,204,320,208,177,181"/>
+<area shape="rect" id="Node000049" href="$classllvm_1_1MDString.html" title="A single uniqued string." alt="" coords="322,252,430,278"/>
+<area shape="poly" id="edge4796_Node000000_Node000049" title=" " alt="" coords="143,185,198,213,259,238,324,256,319,258,257,243,195,217,145,190"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ValueAsMetadata.html" title="Value wrapper in the Metadata hierarchy." alt="" coords="298,55,454,80"/>
+<area shape="poly" id="edge4797_Node000000_Node000003" title=" " alt="" coords="150,145,208,116,232,101,257,89,299,78,296,82,259,94,235,106,211,121,154,148"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1DIAssignID.html" title="Assignment ID." alt="" coords="589,400,710,426"/>
+<area shape="poly" id="edge4755_Node000007_Node000008" title=" " alt="" coords="443,215,472,223,496,237,511,256,519,275,521,314,523,352,530,369,544,387,565,400,591,410,586,411,563,405,540,391,525,372,517,353,516,314,514,276,507,259,492,242,469,227,445,220"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1DIExpression.html" title="DWARF expression." alt="" coords="584,104,716,130"/>
+<area shape="poly" id="edge4756_Node000007_Node000009" title=" " alt="" coords="442,207,469,200,493,189,507,178,516,165,525,151,541,139,585,124,581,127,543,143,529,155,520,168,511,181,495,194,470,205,445,211"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1DIGlobalVariableExpression.html" title="A pair of DIGlobalVariable and DIExpression." alt="" coords="542,153,757,179"/>
+<area shape="poly" id="edge4757_Node000007_Node000010" title=" " alt="" coords="442,201,577,178,572,181,445,206"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1DILocation.html" title="Debug location." alt="" coords="592,203,708,228"/>
+<area shape="poly" id="edge4758_Node000007_Node000011" title=" " alt="" coords="443,213,594,214,589,217,444,218"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1DIMacroNode.html" title="Macro Info DWARF&#45;like metadata node." alt="" coords="582,252,717,278"/>
+<area shape="poly" id="edge4759_Node000007_Node000012" title=" " alt="" coords="443,225,584,252,580,254,444,230"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node." alt="" coords="600,301,699,327"/>
+<area shape="poly" id="edge4762_Node000007_Node000015" title=" " alt="" coords="443,219,470,226,495,237,511,250,520,263,529,276,543,288,571,300,603,309,597,310,570,305,541,292,525,280,516,266,507,253,493,242,469,231,444,225"/>
+<area shape="rect" id="Node000048" href="$classllvm_1_1MDTuple.html" title="Tuple of metadata." alt="" coords="596,351,703,376"/>
+<area shape="poly" id="edge4795_Node000007_Node000048" title=" " alt="" coords="443,216,471,224,496,237,508,250,515,263,521,289,526,314,533,326,544,337,569,351,599,361,594,362,567,356,540,342,528,329,521,316,516,290,510,265,504,253,492,242,469,229,445,221"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1DIMacro.html" title="Macro." alt="" coords="844,29,947,55"/>
+<area shape="poly" id="edge4760_Node000012_Node000013" title=" " alt="" coords="730,254,756,239,771,218,779,198,779,154,779,109,787,86,803,64,822,51,846,45,841,48,824,56,807,68,792,89,785,110,784,154,784,199,776,221,759,243,733,259"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1DIMacroFile.html" title="Macro file." alt="" coords="833,79,958,104"/>
+<area shape="poly" id="edge4761_Node000012_Node000014" title=" " alt="" coords="730,254,756,239,768,224,775,210,779,178,783,146,790,129,804,113,835,98,831,101,807,118,795,132,788,147,784,179,780,211,773,227,759,243,733,258"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1DIEnumerator.html" title="Enumeration value." alt="" coords="828,325,963,351"/>
+<area shape="poly" id="edge4763_Node000015_Node000016" title=" " alt="" coords="714,318,830,331,825,332,714,323"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1DIGenericSubrange.html" title=" " alt="" coords="812,375,979,400"/>
+<area shape="poly" id="edge4764_Node000015_Node000017" title=" " alt="" coords="714,323,758,336,783,348,806,361,840,374,835,374,804,366,780,353,756,341,714,328"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1DIImportedEntity.html" title="An imported module (C++ using directive or similar)." alt="" coords="819,424,972,450"/>
+<area shape="poly" id="edge4765_Node000015_Node000018" title=" " alt="" coords="714,317,738,325,759,336,776,355,784,374,791,393,807,411,827,424,822,423,804,415,787,396,779,376,772,358,756,340,736,330,714,323"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1DILabel.html" title="Label." alt="" coords="846,473,945,499"/>
+<area shape="poly" id="edge4766_Node000015_Node000019" title=" " alt="" coords="714,315,738,323,759,336,773,351,780,368,784,399,788,431,795,446,807,460,826,472,849,482,843,482,823,477,804,464,790,448,783,432,779,400,775,369,768,354,756,340,736,328,714,321"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1DIObjCProperty.html" title=" " alt="" coords="822,523,969,548"/>
+<area shape="poly" id="edge4767_Node000015_Node000020" title=" " alt="" coords="714,314,738,322,759,336,776,358,784,380,784,424,785,468,792,489,807,510,824,524,819,523,803,513,787,491,779,469,779,424,779,381,771,360,756,340,736,327,714,320"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1DIScope.html" title="Base class for scope&#45;like contexts." alt="" coords="843,572,948,598"/>
+<area shape="poly" id="edge4768_Node000015_Node000021" title=" " alt="" coords="714,314,739,322,759,336,779,364,788,393,788,421,785,449,781,477,781,505,789,532,807,559,824,571,846,581,840,581,821,576,803,563,784,534,776,506,776,477,779,449,783,421,782,393,775,367,755,340,736,327,715,319"/>
+<area shape="rect" id="Node000040" href="$classllvm_1_1DISubrange.html" title="Array subrange." alt="" coords="834,128,957,154"/>
+<area shape="poly" id="edge4787_Node000015_Node000040" title=" " alt="" coords="713,308,736,300,756,288,768,274,775,259,779,228,783,195,790,179,804,163,836,147,832,150,807,167,795,182,788,196,784,228,780,260,773,277,759,292,738,305,715,313"/>
+<area shape="rect" id="Node000041" href="$classllvm_1_1DITemplateParameter.html" title="Base class for template parameters." alt="" coords="805,177,986,203"/>
+<area shape="poly" id="edge4788_Node000015_Node000041" title=" " alt="" coords="713,306,736,299,756,288,772,271,779,251,787,231,804,212,827,202,822,205,807,216,791,234,784,253,776,273,759,292,738,304,715,311"/>
+<area shape="rect" id="Node000044" href="$classllvm_1_1DIVariable.html" title="Base class for variables." alt="" coords="839,227,952,252"/>
+<area shape="poly" id="edge4791_Node000015_Node000044" title=" " alt="" coords="713,301,756,288,780,275,804,261,841,251,836,253,806,266,783,279,758,293,715,305"/>
+<area shape="rect" id="Node000047" href="$classllvm_1_1GenericDINode.html" title="Generic tagged DWARF&#45;like metadata node." alt="" coords="824,276,967,302"/>
+<area shape="poly" id="edge4794_Node000015_Node000047" title=" " alt="" coords="714,305,826,295,821,297,715,310"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1DICommonBlock.html" title="Debug common block." alt="" coords="1063,473,1216,499"/>
+<area shape="poly" id="edge4769_Node000021_Node000022" title=" " alt="" coords="962,569,984,559,999,547,1007,534,1017,521,1032,508,1060,499,1065,497,1035,512,1020,524,1012,537,1003,550,987,563,963,574"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1DICompileUnit.html" title="Compile unit." alt="" coords="1070,523,1210,548"/>
+<area shape="poly" id="edge4770_Node000021_Node000023" title=" " alt="" coords="962,569,1070,549,1075,548,963,574"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1DIFile.html" title="File." alt="" coords="1096,572,1184,598"/>
+<area shape="poly" id="edge4771_Node000021_Node000024" title=" " alt="" coords="963,582,1098,585,1092,585,963,587"/>
+<area shape="rect" id="Node000025" href="$classllvm_1_1DILocalScope.html" title="A scope for locals." alt="" coords="1072,621,1208,647"/>
+<area shape="poly" id="edge4772_Node000021_Node000025" title=" " alt="" coords="963,596,1075,621,1070,621,963,601"/>
+<area shape="rect" id="Node000030" href="$classllvm_1_1DIModule.html" title="Represents a module in the programming language, for example, a Clang module, or a Fortran module." alt="" coords="1085,671,1194,696"/>
+<area shape="poly" id="edge4777_Node000021_Node000030" title=" " alt="" coords="930,604,979,631,1035,657,1088,674,1082,674,1033,662,977,636,929,609"/>
+<area shape="rect" id="Node000031" href="$classllvm_1_1DINamespace.html" title="Debug lexical block." alt="" coords="1071,720,1208,746"/>
+<area shape="poly" id="edge4778_Node000021_Node000031" title=" " alt="" coords="918,607,969,659,1000,685,1035,706,1073,723,1068,722,1032,711,997,689,965,663,916,612"/>
+<area shape="rect" id="Node000032" href="$classllvm_1_1DIType.html" title="Base class for types." alt="" coords="1092,424,1188,450"/>
+<area shape="poly" id="edge4779_Node000021_Node000032" title=" " alt="" coords="961,572,984,559,995,547,1001,535,1007,510,1013,484,1020,471,1032,459,1061,443,1094,438,1089,439,1062,448,1035,463,1024,474,1018,486,1012,511,1006,537,999,550,987,563,963,577"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1DILexicalBlockBase.html" title=" " alt="" coords="1294,597,1465,623"/>
+<area shape="poly" id="edge4773_Node000025_Node000026" title=" " alt="" coords="1222,623,1291,619,1296,618,1223,629"/>
+<area shape="rect" id="Node000029" href="$classllvm_1_1DISubprogram.html" title="Subprogram description. Uses SubclassData1." alt="" coords="1311,647,1448,672"/>
+<area shape="poly" id="edge4776_Node000025_Node000029" title=" " alt="" coords="1223,640,1313,652,1308,652,1223,646"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1DILexicalBlock.html" title="Debug lexical block." alt="" coords="1524,621,1665,647"/>
+<area shape="poly" id="edge4774_Node000026_Node000027" title=" " alt="" coords="1481,619,1526,626,1521,626,1480,624"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1DILexicalBlockFile.html" title=" " alt="" coords="1513,572,1676,598"/>
+<area shape="poly" id="edge4775_Node000026_Node000028" title=" " alt="" coords="1480,596,1510,595,1515,594,1481,601"/>
+<area shape="rect" id="Node000033" href="$classllvm_1_1DIBasicType.html" title="Basic type, like &#39;int&#39; or &#39;float&#39;." alt="" coords="1316,499,1444,524"/>
+<area shape="poly" id="edge4780_Node000032_Node000033" title=" " alt="" coords="1203,445,1247,458,1271,472,1295,485,1327,498,1322,498,1293,490,1269,476,1245,463,1203,451"/>
+<area shape="rect" id="Node000035" href="$classllvm_1_1DICompositeType.html" title="Composite types." alt="" coords="1300,548,1459,574"/>
+<area shape="poly" id="edge4782_Node000032_Node000035" title=" " alt="" coords="1203,440,1226,447,1248,459,1265,478,1273,498,1280,517,1296,535,1315,548,1310,547,1292,539,1275,519,1268,499,1260,480,1244,463,1224,452,1203,445"/>
+<area shape="rect" id="Node000036" href="$classllvm_1_1DIDerivedType.html" title="Derived types." alt="" coords="1310,301,1450,327"/>
+<area shape="poly" id="edge4783_Node000032_Node000036" title=" " alt="" coords="1169,412,1224,374,1293,336,1320,329,1325,327,1295,341,1227,378,1171,417"/>
+<area shape="rect" id="Node000037" href="$classllvm_1_1DIStringType.html" title="String type, Fortran CHARACTER(n)." alt="" coords="1315,351,1444,376"/>
+<area shape="poly" id="edge4784_Node000032_Node000037" title=" " alt="" coords="1195,416,1293,385,1328,378,1333,376,1295,390,1197,421"/>
+<area shape="rect" id="Node000038" href="$classllvm_1_1DISubrangeType.html" title="Subrange type." alt="" coords="1304,400,1455,426"/>
+<area shape="poly" id="edge4785_Node000032_Node000038" title=" " alt="" coords="1203,428,1307,420,1301,421,1203,433"/>
+<area shape="rect" id="Node000039" href="$classllvm_1_1DISubroutineType.html" title="Type array for a subprogram." alt="" coords="1301,449,1458,475"/>
+<area shape="poly" id="edge4786_Node000032_Node000039" title=" " alt="" coords="1203,441,1303,454,1298,454,1203,446"/>
+<area shape="rect" id="Node000034" href="$classllvm_1_1DIFixedPointType.html" title="Fixed&#45;point type." alt="" coords="1516,499,1673,524"/>
+<area shape="poly" id="edge4781_Node000033_Node000034" title=" " alt="" coords="1459,509,1518,511,1513,512,1459,514"/>
+<area shape="rect" id="Node000042" href="$classllvm_1_1DITemplateTypeParameter.html" title=" " alt="" coords="1036,177,1244,203"/>
+<area shape="poly" id="edge4789_Node000041_Node000042" title=" " alt="" coords="1001,188,1038,189,1033,191,1002,193"/>
+<area shape="rect" id="Node000043" href="$classllvm_1_1DITemplateValueParameter.html" title=" " alt="" coords="1034,128,1246,154"/>
+<area shape="poly" id="edge4790_Node000041_Node000043" title=" " alt="" coords="977,171,1075,153,1070,155,979,176"/>
+<area shape="rect" id="Node000045" href="$classllvm_1_1DIGlobalVariable.html" title="Global variables." alt="" coords="1065,276,1215,302"/>
+<area shape="poly" id="edge4792_Node000044_Node000045" title=" " alt="" coords="967,251,1075,275,1070,276,967,256"/>
+<area shape="rect" id="Node000046" href="$classllvm_1_1DILocalVariable.html" title="Local variable." alt="" coords="1068,227,1212,252"/>
+<area shape="poly" id="edge4793_Node000044_Node000046" title=" " alt="" coords="967,237,1070,239,1065,240,968,242"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ConstantAsMetadata.html" title=" " alt="" coords="562,55,738,80"/>
+<area shape="poly" id="edge4798_Node000003_Node000004" title=" " alt="" coords="468,65,563,66,559,69,470,70"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1LocalAsMetadata.html" title=" " alt="" coords="572,5,727,31"/>
+<area shape="poly" id="edge4799_Node000003_Node000005" title=" " alt="" coords="465,49,576,30,572,33,467,54"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ReplaceableMetadataImpl.html" title="Shared implementation of use&#45;lists for replaceable metadata." alt="" coords="5,80,210,106"/>
+<area shape="poly" id="edge4800_Node000002_Node000001" title=" " alt="" coords="224,101,323,110,319,114,226,106"/>
+<area shape="poly" id="edge4801_Node000002_Node000003" title=" " alt="" coords="224,80,300,73,296,77,227,84"/>
+</map>

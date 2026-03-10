@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1MCSymbol.html" title="MCSymbol &#45; Instances of this class represent a symbol name in the MC file, and MCSymbols are created ..." alt="" coords="5,129,124,155"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1MCSymbolCOFF.html" title=" " alt="" coords="176,5,330,31"/>
+<area shape="poly" id="edge4683_Node000000_Node000001" title=" " alt="" coords="84,116,122,77,170,40,197,30,193,33,173,44,125,81,88,119"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCSymbolELF.html" title=" " alt="" coords="182,55,324,80"/>
+<area shape="poly" id="edge4684_Node000000_Node000002" title=" " alt="" coords="103,120,171,89,205,79,201,82,173,94,106,124"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MCSymbolGOFF.html" title=" " alt="" coords="176,104,330,130"/>
+<area shape="poly" id="edge4685_Node000000_Node000003" title=" " alt="" coords="138,130,178,126,173,129,140,135"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MCSymbolMachO.html" title=" " alt="" coords="173,153,334,179"/>
+<area shape="poly" id="edge4686_Node000000_Node000004" title=" " alt="" coords="139,149,175,155,170,157,140,154"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MCSymbolWasm.html" title=" " alt="" coords="176,203,331,228"/>
+<area shape="poly" id="edge4687_Node000000_Node000005" title=" " alt="" coords="106,160,173,189,205,202,200,202,171,194,105,165"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MCSymbolXCOFF.html" title=" " alt="" coords="172,252,335,278"/>
+<area shape="poly" id="edge4688_Node000000_Node000006" title=" " alt="" coords="87,164,125,203,173,239,198,251,192,251,170,243,122,207,85,169"/>
+</map>

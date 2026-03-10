@@ -1,0 +1,35 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1MachineConstantPoolValue.html" title="Abstract base class for all machine specific constantpool value subclasses." alt="" coords="5,268,187,309"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1ARMConstantPoolValue.html" title="ARMConstantPoolValue &#45; ARM specific constantpool value." alt="" coords="241,80,435,106"/>
+<area shape="poly" id="edge4365_Node000000_Node000001" title=" " alt="" coords="133,256,321,104,320,109,136,260"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1CSKYConstantPoolValue.html" title="CSKYConstantPoolValue &#45; CSKY specific constantpool value." alt="" coords="237,227,438,252"/>
+<area shape="poly" id="edge4369_Node000000_Node000005" title=" " alt="" coords="201,265,273,251,269,255,203,270"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1RISCVConstantPoolValue.html" title="A RISCV&#45;specific constant pool value." alt="" coords="235,276,441,302"/>
+<area shape="poly" id="edge4374_Node000000_Node000010" title=" " alt="" coords="201,286,237,288,232,290,203,291"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1SystemZConstantPoolValue.html" title="A SystemZ&#45;specific constant pool value." alt="" coords="245,326,430,366"/>
+<area shape="poly" id="edge4375_Node000000_Node000011" title=" " alt="" coords="199,311,251,324,247,326,200,316"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1XtensaConstantPoolValue.html" title="XtensaConstantPoolValue &#45; Xtensa specific constantpool value." alt="" coords="251,416,424,457"/>
+<area shape="poly" id="edge4376_Node000000_Node000012" title=" " alt="" coords="141,315,236,376,302,415,296,416,233,380,140,320"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ARMConstantPoolConstant.html" title="ARMConstantPoolConstant &#45; ARM&#45;specific constant pool values for Constants, Functions,..." alt="" coords="492,5,708,31"/>
+<area shape="poly" id="edge4366_Node000001_Node000002" title=" " alt="" coords="388,72,488,40,534,30,529,33,490,45,391,77"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ARMConstantPoolMBB.html" title="ARMConstantPoolMBB &#45; ARM&#45;specific constantpool value of a machine basic block." alt="" coords="504,55,696,80"/>
+<area shape="poly" id="edge4367_Node000001_Node000003" title=" " alt="" coords="449,80,506,75,502,78,451,84"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ARMConstantPoolSymbol.html" title="ARMConstantPoolSymbol &#45; ARM&#45;specific constantpool values for external symbols." alt="" coords="497,104,703,130"/>
+<area shape="poly" id="edge4368_Node000001_Node000004" title=" " alt="" coords="450,101,499,106,494,108,451,106"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1CSKYConstantPoolConstant.html" title="CSKY&#45;specific constant pool values for Constants, Functions, and BlockAddresses." alt="" coords="489,153,711,179"/>
+<area shape="poly" id="edge4370_Node000005_Node000006" title=" " alt="" coords="389,219,488,188,535,178,530,181,490,193,392,223"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1CSKYConstantPoolJT.html" title="CSKY&#45;specific constantpool value of a jump table." alt="" coords="508,203,692,228"/>
+<area shape="poly" id="edge4371_Node000005_Node000007" title=" " alt="" coords="453,226,510,223,505,225,455,231"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1CSKYConstantPoolMBB.html" title="CSKYConstantPoolMBB &#45; CSKY&#45;specific constantpool value of a machine basic block." alt="" coords="501,252,699,278"/>
+<area shape="poly" id="edge4372_Node000005_Node000008" title=" " alt="" coords="453,248,503,254,498,256,454,253"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1CSKYConstantPoolSymbol.html" title="CSKYConstantPoolSymbol &#45; CSKY&#45;specific constantpool values for external symbols." alt="" coords="494,301,707,327"/>
+<area shape="poly" id="edge4373_Node000005_Node000009" title=" " alt="" coords="422,255,442,261,466,275,490,288,526,300,521,301,488,293,464,279,440,266,423,260"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1XtensaConstantPoolConstant.html" title="XtensaConstantPoolConstant &#45; Xtensa&#45;specific constant pool values for Constants (for example BlockAdd..." alt="" coords="514,351,687,392"/>
+<area shape="poly" id="edge4377_Node000012_Node000013" title=" " alt="" coords="436,410,518,392,513,393,438,415"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1XtensaConstantPoolJumpTable.html" title="XtensaConstantPoolJumpTable &#45; Xtensa&#45;specific constantpool values for Jump Table symbols." alt="" coords="514,416,687,457"/>
+<area shape="poly" id="edge4378_Node000012_Node000014" title=" " alt="" coords="440,434,516,436,511,437,440,439"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1XtensaConstantPoolMBB.html" title="XtensaConstantPoolMBB &#45; Xtensa&#45;specific constantpool value of a machine basic block." alt="" coords="499,481,701,507"/>
+<area shape="poly" id="edge4379_Node000012_Node000015" title=" " alt="" coords="440,456,540,480,535,481,440,462"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1XtensaConstantPoolSymbol.html" title="XtensaConstantPoolSymbol &#45; Xtensa&#45;specific constantpool values for external symbols." alt="" coords="514,531,687,572"/>
+<area shape="poly" id="edge4380_Node000012_Node000016" title=" " alt="" coords="386,463,436,491,490,517,522,531,517,530,488,522,433,496,384,468"/>
+</map>

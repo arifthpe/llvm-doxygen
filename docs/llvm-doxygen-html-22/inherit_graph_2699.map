@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1ir2vec_1_1Embedder.html" title="Embedder provides the interface to generate embeddings (vector representations) for instructions,..." alt="" coords="5,31,161,56"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1ir2vec_1_1FlowAwareEmbedder.html" title="Class for computing the Flow&#45;aware embeddings of IR2Vec." alt="" coords="209,5,429,31"/>
+<area shape="poly" id="edge3781_Node000000_Node000001" title=" " alt="" coords="176,31,211,30,205,31,177,36"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ir2vec_1_1SymbolicEmbedder.html" title="Class for computing the Symbolic embeddings of IR2Vec." alt="" coords="214,55,424,80"/>
+<area shape="poly" id="edge3782_Node000000_Node000002" title=" " alt="" coords="177,50,216,57,211,57,176,56"/>
+</map>

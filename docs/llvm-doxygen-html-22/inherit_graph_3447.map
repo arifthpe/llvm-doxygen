@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1MCObjectTargetWriter.html" title="Base class for classes that define behaviour that is specific to both the target and the object forma..." alt="" coords="5,226,188,252"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1MCDXContainerTargetWriter.html" title=" " alt="" coords="247,5,432,46"/>
+<area shape="poly" id="edge4633_Node000000_Node000001" title=" " alt="" coords="109,211,129,176,157,134,192,92,234,55,257,44,254,48,237,60,196,96,161,137,133,179,113,214"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCELFObjectTargetWriter.html" title=" " alt="" coords="236,70,442,96"/>
+<area shape="poly" id="edge4634_Node000000_Node000002" title=" " alt="" coords="115,212,165,158,198,130,234,106,266,95,262,98,237,111,202,134,169,162,120,215"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MCGOFFObjectTargetWriter.html" title=" " alt="" coords="247,120,432,161"/>
+<area shape="poly" id="edge4636_Node000000_Node000004" title=" " alt="" coords="135,217,235,171,272,160,268,163,237,176,139,221"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MCMachObjectTargetWriter.html" title=" " alt="" coords="249,185,430,226"/>
+<area shape="poly" id="edge4637_Node000000_Node000005" title=" " alt="" coords="202,222,251,217,247,220,204,227"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MCSPIRVObjectTargetWriter.html" title=" " alt="" coords="245,251,434,291"/>
+<area shape="poly" id="edge4638_Node000000_Node000006" title=" " alt="" coords="203,250,246,257,242,260,204,256"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MCWasmObjectTargetWriter.html" title=" " alt="" coords="247,316,432,357"/>
+<area shape="poly" id="edge4639_Node000000_Node000007" title=" " alt="" coords="138,257,237,301,272,315,267,316,235,305,138,262"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1MCWinCOFFObjectTargetWriter.html" title=" " alt="" coords="236,381,443,422"/>
+<area shape="poly" id="edge4640_Node000000_Node000008" title=" " alt="" coords="119,261,170,314,202,342,237,366,264,381,258,381,234,371,199,346,167,318,118,267"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1MCXCOFFObjectTargetWriter.html" title=" " alt="" coords="243,447,436,487"/>
+<area shape="poly" id="edge4641_Node000000_Node000009" title=" " alt="" coords="110,263,132,302,159,347,195,392,237,432,259,446,254,446,234,436,191,396,155,350,127,304,109,268"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AVRELFObjectWriter.html" title="Writes AVR machine code into an ELF32 object file." alt="" coords="491,70,666,96"/>
+<area shape="poly" id="edge4635_Node000002_Node000003" title=" " alt="" coords="458,80,493,82,488,84,459,86"/>
+</map>
