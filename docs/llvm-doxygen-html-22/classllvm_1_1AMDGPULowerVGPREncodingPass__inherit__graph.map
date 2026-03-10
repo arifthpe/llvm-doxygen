@@ -1,0 +1,7 @@
+<map id="llvm::AMDGPULowerVGPREncodingPass" name="llvm::AMDGPULowerVGPREncodingPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,227,275,253"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="10,137,270,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,191,142,228,138,226,138,195"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="72,5,208,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="142,60,143,138,137,136,138,64"/>
+</map>

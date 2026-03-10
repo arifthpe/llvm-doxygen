@@ -1,0 +1,9 @@
+<map id="llvm::ARMBETargetMachine" name="llvm::ARMBETargetMachine">
+<area shape="rect" id="Node000001" title="ARM/Thumb big endian target machine." alt="" coords="21,226,208,252"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ARMBaseTargetMachine.html" title=" " alt="" coords="15,153,214,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,192,117,227,112,225,113,196"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1CodeGenTargetMachineImpl.html" title="implements a set of functionality in the TargetMachine class for targets that make use of the indepen..." alt="" coords="5,79,224,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,118,117,153,112,151,113,122"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine." alt="" coords="45,5,184,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,44,117,79,112,78,114,49"/>
+</map>

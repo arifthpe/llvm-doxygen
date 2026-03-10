@@ -1,0 +1,9 @@
+<map id="llvm::AMDGPU::HSAMD::MetadataStreamerMsgPackV4" name="llvm::AMDGPU::HSAMD::MetadataStreamerMsgPackV4">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,94,213,135"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AMDGPU_1_1HSAMD_1_1MetadataStreamerMsgPackV5.html" title=" " alt="" coords="5,183,213,223"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,148,112,183,106,182,108,153"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AMDGPU_1_1HSAMD_1_1MetadataStreamer.html" title=" " alt="" coords="24,5,194,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,59,112,94,106,93,108,64"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AMDGPU_1_1HSAMD_1_1MetadataStreamerMsgPackV6.html" title=" " alt="" coords="5,271,213,312"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="111,237,111,272,107,270,107,241"/>
+</map>

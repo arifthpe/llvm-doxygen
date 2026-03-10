@@ -1,0 +1,16 @@
+<map id="llvm::vfs::OutputFile::TrackedProxy" name="llvm::vfs::OutputFile::TrackedProxy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="115,462,254,503"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1raw__pwrite__stream__proxy.html" title="Non&#45;owning proxy for a raw_pwrite_stream." alt="" coords="103,372,266,413"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,426,187,463,182,460,182,430"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1raw__pwrite__stream__proxy__adaptor.html" title="Adaptor for creating a stream that proxies a raw_pwrite_stream." alt="" coords="60,282,308,323"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="186,336,187,373,182,371,183,341"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1raw__ostream__proxy__adaptor.html" title=" " alt="" coords="82,192,287,233"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="185,246,187,282,182,281,183,251"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1raw__pwrite__stream.html" title="An abstract base class for streams implementations that also support a pwrite operation." alt="" coords="5,88,169,114"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="108,122,169,191,164,192,108,128"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1raw__ostream.html" title="This class implements an extremely fast bulk output stream that can only output to a stream." alt="" coords="120,5,248,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="157,43,103,89,99,86,159,39"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1raw__ostream__proxy__adaptor.html" title="Adaptor to create a stream class that proxies another raw_ostream." alt="" coords="193,80,373,121"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="211,38,262,79,256,81,211,44"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="254,135,204,193,200,190,257,130"/>
+</map>

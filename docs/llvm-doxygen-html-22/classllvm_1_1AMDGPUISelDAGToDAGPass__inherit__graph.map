@@ -1,0 +1,9 @@
+<map id="llvm::AMDGPUISelDAGToDAGPass" name="llvm::AMDGPUISelDAGToDAGPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,282,243,308"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SelectionDAGISelPass.html" title=" " alt="" coords="29,207,219,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,246,126,283,122,281,122,250"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="33,117,215,158"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,171,127,207,121,206,123,175"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="56,5,192,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="125,59,127,117,121,116,123,64"/>
+</map>

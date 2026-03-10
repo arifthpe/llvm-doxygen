@@ -1,0 +1,11 @@
+<map id="llvm::AMDGPUPassConfig" name="llvm::AMDGPUPassConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,300,186,326"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TargetPassConfig.html" title="Target&#45;Independent Code Generator Pass Configuration Options." alt="" coords="17,226,174,252"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,266,98,301,93,299,94,269"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ImmutablePass.html" title="ImmutablePass class &#45; This class is used to provide information that does not need to be run." alt="" coords="23,153,168,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,191,98,227,93,225,94,196"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ModulePass.html" title="ModulePass class &#45; This class is used to implement unstructured interprocedural optimizations and ana..." alt="" coords="33,79,158,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="96,118,98,153,93,152,95,123"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;." alt="" coords="54,5,137,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="96,44,98,79,93,78,95,49"/>
+</map>

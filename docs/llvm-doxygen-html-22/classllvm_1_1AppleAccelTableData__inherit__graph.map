@@ -1,0 +1,13 @@
+<map id="llvm::AppleAccelTableData" name="llvm::AppleAccelTableData">
+<area shape="rect" id="Node000001" title="A base class for different implementations of Data classes for Apple Accelerator Tables." alt="" coords="135,79,314,105"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AppleAccelTableOffsetData.html" title="Accelerator table data implementation for simple Apple accelerator tables with just a DIE reference." alt="" coords="5,160,220,186"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,115,131,162,128,158,197,112"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1AppleAccelTableStaticOffsetData.html" title="Accelerator table data implementation for simple Apple accelerator tables with a DIE offset but no ac..." alt="" coords="244,153,429,193"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="255,111,312,152,306,153,254,117"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AccelTableData.html" title="Interface which the different types of accelerator table data have to conform." alt="" coords="152,5,297,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,44,227,79,222,78,223,49"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AppleAccelTableTypeData.html" title="Accelerator table data implementation for Apple type accelerator tables." alt="" coords="9,249,216,274"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,200,115,249,110,248,111,203"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1AppleAccelTableStaticTypeData.html" title="Accelerator table data implementation for type accelerator tables with a DIE offset but no actual DIE..." alt="" coords="244,241,429,282"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="338,207,339,242,334,239,335,211"/>
+</map>

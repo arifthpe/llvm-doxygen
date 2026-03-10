@@ -1,0 +1,7 @@
+<map id="llvm::AMDGPUPreloadKernelArgumentsPass" name="llvm::AMDGPUPreloadKernelArgumentsPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="26,242,220,283"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="5,137,241,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,206,125,243,121,241,121,210"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="55,5,191,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,59,126,137,120,136,122,64"/>
+</map>

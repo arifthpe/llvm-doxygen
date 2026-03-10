@@ -1,0 +1,5 @@
+<map id="BasicLoadAndStorePromoter" name="BasicLoadAndStorePromoter">
+<area shape="rect" id="Node000001" title="A basic LoadAndStorePromoter that does not remove store nodes." alt="" coords="5,79,195,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1LoadAndStorePromoter.html" title="Helper class for promoting a collection of loads and stores into SSA Form using the SSAUpdater." alt="" coords="6,5,194,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,45,102,80,98,77,98,48"/>
+</map>

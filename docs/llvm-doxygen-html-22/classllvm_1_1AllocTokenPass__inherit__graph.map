@@ -1,0 +1,7 @@
+<map id="llvm::AllocTokenPass" name="llvm::AllocTokenPass">
+<area shape="rect" id="Node000001" title="A module pass that rewrites heap allocations to use token&#45;enabled allocation functions based on vario..." alt="" coords="5,207,153,233"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="10,117,148,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,171,82,207,76,206,77,175"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="11,5,147,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,59,82,117,76,116,78,64"/>
+</map>
