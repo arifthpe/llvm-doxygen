@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1rdf_1_1CopyPropagationBase.html" title=" " alt="" coords="5,42,212,68"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1rdf_1_1AggressiveCopyPropagation.html" title=" " alt="" coords="262,5,434,46"/>
+<area shape="poly" id="edge7768_Node000000_Node000001" title=" " alt="" coords="227,38,264,36,259,37,228,43"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1rdf_1_1CopyPropagation.html" title=" " alt="" coords="260,70,436,96"/>
+<area shape="poly" id="edge7769_Node000000_Node000002" title=" " alt="" coords="227,66,262,73,256,73,227,72"/>
+</map>

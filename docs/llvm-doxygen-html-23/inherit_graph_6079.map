@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1sandboxir_1_1Type.html" title="Just like llvm::Type these are immutable, unique, never get freed and can only be created via static ..." alt="" coords="5,153,151,179"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1sandboxir_1_1ArrayType.html" title=" " alt="" coords="208,5,384,31"/>
+<area shape="poly" id="edge8062_Node000000_Node000001" title=" " alt="" coords="95,139,138,88,166,62,197,40,224,30,220,33,200,44,169,66,141,92,99,142"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1ByteType.html" title="Class to represent byte types." alt="" coords="210,55,382,80"/>
+<area shape="poly" id="edge8063_Node000000_Node000002" title=" " alt="" coords="107,142,149,114,198,89,231,79,227,83,200,94,152,119,111,146"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1FunctionType.html" title=" " alt="" coords="199,104,394,130"/>
+<area shape="poly" id="edge8064_Node000000_Node000003" title=" " alt="" coords="152,147,238,129,234,132,154,152"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1IntegerType.html" title="Class to represent integer types." alt="" coords="204,153,389,179"/>
+<area shape="poly" id="edge8065_Node000000_Node000004" title=" " alt="" coords="165,164,206,165,201,167,167,169"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1PointerType.html" title=" " alt="" coords="203,203,390,228"/>
+<area shape="poly" id="edge8066_Node000000_Node000005" title=" " alt="" coords="153,180,238,201,234,203,153,186"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1StructType.html" title=" " alt="" coords="206,252,386,278"/>
+<area shape="poly" id="edge8067_Node000000_Node000006" title=" " alt="" coords="109,186,152,213,200,238,232,251,227,252,198,243,149,218,109,191"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1sandboxir_1_1VectorType.html" title=" " alt="" coords="205,301,388,327"/>
+<area shape="poly" id="edge8068_Node000000_Node000007" title=" " alt="" coords="98,189,141,240,169,266,200,288,225,301,220,301,197,292,166,270,138,244,96,194"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1sandboxir_1_1FixedVectorType.html" title=" " alt="" coords="442,272,657,298"/>
+<area shape="poly" id="edge8069_Node000007_Node000008" title=" " alt="" coords="403,299,444,297,439,298,404,304"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1sandboxir_1_1ScalableVectorType.html" title=" " alt="" coords="466,322,633,362"/>
+<area shape="poly" id="edge8070_Node000007_Node000009" title=" " alt="" coords="404,323,468,333,463,333,403,329"/>
+</map>

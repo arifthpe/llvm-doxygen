@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1SmallVectorBase.html" title=" " alt="" coords="5,31,172,87"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1SmallVectorTemplateCommon.html" title=" " alt="" coords="220,39,427,79"/>
+<area shape="poly" id="edge9943_Node000000_Node000001" title=" " alt="" coords="186,56,222,58,217,60,187,62"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SmallVectorTemplateBase.html" title=" " alt="" coords="475,39,659,79"/>
+<area shape="poly" id="edge9944_Node000001_Node000002" title=" " alt="" coords="442,56,477,59,472,59,443,62"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="716,39,871,79"/>
+<area shape="poly" id="edge9945_Node000002_Node000003" title=" " alt="" coords="674,56,719,59,713,59,675,62"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="930,5,1094,46"/>
+<area shape="poly" id="edge9946_Node000003_Node000004" title=" " alt="" coords="885,42,927,39,932,38,886,48"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="931,71,1092,111"/>
+<area shape="poly" id="edge9947_Node000003_Node000006" title=" " alt="" coords="886,70,933,79,928,79,886,75"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="928,136,1096,177"/>
+<area shape="poly" id="edge9948_Node000003_Node000007" title=" " alt="" coords="867,83,881,90,929,121,957,136,952,135,926,125,878,95,866,89"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1SmallVectorStorage.html" title=" " alt="" coords="707,104,880,145"/>
+<area shape="poly" id="edge9949_Node000005_Node000004" title=" " alt="" coords="866,95,878,89,902,73,926,57,952,47,957,46,929,61,905,77,881,93,868,100"/>
+<area shape="poly" id="edge9950_Node000005_Node000006" title=" " alt="" coords="895,106,928,104,933,103,895,111"/>
+<area shape="poly" id="edge9951_Node000005_Node000007" title=" " alt="" coords="895,137,930,144,925,144,895,142"/>
+</map>
