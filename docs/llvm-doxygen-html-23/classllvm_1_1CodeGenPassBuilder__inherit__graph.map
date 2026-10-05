@@ -1,0 +1,17 @@
+<map id="llvm::CodeGenPassBuilder&lt; DerivedT, TargetMachineT &gt;" name="llvm::CodeGenPassBuilder&lt; DerivedT, TargetMachineT &gt;">
+<area shape="rect" id="Node000001" title="This class provides access to building LLVM&#39;s passes." alt="" coords="5,239,203,280"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1CodeGenPassBuilder.html" title=" " alt="" coords="457,32,676,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,224,135,191,159,155,189,120,225,92,281,68,341,53,400,47,458,48,454,50,401,52,342,59,283,73,228,96,192,124,163,158,139,194,122,226"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1CodeGenPassBuilder.html" title=" " alt="" coords="473,112,660,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,228,180,201,226,180,288,161,353,149,475,139,470,142,354,154,290,166,228,185,183,206,144,232"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1CodeGenPassBuilder.html" title=" " alt="" coords="470,192,662,247"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="217,247,471,226,468,230,219,252"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1CodeGenPassBuilder.html" title=" " alt="" coords="461,272,672,327"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="174,282,227,295,287,302,347,305,463,306,458,308,347,310,286,307,226,300,175,288"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1CodeGenPassBuilder.html" title=" " alt="" coords="474,352,658,407"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="134,288,177,325,201,342,228,355,290,373,354,383,417,386,476,388,471,389,417,392,353,388,288,378,226,360,199,347,173,330,133,294"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1CodeGenPassBuilder.html" title=" " alt="" coords="470,432,662,487"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="119,292,137,329,160,368,190,406,228,435,286,459,349,472,412,475,467,475,472,475,412,480,349,477,285,464,225,440,187,409,156,371,132,331,117,297"/>
+<area shape="rect" id="Node000008" href="$classR600CodeGenPassBuilder.html" title=" " alt="" coords="725,447,903,472"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="678,457,727,459,722,460,678,462"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="llvm::FileCheckDiag" name="llvm::FileCheckDiag">
+<area shape="rect" id="Node000001" title="Abstract base class for recording a FileCheck diagnostic for a pattern (e.g., CHECK&#45;NEXT directive or..." alt="" coords="5,80,145,106"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MatchNoteDiag.html" title="Abstract base class for recording a FileCheck diagnostic that provides an additional note (possibly a..." alt="" coords="198,55,342,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,79,200,76,195,78,161,84"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MatchResultDiag.html" title="Abstract base class for recording a FileCheck diagnostic that reports a match result for a pattern." alt="" coords="193,104,347,130"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="160,101,195,107,190,108,160,106"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MatchCustomNoteDiag.html" title="MatchNoteDiag with a custom note not described by any other class derived from MatchNoteDiag." alt="" coords="395,5,585,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,48,432,31,427,32,346,53"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MatchFuzzyDiag.html" title="MatchNoteDiag for a fuzzy match that serves as a suggestion for the next intended match for an expect..." alt="" coords="414,55,566,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="357,65,416,67,411,68,358,70"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MatchFoundDiag.html" title="MatchResultDiag for a pattern that matched the input." alt="" coords="414,104,566,130"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="362,114,416,117,411,117,363,119"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MatchNoneDiag.html" title="MatchResultDiag for a pattern that did not match the input." alt="" coords="416,153,564,179"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="346,131,432,153,427,153,345,136"/>
+</map>

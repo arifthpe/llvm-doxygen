@@ -1,0 +1,11 @@
+<map id="llvm::DominanceFrontierBase&lt; BlockT, IsPostDom &gt;" name="llvm::DominanceFrontierBase&lt; BlockT, IsPostDom &gt;">
+<area shape="rect" id="Node000001" title="DominanceFrontierBase &#45; Common base class for computing forward and inverse dominance frontiers for a..." alt="" coords="5,43,199,83"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="387,5,580,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,49,389,34,385,36,215,55"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="386,80,582,121"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,86,223,97,306,104,388,107,382,107,305,110,222,102,173,91"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DominanceFrontier.html" title=" " alt="" coords="656,13,819,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="596,23,658,25,653,26,596,28"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MachineDominanceFrontier.html" title=" " alt="" coords="631,88,844,113"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="598,98,634,100,628,100,598,103"/>
+</map>

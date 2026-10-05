@@ -1,0 +1,5 @@
+<map id="llvm::ByteType" name="llvm::ByteType">
+<area shape="rect" id="Node000001" title="Class to represent byte types." alt="" coords="5,79,114,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="19,5,100,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,45,62,79,57,78,58,48"/>
+</map>

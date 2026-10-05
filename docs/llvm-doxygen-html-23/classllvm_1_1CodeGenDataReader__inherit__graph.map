@@ -1,0 +1,7 @@
+<map id="llvm::CodeGenDataReader" name="llvm::CodeGenDataReader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="115,5,294,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1IndexedCodeGenDataReader.html" title=" " alt="" coords="5,79,188,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,39,125,81,122,76,173,41"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1TextCodeGenDataReader.html" title="This format is a simple text format that&#39;s suitable for test data." alt="" coords="212,86,416,112"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,38,300,86,294,86,233,43"/>
+</map>

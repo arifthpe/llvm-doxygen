@@ -1,0 +1,13 @@
+<map id="llvm::BasicBlockSectionsProfileReaderAnalysis" name="llvm::BasicBlockSectionsProfileReaderAnalysis">
+<area shape="rect" id="Node000001" title="Analysis pass providing the BasicBlockSectionsProfileReader." alt="" coords="1103,64,1273,105"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="824,57,1053,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1069,82,1105,85,1100,85,1069,87"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="373,21,602,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="618,54,800,67,826,72,821,72,800,73,618,59"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,28,151,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,46,374,46,371,51,167,51"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="409,100,566,141"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="581,123,686,124,800,116,831,113,836,113,800,121,686,129,581,128"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,100,151,141"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="166,118,409,118,408,123,166,123"/>
+</map>

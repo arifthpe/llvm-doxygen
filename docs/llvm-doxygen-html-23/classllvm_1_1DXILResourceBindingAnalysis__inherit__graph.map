@@ -1,0 +1,13 @@
+<map id="llvm::DXILResourceBindingAnalysis" name="llvm::DXILResourceBindingAnalysis">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1167,41,1349,82"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="893,41,1117,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1133,59,1169,62,1164,62,1133,64"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="410,8,634,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="650,34,895,54,890,54,650,40"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,8,151,49"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,26,410,26,408,31,167,31"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="444,73,600,114"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="616,88,869,74,890,75,895,74,869,79,616,93"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,73,151,114"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="166,91,443,91,443,96,166,96"/>
+</map>

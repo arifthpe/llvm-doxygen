@@ -1,0 +1,29 @@
+<map id="llvm::AsmPrinterHandler" name="llvm::AsmPrinterHandler">
+<area shape="rect" id="Node000001" title="Collects and handles AsmPrinter objects required to build debug or EH information." alt="" coords="5,293,169,319"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DebugHandlerBase.html" title="Base class for debug information backends." alt="" coords="217,104,383,130"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,281,283,127,285,132,116,285"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1EHStreamer.html" title="Emits exception handling directives." alt="" coords="237,293,362,319"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="183,304,239,305,234,307,184,309"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1WinCFGuard.html" title=" " alt="" coords="235,343,364,368"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="160,320,244,341,239,343,160,326"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1BTFDebug.html" title="Collect and emit BTF information." alt="" coords="478,5,595,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,93,377,65,430,40,480,27,476,30,432,45,379,70,334,97"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1CodeViewDebug.html" title="Collects and handles line tables information in a CodeView format." alt="" coords="461,55,612,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="379,98,474,80,469,82,381,103"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DwarfDebug.html" title="Collects and handles dwarf debug information." alt="" coords="474,104,600,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="397,114,476,116,471,118,399,119"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1SPIRVNonSemanticDebugHandler.html" title="AsmPrinter handler that emits NonSemantic.Shader.DebugInfo.100 (NSDI) instructions for the SPIR&#45;V bac..." alt="" coords="431,154,642,194"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="371,131,452,152,447,154,371,137"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1NVPTXDwarfDebug.html" title="NVPTX&#45;specific DwarfDebug implementation." alt="" coords="690,104,862,130"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="615,114,692,116,687,118,616,119"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1AIXException.html" title=" " alt="" coords="470,219,603,244"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="345,284,430,253,473,244,468,246,432,258,347,289"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1ARMException.html" title=" " alt="" coords="466,268,607,294"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="377,295,468,288,463,289,378,301"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1DwarfCFIException.html" title=" " alt="" coords="452,317,621,343"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="378,311,455,321,450,322,378,317"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1WasmException.html" title=" " alt="" coords="462,367,611,392"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="367,322,384,328,408,341,432,353,468,366,463,366,430,358,406,345,382,333,367,327"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1WinException.html" title=" " alt="" coords="470,416,604,442"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="377,323,385,328,402,347,409,367,417,385,433,403,450,412,472,422,467,421,448,417,429,407,412,388,404,369,397,350,381,332,376,328"/>
+</map>

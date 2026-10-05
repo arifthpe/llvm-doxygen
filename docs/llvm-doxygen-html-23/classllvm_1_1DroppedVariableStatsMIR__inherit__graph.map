@@ -1,0 +1,5 @@
+<map id="llvm::DroppedVariableStatsMIR" name="llvm::DroppedVariableStatsMIR">
+<area shape="rect" id="Node000001" title="A class to collect and print dropped debug information due to MIR optimization passes." alt="" coords="5,79,210,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DroppedVariableStats.html" title="A base class to collect and print dropped debug information variable statistics." alt="" coords="18,5,197,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,45,110,80,105,77,106,48"/>
+</map>

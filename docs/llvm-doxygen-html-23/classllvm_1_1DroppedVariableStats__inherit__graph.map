@@ -1,0 +1,7 @@
+<map id="llvm::DroppedVariableStats" name="llvm::DroppedVariableStats">
+<area shape="rect" id="Node000001" title="A base class to collect and print dropped debug information variable statistics." alt="" coords="123,5,302,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DroppedVariableStatsIR.html" title="A class to collect and print dropped debug information due to LLVM IR optimization passes." alt="" coords="5,79,199,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,39,122,81,120,76,179,40"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DroppedVariableStatsMIR.html" title="A class to collect and print dropped debug information due to MIR optimization passes." alt="" coords="222,79,427,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,37,308,78,303,78,244,42"/>
+</map>

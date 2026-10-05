@@ -1,0 +1,9 @@
+<map id="llvm::DIObjCProperty" name="llvm::DIObjCProperty">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,226,152,252"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node." alt="" coords="29,153,128,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,192,81,227,76,225,77,196"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MDNode.html" title="Metadata node." alt="" coords="26,79,131,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,118,81,153,76,152,77,123"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="25,5,132,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="79,44,81,79,76,78,78,49"/>
+</map>

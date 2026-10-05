@@ -1,0 +1,13 @@
+<map id="llvm::DominanceFrontierAnalysis" name="llvm::DominanceFrontierAnalysis">
+<area shape="rect" id="Node000001" title="Analysis pass which computes a DominanceFrontier." alt="" coords="1091,49,1304,74"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="836,41,1041,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1057,59,1093,62,1088,62,1057,64"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="391,8,596,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="611,34,838,54,833,54,611,40"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,8,151,49"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,26,391,26,389,31,167,31"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="415,73,572,114"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="587,88,812,74,833,75,838,74,812,79,587,93"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,73,151,114"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="166,91,415,91,414,96,166,96"/>
+</map>

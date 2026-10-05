@@ -1,0 +1,8 @@
+<map id="llvm::ErrorHandlerTraits&lt; RetT(C::*)(ErrT &amp;)&gt;" name="llvm::ErrorHandlerTraits&lt; RetT(C::*)(ErrT &amp;)&gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="51,207,210,248"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ErrorHandlerTraits.html" title=" " alt="" coords="221,117,381,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,165,170,209,167,204,247,166"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ErrorHandlerTraits.html" title="Helper for testing applicability of, and applying, handlers for ErrorInfo types." alt="" coords="5,5,165,46"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="76,59,71,108,72,133,77,157,92,183,111,207,106,207,87,186,73,159,67,133,66,108,74,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,51,265,115,260,118,137,56"/>
+</map>

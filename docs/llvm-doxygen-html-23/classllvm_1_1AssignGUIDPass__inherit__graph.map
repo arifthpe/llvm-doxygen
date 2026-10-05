@@ -1,0 +1,13 @@
+<map id="llvm::AssignGUIDPass" name="llvm::AssignGUIDPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="84,319,241,344"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="88,229,236,269"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,283,164,320,160,317,160,286"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,117,154,158"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,168,150,228,145,229,103,173"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="6,5,151,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="79,59,82,117,77,116,78,64"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="179,117,316,158"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="225,168,179,230,175,227,221,171"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="175,5,320,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="249,59,250,117,245,116,246,64"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="llvm::DominatorTreeBase&lt; NodeT, IsPostDom &gt;" name="llvm::DominatorTreeBase&lt; NodeT, IsPostDom &gt;">
+<area shape="rect" id="Node000001" title="Core dominator tree base class." alt="" coords="5,282,175,323"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="427,21,596,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,266,106,221,125,168,155,116,174,93,197,74,223,58,252,46,311,31,372,25,429,28,424,31,372,31,312,36,253,51,226,63,200,78,178,97,159,119,130,170,111,222,100,268"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="427,86,596,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,267,140,205,166,175,197,150,253,124,313,108,372,101,429,100,424,103,373,106,314,113,255,129,200,154,170,178,144,208,108,269"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="427,152,596,192"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="121,270,156,242,198,219,255,199,315,185,429,173,425,176,316,190,257,204,200,224,159,247,125,273"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="427,217,596,258"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="179,276,198,272,317,253,429,243,424,246,318,259,199,277,182,280"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="427,282,596,323"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="190,300,429,300,425,305,191,305"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="427,348,596,388"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="179,324,199,328,318,347,429,360,424,362,317,352,198,333,181,329"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="419,413,604,454"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="123,330,160,358,200,380,254,400,311,413,421,429,416,431,311,418,253,405,198,385,157,362,124,336"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="395,478,629,519"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="103,335,119,370,139,407,166,442,200,470,246,491,295,504,346,510,397,512,392,513,346,515,294,509,244,496,197,475,163,446,135,410,114,372,102,340"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="427,544,596,584"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="96,336,109,385,128,441,157,496,177,519,200,539,226,554,253,566,312,578,372,581,424,580,429,580,372,586,312,584,252,571,223,559,197,544,173,523,153,499,123,443,104,387,95,341"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DominatorTree.html" title="Concrete subclass of DominatorTreeBase that is used to compute a normal dominator tree." alt="" coords="815,70,954,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="609,144,628,136,639,127,652,119,693,105,735,94,817,85,812,87,736,100,694,110,654,124,642,132,630,141,612,149"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MachineDominatorTree.html" title="DominatorTree Class &#45; Concrete subclass of DominatorTreeBase that is used to compute a normal dominat..." alt="" coords="790,120,979,160"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="609,209,628,202,652,185,721,163,793,150,788,152,722,168,654,190,630,206,612,214"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="796,185,973,226"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="612,226,798,212,793,214,613,231"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1MachinePostDominatorTree.html" title="MachinePostDominatorTree &#45; an analysis pass wrapper for DominatorTree used to compute the post&#45;domina..." alt="" coords="790,250,979,291"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="612,291,792,278,787,279,613,297"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1PostDominatorTree.html" title="PostDominatorTree Class &#45; Concrete subclass of DominatorTree that is used to compute the post&#45;dominat..." alt="" coords="802,316,968,356"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="612,309,804,328,798,329,612,314"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1VPPostDominatorTree.html" title="Template specialization of the standard LLVM post&#45;dominator tree utility for VPBlockBases." alt="" coords="792,381,977,422"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="607,325,808,380,802,381,606,330"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="792,446,978,487"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="610,320,631,334,641,350,644,366,646,381,655,396,685,418,720,435,756,447,794,458,788,458,754,452,718,440,682,423,651,399,641,383,638,367,636,352,627,338,610,325"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1VPDominatorTree.html" title="Template specialization of the standard LLVM dominator tree utility for VPBlockBases." alt="" coords="806,511,963,537"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="611,384,631,399,640,412,644,425,643,450,642,473,646,484,655,494,688,515,727,527,767,532,808,535,803,535,766,538,726,533,686,520,651,498,642,486,637,474,637,449,638,425,635,414,627,403,610,390"/>
+</map>

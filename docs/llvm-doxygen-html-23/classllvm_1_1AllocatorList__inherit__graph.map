@@ -1,0 +1,11 @@
+<map id="llvm::AllocatorList&lt; T, AllocatorT &gt;" name="llvm::AllocatorList&lt; T, AllocatorT &gt;">
+<area shape="rect" id="Node000001" title="A linked&#45;list with a custom, local allocator." alt="" coords="135,53,260,94"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AllocatorList.html" title=" " alt="" coords="456,53,618,94"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="276,71,458,72,453,74,276,76"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,60,86,86"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,71,137,72,132,74,102,76"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AllocatorList.html" title=" " alt="" coords="741,5,890,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="632,57,737,44,743,44,633,62"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1AllocatorList.html" title=" " alt="" coords="741,85,890,141"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="633,84,743,102,737,102,633,90"/>
+</map>
