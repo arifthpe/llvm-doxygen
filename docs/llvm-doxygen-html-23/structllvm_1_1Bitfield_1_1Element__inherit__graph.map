@@ -1,0 +1,41 @@
+<map id="llvm::Bitfield::Element&lt; T, Offset, Size, MaxValue &gt;" name="llvm::Bitfield::Element&lt; T, Offset, Size, MaxValue &gt;">
+<area shape="rect" id="Node000001" title="Describes an element of a Bitfield." alt="" coords="5,686,200,727"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="494,33,643,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,670,111,539,131,361,146,272,166,191,191,125,206,100,222,82,252,60,285,44,320,34,357,28,429,26,496,35,491,38,429,32,357,33,321,39,287,49,254,64,225,86,210,103,196,128,171,193,152,273,136,362,116,539,108,670"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="465,107,672,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,670,115,552,136,397,152,319,171,249,194,193,207,171,222,155,255,144,315,136,466,128,462,132,315,142,256,149,225,159,212,174,199,195,176,251,157,321,141,398,120,553,109,670"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="483,172,654,227"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="105,670,118,567,142,435,158,369,176,309,197,262,222,229,258,218,325,210,485,201,481,204,325,215,259,223,225,234,202,264,181,311,163,370,147,436,124,568,110,671"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="494,252,643,307"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="107,670,123,582,148,473,181,371,201,333,222,307,242,296,270,287,340,277,419,273,495,275,491,278,420,279,341,282,271,292,244,301,225,311,205,336,186,374,153,475,128,584,112,671"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="493,332,644,387"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="103,670,111,607,130,529,145,489,165,451,191,416,222,387,242,376,270,368,340,358,419,354,494,355,490,358,419,360,340,363,271,373,244,381,225,391,195,420,170,454,150,491,135,531,116,608,108,671"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="482,411,654,452"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="108,670,122,623,144,569,177,515,198,491,222,471,242,461,268,453,334,441,484,431,480,435,335,446,269,458,244,466,225,475,202,495,181,518,149,571,127,625,114,671"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="494,477,643,517"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="115,671,131,636,155,597,185,560,222,531,243,521,272,514,342,503,495,496,491,499,343,509,273,519,245,526,225,535,189,564,159,600,136,638,120,672"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="494,542,643,583"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="128,673,170,633,195,615,223,600,292,577,364,563,433,557,495,557,491,560,433,562,364,568,293,582,225,605,198,619,173,637,133,676"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="477,606,660,662"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="202,680,223,676,355,655,478,642,474,645,356,660,224,681,205,684"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="494,686,643,727"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="214,704,495,704,491,708,216,709"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="494,751,643,792"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="200,728,224,732,367,752,496,765,491,768,367,757,223,737,202,733"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="494,817,643,857"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="139,734,180,761,225,784,294,806,365,820,434,828,496,834,491,837,433,834,365,825,293,811,223,789,177,766,140,739"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="489,881,648,937"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="117,738,136,773,159,811,189,847,225,875,256,891,289,902,359,916,427,920,490,919,486,921,427,925,358,921,288,907,254,896,222,880,185,851,155,814,131,776,117,743"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="494,961,643,1001"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="110,739,125,790,147,847,179,903,201,928,225,948,245,958,272,965,342,975,420,979,496,982,491,984,420,985,341,980,271,971,243,963,222,953,197,932,175,906,142,850,120,792,110,744"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="438,1025,699,1081"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="103,739,110,814,116,859,126,905,141,952,162,997,190,1037,225,1069,240,1077,260,1082,312,1085,373,1081,440,1075,435,1078,374,1087,312,1090,259,1087,238,1082,222,1074,186,1040,157,999,136,954,121,907,111,860,104,815,103,745"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="494,1105,643,1145"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="109,739,127,831,151,945,167,1000,185,1049,204,1089,225,1114,244,1123,271,1130,341,1136,419,1135,496,1132,491,1134,420,1140,340,1142,270,1135,242,1128,222,1118,200,1092,180,1052,162,1002,146,946,121,832,109,744"/>
+<area shape="rect" id="Node000018" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="494,1169,643,1225"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="107,739,123,846,146,982,161,1048,180,1108,201,1156,225,1186,255,1205,288,1218,323,1226,358,1230,429,1227,496,1218,491,1219,430,1232,358,1235,322,1232,286,1224,253,1210,222,1190,197,1158,175,1110,156,1050,140,983,117,847,107,745"/>
+<area shape="rect" id="Node000019" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="494,1249,643,1289"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="106,739,119,860,140,1018,155,1096,175,1167,198,1223,211,1244,225,1259,244,1269,270,1276,340,1282,419,1281,496,1277,490,1278,419,1286,340,1287,270,1281,242,1274,222,1263,207,1247,193,1226,170,1168,150,1098,135,1019,113,861,106,744"/>
+<area shape="rect" id="Node000020" href="$structllvm_1_1Bitfield_1_1Element.html" title=" " alt="" coords="494,1314,643,1355"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="106,739,117,870,137,1043,152,1130,172,1208,196,1271,210,1294,225,1311,254,1332,287,1346,321,1355,357,1360,429,1360,490,1353,496,1353,429,1365,357,1366,320,1361,285,1351,252,1336,222,1315,206,1297,191,1273,167,1209,147,1131,131,1044,111,871,105,744"/>
+</map>

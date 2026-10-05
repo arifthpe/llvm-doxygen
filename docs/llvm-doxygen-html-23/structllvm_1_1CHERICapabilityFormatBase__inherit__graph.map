@@ -1,0 +1,17 @@
+<map id="llvm::CHERICapabilityFormatBase&lt; Derived, AddressType &gt;" name="llvm::CHERICapabilityFormatBase&lt; Derived, AddressType &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,145,209,186"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1RVYCapabilityFormat.html" title=" " alt="" coords="1092,68,1272,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,132,176,92,203,74,232,61,290,42,350,27,473,9,598,3,719,6,834,17,939,32,1104,67,1099,68,938,37,833,22,719,12,598,8,474,14,351,33,292,47,234,65,206,79,180,96,137,136"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1RVYCapabilityFormat.html" title=" " alt="" coords="1092,176,1272,217"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,190,233,212,335,236,423,251,501,258,574,258,727,246,921,226,1089,209,1094,209,922,231,727,251,574,264,500,263,422,256,334,242,232,218,167,195"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1CHERICapabilityFormatBase.html" title=" " alt="" coords="438,175,662,231"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="187,188,233,197,338,206,440,208,435,209,337,211,232,202,187,193"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1CHERICapabilityFormatBase.html" title=" " alt="" coords="448,81,652,152"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="224,150,449,126,446,130,225,155"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1CHERIoTCapabilityFormat.html" title=" " alt="" coords="711,190,922,216"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="677,200,713,203,708,203,678,206"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1RVYCapabilityFormat.html" title=" " alt="" coords="715,96,918,137"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="667,114,717,116,712,117,667,119"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="933,105,1094,95,1089,96,934,110"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="928,138,1094,177,1089,177,927,143"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::CaptureAnalysis" name="llvm::CaptureAnalysis">
+<area shape="rect" id="Node000001" title="Virtual base class for providers of capture analysis." alt="" coords="133,5,282,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1EarliestEscapeAnalysis.html" title="Context&#45;sensitive CaptureAnalysis provider, which computes and caches the earliest common dominator c..." alt="" coords="5,79,197,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,39,120,81,118,76,174,40"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SimpleCaptureAnalysis.html" title="Context&#45;free CaptureAnalysis provider, which computes and caches whether an object is captured in the..." alt="" coords="221,79,410,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,37,300,78,295,78,238,42"/>
+</map>

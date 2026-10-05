@@ -1,0 +1,69 @@
+<map id="llvm::IRAttribute&lt; AK, BaseType, AAType &gt;" name="llvm::IRAttribute&lt; AK, BaseType, AAType &gt;">
+<area shape="rect" id="Node000001" title="Helper class that provides common functionality to manifest IR attributes." alt="" coords="134,898,305,938"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="636,79,859,165"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,882,219,725,224,618,232,505,245,394,265,292,292,210,308,178,327,155,360,129,397,111,436,98,477,90,560,87,638,96,634,99,560,92,478,96,438,103,399,116,363,134,331,159,313,181,296,212,270,294,250,394,237,506,229,619,225,725,223,882"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="614,189,881,260"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="219,882,223,742,238,551,252,455,270,367,295,297,310,270,328,249,342,242,366,237,437,229,616,223,612,227,437,234,367,242,344,247,331,253,315,273,300,299,276,369,257,455,243,551,228,742,224,882"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="648,292,847,378"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="220,882,228,764,246,608,260,530,278,459,300,402,313,380,328,364,344,356,372,350,454,342,650,335,645,338,454,347,373,356,346,361,331,368,318,383,305,405,283,461,265,531,252,608,233,764,225,882"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="648,402,847,487"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="222,882,234,787,255,665,269,605,286,551,305,508,328,478,367,470,448,462,649,449,645,452,448,467,368,475,331,483,310,511,291,553,274,607,260,666,239,788,227,883"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="621,512,874,583"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="218,882,221,814,236,729,250,686,270,644,295,605,328,573,343,567,368,561,440,554,623,547,619,550,441,559,369,567,344,572,331,578,299,609,274,646,255,688,242,731,227,815,223,882"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="639,607,856,677"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="222,882,232,832,251,773,282,715,303,689,328,668,371,656,450,648,641,642,636,645,450,654,372,661,331,672,307,693,287,718,256,775,238,833,228,883"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="634,710,861,795"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="236,883,273,829,298,803,328,782,372,772,449,765,636,755,632,758,449,770,372,778,330,787,302,807,277,832,241,885"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="620,819,875,905"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="319,898,329,897,480,880,622,869,617,872,480,885,330,902,322,903"/>
+<area shape="rect" id="Node000019" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="640,929,855,1000"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="274,943,330,960,410,972,492,977,642,974,638,977,492,982,410,977,329,966,276,948"/>
+<area shape="rect" id="Node000021" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="629,1024,866,1095"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="238,949,277,1003,302,1027,331,1046,366,1061,404,1071,481,1083,558,1084,631,1080,626,1082,558,1089,481,1088,402,1077,364,1066,328,1051,298,1031,273,1006,238,954"/>
+<area shape="rect" id="Node000023" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="634,1119,861,1189"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="225,951,238,1001,257,1057,287,1112,307,1135,331,1154,353,1164,383,1170,460,1175,548,1173,636,1167,631,1169,548,1178,460,1181,382,1175,351,1169,328,1159,303,1139,283,1115,252,1060,233,1003,225,956"/>
+<area shape="rect" id="Node000025" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="638,1213,857,1284"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="221,951,227,1019,242,1100,256,1142,275,1181,300,1216,331,1245,353,1255,383,1263,461,1269,551,1266,640,1261,636,1263,551,1272,461,1274,382,1268,351,1260,328,1249,296,1219,270,1183,251,1144,237,1102,222,1020,220,957"/>
+<area shape="rect" id="Node000027" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="636,1308,859,1379"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="225,951,239,1046,260,1163,274,1221,291,1272,310,1312,331,1338,352,1349,382,1357,460,1364,549,1362,638,1356,633,1358,549,1367,459,1369,381,1362,350,1354,328,1342,305,1315,286,1274,269,1222,255,1164,234,1047,224,956"/>
+<area shape="rect" id="Node000029" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="631,1403,864,1473"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="223,951,234,1065,253,1211,267,1283,284,1348,306,1400,318,1419,331,1433,352,1444,381,1452,457,1459,545,1457,634,1452,629,1453,545,1462,457,1464,380,1457,350,1449,328,1437,314,1422,301,1402,279,1350,262,1284,248,1212,229,1065,222,956"/>
+<area shape="rect" id="Node000031" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="638,1497,857,1568"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="222,951,230,1084,246,1259,259,1346,278,1425,302,1488,316,1512,331,1529,352,1541,382,1549,460,1555,550,1552,641,1547,635,1548,551,1558,460,1561,381,1554,350,1546,328,1533,311,1515,297,1491,273,1427,254,1347,240,1259,224,1084,221,956"/>
+<area shape="rect" id="Node000033" href="$structllvm_1_1IRAttribute.html" title=" " alt="" coords="632,1592,863,1663"/>
+<area shape="poly" id="edge32_Node000001_Node000033" title=" " alt="" coords="221,951,226,1102,239,1306,252,1409,271,1502,297,1577,313,1605,331,1625,364,1648,400,1663,438,1673,478,1677,559,1674,632,1663,637,1663,560,1680,478,1683,437,1678,398,1668,361,1652,328,1629,309,1608,293,1579,266,1504,247,1410,234,1307,220,1102,220,957"/>
+<area shape="rect" id="Node000002" href="$classBaseType.html" title=" " alt="" coords="5,905,85,931"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,916,135,916,131,920,102,920"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1AAAlign.html" title="An abstract interface for all align attributes." alt="" coords="964,109,1065,135"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="873,120,966,121,962,123,875,124"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1AADereferenceable.html" title="An abstract interface for all dereferenceable attribute." alt="" coords="932,212,1098,237"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="895,222,933,223,929,226,898,227"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1AAMemoryBehavior.html" title="An abstract interface for memory access kind related attributes (readnone/readonly/writeonly)." alt="" coords="930,322,1099,348"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="861,333,932,334,927,337,864,338"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1AAMemoryLocation.html" title="An abstract interface for all memory location attributes (readnone/argmemonly/inaccessiblememonly/ina..." alt="" coords="931,432,1098,457"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="861,442,933,443,928,446,864,447"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1AAMustProgress.html" title="An abstract interface for all nonnull attributes." alt="" coords="938,534,1091,560"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="888,545,941,546,936,549,890,550"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1AANoAlias.html" title="An abstract interface for all noalias attributes." alt="" coords="956,629,1073,655"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="871,640,958,641,953,643,873,644"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1AANoCapture.html" title="An abstract interface for all nocapture attributes." alt="" coords="948,740,1082,765"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="875,750,949,752,945,754,877,755"/>
+<area shape="rect" id="Node000018" href="$structllvm_1_1AANoFPClass.html" title=" " alt="" coords="945,849,1084,875"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="890,859,947,861,942,863,892,864"/>
+<area shape="rect" id="Node000020" href="$structllvm_1_1AANoFree.html" title="An AbstractAttribute for nofree." alt="" coords="958,952,1072,977"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="870,962,960,964,955,966,871,967"/>
+<area shape="rect" id="Node000022" href="$structllvm_1_1AANoRecurse.html" title="An abstract attribute for norecurse." alt="" coords="946,1046,1083,1072"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="881,1057,948,1058,943,1060,883,1062"/>
+<area shape="rect" id="Node000024" href="$structllvm_1_1AANoReturn.html" title="An AbstractAttribute for noreturn." alt="" coords="951,1141,1078,1167"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="876,1151,953,1153,948,1155,877,1157"/>
+<area shape="rect" id="Node000026" href="$structllvm_1_1AANoSync.html" title=" " alt="" coords="956,1236,1074,1261"/>
+<area shape="poly" id="edge25_Node000025_Node000026" title=" " alt="" coords="872,1246,958,1248,953,1249,873,1251"/>
+<area shape="rect" id="Node000028" href="$structllvm_1_1AANoUndef.html" title="An abstract interface for all noundef attributes." alt="" coords="953,1330,1076,1356"/>
+<area shape="poly" id="edge27_Node000027_Node000028" title=" " alt="" coords="874,1341,955,1343,950,1344,875,1346"/>
+<area shape="rect" id="Node000030" href="$structllvm_1_1AANoUnwind.html" title=" " alt="" coords="948,1425,1081,1451"/>
+<area shape="poly" id="edge29_Node000029_Node000030" title=" " alt="" coords="879,1435,950,1438,945,1438,880,1441"/>
+<area shape="rect" id="Node000032" href="$structllvm_1_1AANonNull.html" title="An abstract interface for all nonnull attributes." alt="" coords="956,1520,1074,1545"/>
+<area shape="poly" id="edge31_Node000031_Node000032" title=" " alt="" coords="872,1530,958,1532,952,1533,872,1535"/>
+<area shape="rect" id="Node000034" href="$structllvm_1_1AAWillReturn.html" title="An abstract attribute for willreturn." alt="" coords="949,1614,1080,1640"/>
+<area shape="poly" id="edge33_Node000033_Node000034" title=" " alt="" coords="879,1625,951,1627,946,1627,879,1630"/>
+</map>

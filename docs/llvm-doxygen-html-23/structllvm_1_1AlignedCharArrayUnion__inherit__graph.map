@@ -1,0 +1,11 @@
+<map id="llvm::AlignedCharArrayUnion&lt; T, Ts &gt;" name="llvm::AlignedCharArrayUnion&lt; T, Ts &gt;">
+<area shape="rect" id="Node000001" title="A suitably aligned and sized character array member which can hold elements of any type." alt="" coords="5,244,195,284"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AlignedCharArrayUnion.html" title=" " alt="" coords="590,64,805,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,230,168,194,192,177,218,164,264,147,312,133,411,116,506,108,592,108,587,110,506,113,412,121,314,139,266,152,220,169,195,182,171,198,132,234"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1AlignedCharArrayUnion.html" title=" " alt="" coords="546,189,849,259"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,254,546,232,544,236,211,259"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1AlignedCharArrayUnion.html" title=" " alt="" coords="603,284,792,324"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,281,219,282,424,296,605,303,600,304,424,301,218,287,211,286"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AlignedCharArrayUnion.html" title=" " alt="" coords="603,362,792,448"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="122,295,163,347,190,371,220,389,267,407,317,420,368,428,419,432,517,430,600,423,605,423,518,435,419,437,368,433,316,425,266,413,217,394,186,375,159,351,120,300"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="llvm::ConstStrippingForwardingCast&lt; To, From, ForwardTo &gt;" name="llvm::ConstStrippingForwardingCast&lt; To, From, ForwardTo &gt;">
+<area shape="rect" id="Node000001" title="Provides a cast trait that strips const from types to make it easier to implement a const&#45;version of ..." alt="" coords="5,202,209,242"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ConstStrippingForwardingCast.html" title=" " alt="" coords="544,44,790,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,188,176,147,203,127,232,112,310,87,391,73,471,67,546,68,541,70,471,72,392,78,311,92,234,117,205,132,179,151,137,192"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ConstStrippingForwardingCast.html" title=" " alt="" coords="542,139,792,209"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="223,202,232,201,393,187,544,179,539,181,394,192,233,206,225,207"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1ConstStrippingForwardingCast.html" title=" " alt="" coords="540,233,794,304"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="168,246,233,265,312,275,392,279,542,279,536,280,391,285,311,280,232,270,168,251"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1ConstStrippingForwardingCast.html" title=" " alt="" coords="514,348,820,419"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="126,253,146,284,170,316,199,346,234,369,302,394,373,406,445,410,511,409,516,409,445,415,373,411,300,399,231,374,196,350,166,320,141,287,125,259"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1CastInfo_3_01To_00_01const_01PointerUnion_3_01PTs_8_8_8_01_4_01_4.html" title=" " alt="" coords="910,52,1047,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="805,77,912,79,907,80,806,82"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1CastInfo_3_01VPIRMetadata_00_01const_01VPRecipeBase_01_5_01_4.html" title=" " alt="" coords="876,154,1081,194"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="807,172,878,174,873,175,807,177"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1CastInfo_3_01VPPhiAccessors_00_01const_01VPRecipeBase_01_5_01_4.html" title=" " alt="" coords="869,248,1088,289"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="809,266,871,269,866,269,810,271"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1CastInfo_3_01VPWidenMemoryRecipe_00_01const_01VPRecipeBase_01_5_01_4.html" title=" " alt="" coords="870,363,1087,404"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="836,381,872,383,867,384,836,386"/>
+</map>

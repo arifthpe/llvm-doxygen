@@ -1,0 +1,11 @@
+<map id="llvm::DXILResourceMap::call_iterator" name="llvm::DXILResourceMap::call_iterator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="908,67,1072,108"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="711,60,859,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="874,85,910,87,905,87,874,90"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="288,5,509,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="524,49,688,67,714,74,709,74,687,73,524,54"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="276,100,521,171"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="537,132,612,127,687,116,708,114,714,113,688,121,612,132,537,137"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,100,227,171"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="242,133,278,135,273,136,242,138"/>
+</map>

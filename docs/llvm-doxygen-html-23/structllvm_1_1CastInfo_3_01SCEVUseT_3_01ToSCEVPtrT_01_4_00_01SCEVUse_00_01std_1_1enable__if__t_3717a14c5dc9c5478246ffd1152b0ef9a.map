@@ -1,0 +1,11 @@
+<map id="llvm::CastInfo&lt; SCEVUseT&lt; ToSCEVPtrT &gt;, SCEVUse, std::enable_if_t&lt;!is_simple_type&lt; SCEVUse &gt;::value &gt; &gt;" name="llvm::CastInfo&lt; SCEVUseT&lt; ToSCEVPtrT &gt;, SCEVUse, std::enable_if_t&lt;!is_simple_type&lt; SCEVUse &gt;::value &gt; &gt;">
+<area shape="rect" id="Node000001" title="Provide CastInfo for SCEVUseT so that cast&lt;SCEVUseT&lt;const To *&gt;&gt;(use) returns SCEVUseT&lt;const To *&gt; wi..." alt="" coords="827,65,1028,136"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="376,21,566,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="582,46,689,52,803,65,829,72,824,72,803,70,689,57,582,52"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="5,28,151,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,46,377,46,374,51,166,51"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1CastInfo.html" title="This struct provides a method for customizing the way a cast is performed." alt="" coords="404,132,538,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="553,161,672,167,738,164,802,154,858,137,864,136,804,159,738,169,672,172,553,166"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="5,132,151,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="166,150,404,150,403,155,166,155"/>
+</map>

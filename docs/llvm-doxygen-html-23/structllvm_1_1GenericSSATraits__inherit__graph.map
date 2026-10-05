@@ -1,0 +1,7 @@
+<map id="llvm::GenericSSATraits&lt; _FunctionT &gt;" name="llvm::GenericSSATraits&lt; _FunctionT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,5,251,46"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1GenericSSATraits_3_01Function_01_4.html" title=" " alt="" coords="5,117,162,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,57,101,119,97,115,145,59"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1GenericSSATraits_3_01MachineFunction_01_4.html" title=" " alt="" coords="185,117,342,158"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,54,226,68,256,117,251,116,221,72,210,59"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="llvm::AnnotationRemarksPass" name="llvm::AnnotationRemarksPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1440,112,1638,137"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1RequiredPassInfoMixin.html" title=" " alt="" coords="1201,104,1391,145"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1406,122,1442,124,1437,124,1406,127"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="788,73,977,114"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="993,99,1204,117,1198,117,993,104"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="375,8,564,49"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="579,37,764,63,801,73,796,73,764,68,579,42"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,8,151,49"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="166,26,376,26,373,30,167,31"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="401,73,538,114"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="553,91,790,93,785,94,553,96"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,109,151,150"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="166,119,401,97,400,103,167,124"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="401,139,538,179"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="166,134,402,151,400,156,166,139"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1RequiredPassInfoMixin.html" title="A CRTP mix&#45;in for passes that should not be skipped." alt="" coords="788,139,977,179"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="992,153,1177,141,1199,141,1204,140,1178,146,993,159"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="553,156,791,159,785,159,553,162"/>
+</map>

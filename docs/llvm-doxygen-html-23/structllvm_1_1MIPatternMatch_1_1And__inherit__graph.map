@@ -1,0 +1,8 @@
+<map id="llvm::MIPatternMatch::And&lt; Preds &gt;" name="llvm::MIPatternMatch::And&lt; Preds &gt;">
+<area shape="rect" id="Node000001" title="Matching combinators." alt="" coords="67,5,213,46"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1MIPatternMatch_1_1And.html" title=" " alt="" coords="5,117,152,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,60,106,71,86,118,81,116,101,69,113,56"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1MIPatternMatch_1_1And_3_01Pred_00_01Preds_8_8_8_01_4.html" title=" " alt="" coords="60,207,217,248"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="175,55,184,69,189,88,190,107,183,146,169,181,153,209,150,205,164,178,178,144,185,107,184,89,179,71,174,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,168,128,207,123,207,99,173"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::GraphTraits&lt; ProfiledCallGraphNode * &gt;" name="llvm::GraphTraits&lt; ProfiledCallGraphNode * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,185,158"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1GraphTraits_3_01ProfiledCallGraph_01_5_01_4.html" title=" " alt="" coords="21,207,169,248"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,171,98,208,92,206,93,175"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="30,5,160,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,59,98,117,92,116,94,64"/>
+</map>

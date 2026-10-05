@@ -1,0 +1,13 @@
+<map id="llvm::CastInfo&lt; VPWidenMemoryRecipe, const VPRecipeBase * &gt;" name="llvm::CastInfo&lt; VPWidenMemoryRecipe, const VPRecipeBase * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1007,85,1224,126"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="566,5,712,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="727,38,1009,87,1004,88,726,43"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ConstStrippingForwardingCast.html" title=" " alt="" coords="486,70,792,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="807,103,1009,105,1004,106,808,108"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ConstStrippingForwardingCast.html" title="Provides a cast trait that strips const from types to make it easier to implement a const&#45;version of ..." alt="" coords="5,85,209,126"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="224,103,487,103,484,108,224,108"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1CastInfo.html" title="This struct provides a method for customizing the way a cast is performed." alt="" coords="572,165,706,206"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="721,182,845,173,914,164,982,152,1026,139,1065,127,1070,126,1027,144,984,157,915,170,846,178,721,187"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="34,165,180,206"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="195,183,572,183,571,188,195,188"/>
+</map>

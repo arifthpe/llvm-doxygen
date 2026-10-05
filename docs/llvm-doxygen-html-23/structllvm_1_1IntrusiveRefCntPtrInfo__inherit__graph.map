@@ -1,0 +1,5 @@
+<map id="llvm::IntrusiveRefCntPtrInfo&lt; T &gt;" name="llvm::IntrusiveRefCntPtrInfo&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Class you can specialize to provide custom retain/release functionality for a type." alt="" coords="31,5,193,46"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1IntrusiveRefCntPtrInfo_3_01ImutAVLTree_3_01ImutInfo_01_4_01_4.html" title=" " alt="" coords="5,117,219,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,60,115,117,109,116,110,63"/>
+</map>

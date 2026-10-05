@@ -1,0 +1,5 @@
+<map id="llvm::DenseMapInfo&lt; sandboxir::Context::CallbackID &gt;" name="llvm::DenseMapInfo&lt; sandboxir::Context::CallbackID &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,137,149,193"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DenseMapInfo.html" title="An information struct used to provide DenseMap with the various necessary components for a given valu..." alt="" coords="8,5,146,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,60,80,137,74,136,75,63"/>
+</map>

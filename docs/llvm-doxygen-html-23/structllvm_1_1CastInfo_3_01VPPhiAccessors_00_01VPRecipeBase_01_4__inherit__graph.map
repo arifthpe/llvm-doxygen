@@ -1,0 +1,13 @@
+<map id="llvm::CastInfo&lt; VPPhiAccessors, VPRecipeBase &gt;" name="llvm::CastInfo&lt; VPPhiAccessors, VPRecipeBase &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="928,85,1146,126"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="507,5,652,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="667,38,930,86,925,87,667,44"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ForwardToPointerCast.html" title=" " alt="" coords="465,70,694,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="710,103,930,105,925,106,710,108"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ForwardToPointerCast.html" title="Provides a cast trait that uses a defined pointer to pointer cast as a base for reference&#45;to&#45;referenc..." alt="" coords="5,85,189,126"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,103,466,103,463,108,204,108"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1CastInfo.html" title="This struct provides a method for customizing the way a cast is performed." alt="" coords="513,165,646,206"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="662,181,777,172,841,164,903,152,947,139,986,127,991,126,949,144,905,157,842,169,777,177,662,186"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="24,165,170,206"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="185,183,512,183,512,188,185,188"/>
+</map>

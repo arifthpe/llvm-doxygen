@@ -1,0 +1,5 @@
+<map id="llvm::CastIsPossible&lt; To, std::optional&lt; From &gt; &gt;" name="llvm::CastIsPossible&lt; To, std::optional&lt; From &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="7,137,149,193"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="5,5,151,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,60,81,137,75,136,76,63"/>
+</map>

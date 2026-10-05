@@ -1,0 +1,8 @@
+<map id="llvm::GraphTraits&lt; DOTFuncInfo * &gt;" name="llvm::GraphTraits&lt; DOTFuncInfo * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="47,207,176,248"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1GraphTraits_3_01const_01BasicBlock_01_5_01_4.html" title=" " alt="" coords="193,117,342,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,165,147,209,145,204,216,166"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="5,5,135,46"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="61,59,57,108,58,133,63,157,76,183,94,206,89,207,72,186,58,159,53,133,52,108,60,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,51,235,115,230,118,118,57"/>
+</map>

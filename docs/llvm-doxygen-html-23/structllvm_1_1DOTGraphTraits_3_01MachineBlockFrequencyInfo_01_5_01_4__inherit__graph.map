@@ -1,0 +1,14 @@
+<map id="llvm::DOTGraphTraits&lt; MachineBlockFrequencyInfo * &gt;" name="llvm::DOTGraphTraits&lt; MachineBlockFrequencyInfo * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,302,225,343"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DefaultDOTGraphTraits.html" title="DefaultDOTGraphTraits &#45; This class provides the default implementations of all of the DOTGraphTraits ..." alt="" coords="39,5,231,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,42,83,60,65,82,45,120,32,151,16,228,14,241,16,252,39,279,70,301,65,303,35,283,11,254,8,241,11,227,27,150,40,118,61,79,79,56,103,38"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1BFIDOTGraphTraitsBase.html" title=" " alt="" coords="25,227,205,253"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="104,44,90,61,77,81,72,101,71,121,79,162,94,199,110,227,104,227,89,201,74,164,66,122,67,100,73,79,86,57,106,39"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1BFIDOTGraphTraitsBase.html" title=" " alt="" coords="88,80,353,136"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="157,40,196,79,191,80,157,45"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1DOTGraphTraits.html" title="DOTGraphTraits &#45; Template class that can be specialized to customize how graphs are converted to &#39;dot..." alt="" coords="324,161,474,202"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="245,24,310,43,341,58,368,78,382,97,392,119,400,162,395,160,387,121,378,100,364,82,338,63,308,48,246,29"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,267,117,303,113,301,113,271"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="118,148,110,161,104,177,104,195,112,227,107,227,98,195,99,176,105,159,121,143"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="347,211,156,304,154,299,344,207"/>
+</map>

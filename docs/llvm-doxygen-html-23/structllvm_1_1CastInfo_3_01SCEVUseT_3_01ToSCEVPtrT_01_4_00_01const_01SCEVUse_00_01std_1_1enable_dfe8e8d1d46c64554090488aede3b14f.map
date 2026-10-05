@@ -1,0 +1,16 @@
+<map id="llvm::CastInfo&lt; SCEVUseT&lt; ToSCEVPtrT &gt;, const SCEVUse, std::enable_if_t&lt;!is_simple_type&lt; const SCEVUse &gt;::value &gt; &gt;" name="llvm::CastInfo&lt; SCEVUseT&lt; ToSCEVPtrT &gt;, const SCEVUse, std::enable_if_t&lt;!is_simple_type&lt; const SCEVUse &gt;::value &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1072,56,1310,126"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="834,5,980,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="995,43,1075,64,1070,64,995,48"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1CastInfo.html" title=" " alt="" coords="806,71,1008,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1024,88,1075,91,1069,91,1024,94"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="376,63,566,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="581,88,808,90,803,92,582,94"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="5,71,151,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="166,88,377,89,374,93,167,94"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1CastInfo.html" title="This struct provides a method for customizing the way a cast is performed." alt="" coords="404,171,538,211"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="553,207,650,223,769,233,832,233,897,229,961,220,1022,204,1059,189,1093,169,1150,127,1155,126,1096,174,1061,194,1024,210,962,225,897,234,833,238,769,238,650,228,553,212"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="553,179,655,163,766,137,790,127,839,113,844,111,792,132,768,142,656,168,554,184"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="5,171,151,211"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="166,188,404,188,403,194,166,194"/>
+</map>

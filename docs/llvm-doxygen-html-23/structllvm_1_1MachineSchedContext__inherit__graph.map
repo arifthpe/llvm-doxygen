@@ -1,0 +1,9 @@
+<map id="llvm::MachineSchedContext" name="llvm::MachineSchedContext">
+<area shape="rect" id="Node000001" title="MachineSchedContext provides enough context from the MachineScheduler pass for the target to instanti..." alt="" coords="5,46,191,72"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1impl__detail_1_1MachineSchedulerBase.html" title="Base class for the machine scheduler classes." alt="" coords="239,39,397,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,56,241,59,236,59,206,62"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1impl__detail_1_1MachineSchedulerImpl.html" title="Impl class for MachineScheduler." alt="" coords="458,5,612,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,42,461,37,455,38,413,47"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1impl__detail_1_1PostMachineSchedulerImpl.html" title="Impl class for PostMachineScheduler." alt="" coords="445,71,625,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="412,70,447,78,442,78,412,76"/>
+</map>

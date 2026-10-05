@@ -1,0 +1,15 @@
+<map id="llvm::CastInfo&lt; To, std::optional&lt; From &gt; &gt;" name="llvm::CastInfo&lt; To, std::optional&lt; From &gt; &gt;">
+<area shape="rect" id="Node000001" title="Provide a CastInfo specialized for std::optional&lt;From&gt;." alt="" coords="1031,67,1193,108"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="467,64,612,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="627,82,1033,86,1027,88,628,88"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1OptionalValueCast.html" title="This cast trait provides std::optional&lt;T&gt; casting." alt="" coords="708,124,870,165"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="627,103,710,125,705,125,627,108"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1CastInfo.html" title="This struct provides a method for customizing the way a cast is performed." alt="" coords="722,10,856,50"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="627,63,719,45,724,44,628,68"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="884,125,1006,103,1027,102,1033,102,1007,109,885,131"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="420,129,659,200"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="674,151,705,151,711,151,675,157"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1DefaultDoCastIfPossible.html" title="This cast trait just provides the default implementation of doCastIfPossible to make CastInfo special..." alt="" coords="5,144,204,185"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="219,162,421,163,417,166,219,167"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="871,42,1007,66,1033,73,1027,73,1006,71,871,47"/>
+</map>
