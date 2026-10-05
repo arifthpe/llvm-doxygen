@@ -1,0 +1,84 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1CastIsPossible.html" title="This struct provides a way to check if a given cast is possible." alt="" coords="425,507,570,548"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1CastInfo.html" title=" " alt="" coords="760,630,893,670"/>
+<area shape="poly" id="edge2168_Node000000_Node000001" title=" " alt="" coords="585,532,625,542,661,558,678,572,687,587,695,601,710,614,734,627,762,638,757,639,732,632,706,619,691,604,682,590,673,576,659,563,623,547,587,537"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1CastInfo.html" title=" " alt="" coords="760,354,893,394"/>
+<area shape="poly" id="edge2169_Node000000_Node000002" title=" " alt="" coords="549,497,659,434,682,418,707,404,762,387,757,390,709,408,685,423,661,439,552,501"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1CastInfo_3_01SCEVUseT_3_01ToSCEVPtrT_01_4_00_01const_01SCEVUse_00_01std_1_1enable_782ae4a59f06d913536909e5b372d080.html" title=" " alt="" coords="708,5,945,76"/>
+<area shape="poly" id="edge2170_Node000000_Node000003" title=" " alt="" coords="576,498,622,472,641,455,658,435,680,391,688,349,687,309,681,270,675,230,673,190,682,147,706,102,738,74,734,78,710,105,687,149,679,190,680,230,686,269,692,309,694,350,685,393,662,438,645,459,625,476,580,502"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1CastInfo_3_01To_00_01From_00_01std_1_1enable__if__t_3_9is__simple__type_3_01From_01_4_1_1value_01_4_01_4.html" title="This struct provides an overload for CastInfo where From has simplify_type defined." alt="" coords="740,419,913,489"/>
+<area shape="poly" id="edge2171_Node000000_Node000007" title=" " alt="" coords="584,506,742,472,738,475,587,510"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1CastInfo_3_01To_00_01PointerUnion_3_01PTs_8_8_8_01_4_01_4.html" title=" " alt="" coords="742,115,912,156"/>
+<area shape="poly" id="edge2172_Node000000_Node000008" title=" " alt="" coords="575,498,620,472,641,455,658,435,675,404,683,374,683,345,681,317,678,288,679,258,687,227,706,195,731,171,763,154,759,158,734,175,710,198,692,229,685,259,684,288,686,316,689,345,688,375,680,406,662,438,644,458,623,476,578,502"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1CastInfo_3_01To_00_01const_01PointerUnion_3_01PTs_8_8_8_01_4_01_4.html" title=" " alt="" coords="758,209,895,264"/>
+<area shape="poly" id="edge2173_Node000000_Node000010" title=" " alt="" coords="572,498,618,471,640,454,658,435,671,414,677,394,679,355,683,315,691,295,706,275,730,257,760,246,756,249,733,261,710,279,695,298,688,317,685,355,682,395,676,416,662,438,643,458,621,476,575,502"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1CastInfo_3_01To_00_01std_1_1optional_3_01From_01_4_01_4.html" title="Provide a CastInfo specialized for std::optional&lt;From&gt;." alt="" coords="993,398,1156,438"/>
+<area shape="poly" id="edge2174_Node000000_Node000012" title=" " alt="" coords="584,533,664,535,755,532,851,521,945,498,974,486,1002,470,1051,437,1047,441,1005,475,976,491,946,503,852,526,755,537,664,540,587,537"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1CastInfo_3_01To_00_01std_1_1unique__ptr_3_01From_01_4_01_4.html" title="Provide a CastInfo specialized for std::unique_ptr." alt="" coords="738,695,915,736"/>
+<area shape="poly" id="edge2175_Node000000_Node000015" title=" " alt="" coords="585,527,626,538,662,559,675,574,683,589,687,620,691,651,698,666,710,680,741,700,735,701,706,684,693,669,686,653,682,621,678,591,671,576,658,563,624,543,587,532"/>
+<area shape="rect" id="Node000021" href="$structllvm_1_1CastInfo_3_01VPIRMetadata_00_01VPRecipeBase_01_5_01_4.html" title="Support casting from VPRecipeBase &#45;&gt; VPIRMetadata." alt="" coords="724,760,929,801"/>
+<area shape="poly" id="edge2176_Node000000_Node000021" title=" " alt="" coords="585,526,627,536,645,546,662,559,680,582,688,606,689,630,687,653,686,677,687,700,694,723,710,745,727,760,721,760,706,749,689,725,681,701,680,677,682,653,684,630,683,607,675,584,658,563,642,550,625,541,587,531"/>
+<area shape="rect" id="Node000024" href="$structllvm_1_1CastInfo_3_01VPIRMetadata_00_01VPRecipeBase_01_4.html" title=" " alt="" coords="724,842,929,882"/>
+<area shape="poly" id="edge2177_Node000000_Node000024" title=" " alt="" coords="585,525,627,536,645,545,662,559,684,590,694,621,694,653,690,684,685,716,684,747,691,779,710,811,727,827,748,841,743,841,724,831,706,814,686,781,679,748,680,715,684,684,689,653,689,622,680,592,658,562,643,550,625,541,587,530"/>
+<area shape="rect" id="Node000026" href="$structllvm_1_1CastInfo_3_01VPIRMetadata_00_01const_01VPRecipeBase_01_5_01_4.html" title=" " alt="" coords="724,938,929,978"/>
+<area shape="poly" id="edge2178_Node000000_Node000026" title=" " alt="" coords="585,524,627,535,646,545,662,559,679,580,690,600,701,641,700,682,693,723,685,764,682,805,688,848,697,870,710,892,734,917,766,937,760,937,731,921,706,896,692,872,683,850,676,805,680,763,688,722,695,681,696,642,686,602,674,583,658,563,643,550,625,540,587,529"/>
+<area shape="rect" id="Node000028" href="$structllvm_1_1CastInfo_3_01VPPhiAccessors_00_01VPRecipeBase_01_5_01_4.html" title="Support casting from VPRecipeBase &#45;&gt; VPPhiAccessors." alt="" coords="718,1026,936,1066"/>
+<area shape="poly" id="edge2179_Node000000_Node000028" title=" " alt="" coords="585,524,627,535,646,545,662,559,683,586,697,612,706,639,709,666,705,718,693,771,681,823,674,877,676,904,682,932,693,960,710,988,730,1008,755,1025,750,1025,726,1012,706,992,688,962,677,933,671,905,669,877,675,822,688,769,700,717,704,666,700,640,692,614,678,589,658,563,643,549,625,540,587,529"/>
+<area shape="rect" id="Node000031" href="$structllvm_1_1CastInfo_3_01VPPhiAccessors_00_01VPRecipeBase_01_4.html" title=" " alt="" coords="718,1127,936,1168"/>
+<area shape="poly" id="edge2180_Node000000_Node000031" title=" " alt="" coords="585,523,627,535,646,545,662,559,675,578,684,603,694,664,695,736,692,815,689,894,688,968,694,1031,701,1056,710,1077,736,1104,770,1127,765,1127,733,1108,706,1079,696,1058,689,1032,683,968,683,894,687,815,690,736,689,664,679,604,670,581,658,562,643,549,625,540,587,528"/>
+<area shape="rect" id="Node000033" href="$structllvm_1_1CastInfo_3_01VPPhiAccessors_00_01const_01VPRecipeBase_01_5_01_4.html" title=" " alt="" coords="718,1222,936,1262"/>
+<area shape="poly" id="edge2181_Node000000_Node000033" title=" " alt="" coords="585,523,627,534,646,545,662,559,677,582,688,612,698,685,698,772,693,866,686,960,684,1048,691,1123,699,1154,710,1178,733,1202,763,1221,757,1221,729,1206,706,1181,694,1155,685,1124,679,1049,681,960,687,865,693,771,693,685,683,613,672,585,658,562,643,549,625,539,587,528"/>
+<area shape="rect" id="Node000035" href="$structllvm_1_1CastInfo_3_01VPWidenMemoryRecipe_00_01VPRecipeBase_01_5_01_4.html" title="Support casting from VPRecipeBase / VPUser &#45;&gt; VPWidenMemoryRecipe." alt="" coords="718,1310,935,1350"/>
+<area shape="poly" id="edge2182_Node000000_Node000035" title=" " alt="" coords="585,523,627,534,646,545,662,559,679,586,691,620,698,659,702,704,700,804,692,913,684,1022,680,1124,682,1169,687,1210,696,1245,710,1272,729,1292,754,1309,749,1309,726,1296,706,1276,691,1247,682,1211,677,1170,675,1124,678,1022,687,913,695,804,696,704,693,660,686,621,674,588,658,562,643,549,625,539,587,528"/>
+<area shape="rect" id="Node000038" href="$structllvm_1_1CastInfo_3_01VPWidenMemoryRecipe_00_01const_01VPRecipeBase_01_5_01_4.html" title=" " alt="" coords="718,1390,935,1430"/>
+<area shape="poly" id="edge2183_Node000000_Node000038" title=" " alt="" coords="585,523,628,534,646,545,662,559,681,589,694,627,702,672,705,722,702,835,691,958,681,1080,676,1195,678,1246,684,1291,694,1330,710,1360,724,1375,743,1390,738,1389,721,1379,706,1364,689,1332,678,1292,672,1246,670,1195,675,1080,686,957,696,835,699,722,696,673,689,629,676,591,658,562,643,549,626,539,587,528"/>
+<area shape="rect" id="Node000040" href="$structllvm_1_1CastInfo.html" title="This struct provides a method for customizing the way a cast is performed." alt="" coords="760,564,893,605"/>
+<area shape="poly" id="edge2184_Node000000_Node000040" title=" " alt="" coords="585,540,762,572,757,574,587,545"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1OptionalValueCast.html" title="This cast trait provides std::optional&lt;T&gt; casting." alt="" coords="746,288,907,329"/>
+<area shape="poly" id="edge2185_Node000000_Node000013" title=" " alt="" coords="565,498,614,471,658,435,674,411,680,387,687,363,706,340,725,328,748,320,744,323,727,333,710,344,692,366,685,389,679,413,662,438,617,475,569,502"/>
+<area shape="poly" id="edge2186_Node000013_Node000012" title=" " alt="" coords="922,330,946,340,999,367,1046,397,1041,398,997,371,944,344,923,336"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="51,86,242,142"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1CastInfo.html" title=" " alt="" coords="397,6,599,46"/>
+<area shape="poly" id="edge2187_Node000005_Node000004" title=" " alt="" coords="250,79,335,55,398,43,394,46,336,61,253,83"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1CastInfo_3_01SCEVUseT_3_01ToSCEVPtrT_01_4_00_01SCEVUse_00_01std_1_1enable__if__t_3b534d1585d822b28b274e8854ee5e161.html" title="Provide CastInfo for SCEVUseT so that cast&lt;SCEVUseT&lt;const To *&gt;&gt;(use) returns SCEVUseT&lt;const To *&gt; wi..." alt="" coords="397,165,598,236"/>
+<area shape="poly" id="edge2189_Node000005_Node000006" title=" " alt="" coords="256,139,399,174,394,177,258,144"/>
+<area shape="poly" id="edge2188_Node000004_Node000003" title=" " alt="" coords="613,29,710,34,705,37,616,34"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1CastIsPossible.html" title=" " alt="" coords="75,572,218,613"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1UniquePtrCast.html" title="This cast trait provides std::unique_ptr casting." alt="" coords="423,572,573,613"/>
+<area shape="poly" id="edge2190_Node000017_Node000016" title=" " alt="" coords="232,590,424,591,420,595,234,595"/>
+<area shape="rect" id="Node000018" href="$structllvm_1_1ValueFromPointerCast.html" title="This cast trait provides casting for the specific case of casting to a value&#45;typed object from a poin..." alt="" coords="406,638,590,678"/>
+<area shape="poly" id="edge2192_Node000017_Node000018" title=" " alt="" coords="232,606,407,639,403,643,234,611"/>
+<area shape="poly" id="edge2191_Node000016_Node000015" title=" " alt="" coords="587,598,626,608,661,624,678,638,687,652,695,666,710,680,740,696,735,697,706,684,691,670,682,655,673,641,659,628,624,613,589,603"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1ConstStrippingForwardingCast.html" title=" " alt="" coords="375,260,621,331"/>
+<area shape="poly" id="edge2193_Node000011_Node000010" title=" " alt="" coords="635,268,760,247,756,250,638,273"/>
+<area shape="rect" id="Node000027" href="$structllvm_1_1ConstStrippingForwardingCast.html" title=" " alt="" coords="373,937,622,1008"/>
+<area shape="poly" id="edge2194_Node000027_Node000026" title=" " alt="" coords="637,964,726,962,721,964,639,969"/>
+<area shape="rect" id="Node000034" href="$structllvm_1_1ConstStrippingForwardingCast.html" title=" " alt="" coords="371,1221,625,1292"/>
+<area shape="poly" id="edge2195_Node000034_Node000033" title=" " alt="" coords="640,1248,720,1246,714,1247,641,1253"/>
+<area shape="rect" id="Node000039" href="$structllvm_1_1ConstStrippingForwardingCast.html" title=" " alt="" coords="345,1411,651,1481"/>
+<area shape="poly" id="edge2196_Node000039_Node000038" title=" " alt="" coords="666,1425,715,1422,720,1422,666,1430"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="378,355,618,425"/>
+<area shape="poly" id="edge2197_Node000014_Node000013" title=" " alt="" coords="631,355,748,327,743,330,634,359"/>
+<area shape="rect" id="Node000019" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="47,703,246,773"/>
+<area shape="poly" id="edge2198_Node000019_Node000018" title=" " alt="" coords="259,707,335,689,407,674,403,678,336,694,262,711"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="398,71,598,141"/>
+<area shape="poly" id="edge2199_Node000009_Node000008" title=" " alt="" coords="612,114,743,126,739,129,615,119"/>
+<area shape="rect" id="Node000023" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="23,797,270,868"/>
+<area shape="rect" id="Node000022" href="$structllvm_1_1vpdetail_1_1CastInfoMixinImpl.html" title=" " alt="" coords="340,703,656,818"/>
+<area shape="poly" id="edge2200_Node000023_Node000022" title=" " alt="" coords="284,802,342,791,338,795,287,806"/>
+<area shape="poly" id="edge2201_Node000022_Node000021" title=" " alt="" coords="670,769,726,773,721,775,672,774"/>
+<area shape="rect" id="Node000030" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="17,1032,276,1103"/>
+<area shape="rect" id="Node000029" href="$structllvm_1_1vpdetail_1_1CastInfoMixinImpl.html" title=" " alt="" coords="372,1032,624,1103"/>
+<area shape="poly" id="edge2202_Node000030_Node000029" title=" " alt="" coords="291,1065,373,1066,369,1069,293,1070"/>
+<area shape="poly" id="edge2203_Node000029_Node000028" title=" " alt="" coords="639,1056,719,1052,714,1054,640,1061"/>
+<area shape="rect" id="Node000037" href="$structllvm_1_1DefaultDoCastIfPossible.html" title=" " alt="" coords="5,1316,288,1387"/>
+<area shape="rect" id="Node000036" href="$structllvm_1_1vpdetail_1_1CastInfoMixinImpl.html" title=" " alt="" coords="336,1316,660,1387"/>
+<area shape="poly" id="edge2204_Node000037_Node000036" title=" " alt="" coords="303,1349,338,1351,333,1352,304,1354"/>
+<area shape="poly" id="edge2205_Node000036_Node000035" title=" " alt="" coords="675,1337,720,1337,715,1337,676,1342"/>
+<area shape="rect" id="Node000025" href="$structllvm_1_1ForwardToPointerCast.html" title=" " alt="" coords="390,843,606,913"/>
+<area shape="poly" id="edge2206_Node000025_Node000024" title=" " alt="" coords="621,869,726,866,721,868,623,874"/>
+<area shape="rect" id="Node000032" href="$structllvm_1_1ForwardToPointerCast.html" title=" " alt="" coords="383,1127,612,1197"/>
+<area shape="poly" id="edge2207_Node000032_Node000031" title=" " alt="" coords="627,1154,720,1151,715,1153,629,1159"/>
+<area shape="rect" id="Node000020" href="$structllvm_1_1NullableValueCastFailed.html" title="All of these cast traits are meant to be implementations for useful casts that users may want to use ..." alt="" coords="49,638,244,678"/>
+<area shape="poly" id="edge2208_Node000020_Node000018" title=" " alt="" coords="258,656,407,656,403,660,261,660"/>
+</map>

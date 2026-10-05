@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,5,151,46"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="199,5,341,46"/>
+<area shape="poly" id="edge4457_Node000000_Node000001" title=" " alt="" coords="166,23,201,25,195,26,166,28"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1OptionalPassInfoMixin.html" title=" " alt="" coords="389,5,573,46"/>
+<area shape="poly" id="edge4458_Node000001_Node000002" title=" " alt="" coords="356,23,391,26,386,26,357,28"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1LoopRotatePass.html" title="A simple loop rotation transformation." alt="" coords="621,13,772,38"/>
+<area shape="poly" id="edge4459_Node000002_Node000003" title=" " alt="" coords="589,23,624,26,618,26,589,28"/>
+</map>

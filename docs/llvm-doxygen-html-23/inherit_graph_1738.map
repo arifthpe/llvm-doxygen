@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1detail_1_1DenseSetImpl.html" title=" " alt="" coords="5,291,200,376"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1SmallDenseSet.html" title=" " alt="" coords="279,5,424,46"/>
+<area shape="poly" id="edge3303_Node000000_Node000001" title=" " alt="" coords="117,275,136,223,163,164,200,107,222,80,246,57,280,39,277,43,249,61,225,84,204,110,168,167,141,225,122,277"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SmallDenseSet.html" title=" " alt="" coords="279,71,424,111"/>
+<area shape="poly" id="edge3304_Node000000_Node000002" title=" " alt="" coords="127,276,148,238,176,196,208,157,246,122,281,105,277,109,249,127,212,160,180,200,153,240,132,278"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SmallDenseSet.html" title=" " alt="" coords="279,136,424,177"/>
+<area shape="poly" id="edge3305_Node000000_Node000003" title=" " alt="" coords="144,278,190,229,246,186,281,172,277,176,249,191,194,233,148,281"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SmallDenseSet.html" title=" " alt="" coords="279,200,424,256"/>
+<area shape="poly" id="edge3306_Node000000_Node000004" title=" " alt="" coords="210,282,247,266,281,254,277,257,249,271,213,286"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1SmallDenseSet.html" title=" " alt="" coords="279,280,424,321"/>
+<area shape="poly" id="edge3307_Node000000_Node000005" title=" " alt="" coords="214,316,281,308,276,312,216,321"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SmallDenseSet.html" title=" " alt="" coords="279,345,424,386"/>
+<area shape="poly" id="edge3308_Node000000_Node000006" title=" " alt="" coords="214,346,281,355,276,358,216,351"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1SmallDenseSet.html" title=" " alt="" coords="279,411,424,451"/>
+<area shape="poly" id="edge3309_Node000000_Node000007" title=" " alt="" coords="211,380,249,395,285,409,280,411,247,400,212,386"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1SmallDenseSet.html" title=" " alt="" coords="248,476,455,517"/>
+<area shape="poly" id="edge3310_Node000000_Node000008" title=" " alt="" coords="153,385,199,425,249,461,276,475,271,476,246,465,195,429,153,390"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1SmallDenseSet.html" title=" " alt="" coords="253,541,450,582"/>
+<area shape="poly" id="edge3311_Node000000_Node000009" title=" " alt="" coords="133,387,183,460,214,496,249,526,272,541,267,541,246,531,210,500,179,464,132,393"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1SmallDenseSet.html" title="Implements a dense probed hash&#45;table based set with some number of buckets stored inline." alt="" coords="270,606,432,662"/>
+<area shape="poly" id="edge3312_Node000000_Node000010" title=" " alt="" coords="123,388,145,438,172,492,207,545,249,592,272,609,267,608,246,596,203,549,167,495,140,441,122,394"/>
+</map>
