@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,5,209,46"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="257,5,460,46"/>
+<area shape="poly" id="edge4713_Node000000_Node000001" title=" " alt="" coords="224,23,259,26,253,26,224,28"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MSP430BranchSelectPass.html" title=" " alt="" coords="508,13,719,38"/>
+<area shape="poly" id="edge4714_Node000001_Node000002" title=" " alt="" coords="476,23,510,26,505,26,476,28"/>
+</map>

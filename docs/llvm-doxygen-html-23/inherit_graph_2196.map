@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,13,231,54"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="279,5,462,61"/>
+<area shape="poly" id="edge4604_Node000000_Node000001" title=" " alt="" coords="246,31,281,33,276,33,246,36"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1RequiredPassInfoMixin.html" title=" " alt="" coords="510,13,735,54"/>
+<area shape="poly" id="edge4605_Node000001_Node000002" title=" " alt="" coords="478,31,512,33,507,33,478,36"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MachineRegionInfoPrinterPass.html" title=" " alt="" coords="783,20,1017,46"/>
+<area shape="poly" id="edge4606_Node000002_Node000003" title=" " alt="" coords="751,31,786,33,780,33,751,36"/>
+</map>

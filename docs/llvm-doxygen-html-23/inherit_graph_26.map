@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,90,56,116"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1detail_1_1AllocatorHolder_3_01Alloc_01_6_01_4.html" title=" " alt="" coords="104,50,285,90"/>
+<area shape="poly" id="edge6_Node000000_Node000001" title=" " alt="" coords="70,93,105,87,101,90,73,97"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1detail_1_1AllocatorHolder.html" title=" " alt="" coords="104,115,285,156"/>
+<area shape="poly" id="edge7_Node000000_Node000002" title=" " alt="" coords="70,109,105,116,101,119,72,114"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ScopedHashTable.html" title=" " alt="" coords="360,5,524,76"/>
+<area shape="poly" id="edge8_Node000002_Node000003" title=" " alt="" coords="265,107,284,100,362,72,358,74,286,104,267,112"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ScopedHashTable.html" title=" " alt="" coords="333,100,551,171"/>
+<area shape="poly" id="edge9_Node000002_Node000004" title=" " alt="" coords="300,133,335,135,330,136,301,138"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ScopedHashTable.html" title=" " alt="" coords="351,195,533,265"/>
+<area shape="poly" id="edge10_Node000002_Node000005" title=" " alt="" coords="264,159,353,195,348,196,263,164"/>
+</map>

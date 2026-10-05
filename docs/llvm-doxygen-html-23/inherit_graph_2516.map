@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,5,183,46"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="231,5,408,46"/>
+<area shape="poly" id="edge5521_Node000000_Node000001" title=" " alt="" coords="198,23,233,25,227,26,198,28"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1OptionalPassInfoMixin.html" title=" " alt="" coords="456,5,640,46"/>
+<area shape="poly" id="edge5522_Node000001_Node000002" title=" " alt="" coords="423,23,458,26,453,26,423,28"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1X86PreTileConfigPass.html" title="Return a pass that insert pseudo tile config instruction." alt="" coords="688,13,874,38"/>
+<area shape="poly" id="edge5523_Node000002_Node000003" title=" " alt="" coords="656,23,691,26,685,26,656,28"/>
+</map>

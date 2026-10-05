@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,5,156,46"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="204,5,354,46"/>
+<area shape="poly" id="edge5171_Node000000_Node000001" title=" " alt="" coords="171,23,206,25,201,26,171,28"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1OptionalPassInfoMixin.html" title=" " alt="" coords="402,5,586,46"/>
+<area shape="poly" id="edge5172_Node000001_Node000002" title=" " alt="" coords="370,23,404,26,399,26,370,28"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SimplifyCFGPass.html" title="A pass to simplify and canonicalize the CFG of a function." alt="" coords="634,13,793,38"/>
+<area shape="poly" id="edge5173_Node000002_Node000003" title=" " alt="" coords="602,23,636,26,631,26,602,28"/>
+</map>

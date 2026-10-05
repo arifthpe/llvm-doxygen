@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,5,259,46"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="307,5,560,46"/>
+<area shape="poly" id="edge5440_Node000000_Node000001" title=" " alt="" coords="274,23,309,26,304,26,274,28"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1OptionalPassInfoMixin.html" title=" " alt="" coords="608,5,861,46"/>
+<area shape="poly" id="edge5441_Node000001_Node000002" title=" " alt="" coords="576,23,610,26,605,26,576,28"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1X86CleanupLocalDynamicTLSPass.html" title="This pass combines multiple accesses to local&#45;dynamic TLS variables so that the TLS base address for ..." alt="" coords="909,5,1117,46"/>
+<area shape="poly" id="edge5442_Node000002_Node000003" title=" " alt="" coords="877,23,911,26,906,26,877,28"/>
+</map>

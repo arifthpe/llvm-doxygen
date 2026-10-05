@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,146,187,186"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="235,146,416,186"/>
+<area shape="poly" id="edge5088_Node000000_Node000001" title=" " alt="" coords="201,164,237,165,232,167,203,169"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1RequiredPassInfoMixin.html" title=" " alt="" coords="464,146,652,186"/>
+<area shape="poly" id="edge5089_Node000001_Node000002" title=" " alt="" coords="431,164,466,166,461,167,432,169"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SelectionDAGISelPass.html" title=" " alt="" coords="700,153,890,179"/>
+<area shape="poly" id="edge5090_Node000002_Node000003" title=" " alt="" coords="667,164,703,166,697,167,668,169"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AArch64DAGToDAGISelPass.html" title=" " alt="" coords="942,5,1170,31"/>
+<area shape="poly" id="edge5091_Node000003_Node000004" title=" " alt="" coords="816,139,867,88,900,62,936,40,962,32,967,31,939,45,903,66,870,92,818,144"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1AMDGPUISelDAGToDAGPass.html" title=" " alt="" coords="938,55,1175,80"/>
+<area shape="poly" id="edge5092_Node000003_Node000005" title=" " alt="" coords="829,142,879,115,937,89,971,82,977,80,939,94,881,119,831,147"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1BPFISelDAGToDAGPass.html" title=" " alt="" coords="954,104,1158,130"/>
+<area shape="poly" id="edge5093_Node000003_Node000006" title=" " alt="" coords="881,147,987,130,982,131,882,152"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1LanaiISelDAGToDAGPass.html" title=" " alt="" coords="952,153,1161,179"/>
+<area shape="poly" id="edge5094_Node000003_Node000007" title=" " alt="" coords="905,164,954,166,948,166,905,169"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1MSP430ISelDAGToDAGPass.html" title=" " alt="" coords="942,203,1170,228"/>
+<area shape="poly" id="edge5095_Node000003_Node000008" title=" " alt="" coords="882,180,987,202,982,202,882,185"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1WebAssemblyISelDAGToDAGPass.html" title=" " alt="" coords="955,252,1158,293"/>
+<area shape="poly" id="edge5096_Node000003_Node000009" title=" " alt="" coords="832,185,882,212,939,238,972,252,967,252,937,243,880,217,831,190"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1X86ISelDAGToDAGPass.html" title="This pass converts a legalized DAG into a X86&#45;specific DAG, ready for instruction scheduling." alt="" coords="956,317,1157,343"/>
+<area shape="poly" id="edge5097_Node000003_Node000010" title=" " alt="" coords="816,189,868,248,901,278,939,302,969,317,964,316,936,307,898,282,864,251,814,194"/>
+</map>

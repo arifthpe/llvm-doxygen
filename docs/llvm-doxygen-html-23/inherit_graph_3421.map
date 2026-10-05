@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1IDFCalculatorBase.html" title=" " alt="" coords="5,71,240,111"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1MachineIDFCalculator.html" title=" " alt="" coords="288,5,471,46"/>
+<area shape="poly" id="edge6043_Node000000_Node000001" title=" " alt="" coords="219,64,299,46,294,48,221,69"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MachineIDFCalculator.html" title=" " alt="" coords="288,71,471,111"/>
+<area shape="poly" id="edge6044_Node000000_Node000002" title=" " alt="" coords="255,88,290,91,285,91,256,94"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MachineIDFCalculator.html" title=" " alt="" coords="288,136,471,177"/>
+<area shape="poly" id="edge6045_Node000000_Node000003" title=" " alt="" coords="220,113,299,135,294,136,220,118"/>
+</map>
