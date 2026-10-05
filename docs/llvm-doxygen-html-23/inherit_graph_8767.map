@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="13,362,142,388"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1hashing_1_1detail_1_1is__hashable__data_3_01std_1_1pair_3_01T_00_01U_01_4_01_4.html" title=" " alt="" coords="220,115,380,171"/>
+<area shape="poly" id="edge12938_Node000000_Node000001" title=" " alt="" coords="86,347,103,310,127,266,158,221,196,181,221,166,218,171,199,185,162,224,131,269,108,312,91,349"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1hashing_1_1detail_1_1is__hashable__data.html" title="Trait to indicate whether a type&#39;s bits can be hashed directly." alt="" coords="219,194,381,235"/>
+<area shape="poly" id="edge12939_Node000000_Node000002" title=" " alt="" coords="94,348,137,296,165,269,196,246,224,234,220,238,199,250,169,273,141,300,99,351"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ilist__detail_1_1extract__iterator__bits_3_01ilist__iterator__bits_3_01IteratorBits_01_4_00_01Options_8_8_8_01_4.html" title=" " alt="" coords="211,260,389,330"/>
+<area shape="poly" id="edge12940_Node000000_Node000003" title=" " alt="" coords="128,354,212,325,209,329,131,358"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__detail_1_1extract__sentinel__tracking_3_01ilist__sentinel__tracking_3_01Enad8d94c5ce1ebbb4f62b588c4bdfec7d2.html" title=" " alt="" coords="209,5,391,91"/>
+<area shape="poly" id="edge12941_Node000000_Node000004" title=" " alt="" coords="82,346,95,296,118,231,151,163,172,131,196,101,211,89,208,94,200,105,176,134,156,166,123,233,101,297,87,348"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1support_1_1detail_1_1use__pointer__formatter.html" title=" " alt="" coords="206,354,394,395"/>
+<area shape="poly" id="edge12942_Node000000_Node000006" title=" " alt="" coords="156,372,208,373,203,376,158,377"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1yaml_1_1has__SequenceTraits.html" title=" " alt="" coords="212,420,388,460"/>
+<area shape="poly" id="edge12943_Node000000_Node000007" title=" " alt="" coords="138,390,230,418,226,421,139,395"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1yaml_1_1missingTraits.html" title=" " alt="" coords="216,485,384,526"/>
+<area shape="poly" id="edge12944_Node000000_Node000008" title=" " alt="" coords="102,396,147,434,199,470,227,484,222,485,196,474,143,438,103,401"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1yaml_1_1unvalidatedMappingTraits.html" title=" " alt="" coords="198,550,402,591"/>
+<area shape="poly" id="edge12945_Node000000_Node000009" title=" " alt="" coords="92,399,135,468,165,504,199,535,222,550,216,550,196,540,161,508,131,471,91,404"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1yaml_1_1validatedMappingTraits.html" title=" " alt="" coords="205,616,395,656"/>
+<area shape="poly" id="edge12946_Node000000_Node000010" title=" " alt="" coords="86,400,102,445,125,499,157,554,177,579,199,601,219,616,214,615,196,605,173,582,153,557,120,501,97,447,85,405"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ilist__detail_1_1explicitness.html" title=" " alt="" coords="5,28,150,68"/>
+<area shape="poly" id="edge12947_Node000005_Node000004" title=" " alt="" coords="164,46,210,46,206,50,167,50"/>
+</map>
