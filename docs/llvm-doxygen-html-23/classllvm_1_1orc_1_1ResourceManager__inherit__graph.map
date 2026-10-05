@@ -1,0 +1,13 @@
+<map id="llvm::orc::ResourceManager" name="llvm::orc::ResourceManager">
+<area shape="rect" id="Node000001" title="Listens for ResourceTracker operations." alt="" coords="5,112,191,137"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1LazyReexportsManager.html" title=" " alt="" coords="257,5,424,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,102,238,57,275,45,270,48,240,61,140,107"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1LinkGraphLinkingLayer.html" title="LinkGraphLinkingLayer links LinkGraphs into the Executor using JITLink." alt="" coords="251,71,430,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,107,253,102,248,104,207,112"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1orc_1_1RTDyldObjectLinkingLayer.html" title=" " alt="" coords="239,136,442,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="206,136,241,142,235,143,206,141"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1orc_1_1ReOptimizeLayer.html" title=" " alt="" coords="250,201,430,226"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="139,142,240,186,281,200,276,200,238,191,138,147"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1ObjectLinkingLayer.html" title="An ObjectLayer implementation built on JITLink." alt="" coords="490,71,648,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="445,88,492,91,487,91,446,94"/>
+</map>

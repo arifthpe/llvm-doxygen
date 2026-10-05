@@ -1,0 +1,27 @@
+<map id="llvm::jitlink::ELFLinkGraphBuilder&lt; ELFT &gt;" name="llvm::jitlink::ELFLinkGraphBuilder&lt; ELFT &gt;">
+<area shape="rect" id="Node000001" title="LinkGraph building code that&#39;s specific to the given ELFT, but common across all architectures." alt="" coords="229,189,403,230"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1jitlink_1_1ELFLinkGraphBuilder__riscv.html" title=" " alt="" coords="667,5,841,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="330,173,345,143,366,110,393,78,426,53,485,28,548,15,610,10,669,14,664,15,610,16,548,20,486,33,429,57,397,82,370,113,349,146,334,176"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1jitlink_1_1ELFLinkGraphBuilder.html" title=" " alt="" coords="635,70,873,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="354,177,388,156,426,138,478,122,532,111,637,100,632,102,533,116,480,127,428,143,391,160,357,182"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1jitlink_1_1ELFLinkGraphBuilder.html" title=" " alt="" coords="667,150,841,206"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="419,200,669,183,664,185,420,205"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1jitlink_1_1ELFLinkGraphBuilder.html" title=" " alt="" coords="662,229,846,270"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="418,226,428,227,549,239,664,247,659,248,549,244,427,233,419,232"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1jitlink_1_1ELFLinkGraphBuilder.html" title=" " alt="" coords="663,295,845,335"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="359,236,393,255,428,270,488,287,549,298,665,312,660,313,548,304,486,292,426,275,390,260,358,241"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1jitlink_1_1ELFLinkGraphBuilder.html" title=" " alt="" coords="663,360,845,401"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="338,241,376,291,401,315,429,334,486,358,547,373,607,380,665,385,660,385,607,385,546,378,484,363,426,339,397,319,372,295,336,246"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1jitlink_1_1ELFLinkGraphBuilderBase.html" title="Common link&#45;graph building code shared between all ELFFiles." alt="" coords="5,189,180,230"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,207,231,209,226,211,196,212"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1jitlink_1_1ELFLinkGraphBuilder__aarch32.html" title=" " alt="" coords="922,77,1156,118"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="888,95,924,97,919,98,889,100"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1jitlink_1_1ELFLinkGraphBuilder__ppc64.html" title=" " alt="" coords="942,157,1137,198"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="856,175,944,177,939,178,857,180"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1jitlink_1_1ELFLinkGraphBuilder__systemz.html" title=" " alt="" coords="952,229,1126,270"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="862,247,954,249,949,250,862,252"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1jitlink_1_1ELFLinkGraphBuilder__x86.html" title=" " alt="" coords="952,295,1126,335"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="860,312,954,315,949,315,861,318"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1jitlink_1_1ELFLinkGraphBuilder__x86__64.html" title=" " alt="" coords="952,360,1126,401"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="860,378,954,380,949,380,860,383"/>
+</map>

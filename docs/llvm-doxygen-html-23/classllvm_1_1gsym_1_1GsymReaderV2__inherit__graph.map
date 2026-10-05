@@ -1,0 +1,5 @@
+<map id="llvm::gsym::GsymReaderV2" name="llvm::gsym::GsymReaderV2">
+<area shape="rect" id="Node000001" title="GsymReaderV2 reads GSYM V2 data from a buffer." alt="" coords="5,79,192,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1gsym_1_1GsymReader.html" title="GsymReader is used to read GSYM data from a file or buffer." alt="" coords="13,5,184,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,45,101,80,96,77,97,48"/>
+</map>

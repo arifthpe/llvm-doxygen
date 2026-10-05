@@ -1,0 +1,9 @@
+<map id="llvm::detail::BCRecordCoding&lt; ElementTy, Fields &gt;" name="llvm::detail::BCRecordCoding&lt; ElementTy, Fields &gt;">
+<area shape="rect" id="Node000001" title="Helper class for dealing with a scalar element in the middle of a record." alt="" coords="5,71,200,111"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1detail_1_1BCRecordCoding_3_01BCArray_3_01ElementTy_01_4_01_4.html" title="Helper class for dealing with an array at the end of a record." alt="" coords="416,5,610,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,64,223,60,417,34,413,37,224,66,204,69"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1detail_1_1BCRecordCoding_3_01BCBlob_01_4.html" title="Helper class for dealing with a blob at the end of a record." alt="" coords="416,71,610,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,88,417,89,413,93,215,94"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1detail_1_1BCRecordCoding_3_01ElementTy_01_4.html" title="Helper class for dealing with a scalar element at the end of a record." alt="" coords="416,136,610,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,112,224,117,417,145,413,148,223,122,202,118"/>
+</map>

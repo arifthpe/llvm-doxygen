@@ -1,0 +1,5 @@
+<map id="llvm::cas::NamedValuesProxy" name="llvm::cas::NamedValuesProxy">
+<area shape="rect" id="Node000001" title="A proxy for a loaded CAS Object in NamedValuesSchema." alt="" coords="5,79,203,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1cas_1_1ObjectProxy.html" title="Reference to an abstract hierarchical node, with data and references." alt="" coords="27,5,181,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,45,106,80,102,77,102,48"/>
+</map>

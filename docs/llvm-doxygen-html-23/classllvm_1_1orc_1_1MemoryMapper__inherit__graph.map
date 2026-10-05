@@ -1,0 +1,9 @@
+<map id="llvm::orc::MemoryMapper" name="llvm::orc::MemoryMapper">
+<area shape="rect" id="Node000001" title="Manages mapping, content transfer and protections for JIT memory." alt="" coords="5,70,175,96"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1InProcessMemoryMapper.html" title=" " alt="" coords="236,5,422,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,63,243,45,239,48,162,69"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1SharedMemoryMapper.html" title=" " alt="" coords="224,70,434,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,80,226,82,221,84,191,86"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1SimpleRemoteMemoryMapper.html" title="Manages remote memory by making SPS&#45;based EPC calls." alt="" coords="223,120,435,161"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,97,244,119,238,120,161,103"/>
+</map>

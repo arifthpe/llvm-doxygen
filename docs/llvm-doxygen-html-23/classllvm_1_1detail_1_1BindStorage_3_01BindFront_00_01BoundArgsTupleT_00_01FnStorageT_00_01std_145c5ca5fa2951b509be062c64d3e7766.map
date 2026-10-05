@@ -1,0 +1,5 @@
+<map id="llvm::detail::BindStorage&lt; BindFront, BoundArgsTupleT, FnStorageT, std::index_sequence&lt; Indices... &gt; &gt;" name="llvm::detail::BindStorage&lt; BindFront, BoundArgsTupleT, FnStorageT, std::index_sequence&lt; Indices... &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,173,225,243"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1detail_1_1BindStorage.html" title=" " alt="" coords="13,5,217,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,75,118,173,112,172,113,78"/>
+</map>

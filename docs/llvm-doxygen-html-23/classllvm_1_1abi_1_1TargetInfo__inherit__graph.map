@@ -1,0 +1,7 @@
+<map id="llvm::abi::TargetInfo" name="llvm::abi::TargetInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="116,5,252,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1abi_1_1BPFTargetInfo.html" title=" " alt="" coords="5,79,168,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,40,104,81,101,76,153,41"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1abi_1_1X86__64TargetInfo.html" title=" " alt="" coords="192,79,373,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,38,269,79,263,79,212,43"/>
+</map>

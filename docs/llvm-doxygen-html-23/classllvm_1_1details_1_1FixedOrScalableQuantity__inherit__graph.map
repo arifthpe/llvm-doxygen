@@ -1,0 +1,11 @@
+<map id="llvm::details::FixedOrScalableQuantity&lt; LeafTy, ValueTy &gt;" name="llvm::details::FixedOrScalableQuantity&lt; LeafTy, ValueTy &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,201,79"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1details_1_1FixedOrScalableQuantity.html" title=" " alt="" coords="424,5,661,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,48,425,33,421,37,216,53"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1details_1_1FixedOrScalableQuantity.html" title=" " alt="" coords="441,71,644,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,78,225,79,336,87,443,92,438,92,336,93,224,85,216,84"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ElementCount.html" title=" " alt="" coords="710,13,847,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="676,23,712,25,707,26,677,28"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1TypeSize.html" title=" " alt="" coords="725,78,832,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="659,88,727,91,722,91,659,94"/>
+</map>

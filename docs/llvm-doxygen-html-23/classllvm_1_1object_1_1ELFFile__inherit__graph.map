@@ -1,0 +1,11 @@
+<map id="llvm::object::ELFFile&lt; ELFT &gt;" name="llvm::object::ELFFile&lt; ELFT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,147,145"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1object_1_1ELFFile.html" title=" " alt="" coords="283,5,424,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,94,170,73,226,53,285,39,280,42,228,58,172,77,127,99"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1object_1_1ELFFile.html" title=" " alt="" coords="283,71,424,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,111,284,98,280,101,163,117"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1object_1_1ELFFile.html" title=" " alt="" coords="283,136,424,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,139,171,141,284,152,280,155,170,146,162,145"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1object_1_1ELFFile.html" title=" " alt="" coords="283,201,424,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="119,151,172,178,228,196,285,211,280,211,226,202,170,183,118,156"/>
+</map>

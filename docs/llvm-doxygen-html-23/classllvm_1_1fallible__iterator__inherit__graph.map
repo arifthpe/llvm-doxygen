@@ -1,0 +1,9 @@
+<map id="llvm::fallible_iterator&lt; Underlying &gt;" name="llvm::fallible_iterator&lt; Underlying &gt;">
+<area shape="rect" id="Node000001" title="A wrapper class for fallible iterators." alt="" coords="5,71,143,111"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1fallible__iterator.html" title=" " alt="" coords="335,5,492,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,64,166,60,253,44,337,34,332,36,253,49,167,66,155,69"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1fallible__iterator.html" title=" " alt="" coords="340,71,487,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,88,341,89,338,93,158,94"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1fallible__iterator.html" title=" " alt="" coords="336,136,490,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,113,167,117,254,133,338,148,333,148,254,139,166,122,153,119"/>
+</map>

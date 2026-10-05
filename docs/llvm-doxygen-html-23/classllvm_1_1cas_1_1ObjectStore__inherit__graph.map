@@ -1,0 +1,5 @@
+<map id="llvm::cas::ObjectStore" name="llvm::cas::ObjectStore">
+<area shape="rect" id="Node000001" title="Content&#45;addressable storage for objects." alt="" coords="5,5,157,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1cas_1_1builtin_1_1BuiltinCAS.html" title="Common base class for builtin CAS implementations using the same CASContext." alt="" coords="23,79,139,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,44,84,79,78,78,79,48"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="llvm::orc::ExecutorProcessControl" name="llvm::orc::ExecutorProcessControl">
+<area shape="rect" id="Node000001" title="ExecutorProcessControl supports interaction with a JIT target process." alt="" coords="5,55,185,96"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1InProcessEPC.html" title="An ExecutorProcessControl implementation for in&#45;process JITs that use the new ORC runtime (llvm&#45;proje..." alt="" coords="251,5,417,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,48,279,31,275,33,198,54"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1SelfExecutorProcessControl.html" title="A ExecutorProcessControl implementation targeting the current process." alt="" coords="233,55,435,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,73,235,75,230,76,201,78"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1SimpleRemoteEPC.html" title=" " alt="" coords="237,120,430,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,97,280,119,274,120,197,103"/>
+</map>

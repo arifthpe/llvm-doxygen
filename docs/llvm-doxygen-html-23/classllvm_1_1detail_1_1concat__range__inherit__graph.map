@@ -1,0 +1,5 @@
+<map id="llvm::detail::concat_range&lt; ValueT, RangeTs &gt;" name="llvm::detail::concat_range&lt; ValueT, RangeTs &gt;">
+<area shape="rect" id="Node000001" title="Helper to store a sequence of ranges being concatenated and access them." alt="" coords="5,49,187,89"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1detail_1_1concat__range.html" title=" " alt="" coords="453,34,676,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,66,453,66,451,72,202,72"/>
+</map>

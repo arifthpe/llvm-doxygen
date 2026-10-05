@@ -1,0 +1,16 @@
+<map id="llvm::orc::ObjectLayer" name="llvm::orc::ObjectLayer">
+<area shape="rect" id="Node000001" title="Interface for Layers that accept object files." alt="" coords="80,282,229,308"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1orc_1_1LazyObjectLinkingLayer.html" title="LazyObjectLinkingLayer is an adapter for ObjectLinkingLayer that builds lazy reexports for all functi..." alt="" coords="61,357,248,398"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="156,321,157,358,152,356,152,325"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="68,192,240,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,246,157,282,152,281,153,250"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1RTTIRoot.html" title="Base class for the extensible RTTI hierarchy." alt="" coords="5,88,117,114"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="82,123,140,191,135,192,81,128"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="126,5,210,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="167,44,158,192,153,191,164,49"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1RTTIExtends.html" title="Inheritance utility for extensible RTTI." alt="" coords="191,80,371,121"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="197,38,256,79,251,81,197,43"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="245,133,179,194,175,190,249,130"/>
+<area shape="rect" id="Node000006" href="$classParentT.html" title=" " alt="" coords="247,5,315,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="282,44,284,81,278,79,280,49"/>
+</map>
