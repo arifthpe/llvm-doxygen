@@ -1,0 +1,33 @@
+<map id="BaseCL" name="BaseCL">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,74,148"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MemSetBase.html" title="Common base class for all memset intrinsics." alt="" coords="123,88,325,114"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,124,154,112,150,116,90,129"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1MemTransferBase.html" title="Common base class for all memory transfer intrinsics." alt="" coords="144,143,304,184"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="89,140,146,150,141,153,90,146"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MemSetBase.html" title=" " alt="" coords="520,7,716,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,82,349,70,522,41,518,44,350,75,298,87"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MemSetBase.html" title=" " alt="" coords="502,88,734,114"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="340,98,504,100,499,102,341,103"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AnyMemSetInst.html" title="This class represents any memset intrinsic." alt="" coords="797,5,944,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="731,21,799,20,794,21,732,26"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MemSetInst.html" title="This class wraps the llvm.memset and llvm.memset.inline intrinsics." alt="" coords="808,55,933,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="735,83,811,75,805,76,736,88"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MemSetPatternInst.html" title="This class wraps the llvm.experimental.memset.pattern intrinsic." alt="" coords="788,104,954,130"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="749,106,790,111,784,112,749,112"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1MemTransferBase.html" title=" " alt="" coords="538,143,698,184"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="320,161,540,162,535,165,320,166"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1MemTransferBase.html" title=" " alt="" coords="538,208,698,249"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="319,183,350,189,540,219,535,220,349,194,319,189"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1AnyMemTransferInst.html" title=" " alt="" coords="783,153,958,179"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="714,162,785,165,780,165,714,167"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1AnyMemCpyInst.html" title="This class represents any memcpy intrinsic i.e." alt="" coords="1012,105,1163,131"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="947,147,1023,132,1029,131,948,152"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1AnyMemMoveInst.html" title="This class represents any memmove intrinsic i.e." alt="" coords="1008,155,1167,180"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="974,164,1010,167,1005,167,974,169"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1MemTransferInst.html" title="This class wraps the llvm.memcpy/memmove intrinsics." alt="" coords="794,216,947,242"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="714,226,797,229,791,229,714,231"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1MemCpyInst.html" title="This class wraps the llvm.memcpy intrinsic." alt="" coords="1023,208,1152,234"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="963,223,1025,223,1020,223,963,228"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1MemMoveInst.html" title="This class wraps the llvm.memmove intrinsic." alt="" coords="1019,257,1156,283"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="957,242,1021,257,1016,257,956,248"/>
+</map>

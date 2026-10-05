@@ -1,0 +1,11 @@
+<map id="llvm::AMDGPUCoExecSchedStrategy" name="llvm::AMDGPUCoExecSchedStrategy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,300,251,326"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1GCNSchedStrategy.html" title="This is a minimal scheduler strategy." alt="" coords="43,226,213,252"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,266,130,301,126,298,126,269"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1GenericScheduler.html" title="GenericScheduler shrinks the unscheduled zone using heuristics to balance the schedule." alt="" coords="50,153,206,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,192,131,227,125,225,127,196"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1GenericSchedulerBase.html" title="Base class for GenericScheduler." alt="" coords="35,79,221,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="129,118,131,153,125,152,127,123"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MachineSchedStrategy.html" title="MachineSchedStrategy &#45; Interface to the scheduling algorithm used by ScheduleDAGMI." alt="" coords="34,5,222,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="129,44,131,79,125,78,127,49"/>
+</map>
