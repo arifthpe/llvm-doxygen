@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,173,82,199"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1PatternMatch_1_1BinOpPred__match.html" title=" " alt="" coords="137,5,310,76"/>
+<area shape="poly" id="edge12915_Node000000_Node000001" title=" " alt="" coords="60,159,90,123,128,87,149,75,145,79,131,91,94,126,65,162"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PatternMatch_1_1apf__pred__ty.html" title="This helper class is used to match scalar and vector constants that satisfy a specified predicate,..." alt="" coords="135,100,312,141"/>
+<area shape="poly" id="edge12916_Node000000_Node000002" title=" " alt="" coords="93,165,129,151,166,140,162,143,131,157,96,169"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PatternMatch_1_1api__pred__ty.html" title="This helper class is used to match scalar and vector constants that satisfy a specified predicate,..." alt="" coords="136,166,311,206"/>
+<area shape="poly" id="edge12917_Node000000_Node000003" title=" " alt="" coords="96,184,137,184,133,188,98,188"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PatternMatch_1_1cstval__pred__ty.html" title="This helper class is used to match constant scalars, vector splats, and fixed width vectors that sati..." alt="" coords="130,230,317,286"/>
+<area shape="poly" id="edge12918_Node000000_Node000004" title=" " alt="" coords="92,202,155,228,150,231,92,208"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1SCEVPatternMatch_1_1cst__pred__ty.html" title=" " alt="" coords="135,310,312,350"/>
+<area shape="poly" id="edge12919_Node000000_Node000005" title=" " alt="" coords="60,210,90,255,109,277,131,296,151,309,146,309,128,300,106,281,86,258,58,215"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classremove__cvref__t.html" title=" " alt="" coords="14,17,126,42"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1detail_1_1Visitor_3_01HeadT_01_4.html" title=" " alt="" coords="186,5,315,46"/>
+<area shape="poly" id="edge12923_Node000000_Node000001" title=" " alt="" coords="140,25,188,26,183,28,142,31"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1detail_1_1Visitor_3_01HeadT_00_01TailTs_8_8_8_01_4.html" title=" " alt="" coords="183,71,318,111"/>
+<area shape="poly" id="edge12924_Node000000_Node000002" title=" " alt="" coords="125,45,191,69,186,71,124,51"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1Visitor.html" title=" " alt="" coords="5,71,135,111"/>
+<area shape="poly" id="edge12925_Node000003_Node000002" title=" " alt="" coords="150,88,185,91,180,91,150,94"/>
+</map>
