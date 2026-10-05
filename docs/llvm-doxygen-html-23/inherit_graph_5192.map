@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1orc_1_1ExecutorProcessControl.html" title="ExecutorProcessControl supports interaction with a JIT target process." alt="" coords="40,55,219,96"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1orc_1_1InProcessEPC.html" title="An ExecutorProcessControl implementation for in&#45;process JITs that use the new ORC runtime (llvm&#45;proje..." alt="" coords="334,5,500,31"/>
+<area shape="poly" id="edge7486_Node000000_Node000001" title=" " alt="" coords="234,52,351,30,347,33,235,57"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1SelfExecutorProcessControl.html" title="A ExecutorProcessControl implementation targeting the current process." alt="" coords="316,55,518,96"/>
+<area shape="poly" id="edge7487_Node000000_Node000002" title=" " alt="" coords="234,73,318,75,313,76,235,78"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1SimpleRemoteEPC.html" title=" " alt="" coords="321,120,514,146"/>
+<area shape="poly" id="edge7488_Node000000_Node000003" title=" " alt="" coords="235,94,352,119,347,120,234,99"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1SimpleRemoteEPCTransportClient.html" title=" " alt="" coords="5,140,254,181"/>
+<area shape="poly" id="edge7489_Node000004_Node000003" title=" " alt="" coords="269,145,323,142,318,143,270,150"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1orc_1_1SimpleRemoteEPCServer.html" title="A simple EPC server implementation." alt="" coords="302,169,533,195"/>
+<area shape="poly" id="edge7490_Node000004_Node000005" title=" " alt="" coords="269,169,304,174,299,174,269,174"/>
+</map>

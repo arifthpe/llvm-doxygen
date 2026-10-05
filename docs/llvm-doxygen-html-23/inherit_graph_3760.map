@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="5,5,216,91"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="264,5,524,91"/>
+<area shape="poly" id="edge6455_Node000000_Node000001" title=" " alt="" coords="231,46,266,48,261,48,231,51"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1Instruction_1_1succ__iterator.html" title="Iterator type that casts an operand to a basic block." alt="" coords="572,28,694,68"/>
+<area shape="poly" id="edge6456_Node000001_Node000002" title=" " alt="" coords="540,46,574,48,569,48,540,51"/>
+</map>
