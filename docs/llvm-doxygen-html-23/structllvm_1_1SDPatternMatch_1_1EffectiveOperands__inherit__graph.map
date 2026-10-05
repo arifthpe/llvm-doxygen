@@ -1,0 +1,5 @@
+<map id="llvm::SDPatternMatch::EffectiveOperands&lt; ExcludeChain &gt;" name="llvm::SDPatternMatch::EffectiveOperands&lt; ExcludeChain &gt;">
+<area shape="rect" id="Node000001" title="Provide number of operands that are not chain or glue, as well as the first index of such operand." alt="" coords="5,5,156,61"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1SDPatternMatch_1_1EffectiveOperands_3_01false_01_4.html" title=" " alt="" coords="5,132,156,188"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,75,83,132,78,131,79,78"/>
+</map>

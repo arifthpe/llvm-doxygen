@@ -1,0 +1,10 @@
+<map id="llvm::is_bitmask_enum&lt; E, std::void_t&lt; decltype(E::LLVM_BITMASK_LARGEST_ENUMERATOR)&gt; &gt;" name="llvm::is_bitmask_enum&lt; E, std::void_t&lt; decltype(E::LLVM_BITMASK_LARGEST_ENUMERATOR)&gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="16,233,227,303"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,113,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,44,71,120,88,179,109,232,103,232,83,181,66,122,59,49"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1is__bitmask__enum.html" title="Traits class to determine whether an enum has a LLVM_BITMASK_LARGEST_ENUMERATOR enumerator." alt="" coords="80,80,235,121"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="85,38,136,79,131,81,86,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="296,88,398,114"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="351,127,349,170,342,192,330,210,308,230,283,244,228,262,227,257,281,240,305,225,326,207,338,189,344,169,348,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="130,131,126,146,118,190,119,233,114,231,112,189,121,144,127,136"/>
+</map>

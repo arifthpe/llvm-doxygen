@@ -1,0 +1,5 @@
+<map id="llvm::instrumentor::ModuleIO" name="llvm::instrumentor::ModuleIO">
+<area shape="rect" id="Node000001" title=" " alt="" coords="36,94,161,135"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1instrumentor_1_1InstrumentationOpportunity.html" title="Base class for instrumentation opportunities." alt="" coords="5,5,192,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,60,101,95,96,93,97,64"/>
+</map>

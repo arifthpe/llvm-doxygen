@@ -1,0 +1,13 @@
+<map id="llvm::VPlanPatternMatch::Recipe_match&lt; Ops_t, Opcode, Commutative, RecipeTys &gt;" name="llvm::VPlanPatternMatch::Recipe_match&lt; Ops_t, Opcode, Commutative, RecipeTys &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,280,244,335"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="562,53,810,138"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,265,197,202,229,170,266,145,339,116,415,98,491,89,564,88,559,90,492,94,416,103,340,121,269,150,233,175,200,205,152,268"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="562,162,810,248"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,272,267,256,419,228,564,213,559,215,420,233,268,261,214,277"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="592,272,780,343"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="259,305,593,305,590,310,259,310"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="595,367,777,438"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="212,338,268,354,354,370,441,382,597,398,592,399,440,387,353,375,267,359,213,343"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1VPlanPatternMatch_1_1Recipe__match.html" title=" " alt="" coords="587,462,785,532"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="151,346,174,377,201,409,233,438,269,461,307,477,348,489,432,504,513,508,589,509,583,509,513,514,431,509,347,495,306,482,266,466,230,442,197,412,170,381,150,352"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="llvm::ilist_detail::is_valid_option&lt; Option &gt;" name="llvm::ilist_detail::is_valid_option&lt; Option &gt;">
+<area shape="rect" id="Node000001" title="Check whether an option is valid." alt="" coords="162,137,339,178"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ilist__detail_1_1is__valid__option_3_01ilist__iterator__bits_3_01IteratorBits_01_4_01_4.html" title=" " alt="" coords="591,5,787,61"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="295,126,362,93,420,75,479,61,593,43,588,45,481,66,421,80,364,98,298,131"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__detail_1_1is__valid__option_3_01ilist__parent_3_01ParentTy_01_4_01_4.html" title=" " alt="" coords="613,85,765,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="354,141,363,140,615,118,610,120,364,145,355,146"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ilist__detail_1_1is__valid__option_3_01ilist__sentinel__tracking_3_01EnableSentinelTracking_01_4_01_4.html" title=" " alt="" coords="576,164,802,235"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="339,179,364,183,473,194,579,200,573,201,472,200,363,188,339,184"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1ilist__detail_1_1is__valid__option_3_01ilist__tag_3_01Tag_01_4_01_4.html" title=" " alt="" coords="615,259,763,314"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="291,184,326,207,364,226,429,247,496,262,618,282,613,282,495,267,427,252,362,231,323,211,290,190"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,144,113,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,155,164,156,159,159,129,160"/>
+</map>

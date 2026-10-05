@@ -1,0 +1,10 @@
+<map id="llvm::ilist_detail::is_valid_option&lt; ilist_tag&lt; Tag &gt; &gt;" name="llvm::ilist_detail::is_valid_option&lt; ilist_tag&lt; Tag &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,192,243,248"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,113,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,44,61,82,71,120,98,159,133,191,128,192,94,162,66,122,55,83,56,49"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__detail_1_1is__valid__option.html" title="Check whether an option is valid." alt="" coords="81,80,258,121"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="88,38,145,79,140,81,88,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="283,88,384,114"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="327,126,316,151,299,170,273,188,245,202,243,197,271,184,296,166,311,148,322,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,134,172,192,167,190,168,138"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="llvm::jitlink::aarch32::FixupInfo&lt; Thumb_MovwAbsNC &gt;" name="llvm::jitlink::aarch32::FixupInfo&lt; Thumb_MovwAbsNC &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="732,49,964,90"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1jitlink_1_1aarch32_1_1FixupInfoThumbMov.html" title=" " alt="" coords="379,5,527,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="543,33,734,57,729,57,542,38"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1jitlink_1_1aarch32_1_1FixupInfoThumb.html" title="FixupInfo check for Thumb32 edge kinds work on a pair of 16&#45;bit halfwords." alt="" coords="192,5,329,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,23,381,25,376,26,345,28"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1jitlink_1_1aarch32_1_1FixupInfoBase.html" title="FixupInfo base class is required for dynamic lookups." alt="" coords="5,5,143,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="158,23,194,25,189,26,159,28"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1jitlink_1_1aarch32_1_1FixupInfo.html" title="Collection of named constants per fixup kind." alt="" coords="384,71,522,111"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="537,85,708,77,729,78,734,78,708,82,537,90"/>
+</map>

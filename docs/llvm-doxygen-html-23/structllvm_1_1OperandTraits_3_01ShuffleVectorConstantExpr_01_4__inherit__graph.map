@@ -1,0 +1,9 @@
+<map id="llvm::OperandTraits&lt; ShuffleVectorConstantExpr &gt;" name="llvm::OperandTraits&lt; ShuffleVectorConstantExpr &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="911,52,1115,93"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="454,8,672,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="688,37,887,56,913,61,908,61,887,62,687,42"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1FixedNumOperandTraits.html" title="FixedNumOperandTraits &#45; determine the allocation regime of the Use array when it is a prefix to the U..." alt="" coords="5,8,201,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,26,455,26,451,30,217,31"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1OperandTraits.html" title="Compile&#45;time customization of User operands." alt="" coords="495,73,630,114"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="646,89,887,79,908,81,913,80,887,85,646,94"/>
+</map>

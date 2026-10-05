@@ -1,0 +1,28 @@
+<map id="llvm::RequireAnalysisPass&lt; AnalysisT, Loop, LoopAnalysisManager, LoopStandardAnalysisResults &amp;, LPMUpdater &amp; &gt;" name="llvm::RequireAnalysisPass&lt; AnalysisT, Loop, LoopAnalysisManager, LoopStandardAnalysisResults &amp;, LPMUpdater &amp; &gt;">
+<area shape="rect" id="Node000001" title="A partial specialization of the require analysis template pass to forward the extra parameters from a..." alt="" coords="2008,215,2261,286"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1RequiredPassInfoMixin.html" title="A CRTP mix&#45;in for passes that should not be skipped." alt="" coords="1303,248,1492,288"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1507,263,2010,253,2004,254,1507,268"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="505,246,642,287"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="657,264,1305,266,1301,270,657,269"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1OptionalPassInfoMixin.html" title="A CRTP mix&#45;in for passes that can be skipped." alt="" coords="1030,193,1215,234"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="656,256,1033,222,1027,223,657,261"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1RequiredPassInfoMixin.html" title="A CRTP mix&#45;in for passes that should not be skipped." alt="" coords="1028,309,1217,350"/>
+<area shape="poly" id="edge14_Node000012_Node000003" title=" " alt="" coords="657,277,724,287,1031,321,1025,321,724,292,657,283"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,214,151,255"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,238,506,260,504,265,166,243"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="505,178,642,219"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="166,226,505,201,504,206,166,231"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1OptionalPassInfoMixin.html" title=" " alt="" coords="1545,128,1765,214"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1780,189,2010,230,2004,229,1780,194"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="996,66,1249,152"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1265,104,1390,109,1522,125,1548,133,1542,133,1521,131,1390,115,1265,110"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="447,46,700,132"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="716,92,998,104,993,105,716,97"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,69,151,110"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="166,87,448,87,445,92,166,92"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="657,207,726,211,805,212,889,206,971,191,1043,154,1048,152,973,196,890,212,806,218,726,217,657,212"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="1230,219,1369,221,1446,218,1521,209,1542,208,1548,207,1522,215,1446,223,1369,227,1231,224"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1RequireAnalysisPass.html" title="A utility pass template to force an analysis result to be available." alt="" coords="1556,307,1754,362"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="1769,358,1820,364,1875,366,1930,362,1983,351,2014,338,2043,322,2093,287,2098,285,2046,326,2016,343,1984,356,1930,368,1875,371,1820,369,1769,363"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="1232,328,1558,334,1553,334,1232,333"/>
+</map>

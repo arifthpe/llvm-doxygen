@@ -1,0 +1,10 @@
+<map id="llvm::detail::IsRegistryType&lt; Registry&lt; T, CtorParamTypes... &gt; &gt;" name="llvm::detail::IsRegistryType&lt; Registry&lt; T, CtorParamTypes... &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,212,241,268"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,113,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,44,63,82,71,120,94,169,123,212,117,212,90,172,66,122,58,83,58,49"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1IsRegistryType.html" title=" " alt="" coords="80,80,232,121"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="85,38,135,79,130,81,85,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="270,88,371,114"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,127,319,160,313,176,304,190,276,212,243,227,241,222,273,208,300,187,308,174,314,159,319,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="147,134,146,145,143,213,138,211,141,145,144,138"/>
+</map>

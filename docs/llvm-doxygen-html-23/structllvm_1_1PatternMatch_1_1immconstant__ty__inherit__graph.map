@@ -1,0 +1,7 @@
+<map id="llvm::PatternMatch::immconstant_ty" name="llvm::PatternMatch::immconstant_ty">
+<area shape="rect" id="Node000001" title=" " alt="" coords="108,5,240,46"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PatternMatch_1_1bind__immconstant__ty.html" title=" " alt="" coords="5,94,159,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,56,104,96,101,91,140,58"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PatternMatch_1_1match__immconstant__ty.html" title=" " alt="" coords="183,94,349,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,54,248,94,243,93,205,59"/>
+</map>

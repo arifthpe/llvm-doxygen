@@ -1,0 +1,12 @@
+<map id="llvm::instrumentor::AllocaIO" name="llvm::instrumentor::AllocaIO">
+<area shape="rect" id="Node000001" title="The instrumentation opportunity for alloca instructions." alt="" coords="1017,13,1142,54"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title=" " alt="" coords="790,5,967,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="983,31,1019,33,1014,33,983,36"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1instrumentor_1_1BaseInstructionIO.html" title="The base class that implements basic logic for any instruction instrumentation opportunity that inher..." alt="" coords="241,14,375,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="391,26,399,25,583,18,766,21,793,25,787,25,766,26,583,23,399,30,391,31"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title="The common instrumentation opportunity class for instruction opportunities." alt="" coords="425,42,605,83"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="391,43,427,50,422,50,391,48"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1instrumentor_1_1InstrumentationOpportunity.html" title="Base class for instrumentation opportunities." alt="" coords="5,14,192,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="207,32,243,34,238,35,207,37"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="620,55,766,44,787,45,793,44,766,49,620,60"/>
+</map>

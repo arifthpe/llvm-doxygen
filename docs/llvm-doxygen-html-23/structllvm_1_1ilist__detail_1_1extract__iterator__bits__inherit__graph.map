@@ -1,0 +1,12 @@
+<map id="llvm::ilist_detail::extract_iterator_bits&lt; Options &gt;" name="llvm::ilist_detail::extract_iterator_bits&lt; Options &gt;">
+<area shape="rect" id="Node000001" title="Extract iterator bits option." alt="" coords="5,123,150,178"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ilist__detail_1_1extract__iterator__bits.html" title=" " alt="" coords="396,5,540,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,112,173,87,229,68,288,53,397,38,393,40,289,58,231,73,175,92,129,116"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ilist__detail_1_1extract__iterator__bits_3_01Option1_00_01Options_8_8_8_01_4.html" title=" " alt="" coords="606,64,762,120"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="164,126,173,124,258,114,375,106,608,94,604,97,375,111,259,120,174,129,166,130"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__detail_1_1extract__iterator__bits_3_01ilist__iterator__bits_3_01IteratorBits_01_4_00_01Options_8_8_8_01_4.html" title=" " alt="" coords="379,156,557,227"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="164,166,174,167,280,179,381,187,376,189,280,184,173,172,166,171"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ilist__detail_1_1extract__iterator__bits_3_4.html" title=" " alt="" coords="388,252,548,292"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="126,185,175,212,229,231,284,245,390,265,385,265,283,251,227,236,173,217,125,190"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="555,54,609,71,603,71,555,59"/>
+</map>

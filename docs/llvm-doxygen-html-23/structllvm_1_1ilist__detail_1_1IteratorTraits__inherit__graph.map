@@ -1,0 +1,7 @@
+<map id="llvm::ilist_detail::IteratorTraits&lt; OptionsT, IsConst &gt;" name="llvm::ilist_detail::IteratorTraits&lt; OptionsT, IsConst &gt;">
+<area shape="rect" id="Node000001" title="Find const&#45;correct node types." alt="" coords="5,45,176,101"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ilist__detail_1_1IteratorTraits_3_01OptionsT_00_01false_01_4.html" title=" " alt="" coords="343,5,513,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,59,344,42,340,45,192,64"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ilist__detail_1_1IteratorTraits_3_01OptionsT_00_01true_01_4.html" title=" " alt="" coords="343,85,513,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,84,200,86,345,103,340,106,199,91,191,90"/>
+</map>

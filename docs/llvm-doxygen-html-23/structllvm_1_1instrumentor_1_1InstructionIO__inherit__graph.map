@@ -1,0 +1,35 @@
+<map id="llvm::instrumentor::InstructionIO&lt; Opcodes &gt;" name="llvm::instrumentor::InstructionIO&lt; Opcodes &gt;">
+<area shape="rect" id="Node000001" title="The common instrumentation opportunity class for instruction opportunities." alt="" coords="425,369,605,410"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title=" " alt="" coords="1034,38,1212,93"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="516,352,523,294,541,222,556,186,575,151,598,119,627,93,675,64,726,45,781,33,836,27,890,26,943,29,1037,43,1031,45,942,34,890,31,836,32,781,38,728,50,677,69,631,97,602,123,579,154,561,188,547,224,528,295,520,355"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title=" " alt="" coords="939,134,1307,280"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="541,355,579,319,603,302,628,288,669,273,705,265,769,262,834,265,871,263,915,257,941,254,936,256,915,263,872,268,834,270,769,267,706,270,671,278,630,293,606,306,583,323,545,359"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title=" " alt="" coords="1030,304,1216,360"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="619,364,629,363,736,350,844,341,1032,333,1027,335,844,347,736,355,629,368,621,369"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title=" " alt="" coords="1034,384,1212,440"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="621,391,1036,407,1032,410,621,396"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title=" " alt="" coords="978,464,1269,640"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="523,423,536,470,557,523,587,574,607,595,630,613,671,633,713,645,758,651,803,651,848,647,893,639,975,618,980,616,894,644,849,652,803,657,757,656,712,650,669,638,628,618,604,599,583,577,552,525,531,472,521,428"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title=" " alt="" coords="1034,664,1212,720"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="519,423,528,484,546,555,560,591,579,625,602,656,630,681,660,694,702,704,809,711,927,707,1037,702,1031,702,927,713,809,716,701,709,659,700,628,685,598,659,574,628,555,593,541,557,523,485,517,427"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title=" " alt="" coords="1034,744,1212,800"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="517,423,522,494,538,581,552,626,572,669,598,707,631,740,677,768,727,788,780,801,835,807,889,808,942,805,1031,794,1037,794,942,810,889,813,835,812,779,806,725,793,674,773,627,744,594,711,567,671,547,628,533,583,517,495,514,428"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1instrumentor_1_1BaseInstructionIO.html" title="The base class that implements basic logic for any instruction instrumentation opportunity that inher..." alt="" coords="241,369,375,410"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,387,427,388,422,390,392,392"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1instrumentor_1_1InstrumentationOpportunity.html" title="Base class for instrumentation opportunities." alt="" coords="5,369,192,410"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,387,243,388,238,391,208,392"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1instrumentor_1_1AllocaIO.html" title="The instrumentation opportunity for alloca instructions." alt="" coords="1357,45,1482,86"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1227,63,1359,65,1354,66,1228,68"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1instrumentor_1_1CastIO.html" title="The instrumentation opportunity for type cast instructions." alt="" coords="1357,186,1482,227"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1322,204,1359,206,1354,207,1323,209"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1instrumentor_1_1CompareIO.html" title=" " alt="" coords="1357,312,1482,352"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1232,329,1359,331,1354,333,1233,335"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1instrumentor_1_1LoadIO.html" title="The instrumentation opportunity for load instructions." alt="" coords="1357,392,1482,432"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1227,409,1359,412,1354,412,1227,415"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1instrumentor_1_1NumericIO.html" title="Instrumentation opportunity for numeric operations." alt="" coords="1357,532,1482,572"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1284,549,1359,552,1353,552,1284,555"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1instrumentor_1_1StoreIO.html" title="The instrumentation opportunity for store instructions." alt="" coords="1357,672,1482,712"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1227,689,1359,692,1354,692,1227,695"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1instrumentor_1_1UnreachableIO.html" title=" " alt="" coords="1357,752,1482,792"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="1227,769,1359,772,1354,772,1227,775"/>
+</map>

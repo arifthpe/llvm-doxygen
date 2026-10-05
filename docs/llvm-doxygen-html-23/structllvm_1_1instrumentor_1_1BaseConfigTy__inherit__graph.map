@@ -1,0 +1,7 @@
+<map id="llvm::instrumentor::BaseConfigTy&lt; EnumTy &gt;" name="llvm::instrumentor::BaseConfigTy&lt; EnumTy &gt;">
+<area shape="rect" id="Node000001" title="Boolean option bitset with a compile&#45;time number of bits to store as many options as the enumeration ..." alt="" coords="13,5,197,46"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1instrumentor_1_1BaseConfigTy.html" title=" " alt="" coords="5,117,205,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,59,108,117,102,116,104,64"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1instrumentor_1_1FunctionIO_1_1ConfigTy.html" title=" " alt="" coords="28,207,182,248"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,171,107,208,103,206,103,175"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="llvm::instrumentor::InstrumentationOpportunity" name="llvm::instrumentor::InstrumentationOpportunity">
+<area shape="rect" id="Node000001" title="Base class for instrumentation opportunities." alt="" coords="5,812,192,853"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1instrumentor_1_1BaseInstructionIO.html" title="The base class that implements basic logic for any instruction instrumentation opportunity that inher..." alt="" coords="241,682,375,722"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,801,240,733,266,721,261,724,242,738,142,805"/>
+<area shape="rect" id="Node000018" href="$structllvm_1_1instrumentor_1_1BasePointerIO.html" title=" " alt="" coords="246,747,371,788"/>
+<area shape="poly" id="edge24_Node000001_Node000018" title=" " alt="" coords="179,805,247,785,243,788,182,810"/>
+<area shape="rect" id="Node000019" href="$structllvm_1_1instrumentor_1_1FunctionIO.html" title="The instrumentation opportunity for functions." alt="" coords="246,812,371,853"/>
+<area shape="poly" id="edge25_Node000001_Node000019" title=" " alt="" coords="206,830,248,832,243,834,207,835"/>
+<area shape="rect" id="Node000020" href="$structllvm_1_1instrumentor_1_1GlobalVarIO.html" title=" " alt="" coords="246,878,371,918"/>
+<area shape="poly" id="edge26_Node000001_Node000020" title=" " alt="" coords="180,855,247,878,242,879,180,861"/>
+<area shape="rect" id="Node000021" href="$structllvm_1_1instrumentor_1_1ModuleIO.html" title=" " alt="" coords="246,943,371,984"/>
+<area shape="poly" id="edge27_Node000001_Node000021" title=" " alt="" coords="141,860,242,928,266,943,261,942,240,932,139,865"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title=" " alt="" coords="1034,299,1212,355"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="315,666,347,563,373,495,407,423,449,350,499,281,559,220,592,193,628,170,654,159,690,151,774,143,857,149,892,158,917,170,927,182,932,195,931,220,930,246,933,258,941,269,961,287,984,300,1037,319,1032,319,982,305,958,291,937,273,928,260,925,246,926,220,927,196,923,185,913,175,890,163,857,154,774,149,690,157,656,165,630,175,595,197,562,224,503,284,453,353,412,425,378,497,352,565,320,668"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title=" " alt="" coords="939,113,1307,259"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="310,665,330,536,351,450,381,359,422,268,447,224,476,184,508,146,544,113,584,85,628,62,706,34,740,26,773,24,805,26,839,33,916,62,925,69,930,76,941,91,970,112,964,113,937,94,926,79,921,72,914,67,837,38,804,31,773,29,741,32,708,39,630,67,586,89,547,117,512,150,480,187,452,227,427,270,386,361,356,452,335,537,315,667"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title=" " alt="" coords="1030,25,1216,80"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="311,665,325,552,349,400,381,253,401,193,422,151,450,118,481,90,515,66,552,47,591,32,632,20,718,6,804,3,888,7,964,16,1032,30,1027,31,964,22,887,12,804,8,718,12,634,25,593,37,554,52,518,71,484,94,454,122,427,154,406,195,386,254,354,401,330,553,316,667"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title=" " alt="" coords="1034,922,1212,978"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="373,730,377,734,391,754,397,774,399,812,403,847,411,864,426,880,461,904,497,925,575,956,658,976,742,986,825,988,903,984,1031,969,1037,969,903,989,825,993,741,991,657,981,573,961,495,930,458,909,423,884,407,867,398,849,394,812,392,775,386,756,373,737,372,735"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title=" " alt="" coords="978,553,1269,728"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="391,709,496,718,627,723,771,721,844,715,915,706,980,694,974,695,915,711,844,720,771,726,627,728,496,723,391,714"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title=" " alt="" coords="1034,837,1212,892"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="370,728,377,733,393,750,402,765,411,780,426,795,478,830,521,852,568,866,629,879,737,893,847,894,948,887,1031,880,1037,880,949,893,847,899,737,898,629,885,567,871,519,857,475,834,423,799,407,783,397,768,388,753,374,737,370,734"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title=" " alt="" coords="1034,754,1212,810"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="378,725,495,763,562,780,629,793,709,801,771,801,915,793,1037,788,1032,789,915,798,772,806,709,806,629,798,561,785,493,768,378,731"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1instrumentor_1_1InstructionIO.html" title="The common instrumentation opportunity class for instruction opportunities." alt="" coords="425,626,605,666"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="389,677,440,666,435,668,391,682"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1instrumentor_1_1AllocaIO.html" title="The instrumentation opportunity for alloca instructions." alt="" coords="1357,307,1482,348"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1227,325,1359,327,1354,328,1228,330"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1instrumentor_1_1CastIO.html" title="The instrumentation opportunity for type cast instructions." alt="" coords="1357,166,1482,206"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1322,183,1359,185,1354,187,1324,189"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1instrumentor_1_1CompareIO.html" title=" " alt="" coords="1357,32,1482,73"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1231,50,1359,52,1354,54,1233,55"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1instrumentor_1_1LoadIO.html" title="The instrumentation opportunity for load instructions." alt="" coords="1357,930,1482,970"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1227,947,1359,950,1354,950,1227,953"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1instrumentor_1_1NumericIO.html" title="Instrumentation opportunity for numeric operations." alt="" coords="1357,620,1482,661"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1284,638,1359,640,1353,641,1285,643"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1instrumentor_1_1StoreIO.html" title="The instrumentation opportunity for store instructions." alt="" coords="1357,844,1482,885"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1227,862,1359,864,1354,865,1227,867"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1instrumentor_1_1UnreachableIO.html" title=" " alt="" coords="1357,762,1482,802"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="1227,779,1359,782,1354,782,1227,785"/>
+<area shape="poly" id="edge17_Node000017_Node000003" title=" " alt="" coords="522,609,535,567,556,518,586,469,605,447,627,429,665,407,700,395,732,391,765,392,832,397,871,396,914,389,1044,355,1039,357,916,394,871,401,832,402,764,397,733,396,701,400,667,412,631,433,609,451,591,472,561,520,540,569,526,612"/>
+<area shape="poly" id="edge18_Node000017_Node000005" title=" " alt="" coords="518,609,528,555,548,489,580,423,601,393,627,367,664,342,698,328,732,323,765,322,834,323,872,317,914,302,938,285,987,258,983,261,940,289,916,307,873,322,834,328,765,328,732,328,700,333,666,346,631,371,605,396,584,426,552,491,533,557,523,611"/>
+<area shape="poly" id="edge19_Node000017_Node000007" title=" " alt="" coords="517,609,528,501,549,360,564,289,582,225,603,173,627,137,656,118,697,102,746,89,803,78,921,63,1032,56,1027,58,922,68,803,83,748,94,698,107,658,123,631,141,607,175,587,227,569,290,554,361,533,502,522,611"/>
+<area shape="poly" id="edge20_Node000017_Node000009" title=" " alt="" coords="526,679,541,721,562,769,592,815,610,836,631,853,661,870,702,884,809,909,928,927,1037,942,1031,942,927,933,808,914,701,890,658,875,627,858,606,840,588,818,558,771,536,723,524,684"/>
+<area shape="poly" id="edge21_Node000017_Node000011" title=" " alt="" coords="621,642,979,641,974,643,621,648"/>
+<area shape="poly" id="edge22_Node000017_Node000013" title=" " alt="" coords="540,676,580,722,604,743,630,761,689,779,796,803,1037,849,1031,850,795,808,688,785,628,766,600,748,576,726,538,682"/>
+<area shape="poly" id="edge23_Node000017_Node000015" title=" " alt="" coords="617,668,630,670,1036,762,1032,764,628,676,618,673"/>
+</map>

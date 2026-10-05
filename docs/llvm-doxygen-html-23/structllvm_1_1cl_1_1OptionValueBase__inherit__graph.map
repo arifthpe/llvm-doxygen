@@ -1,0 +1,22 @@
+<map id="llvm::cl::OptionValueBase&lt; DataType, isClass &gt;" name="llvm::cl::OptionValueBase&lt; DataType, isClass &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,171,412,211"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1cl_1_1OptionValue_3_01cl_1_1boolOrDefault_01_4.html" title=" " alt="" coords="1330,5,1474,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="352,157,388,121,411,105,435,91,541,50,633,26,716,14,796,10,964,17,1062,20,1176,18,1241,16,1306,18,1333,21,1327,22,1306,23,1241,21,1176,23,1062,25,964,23,796,16,717,19,634,31,542,55,437,96,414,109,392,125,355,161"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1cl_1_1OptionValue_3_01std_1_1string_01_4.html" title=" " alt="" coords="1331,89,1473,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="428,193,634,201,887,204,1014,202,1131,196,1231,186,1305,170,1344,152,1375,132,1380,130,1347,156,1307,175,1232,191,1132,201,1014,207,887,210,633,206,428,199"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1cl_1_1OptionValueBase.html" title=" " alt="" coords="620,94,792,150"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="427,170,622,136,617,138,428,175"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1cl_1_1OptionValueBase.html" title=" " alt="" coords="816,223,987,279"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="368,218,401,237,437,250,486,261,537,268,639,273,734,270,813,265,818,264,735,275,639,279,536,274,485,266,436,256,399,241,367,223"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1cl_1_1OptionValueBase_3_01DataType_00_01false_01_4.html" title=" " alt="" coords="620,292,792,333"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="349,222,387,268,411,289,437,305,482,319,529,326,576,327,617,327,623,327,576,333,529,332,481,325,435,310,407,293,383,272,347,227"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1cl_1_1GenericOptionValue.html" title=" " alt="" coords="5,178,192,204"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,188,243,190,238,192,208,194"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1cl_1_1OptionValue.html" title=" " alt="" coords="1011,89,1152,130"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="807,116,1013,111,1008,112,807,121"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="1165,82,1176,79,1327,43,1332,42,1177,84,1166,87"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="1167,107,1334,109,1328,110,1168,112"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1cl_1_1OptionValue.html" title=" " alt="" coords="1331,193,1473,234"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1162,133,1340,193,1334,193,1161,138"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="1002,241,1333,219,1328,219,1003,246"/>
+</map>

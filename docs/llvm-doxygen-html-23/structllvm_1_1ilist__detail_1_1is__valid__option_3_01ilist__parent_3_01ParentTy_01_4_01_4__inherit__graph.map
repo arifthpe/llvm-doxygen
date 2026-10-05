@@ -1,0 +1,10 @@
+<map id="llvm::ilist_detail::is_valid_option&lt; ilist_parent&lt; ParentTy &gt; &gt;" name="llvm::ilist_detail::is_valid_option&lt; ilist_parent&lt; ParentTy &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="80,192,232,248"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,113,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,44,61,82,71,120,95,158,126,191,120,192,91,162,66,122,56,83,56,49"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__detail_1_1is__valid__option.html" title="Check whether an option is valid." alt="" coords="81,80,258,121"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="88,38,145,79,140,81,88,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="296,88,398,114"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="347,127,342,151,330,170,309,187,285,200,234,215,232,210,283,195,306,183,326,166,337,149,343,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,134,160,145,157,193,153,190,155,145,158,138"/>
+</map>

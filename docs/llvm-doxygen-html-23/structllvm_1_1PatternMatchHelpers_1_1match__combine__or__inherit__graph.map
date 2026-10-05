@@ -1,0 +1,8 @@
+<map id="llvm::PatternMatchHelpers::match_combine_or&lt; Tys &gt;" name="llvm::PatternMatchHelpers::match_combine_or&lt; Tys &gt;">
+<area shape="rect" id="Node000001" title="Matching or combinator leaf case." alt="" coords="5,52,190,93"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PatternMatchHelpers_1_1match__combine__or.html" title=" " alt="" coords="303,5,499,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,53,305,40,300,41,206,58"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PatternMatchHelpers_1_1match__combine__or_3_01Ty_00_01Tys_8_8_8_01_4.html" title="Matching or combinator." alt="" coords="548,50,725,106"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="205,75,303,78,499,78,551,80,545,80,499,83,303,83,205,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="511,47,551,58,545,58,510,53"/>
+</map>
