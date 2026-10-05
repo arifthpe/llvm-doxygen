@@ -1,0 +1,5 @@
+<map id="llvm::orc::shared::SPSSerializationTraits&lt; SPSExpected&lt; SPSTagT &gt;, detail::SPSSerializableError &gt;" name="llvm::orc::shared::SPSSerializationTraits&lt; SPSExpected&lt; SPSTagT &gt;, detail::SPSSerializableError &gt;">
+<area shape="rect" id="Node000001" title="Serialize to a SPSExpected&lt;SPSTagT&gt; from a detail::SPSSerializableError." alt="" coords="5,152,220,223"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1shared_1_1SPSSerializationTraits.html" title="Specialize to describe how to serialize/deserialize to/from the given concrete type." alt="" coords="22,5,203,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,75,115,153,110,151,111,79"/>
+</map>

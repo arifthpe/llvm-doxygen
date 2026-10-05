@@ -1,0 +1,11 @@
+<map id="llvm::pdb::GSIHashIterator" name="llvm::pdb::GSIHashIterator">
+<area shape="rect" id="Node000001" title="Iterator over hash records producing symbol record offsets." alt="" coords="1220,211,1397,237"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__adaptor__base.html" title=" " alt="" coords="957,174,1171,274"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1186,221,1222,224,1217,224,1186,227"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="276,5,701,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="717,117,826,125,881,134,934,147,991,173,986,173,932,152,880,139,825,130,717,122"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="366,281,611,351"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="626,297,774,277,933,251,954,249,960,249,934,256,775,282,627,302"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,281,227,351"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="242,313,368,316,363,316,242,319"/>
+</map>

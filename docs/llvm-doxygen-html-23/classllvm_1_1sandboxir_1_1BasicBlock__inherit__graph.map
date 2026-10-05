@@ -1,0 +1,5 @@
+<map id="llvm::sandboxir::BasicBlock" name="llvm::sandboxir::BasicBlock">
+<area shape="rect" id="Node000001" title="Contains a list of sandboxir::Instruction&#39;s." alt="" coords="5,79,189,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1Value.html" title="A SandboxIR Value has users. This is the base class." alt="" coords="22,5,172,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,45,99,80,95,77,95,48"/>
+</map>

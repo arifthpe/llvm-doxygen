@@ -1,0 +1,15 @@
+<map id="llvm::sandboxir::FunctionPass" name="llvm::sandboxir::FunctionPass">
+<area shape="rect" id="Node000001" title="A pass that runs on a sandbox::Function." alt="" coords="201,112,398,137"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1PassManager.html" title=" " alt="" coords="446,5,659,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="341,102,445,57,484,46,479,48,447,61,343,107"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1RegionsFromBBs.html" title=" " alt="" coords="470,71,635,111"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="413,107,472,101,467,102,414,112"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1RegionsFromMetadata.html" title=" " alt="" coords="470,136,635,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="414,136,472,146,467,146,414,141"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1sandboxir_1_1SeedCollection.html" title="This pass collects the instructions that can become vectorization &quot;seeds&quot;, like stores to consecutive..." alt="" coords="450,201,655,226"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="341,142,391,164,447,186,490,200,485,200,445,191,389,169,340,147"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1Pass.html" title="The base class of a Sandbox IR Pass." alt="" coords="5,112,153,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,122,203,123,198,125,169,127"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1FunctionPassManager.html" title=" " alt="" coords="707,5,875,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="675,23,709,25,704,26,675,28"/>
+</map>

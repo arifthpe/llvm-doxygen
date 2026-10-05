@@ -1,0 +1,7 @@
+<map id="llvm::sandboxir::LegalityResultWithReason" name="llvm::sandboxir::LegalityResultWithReason">
+<area shape="rect" id="Node000001" title="Base class for results with reason." alt="" coords="5,94,168,135"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1Pack.html" title=" " alt="" coords="13,183,160,208"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="88,149,89,183,84,181,85,152"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1LegalityResult.html" title="The legality outcome is represented by a class rather than an enum class because in some cases the le..." alt="" coords="5,5,168,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,59,89,94,84,93,85,64"/>
+</map>

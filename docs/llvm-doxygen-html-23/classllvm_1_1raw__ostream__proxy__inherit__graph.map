@@ -1,0 +1,7 @@
+<map id="llvm::raw_ostream_proxy" name="llvm::raw_ostream_proxy">
+<area shape="rect" id="Node000001" title="Non&#45;owning proxy for a raw_ostream." alt="" coords="12,168,179,193"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1raw__ostream__proxy__adaptor.html" title="Adaptor to create a stream class that proxies another raw_ostream." alt="" coords="5,79,186,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,134,98,168,93,166,94,137"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1raw__ostream.html" title="This class implements an extremely fast bulk output stream that can only output to a stream." alt="" coords="31,5,160,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,44,98,79,93,78,94,49"/>
+</map>

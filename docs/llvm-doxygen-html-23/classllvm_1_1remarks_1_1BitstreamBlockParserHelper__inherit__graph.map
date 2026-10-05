@@ -1,0 +1,13 @@
+<map id="llvm::remarks::BitstreamBlockParserHelper&lt; Derived &gt;" name="llvm::remarks::BitstreamBlockParserHelper&lt; Derived &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="219,53,418,94"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1remarks_1_1BitstreamBlockParserHelper.html" title=" " alt="" coords="676,5,875,61"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="433,61,678,41,673,42,434,66"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1remarks_1_1BitstreamBlockParserHelper.html" title=" " alt="" coords="676,85,875,141"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="434,86,443,87,679,107,673,108,442,92,434,91"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1remarks_1_1BitstreamBlockParserHelperBase.html" title=" " alt="" coords="5,53,170,94"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,71,221,73,216,74,186,76"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1remarks_1_1BitstreamMetaParserHelper.html" title="Helper to parse a META_BLOCK for a bitstream remark container." alt="" coords="924,13,1088,54"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="890,31,926,33,921,33,890,36"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1remarks_1_1BitstreamRemarkParserHelper.html" title="Helper to parse a REMARK_BLOCK for a bitstream remark container." alt="" coords="924,93,1088,134"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="890,111,926,113,921,113,890,116"/>
+</map>

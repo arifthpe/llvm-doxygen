@@ -1,0 +1,10 @@
+<map id="llvm::remarks::BitstreamMetaParserHelper" name="llvm::remarks::BitstreamMetaParserHelper">
+<area shape="rect" id="Node000001" title="Helper to parse a META_BLOCK for a bitstream remark container." alt="" coords="907,13,1071,54"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1remarks_1_1BitstreamBlockParserHelper.html" title=" " alt="" coords="659,5,858,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="873,31,909,33,904,33,873,36"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1remarks_1_1BitstreamBlockParserHelperBase.html" title=" " alt="" coords="5,17,170,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="185,30,194,29,414,22,635,24,661,27,656,27,635,29,415,27,194,34,186,35"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1remarks_1_1BitstreamBlockParserHelper.html" title=" " alt="" coords="219,45,418,86"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="185,46,221,53,216,53,185,52"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="434,59,635,47,656,47,661,47,636,52,434,64"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::pdb::BaseClassLayout" name="llvm::pdb::BaseClassLayout">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,153,191,178"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1pdb_1_1UDTLayoutBase.html" title=" " alt="" coords="8,79,188,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,118,100,153,96,151,96,122"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1pdb_1_1LayoutItemBase.html" title=" " alt="" coords="9,5,187,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,44,101,79,95,78,97,49"/>
+</map>

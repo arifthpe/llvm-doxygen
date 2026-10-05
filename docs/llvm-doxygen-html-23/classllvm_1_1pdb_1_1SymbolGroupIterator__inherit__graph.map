@@ -1,0 +1,7 @@
+<map id="llvm::pdb::SymbolGroupIterator" name="llvm::pdb::SymbolGroupIterator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="658,56,861,82"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="418,34,609,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="624,66,661,69,655,69,625,72"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,34,227,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,66,420,68,415,70,243,72"/>
+</map>

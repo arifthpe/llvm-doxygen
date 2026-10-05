@@ -1,0 +1,11 @@
+<map id="llvm::sandboxir::SwitchInst::CaseItImpl&lt; LLVMCaseItT, BlockT, ConstT &gt;" name="llvm::sandboxir::SwitchInst::CaseItImpl&lt; LLVMCaseItT, BlockT, ConstT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="804,90,992,146"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1SwitchInst_1_1CaseItImpl.html" title=" " alt="" coords="1223,33,1453,89"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1006,89,1015,87,1121,73,1225,67,1219,67,1122,79,1016,93,1007,94"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1SwitchInst_1_1CaseItImpl.html" title=" " alt="" coords="1229,140,1446,211"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="955,151,985,166,1016,177,1070,186,1125,191,1226,190,1231,190,1125,196,1069,192,1015,182,983,171,953,157"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="503,68,755,168"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="771,115,806,118,801,118,771,121"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,83,227,153"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,115,504,116,500,120,242,121"/>
+</map>

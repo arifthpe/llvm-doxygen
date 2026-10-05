@@ -1,0 +1,11 @@
+<map id="llvm::sampleprof::SampleProfileMap" name="llvm::sampleprof::SampleProfileMap">
+<area shape="rect" id="Node000001" title="This class provides operator overloads to the map container using MD5 as the key type,..." alt="" coords="969,63,1138,104"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sampleprof_1_1HashKeyMap.html" title=" " alt="" coords="683,56,920,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="935,81,971,83,966,83,936,86"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="215,5,404,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,45,660,63,686,68,680,69,659,69,420,50"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sampleprof_1_1HashKeyMap.html" title="This class is a wrapper to associative container MapT&lt;KeyT, ValueT&gt; using the hash value of the origi..." alt="" coords="220,100,399,155"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="415,126,533,123,659,112,680,111,686,111,660,117,533,128,415,131"/>
+<area shape="rect" id="Node000005" href="$classMapT.html" title=" " alt="" coords="5,100,166,155"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="181,125,222,127,217,128,182,130"/>
+</map>

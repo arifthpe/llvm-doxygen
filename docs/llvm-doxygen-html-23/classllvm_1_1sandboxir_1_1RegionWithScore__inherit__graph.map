@@ -1,0 +1,5 @@
+<map id="llvm::sandboxir::RegionWithScore" name="llvm::sandboxir::RegionWithScore">
+<area shape="rect" id="Node000001" title="A Region class that tracks its instructions score." alt="" coords="5,79,191,120"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1Region.html" title=" " alt="" coords="19,5,177,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,44,100,80,96,78,96,48"/>
+</map>

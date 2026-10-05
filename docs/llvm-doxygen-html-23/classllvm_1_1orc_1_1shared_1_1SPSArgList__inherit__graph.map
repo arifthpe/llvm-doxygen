@@ -1,0 +1,19 @@
+<map id="llvm::orc::shared::SPSArgList&lt; ArgTs &gt;" name="llvm::orc::shared::SPSArgList&lt; ArgTs &gt;">
+<area shape="rect" id="Node000001" title="A utility class for serializing to a blob from a variadic list." alt="" coords="5,273,151,314"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1orc_1_1shared_1_1SPSArgList.html" title=" " alt="" coords="435,24,604,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,257,91,215,108,166,135,118,153,96,173,78,203,60,235,46,304,30,373,26,437,30,432,33,373,31,305,35,237,51,205,65,176,83,156,100,139,121,113,168,97,216,87,258"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1orc_1_1shared_1_1SPSArgList.html" title=" " alt="" coords="427,89,612,130"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="88,258,101,227,119,194,143,162,173,137,218,121,283,112,428,107,424,110,283,117,219,126,176,141,147,166,123,197,106,229,93,259"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1orc_1_1shared_1_1SPSArgList.html" title=" " alt="" coords="408,154,631,210"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="114,262,142,243,174,227,232,209,292,196,409,183,405,186,293,201,233,214,176,232,145,247,118,265"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1orc_1_1shared_1_1SPSArgList.html" title=" " alt="" coords="426,233,612,274"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="164,274,174,272,306,260,428,255,423,258,306,265,175,278,167,279"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1orc_1_1shared_1_1SPSArgList.html" title=" " alt="" coords="414,298,624,369"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="122,320,149,332,175,342,236,352,298,355,358,354,416,350,411,352,358,359,298,361,235,357,174,347,147,337,123,325"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1orc_1_1shared_1_1SPSArgList.html" title=" " alt="" coords="412,393,626,448"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="97,325,131,369,152,389,176,404,233,425,294,435,355,438,414,437,409,438,355,443,294,440,232,430,173,409,149,393,127,372,97,330"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1orc_1_1shared_1_1SPSArgList_3_01SPSTagT_00_01SPSTagTs_8_8_8_01_4.html" title=" " alt="" coords="440,473,599,528"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="88,326,102,362,119,401,144,437,176,467,207,483,239,496,309,511,378,514,442,513,437,513,378,519,308,516,238,501,204,488,173,471,140,441,115,403,97,364,87,331"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1orc_1_1shared_1_1SPSArgList_3_4.html" title=" " alt="" coords="456,552,582,593"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="82,327,91,379,107,438,134,496,153,521,176,543,208,562,243,576,280,585,318,590,392,590,453,586,459,586,392,596,318,595,279,590,242,581,206,567,173,547,149,525,130,499,102,440,86,380,81,332"/>
+</map>

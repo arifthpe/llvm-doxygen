@@ -1,0 +1,15 @@
+<map id="llvm::sandboxir::LegalityResult" name="llvm::sandboxir::LegalityResult">
+<area shape="rect" id="Node000001" title="The legality outcome is represented by a class rather than an enum class because in some cases the le..." alt="" coords="5,136,168,177"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1DiamondReuse.html" title=" " alt="" coords="216,5,385,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,124,164,90,214,57,243,45,239,48,217,61,167,94,124,128"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1sandboxir_1_1DiamondReuseMultiInput.html" title=" " alt="" coords="216,71,385,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,129,233,110,229,114,171,133"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1sandboxir_1_1DiamondReuseWithShuffle.html" title=" " alt="" coords="216,136,385,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,154,218,155,213,157,184,159"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1sandboxir_1_1LegalityResultWithReason.html" title="Base class for results with reason." alt="" coords="219,201,382,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="170,179,234,200,229,201,170,184"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1sandboxir_1_1Widen.html" title=" " alt="" coords="223,266,378,292"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="122,185,166,219,217,251,247,266,242,265,214,256,163,224,121,190"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1sandboxir_1_1Pack.html" title=" " alt="" coords="433,209,580,234"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="397,219,435,221,430,222,397,224"/>
+</map>

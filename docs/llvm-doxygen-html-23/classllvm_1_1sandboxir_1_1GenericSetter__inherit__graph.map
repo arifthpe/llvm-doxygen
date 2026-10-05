@@ -1,0 +1,5 @@
+<map id="llvm::sandboxir::GenericSetter&lt; GetterFn, SetterFn &gt;" name="llvm::sandboxir::GenericSetter&lt; GetterFn, SetterFn &gt;">
+<area shape="rect" id="Node000001" title="This class can be used for tracking most instruction setters." alt="" coords="14,79,203,120"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1sandboxir_1_1IRChangeBase.html" title="The base class for IR Change classes." alt="" coords="5,5,212,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,44,111,80,106,78,107,48"/>
+</map>

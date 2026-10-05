@@ -1,0 +1,15 @@
+<map id="llvm::windows_manifest::WindowsManifestError" name="llvm::windows_manifest::WindowsManifestError">
+<area shape="rect" id="Node000001" title=" " alt="" coords="92,474,253,515"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="88,384,257,425"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,438,175,475,170,472,171,442"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ECError.html" title="This class wraps a std::error_code in a Error." alt="" coords="69,309,169,335"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,345,162,384,157,384,135,350"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ErrorInfo.html" title=" " alt="" coords="5,192,180,218"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,230,119,309,114,309,98,235"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes." alt="" coords="23,5,156,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="91,44,95,192,90,191,90,49"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types." alt="" coords="111,80,268,121"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="116,38,168,79,163,81,117,44"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="197,134,200,145,200,168,190,291,178,384,173,383,185,291,195,168,195,145,196,139"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="134,132,121,147,106,170,98,192,93,191,102,167,117,143,137,128"/>
+</map>

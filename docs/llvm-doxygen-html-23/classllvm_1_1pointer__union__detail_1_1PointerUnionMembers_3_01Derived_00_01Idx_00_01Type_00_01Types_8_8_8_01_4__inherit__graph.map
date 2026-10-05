@@ -1,0 +1,8 @@
+<map id="llvm::pointer_union_detail::PointerUnionMembers&lt; Derived, Idx, Type, Types... &gt;" name="llvm::pointer_union_detail::PointerUnionMembers&lt; Derived, Idx, Type, Types... &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="668,44,876,99"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title=" " alt="" coords="423,81,619,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="634,89,665,87,670,87,635,95"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title="CRTP base that generates non&#45;template constructors and assignment operators for each type in the unio..." alt="" coords="5,42,202,98"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="217,51,226,50,344,46,464,47,671,61,665,62,463,52,344,51,226,56,218,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="217,78,424,98,420,101,217,83"/>
+</map>

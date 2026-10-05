@@ -1,0 +1,15 @@
+<map id="lib/Transforms/Vectorize" name="lib/Transforms/Vectorize">
+<area shape="rect" id="node3" href="dir_36ce6eeeab9d555b4d39ad9af3c29eb3.html" title="SLPVectorizer" alt="" coords="38,137,143,162"/>
+<area shape="poly" id="edge1" href="dir_000375_000303.html" alt="" coords="79,86,88,122,83,121,77,91"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000375_000303.html" title="1" alt="" coords="89,109,96,124"/>
+<area shape="rect" id="node4" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="150,210,212,236"/>
+<area shape="poly" id="edge2" href="dir_000375_000160.html" alt="" coords="98,86,130,106,158,135,173,165,180,196,175,194,168,166,154,138,127,111,99,91"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000375_000160.html" title="529" alt="" coords="175,183,196,198"/>
+<area shape="rect" id="node2" href="dir_9dc6ecb3e45ba7b55128126fc59dbcb0.html" title="SandboxVectorizer" alt="" coords="138,63,270,89"/>
+<area shape="poly" id="edge3" href="dir_000297_000160.html" alt="" coords="207,87,209,132,203,184,197,199,193,195,197,183,204,131,204,91"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000297_000160.html" title="102" alt="" coords="194,190,215,205"/>
+<area shape="poly" id="edge4" href="dir_000303_000160.html" alt="" coords="107,160,157,200,152,201,105,165"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000303_000160.html" title="8" alt="" coords="154,185,161,200"/>
+<area shape="rect" id="clust2" href="dir_acb975f027bc8cf760392318543d920a.html" alt="" coords="27,52,280,173"/>
+<area shape="rect" id="clust1" href="dir_a72932e0778af28115095468f6286ff8.html" title="Transforms" alt="" coords="16,16,291,184"/>
+</map>
