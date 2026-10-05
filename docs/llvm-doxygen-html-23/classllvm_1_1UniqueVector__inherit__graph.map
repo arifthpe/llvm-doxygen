@@ -1,0 +1,9 @@
+<map id="llvm::UniqueVector&lt; T &gt;" name="llvm::UniqueVector&lt; T &gt;">
+<area shape="rect" id="Node000001" title="UniqueVector &#45; This class produces a sequential ID number (base 1) for each unique entry that is adde..." alt="" coords="5,78,170,104"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1UniqueVector.html" title=" " alt="" coords="398,5,534,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,71,193,60,300,42,400,32,395,33,301,48,194,66,150,76"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1UniqueVector.html" title=" " alt="" coords="385,71,546,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,88,387,89,383,93,185,94"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1UniqueVector.html" title=" " alt="" coords="366,145,566,186"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="125,109,159,125,194,137,281,154,368,164,363,164,280,159,193,142,157,129,125,114"/>
+</map>

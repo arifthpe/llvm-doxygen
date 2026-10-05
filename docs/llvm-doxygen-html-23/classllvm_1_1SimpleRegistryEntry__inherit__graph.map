@@ -1,0 +1,5 @@
+<map id="llvm::SimpleRegistryEntry&lt; T, CtorParamTypes &gt;" name="llvm::SimpleRegistryEntry&lt; T, CtorParamTypes &gt;">
+<area shape="rect" id="Node000001" title="A simple registry entry which provides only a name, description, and an CtorParamTypes&amp;&amp; variadic par..." alt="" coords="5,5,179,46"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SimpleRegistryEntry.html" title=" " alt="" coords="5,117,179,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,60,95,117,89,116,90,63"/>
+</map>

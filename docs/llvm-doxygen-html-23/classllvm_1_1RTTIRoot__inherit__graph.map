@@ -1,0 +1,33 @@
+<map id="llvm::RTTIRoot" name="llvm::RTTIRoot">
+<area shape="rect" id="Node000001" title="Base class for the extensible RTTI hierarchy." alt="" coords="5,144,117,169"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="168,5,350,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,130,117,92,163,57,191,45,187,48,166,61,121,96,85,133"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="173,71,345,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="115,136,197,110,193,114,118,140"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="189,136,328,177"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="132,154,191,155,187,158,133,159"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="174,201,344,242"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="117,172,197,199,193,202,117,177"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="165,267,353,307"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="84,179,121,216,166,251,192,266,186,266,163,256,117,220,83,184"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1cas_1_1NodeSchema.html" title="A base class for schemas built on top of CAS nodes." alt="" coords="402,13,564,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="365,23,405,25,400,27,366,28"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1orc_1_1ObjectLayer.html" title="Interface for Layers that accept object files." alt="" coords="408,78,558,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="360,88,410,90,405,92,361,94"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1orc_1_1LazyObjectLinkingLayer.html" title="LazyObjectLinkingLayer is an adapter for ObjectLinkingLayer that builds lazy reexports for all functi..." alt="" coords="616,71,803,111"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="573,88,619,90,613,92,574,94"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1orc_1_1Task.html" title="Represents an abstract task for ORC to run." alt="" coords="430,144,537,169"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="344,154,432,156,427,157,345,159"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1vfs_1_1FileSystem.html" title="The virtual file system interface." alt="" coords="410,209,556,234"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="359,219,413,221,407,222,359,224"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1RTTIExtends.html" title=" " alt="" coords="629,135,790,191"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="550,202,626,184,631,183,551,207"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1FileCollectorFileSystem.html" title=" " alt="" coords="613,216,806,241"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="571,222,616,225,610,226,571,227"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1vfs_1_1RedirectingFileSystem.html" title="A virtual file system parsed from a YAML file." alt="" coords="854,143,1020,183"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="805,160,856,163,851,163,806,166"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1vfs_1_1OutputFileImpl.html" title=" " alt="" coords="401,274,565,300"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="369,284,403,287,398,287,369,290"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1vfs_1_1HashingOutputFile.html" title="HashingOutputFile." alt="" coords="626,267,793,307"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="581,284,628,287,623,287,581,290"/>
+</map>

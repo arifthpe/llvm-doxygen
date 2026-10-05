@@ -1,0 +1,28 @@
+<map id="llvm::PassManager&lt; Loop, LoopAnalysisManager, LoopStandardAnalysisResults &amp;, LPMUpdater &amp; &gt;" name="llvm::PassManager&lt; Loop, LoopAnalysisManager, LoopStandardAnalysisResults &amp;, LPMUpdater &amp; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1830,225,2030,295"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1RequiredPassInfoMixin.html" title="A CRTP mix&#45;in for passes that should not be skipped." alt="" coords="1118,248,1306,288"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1321,264,1832,261,1826,261,1321,269"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="452,246,588,287"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="604,264,1120,267,1115,269,604,269"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1RequiredPassInfoMixin.html" title="A CRTP mix&#45;in for passes that should not be skipped." alt="" coords="896,193,1084,234"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="604,255,898,224,893,224,605,260"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1RequiredPassInfoMixin.html" title="A CRTP mix&#45;in for passes that should not be skipped." alt="" coords="896,309,1084,350"/>
+<area shape="poly" id="edge14_Node000012_Node000003" title=" " alt="" coords="604,277,671,287,898,318,893,318,671,292,604,282"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,214,151,255"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,238,453,259,451,264,166,244"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="452,178,588,219"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="166,225,453,202,451,207,167,230"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1RequiredPassInfoMixin.html" title=" " alt="" coords="1333,151,1587,222"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1602,206,1832,244,1826,244,1602,211"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="890,66,1090,152"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1106,105,1206,110,1310,125,1383,151,1378,151,1309,131,1205,115,1106,110"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="394,54,647,125"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="662,93,892,104,887,106,663,98"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,69,151,110"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="165,87,395,87,392,91,167,92"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="604,208,663,212,729,212,798,206,865,191,894,176,930,154,935,152,897,180,867,196,799,211,729,218,663,217,604,213"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="1100,215,1202,215,1309,209,1336,209,1330,210,1310,215,1202,220,1100,220"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1PassManager.html" title="Manages a sequence of passes over a particular unit of IR." alt="" coords="1367,307,1553,362"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="1569,351,1624,356,1684,357,1746,353,1805,340,1849,320,1886,297,1891,295,1851,325,1807,345,1746,358,1684,363,1624,362,1568,357"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="1100,328,1369,334,1364,334,1100,333"/>
+</map>

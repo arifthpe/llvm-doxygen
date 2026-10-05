@@ -1,0 +1,17 @@
+<map id="llvm::ValueHandleBase" name="llvm::ValueHandleBase">
+<area shape="rect" id="Node000001" title="This is the common base class of value handles." alt="" coords="5,140,162,166"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1CallbackVH.html" title="Value handle with callbacks on RAUW and destruction." alt="" coords="226,91,349,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,133,233,116,229,118,155,138"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1WeakTrackingVH.html" title="Value handle that is nullable, but tries to track the Value." alt="" coords="210,140,365,166"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="177,150,212,152,207,153,177,155"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1WeakVH.html" title="A nullable Value handle that is nullable." alt="" coords="235,189,340,215"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="155,167,237,189,232,190,154,173"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1IVStrideUse.html" title="IVStrideUse &#45; Keep track of one use of a strided induction variable." alt="" coords="446,5,570,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,81,412,41,453,31,448,33,414,46,327,86"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PreservedCFGCheckerInstrumentation_1_1BBGuard.html" title=" " alt="" coords="413,55,602,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="364,91,415,87,410,88,365,96"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1SCEVUnknown.html" title="This means that we are dealing with an entirely unknown SCEV value, and only represent it as its LLVM..." alt="" coords="435,120,580,146"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="364,111,437,123,432,123,364,116"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ValueMapCallbackVH.html" title=" " alt="" coords="418,170,598,210"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="353,119,366,125,390,140,414,156,442,170,437,169,412,161,388,145,364,130,352,125"/>
+</map>

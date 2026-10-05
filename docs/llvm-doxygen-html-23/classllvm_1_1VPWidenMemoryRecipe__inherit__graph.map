@@ -1,0 +1,13 @@
+<map id="llvm::VPWidenMemoryRecipe" name="llvm::VPWidenMemoryRecipe">
+<area shape="rect" id="Node000001" title="A common mixin class for widening memory operations." alt="" coords="193,80,389,106"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1VPWidenLoadEVLRecipe.html" title="A recipe for widening load operations with vector&#45;predication intrinsics, using the address to load f..." alt="" coords="438,5,641,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="340,72,436,40,480,31,474,32,438,45,342,77"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1VPWidenLoadRecipe.html" title="A recipe for widening load operations, using the address to load from and an optional mask." alt="" coords="451,55,628,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="404,79,453,76,448,77,405,84"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1VPWidenStoreEVLRecipe.html" title="A recipe for widening store operations with vector&#45;predication intrinsics, using the value to store,..." alt="" coords="437,104,642,130"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="404,101,439,107,434,107,405,106"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1VPWidenStoreRecipe.html" title="A recipe for widening store operations, using the stored value, the address to store to and an option..." alt="" coords="450,153,630,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="343,109,438,140,480,153,475,153,436,145,342,114"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1VPIRMetadata.html" title="Helper to manage IR metadata for recipes." alt="" coords="5,80,145,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,90,195,92,190,94,161,95"/>
+</map>

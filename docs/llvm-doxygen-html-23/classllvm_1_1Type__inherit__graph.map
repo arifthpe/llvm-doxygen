@@ -1,0 +1,45 @@
+<map id="llvm::Type" name="llvm::Type">
+<area shape="rect" id="Node000001" title="The instances of the Type class are immutable: once they are created, they are never changed." alt="" coords="5,203,87,228"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ArrayType.html" title="Class to represent array types." alt="" coords="157,5,270,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,187,62,153,79,114,102,74,133,40,158,27,155,31,136,44,106,77,84,116,67,155,57,188"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ByteType.html" title="Class to represent byte types." alt="" coords="159,55,268,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="57,188,87,137,108,112,133,89,160,77,157,81,136,94,112,115,92,141,62,190"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1FunctionType.html" title="Class to represent function types." alt="" coords="148,104,279,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="68,190,98,163,133,139,160,128,157,132,136,143,101,167,73,193"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1IntegerType.html" title="Class to represent integer types." alt="" coords="153,153,274,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="100,197,169,177,166,182,103,201"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1PointerType.html" title="Class to represent pointers." alt="" coords="152,203,274,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="101,213,154,214,150,217,104,218"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1StructType.html" title="Class to represent struct types." alt="" coords="155,252,272,278"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="100,229,169,250,165,253,102,234"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1TargetExtType.html" title="Class to represent target extensions types, which are generally unintrospectable from target&#45;independ..." alt="" coords="145,301,282,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="70,237,101,264,136,288,161,300,156,302,133,292,98,268,71,242"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1TypedPointerType.html" title="A few GPU targets, such as DXIL and SPIR&#45;V, have typed pointers." alt="" coords="135,351,292,376"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="59,240,92,290,112,316,136,337,156,349,151,351,133,342,108,319,87,294,60,245"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1VectorType.html" title="Base class of all SIMD vector types." alt="" coords="154,548,273,574"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="62,241,208,547,203,548,58,244"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1dxil_1_1AnyResourceExtType.html" title=" " alt="" coords="340,39,548,64"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="289,290,290,288,308,262,315,236,316,209,312,182,309,155,310,128,319,101,338,74,356,63,352,67,342,77,323,103,315,129,315,155,318,182,321,209,320,236,313,264,294,292,292,294"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1dxil_1_1CBufferExtType.html" title="The dx.CBuffer target extension type." alt="" coords="357,88,531,114"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="288,290,290,288,305,268,312,249,313,207,314,166,322,145,338,124,359,112,355,116,342,128,327,147,319,167,318,208,317,250,309,271,294,292,292,294"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1dxil_1_1FeedbackTextureExtType.html" title="The dx.FeedbackTexture target extension type." alt="" coords="354,138,535,178"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="286,291,290,288,301,276,308,265,313,240,320,214,327,201,338,188,358,177,354,181,342,192,331,204,325,216,319,241,312,266,305,279,294,292,290,295"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1dxil_1_1LayoutExtType.html" title="The dx.Layout target extension type." alt="" coords="360,203,528,228"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="283,292,290,288,305,276,314,263,323,250,339,237,366,227,361,231,341,242,327,253,318,266,309,279,294,292,286,297"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1dxil_1_1MSTextureExtType.html" title="The dx.MSTexture target extension type." alt="" coords="348,252,540,278"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="291,295,383,277,378,280,293,300"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1dxil_1_1PaddingExtType.html" title="The dx.Padding target extension type." alt="" coords="356,301,532,327"/>
+<area shape="poly" id="edge13_Node000008_Node000014" title=" " alt="" coords="296,312,358,313,353,315,298,317"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1dxil_1_1RawBufferExtType.html" title="The dx.RawBuffer target extension type." alt="" coords="348,351,540,376"/>
+<area shape="poly" id="edge14_Node000008_Node000015" title=" " alt="" coords="291,328,383,349,378,351,292,333"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1dxil_1_1SamplerExtType.html" title="The dx.Sampler target extension type." alt="" coords="356,400,533,426"/>
+<area shape="poly" id="edge15_Node000008_Node000016" title=" " alt="" coords="284,331,294,336,309,349,318,362,327,375,341,387,366,399,361,400,339,391,323,379,314,365,305,353,290,340,285,336"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1dxil_1_1TextureExtType.html" title="The dx.Texture target extension type." alt="" coords="358,449,530,475"/>
+<area shape="poly" id="edge16_Node000008_Node000017" title=" " alt="" coords="288,332,294,336,305,349,312,362,318,388,324,413,331,425,342,436,360,449,355,449,338,440,326,428,319,415,313,389,307,364,301,352,290,340,288,338"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1dxil_1_1TypedBufferExtType.html" title="The dx.TypedBuffer target extension type." alt="" coords="344,499,544,524"/>
+<area shape="poly" id="edge17_Node000008_Node000018" title=" " alt="" coords="289,333,294,336,309,355,316,375,318,413,320,451,328,468,342,486,358,498,353,498,338,489,323,471,315,452,313,414,311,376,304,358,290,340,290,339"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1FixedVectorType.html" title="Class to represent fixed width SIMD vectors." alt="" coords="368,548,520,574"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="289,558,371,560,365,561,289,563"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1ScalableVectorType.html" title="Class to represent scalable SIMD vectors." alt="" coords="360,597,529,623"/>
+<area shape="poly" id="edge21_Node000020_Node000022" title=" " alt="" coords="288,574,383,597,378,597,288,579"/>
+</map>

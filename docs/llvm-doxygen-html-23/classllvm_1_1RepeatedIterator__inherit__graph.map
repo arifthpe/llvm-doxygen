@@ -1,0 +1,7 @@
+<map id="llvm::RepeatedIterator&lt; T &gt;" name="llvm::RepeatedIterator&lt; T &gt;">
+<area shape="rect" id="Node000001" title="A random&#45;access iterator that always dereferences to the same value." alt="" coords="677,76,860,102"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="449,46,628,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="643,87,680,89,674,89,643,92"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,54,227,125"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,87,450,88,446,91,242,92"/>
+</map>

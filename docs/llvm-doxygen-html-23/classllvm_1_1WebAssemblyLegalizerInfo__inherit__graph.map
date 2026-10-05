@@ -1,0 +1,5 @@
+<map id="llvm::WebAssemblyLegalizerInfo" name="llvm::WebAssemblyLegalizerInfo">
+<area shape="rect" id="Node000001" title="This class provides the information for the WebAssembly target legalizer for GlobalISel." alt="" coords="5,79,217,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1LegalizerInfo.html" title=" " alt="" coords="47,5,175,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,45,113,80,109,77,109,48"/>
+</map>

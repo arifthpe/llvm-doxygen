@@ -1,0 +1,13 @@
+<map id="llvm::StackSafetyGlobalAnalysis" name="llvm::StackSafetyGlobalAnalysis">
+<area shape="rect" id="Node000001" title="This pass performs the global (interprocedural) stack safety analysis (new pass manager)." alt="" coords="1087,49,1299,74"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="833,41,1037,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1053,59,1089,62,1084,62,1053,64"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="390,8,594,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="609,34,835,54,830,54,609,40"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,8,151,49"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,26,390,26,388,31,166,31"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="414,73,570,114"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="585,88,809,74,830,75,835,74,809,79,586,93"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,73,151,114"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="166,91,413,91,413,96,166,96"/>
+</map>

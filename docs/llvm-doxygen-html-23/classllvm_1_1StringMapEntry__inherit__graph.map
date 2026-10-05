@@ -1,0 +1,23 @@
+<map id="llvm::StringMapEntry&lt; ValueTy &gt;" name="llvm::StringMapEntry&lt; ValueTy &gt;">
+<area shape="rect" id="Node000001" title="StringMapEntry &#45; This is used to represent one value that is inserted into a StringMap." alt="" coords="466,244,609,285"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1StringMapEntry.html" title=" " alt="" coords="854,15,1012,56"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="544,228,554,192,572,149,597,108,631,75,657,59,684,47,742,31,800,25,856,26,851,28,801,30,743,36,686,52,659,64,635,79,601,112,577,152,559,193,548,231"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1StringMapEntry.html" title=" " alt="" coords="862,80,1005,121"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="556,229,588,187,608,167,632,150,689,125,749,109,809,100,864,99,859,100,809,106,750,114,690,130,634,155,612,171,592,191,560,233"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1StringMapEntry.html" title=" " alt="" coords="862,146,1005,186"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="584,234,632,213,691,196,752,183,863,170,858,172,753,189,692,201,634,218,586,239"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1StringMapEntry.html" title=" " alt="" coords="846,211,1020,252"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="624,255,848,238,843,239,625,260"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1StringMapEntry.html" title=" " alt="" coords="817,276,1049,317"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="599,288,633,297,726,307,819,308,814,308,726,312,633,303,599,293"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1StringMapEntry.html" title=" " alt="" coords="862,342,1005,382"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="570,293,600,317,634,336,692,353,752,362,810,365,864,367,858,368,810,371,751,367,691,358,632,341,597,322,569,299"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1StringMapEntry.html" title=" " alt="" coords="862,407,1005,448"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="554,296,587,349,609,374,634,393,690,417,750,429,808,434,864,435,858,436,808,439,749,435,688,422,632,398,605,378,582,352,552,301"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1StringMapEntry.html" title=" " alt="" coords="862,472,1005,513"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="546,298,557,339,574,383,600,427,616,446,635,461,660,477,688,488,748,501,807,505,858,504,864,504,807,510,747,507,687,493,658,481,631,466,612,449,595,430,569,386,552,340,543,302"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1StringMapEntryStorage.html" title="StringMapEntryStorage &#45; Holds the value in a StringMapEntry." alt="" coords="228,244,416,285"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="431,262,468,264,463,265,433,267"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1StringMapEntryBase.html" title="StringMapEntryBase &#45; Shared base class of StringMapEntry instances." alt="" coords="5,252,179,277"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="193,262,230,263,225,266,195,267"/>
+</map>

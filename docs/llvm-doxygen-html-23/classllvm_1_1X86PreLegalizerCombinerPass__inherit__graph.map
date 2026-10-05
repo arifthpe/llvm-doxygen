@@ -1,0 +1,13 @@
+<map id="llvm::X86PreLegalizerCombinerPass" name="llvm::X86PreLegalizerCombinerPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1091,69,1325,95"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassInfoMixin.html" title=" " alt="" coords="815,62,1041,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1057,79,1093,82,1087,82,1057,85"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="370,28,596,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="612,53,791,66,817,71,812,71,791,71,612,59"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,28,151,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,46,371,46,368,51,166,51"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="415,94,551,134"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="567,115,674,116,791,109,842,103,848,103,791,115,674,122,567,121"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,94,151,134"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="166,111,415,111,414,117,166,117"/>
+</map>

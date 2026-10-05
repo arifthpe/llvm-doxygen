@@ -1,0 +1,7 @@
+<map id="llvm::ProfileSummaryBuilder" name="llvm::ProfileSummaryBuilder">
+<area shape="rect" id="Node000001" title=" " alt="" coords="121,5,308,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1InstrProfSummaryBuilder.html" title=" " alt="" coords="5,86,205,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,40,123,88,120,84,183,41"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SampleProfileSummaryBuilder.html" title=" " alt="" coords="228,79,419,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,38,299,79,294,79,242,43"/>
+</map>

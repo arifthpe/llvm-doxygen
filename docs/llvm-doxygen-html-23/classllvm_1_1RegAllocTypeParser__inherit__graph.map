@@ -1,0 +1,10 @@
+<map id="llvm::RegAllocTypeParser" name="llvm::RegAllocTypeParser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="20,267,192,293"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="20,177,192,218"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,231,109,268,104,265,104,235"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1cl_1_1generic__parser__base.html" title=" " alt="" coords="5,5,197,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,45,108,177,103,176,100,49"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="122,80,309,106"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="132,37,199,79,194,81,133,42"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="190,118,129,179,125,175,194,115"/>
+</map>

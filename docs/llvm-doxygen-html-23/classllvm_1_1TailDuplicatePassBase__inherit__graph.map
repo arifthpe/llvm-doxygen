@@ -1,0 +1,17 @@
+<map id="llvm::TailDuplicatePassBase&lt; DerivedT, PreRegAlloc &gt;" name="llvm::TailDuplicatePassBase&lt; DerivedT, PreRegAlloc &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="619,54,808,94"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1TailDuplicatePassBase.html" title=" " alt="" coords="1015,9,1203,64"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="823,61,1011,46,1017,45,823,66"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1TailDuplicatePassBase.html" title=" " alt="" coords="1015,91,1203,132"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="784,97,832,108,926,116,1017,118,1012,118,925,121,831,113,784,102"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1OptionalPassInfoMixin.html" title="A CRTP mix&#45;in for passes that can be skipped." alt="" coords="386,54,570,94"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="586,71,621,74,616,74,586,77"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes." alt="" coords="200,54,336,94"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,71,388,74,383,74,352,77"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,54,151,94"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,71,202,73,197,74,167,77"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1EarlyTailDuplicatePass.html" title=" " alt="" coords="1252,24,1441,49"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1218,34,1254,36,1249,37,1219,39"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1TailDuplicatePass.html" title=" " alt="" coords="1267,98,1426,124"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1218,109,1269,111,1264,111,1218,114"/>
+</map>

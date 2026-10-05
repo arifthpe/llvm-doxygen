@@ -1,0 +1,7 @@
+<map id="llvm::SPIRVNonSemanticDebugHandler" name="llvm::SPIRVNonSemanticDebugHandler">
+<area shape="rect" id="Node000001" title="AsmPrinter handler that emits NonSemantic.Shader.DebugInfo.100 (NSDI) instructions for the SPIR&#45;V bac..." alt="" coords="5,153,217,193"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DebugHandlerBase.html" title="Base class for debug information backends." alt="" coords="28,79,194,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,118,113,153,109,151,109,122"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AsmPrinterHandler.html" title="Collects and handles AsmPrinter objects required to build debug or EH information." alt="" coords="29,5,193,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,44,114,79,108,78,110,49"/>
+</map>

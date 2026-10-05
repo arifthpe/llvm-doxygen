@@ -1,0 +1,39 @@
+<map id="llvm::VPIRMetadata" name="llvm::VPIRMetadata">
+<area shape="rect" id="Node000001" title="Helper to manage IR metadata for recipes." alt="" coords="5,203,145,228"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1VPHistogramRecipe.html" title="A recipe representing a sequence of load &#45;&gt; update &#45;&gt; store as part of a histogram operation." alt="" coords="205,5,377,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,187,101,153,124,113,154,73,191,40,214,29,211,33,194,44,158,77,128,116,105,156,90,189"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1VPInstruction.html" title="This is a concrete Recipe that models a single VPlan&#45;level instruction." alt="" coords="225,55,357,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="91,188,133,138,160,111,191,89,226,76,223,80,194,94,164,115,137,141,96,191"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1VPInterleaveBase.html" title="A common base class for interleaved memory operations." alt="" coords="212,104,370,130"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="103,191,144,164,192,138,225,128,221,132,194,143,147,168,107,195"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1VPReplicateRecipe.html" title="VPReplicateRecipe replicates a given instruction producing multiple scalar copies of the original sca..." alt="" coords="207,153,374,179"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="148,196,233,178,229,182,151,201"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1VPWidenCallRecipe.html" title="A recipe for widening Call instructions using library calls." alt="" coords="205,203,377,228"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="159,213,206,214,202,217,161,218"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1VPWidenCastRecipe.html" title="VPWidenCastRecipe is a recipe to create vector cast instructions." alt="" coords="202,252,380,278"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="149,230,234,250,229,253,150,235"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1VPWidenIntrinsicRecipe.html" title="A recipe for widening vector intrinsics." alt="" coords="193,301,388,327"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="105,235,147,263,194,288,225,300,220,301,192,293,144,267,105,240"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1VPWidenMemoryRecipe.html" title="A common mixin class for widening memory operations." alt="" coords="193,351,389,376"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="94,238,137,290,164,316,194,337,218,350,213,350,191,342,160,320,133,293,93,244"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1VPWidenRecipe.html" title="VPWidenRecipe is a recipe for producing a widened instruction using the opcode and operands of the re..." alt="" coords="216,400,366,426"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="87,240,105,275,128,315,158,354,194,387,218,401,213,401,191,391,154,358,124,318,101,278,87,245"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1VPInstructionWithType.html" title="A specialization of VPInstruction augmenting it with a dedicated result type, to be used when the opc..." alt="" coords="446,5,633,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="371,49,473,30,469,33,373,54"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1VPPhi.html" title=" " alt="" coords="494,55,585,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="372,65,496,66,492,69,373,70"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1VPInterleaveEVLRecipe.html" title="A recipe for interleaved memory operations with vector&#45;predication intrinsics." alt="" coords="442,104,637,130"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="385,114,445,116,440,118,386,119"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1VPInterleaveRecipe.html" title="VPInterleaveRecipe is a recipe for transforming an interleave group of load or stores into one wide l..." alt="" coords="455,153,624,179"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="374,131,474,152,469,154,374,136"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1VPWidenMemIntrinsicRecipe.html" title="A recipe for widening vector memory intrinsics." alt="" coords="448,236,631,277"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="364,295,451,277,446,279,366,300"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1VPWidenLoadEVLRecipe.html" title="A recipe for widening load operations with vector&#45;predication intrinsics, using the address to load f..." alt="" coords="438,301,641,327"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="373,344,474,327,469,328,375,350"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1VPWidenLoadRecipe.html" title="A recipe for widening load operations, using the address to load from and an optional mask." alt="" coords="451,351,628,376"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="404,361,453,363,448,364,405,366"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1VPWidenStoreEVLRecipe.html" title="A recipe for widening store operations with vector&#45;predication intrinsics, using the value to store,..." alt="" coords="437,400,642,426"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="374,377,474,399,468,400,374,383"/>
+<area shape="rect" id="Node000018" href="$structllvm_1_1VPWidenStoreRecipe.html" title="A recipe for widening store operations, using the stored value, the address to store to and an option..." alt="" coords="450,449,630,475"/>
+<area shape="poly" id="edge17_Node000014_Node000018" title=" " alt="" coords="380,380,390,385,406,398,415,411,424,424,438,436,463,449,458,448,436,440,420,428,411,414,402,402,388,390,380,385"/>
+</map>
