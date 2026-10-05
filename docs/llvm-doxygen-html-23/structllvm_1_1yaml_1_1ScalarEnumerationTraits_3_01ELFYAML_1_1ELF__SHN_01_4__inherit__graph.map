@@ -1,0 +1,5 @@
+<map id="llvm::yaml::ScalarEnumerationTraits&lt; ELFYAML::ELF_SHN &gt;" name="llvm::yaml::ScalarEnumerationTraits&lt; ELFYAML::ELF_SHN &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,210,158"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits.html" title="This class should be specialized by any integral type that converts to/from a YAML scalar where there..." alt="" coords="8,5,207,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,60,110,117,105,116,105,63"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="llvm::pointee_iterator&lt; WrappedIteratorT, T &gt;" name="llvm::pointee_iterator&lt; WrappedIteratorT, T &gt;">
+<area shape="rect" id="Node000001" title="An iterator type that allows iterating over the pointees via some other iterator." alt="" coords="571,557,730,598"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1pointee__iterator.html" title=" " alt="" coords="992,52,1190,93"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="652,541,661,439,679,306,693,240,709,180,729,132,752,100,778,81,807,67,868,50,932,46,994,52,989,54,932,51,869,55,808,72,781,85,756,104,733,135,714,182,698,241,685,307,666,439,657,543"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1pointee__iterator.html" title=" " alt="" coords="1002,118,1180,174"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="653,541,665,454,685,343,714,240,732,201,752,174,787,163,849,155,1003,147,999,150,850,161,788,169,756,179,736,204,719,242,690,345,670,455,658,543"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1pointee__iterator.html" title=" " alt="" coords="1004,198,1177,254"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="649,541,653,478,667,400,681,359,699,320,722,285,752,254,771,244,796,236,860,226,934,221,1007,222,1002,224,934,226,861,231,797,241,773,249,756,259,726,288,703,323,686,361,673,401,658,479,654,543"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1pointee__iterator.html" title=" " alt="" coords="1006,278,1176,334"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="653,541,663,494,681,437,710,382,729,358,752,337,771,327,797,319,861,309,935,304,1008,304,1003,306,935,309,862,314,798,324,773,332,756,341,733,361,714,385,686,440,668,495,658,543"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1pointee__iterator.html" title=" " alt="" coords="996,358,1186,414"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="661,541,675,510,695,476,721,443,753,417,796,402,857,392,997,385,992,387,858,397,797,407,755,421,724,447,699,479,680,513,666,544"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1pointee__iterator.html" title=" " alt="" coords="1005,438,1176,494"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="684,546,716,523,753,505,817,485,883,473,947,466,1007,464,1002,466,948,471,884,478,818,490,755,510,719,528,688,550"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1pointee__iterator.html" title=" " alt="" coords="1003,518,1178,574"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="745,568,754,567,1005,551,1000,553,754,572,747,573"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1pointee__iterator.html" title=" " alt="" coords="1008,598,1174,654"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="708,602,755,616,820,626,887,630,1010,631,1005,633,887,636,820,631,753,621,709,607"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1pointee__iterator.html" title=" " alt="" coords="985,694,1196,765"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="665,610,681,640,701,670,725,699,755,721,811,742,870,752,929,753,987,750,982,752,929,758,869,757,809,747,753,725,722,703,696,674,677,642,664,615"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1pointee__iterator.html" title=" " alt="" coords="996,789,1186,860"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="655,611,665,663,682,722,695,751,711,779,731,803,755,823,773,831,796,836,857,841,927,839,998,836,993,837,927,844,857,846,795,842,771,836,753,828,728,807,707,782,690,753,677,724,660,664,653,616"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1pointee__iterator.html" title=" " alt="" coords="1004,884,1177,954"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="658,611,674,688,695,778,723,860,739,891,756,910,783,927,813,939,845,947,878,951,943,949,1006,942,1001,944,944,955,878,956,844,952,812,944,781,932,752,914,734,894,718,862,690,779,669,689,656,616"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1pointee__iterator.html" title=" " alt="" coords="999,978,1182,1034"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="656,611,668,707,687,824,701,882,716,933,735,974,756,1000,772,1009,796,1016,858,1021,929,1020,1001,1017,996,1017,929,1025,858,1026,795,1021,770,1014,752,1005,730,977,711,935,695,883,682,825,663,707,654,616"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1pointee__iterator.html" title=" " alt="" coords="1013,1058,1168,1114"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="655,611,665,720,682,859,695,928,712,990,732,1039,756,1071,773,1081,799,1088,865,1095,941,1095,1015,1093,1010,1094,941,1100,865,1100,798,1093,771,1086,752,1075,727,1042,707,991,690,929,677,860,659,720,652,616"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1pointee__iterator.html" title=" " alt="" coords="994,1142,1188,1213"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="654,611,660,739,675,906,688,990,706,1065,728,1126,741,1148,756,1165,781,1183,809,1196,839,1204,870,1209,933,1210,990,1204,996,1204,934,1215,870,1214,838,1210,807,1201,778,1187,752,1169,737,1151,723,1128,700,1067,683,991,670,907,655,739,651,616"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type." alt="" coords="276,542,521,613"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="536,575,573,577,568,579,538,580"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="5,542,227,613"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,576,278,576,274,579,244,580"/>
+</map>

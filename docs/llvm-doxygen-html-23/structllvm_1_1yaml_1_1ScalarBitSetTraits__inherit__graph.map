@@ -1,0 +1,33 @@
+<map id="llvm::yaml::ScalarBitSetTraits&lt; T, Enable &gt;" name="llvm::yaml::ScalarBitSetTraits&lt; T, Enable &gt;">
+<area shape="rect" id="Node000001" title="This class should be specialized by any integer type that is a union of bit values and the YAML repre..." alt="" coords="5,513,168,554"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01COFF_1_1Characteristics_01_4.html" title=" " alt="" coords="471,35,681,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,498,99,401,119,277,132,216,148,161,167,116,190,87,221,64,255,48,291,37,329,30,404,26,476,33,471,36,404,31,329,35,293,42,257,53,224,69,194,90,172,119,153,163,137,217,124,278,104,402,93,499"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01COFF_1_1DLLCharacteristics_01_4.html" title=" " alt="" coords="459,100,693,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="90,498,103,414,124,311,153,214,170,178,190,153,209,142,236,133,303,121,381,115,461,115,456,118,381,121,303,126,237,138,212,146,193,157,175,181,158,216,129,312,108,415,95,498"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01COFF_1_1SectionCharacteristics_01_4.html" title=" " alt="" coords="449,165,703,206"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="85,497,91,436,106,360,119,320,137,283,161,249,190,220,209,209,234,200,298,189,373,183,450,182,446,185,373,188,299,194,235,205,211,214,193,224,165,252,142,286,124,322,111,361,96,436,91,498"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01ELFYAML_1_1ELF__EF_01_4.html" title=" " alt="" coords="480,231,672,271"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="89,498,98,448,117,390,146,333,166,308,190,286,212,275,241,266,315,254,399,249,481,248,477,251,399,254,315,260,242,271,214,280,193,291,170,311,151,336,121,392,104,450,94,498"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01ELFYAML_1_1ELF__PF_01_4.html" title=" " alt="" coords="480,296,672,337"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="95,498,108,462,128,422,155,383,190,352,212,341,242,333,316,322,399,316,481,314,477,318,400,321,316,327,243,338,214,346,193,356,159,387,132,425,113,464,100,500"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01ELFYAML_1_1ELF__SHF_01_4.html" title=" " alt="" coords="475,361,677,402"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="104,499,140,451,163,428,191,410,242,395,314,385,476,380,472,383,315,391,243,400,193,415,167,432,144,454,109,501"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01ELFYAML_1_1MIPS__AFL__ASE_01_4.html" title=" " alt="" coords="493,426,658,482"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="136,504,191,483,248,473,327,465,495,456,491,459,327,470,249,479,192,488,140,508"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01ELFYAML_1_1MIPS__AFL__FLAGS1_01_4.html" title=" " alt="" coords="493,506,658,562"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="183,531,494,532,491,536,184,536"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01MachO_1_1ArchitectureSet_01_4.html" title=" " alt="" coords="467,585,685,626"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="173,556,192,560,335,581,468,596,464,599,334,587,191,565,175,561"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01TBDFlags_01_4.html" title=" " alt="" coords="495,651,657,691"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="115,563,152,594,193,620,270,646,350,662,427,669,497,673,492,675,427,674,349,667,268,651,191,625,148,598,116,568"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01WasmYAML_1_1LimitFlags_01_4.html" title=" " alt="" coords="467,716,684,757"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="99,566,115,600,135,636,161,670,193,697,225,714,259,727,330,743,401,749,469,749,464,752,401,754,329,748,257,732,223,719,190,702,157,674,130,639,111,602,99,571"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01WasmYAML_1_1SegmentFlags_01_4.html" title=" " alt="" coords="455,781,696,822"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="91,567,103,618,120,676,150,733,169,758,193,779,226,798,261,811,298,821,336,826,411,827,482,822,477,824,411,832,335,831,297,826,259,816,223,802,190,783,166,762,145,736,115,678,98,620,91,572"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01WasmYAML_1_1SymbolFlags_01_4.html" title=" " alt="" coords="459,847,692,887"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="87,567,93,634,107,714,121,755,139,794,163,828,193,857,212,867,237,874,304,881,382,881,461,878,456,880,382,886,304,886,236,879,210,872,190,862,159,832,134,796,116,757,102,715,88,635,87,572"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01XCOFF_1_1SectionTypeFlags_01_4.html" title=" " alt="" coords="458,912,694,953"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="92,567,108,653,129,757,157,852,175,888,193,911,212,921,237,929,303,938,381,940,460,940,455,942,381,946,303,943,236,934,209,926,190,915,170,891,152,854,123,758,103,654,92,572"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01support_1_1detail_1_1packed__endian__specific__intee228323e62d6b5a598e952cdfa137a2c.html" title=" " alt="" coords="465,1024,686,1140"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="89,567,99,685,116,837,129,913,146,981,168,1036,180,1056,193,1071,223,1091,255,1106,289,1115,325,1120,397,1120,462,1113,467,1113,397,1125,324,1126,288,1120,253,1111,220,1096,190,1075,176,1059,163,1038,141,983,124,914,110,838,94,685,89,572"/>
+</map>

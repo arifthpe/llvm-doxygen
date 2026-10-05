@@ -1,0 +1,5 @@
+<map id="llvm::yaml::ScalarEnumerationTraits&lt; MachO::RebaseOpcode &gt;" name="llvm::yaml::ScalarEnumerationTraits&lt; MachO::RebaseOpcode &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,224,158"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits.html" title="This class should be specialized by any integral type that converts to/from a YAML scalar where there..." alt="" coords="15,5,214,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,60,117,118,112,116,112,63"/>
+</map>

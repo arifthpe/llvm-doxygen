@@ -1,0 +1,5 @@
+<map id="llvm::yaml::MappingTraits&lt; MachOYAML::UniversalBinary &gt;" name="llvm::yaml::MappingTraits&lt; MachOYAML::UniversalBinary &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,102,227,143"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1MappingTraits.html" title="This class should be specialized by any type that needs to be converted to/from a YAML mapping." alt="" coords="14,5,218,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,45,119,103,113,101,114,48"/>
+</map>

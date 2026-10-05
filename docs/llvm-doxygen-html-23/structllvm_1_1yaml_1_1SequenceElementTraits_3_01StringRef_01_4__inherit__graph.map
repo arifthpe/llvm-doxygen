@@ -1,0 +1,5 @@
+<map id="llvm::yaml::SequenceElementTraits&lt; StringRef &gt;" name="llvm::yaml::SequenceElementTraits&lt; StringRef &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,201,158"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1SequenceElementTraits.html" title="This class should be specialized by any type for which vectors of that type need to be converted to/f..." alt="" coords="5,5,201,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,60,106,117,100,116,101,63"/>
+</map>

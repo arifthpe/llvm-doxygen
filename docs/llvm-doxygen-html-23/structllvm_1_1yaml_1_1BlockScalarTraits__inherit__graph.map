@@ -1,0 +1,9 @@
+<map id="llvm::yaml::BlockScalarTraits&lt; T &gt;" name="llvm::yaml::BlockScalarTraits&lt; T &gt;">
+<area shape="rect" id="Node000001" title="This class should be specialized by type that requires custom conversion to/from a YAML literal block..." alt="" coords="5,88,230,113"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1BlockScalarTraits_3_01BlockStringValue_01_4.html" title=" " alt="" coords="482,5,674,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,79,253,52,371,34,484,28,479,29,372,40,254,58,167,84"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1yaml_1_1BlockScalarTraits_3_01MinidumpYAML_1_1BlockStringRef_01_4.html" title=" " alt="" coords="463,80,694,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,98,464,99,460,102,246,103"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1yaml_1_1BlockScalarTraits_3_01StringBlockVal_01_4.html" title=" " alt="" coords="482,145,674,186"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,114,254,126,372,142,484,157,479,157,372,148,253,131,192,120"/>
+</map>

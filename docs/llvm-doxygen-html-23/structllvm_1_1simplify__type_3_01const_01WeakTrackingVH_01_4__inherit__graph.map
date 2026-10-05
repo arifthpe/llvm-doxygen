@@ -1,0 +1,5 @@
+<map id="llvm::simplify_type&lt; const WeakTrackingVH &gt;" name="llvm::simplify_type&lt; const WeakTrackingVH &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,189,158"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1simplify__type.html" title="Define a template that can be specialized by smart pointers to reflect the fact that they are automat..." alt="" coords="32,5,162,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,60,100,117,94,116,95,63"/>
+</map>

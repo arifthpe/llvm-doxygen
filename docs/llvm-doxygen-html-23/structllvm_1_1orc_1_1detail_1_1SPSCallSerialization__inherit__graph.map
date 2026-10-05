@@ -1,0 +1,15 @@
+<map id="llvm::orc::detail::SPSCallSerialization&lt; SPSSig &gt;" name="llvm::orc::detail::SPSCallSerialization&lt; SPSSig &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="673,24,816,80"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1orc_1_1SPSCallSerializer_3_01void_07SPSArgTs_8_8_8_08_4.html" title="SPS serialization for void calls." alt="" coords="1359,32,1542,73"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="830,32,839,31,978,12,1087,4,1196,6,1335,22,1376,31,1371,31,1335,27,1196,12,1087,9,979,18,840,36,831,38"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1orc_1_1SPSCallSerializer.html" title="SPS serialization for non&#45;void calls." alt="" coords="996,32,1179,73"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="831,50,998,52,993,52,832,55"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1orc_1_1detail_1_1SPSCallSerialization.html" title=" " alt="" coords="1015,96,1160,152"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="831,76,840,78,931,97,1017,114,1012,114,930,102,839,83,831,81"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1orc_1_1CallableTraitsHelper.html" title=" " alt="" coords="393,24,624,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="639,50,676,52,670,52,640,55"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1orc_1_1CallableTraitsHelper.html" title="CallableTraitsHelper takes an implementation class template Impl and some callable type C and passes ..." alt="" coords="5,32,165,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,50,394,50,391,54,180,55"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="1194,50,1361,52,1356,52,1194,55"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="1175,104,1356,71,1361,70,1176,110"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::object::coff_tls_directory&lt; IntTy &gt;" name="llvm::object::coff_tls_directory&lt; IntTy &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,53,158,94"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1object_1_1coff__tls__directory.html" title=" " alt="" coords="338,5,492,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,60,339,40,335,44,174,65"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1object_1_1coff__tls__directory.html" title=" " alt="" coords="338,85,492,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,84,182,86,339,104,335,107,181,91,174,90"/>
+</map>

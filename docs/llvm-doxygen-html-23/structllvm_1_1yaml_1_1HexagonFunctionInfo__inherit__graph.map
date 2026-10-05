@@ -1,0 +1,5 @@
+<map id="llvm::yaml::HexagonFunctionInfo" name="llvm::yaml::HexagonFunctionInfo">
+<area shape="rect" id="Node000001" title="Hexagon&#45;specific MachineFunction properties for YAML serialization." alt="" coords="5,79,219,105"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1MachineFunctionInfo.html" title="Targets should override this in a way that mirrors the implementation of llvm::MachineFunctionInfo." alt="" coords="7,5,217,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,45,114,80,110,77,110,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::object::XCOFFAuxiliaryHeader32" name="llvm::object::XCOFFAuxiliaryHeader32">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,207,220,248"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1object_1_1XCOFFAuxiliaryHeader.html" title=" " alt="" coords="5,117,244,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,171,127,208,122,206,123,175"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1object_1_1XCOFFAuxiliaryHeader.html" title=" " alt="" coords="29,5,220,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,59,127,117,122,116,123,64"/>
+</map>
