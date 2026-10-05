@@ -1,0 +1,9 @@
+<map id="llvm::InstCombinerImpl" name="llvm::InstCombinerImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="50,227,206,253"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1InstCombiner.html" title="The core instruction combiner logic." alt="" coords="5,145,137,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,181,123,227,117,227,87,186"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="160,137,379,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,186,151,229,149,224,219,186"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1InstVisitor.html" title="Base class for instruction visitors." alt="" coords="201,5,338,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="271,60,272,138,267,136,268,64"/>
+</map>

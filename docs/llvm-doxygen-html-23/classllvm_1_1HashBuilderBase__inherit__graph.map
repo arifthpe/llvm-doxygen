@@ -1,0 +1,11 @@
+<map id="llvm::HashBuilderBase&lt; HasherT &gt;" name="llvm::HashBuilderBase&lt; HasherT &gt;">
+<area shape="rect" id="Node000001" title="Declares the hasher member, and functions forwarding directly to the hasher." alt="" coords="5,91,160,132"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1HashBuilder.html" title=" " alt="" coords="577,32,742,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,82,220,50,323,20,380,9,438,4,497,4,554,13,601,32,595,32,553,18,496,10,439,9,381,14,325,25,222,55,141,87"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1HashBuilder.html" title=" " alt="" coords="586,143,733,198"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,133,210,141,302,159,395,169,474,171,553,169,588,171,583,171,553,174,474,176,394,174,301,164,208,146,174,139"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1HashBuilder.html" title="Interface to help hash various types through a hasher type." alt="" coords="209,91,370,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,109,211,111,206,112,175,114"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="385,98,579,77,574,78,386,103"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="358,135,395,144,494,159,588,169,583,169,493,165,394,150,358,140"/>
+</map>

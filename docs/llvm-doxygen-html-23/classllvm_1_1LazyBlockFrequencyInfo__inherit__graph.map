@@ -1,0 +1,5 @@
+<map id="llvm::LazyBlockFrequencyInfo&lt; FunctionT, BranchProbabilityInfoPassT, LoopInfoT, BlockFrequencyInfoT &gt;" name="llvm::LazyBlockFrequencyInfo&lt; FunctionT, BranchProbabilityInfoPassT, LoopInfoT, BlockFrequencyInfoT &gt;">
+<area shape="rect" id="Node000001" title="Wraps a BFI to allow lazy computation of the block frequencies." alt="" coords="5,41,293,97"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1LazyBlockFrequencyInfo.html" title=" " alt="" coords="611,26,820,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="309,66,612,67,608,71,309,72"/>
+</map>

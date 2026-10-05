@@ -1,0 +1,57 @@
+<map id="llvm::Operator" name="llvm::Operator">
+<area shape="rect" id="Node000001" title="This is a utility class that provides an abstraction for the common functionality between Instruction..." alt="" coords="268,300,371,326"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="446,5,602,61"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="323,284,332,239,350,182,378,123,396,96,418,71,447,53,444,57,421,75,400,99,382,126,355,184,338,240,328,286"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="446,85,602,141"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="329,285,362,219,387,183,418,151,447,135,444,138,421,155,391,186,367,221,334,287"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="446,165,602,221"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="344,288,378,259,418,231,447,218,443,222,421,235,381,263,348,291"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="446,245,602,301"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="385,298,448,287,443,290,388,302"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="446,325,602,381"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="386,324,448,337,443,339,387,329"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1FPMathOperator.html" title="Utility class for floating point operations which can have information about relaxed accuracy require..." alt="" coords="449,406,599,431"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="344,335,380,365,421,391,453,404,447,406,418,396,377,369,345,340"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1OverflowingBinaryOperator.html" title="Utility class for integer operators which may exhibit overflow &#45; Add, Sub, Mul, and Shl." alt="" coords="419,455,629,481"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="334,337,370,392,393,419,421,442,443,454,438,455,418,446,389,423,365,395,333,342"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1PossiblyExactOperator.html" title="A udiv, sdiv, lshr, or ashr instruction, which can be marked as &quot;exact&quot;, indicating that no bits are ..." alt="" coords="430,695,618,721"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="336,338,519,694,513,695,333,342"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1User.html" title=" " alt="" coords="139,300,220,326"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,311,270,312,266,315,237,315"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="5,300,91,326"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,311,140,311,136,315,108,315"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1AddrSpaceCastOperator.html" title=" " alt="" coords="677,20,872,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="617,31,679,32,674,34,619,36"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1BitCastOperator.html" title=" " alt="" coords="701,100,848,126"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="617,111,702,112,698,114,619,116"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1GEPOperator.html" title=" " alt="" coords="709,180,840,206"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="617,191,711,192,706,194,619,196"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1PtrToAddrOperator.html" title=" " alt="" coords="694,260,855,286"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="617,271,696,272,691,274,619,276"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1PtrToIntOperator.html" title=" " alt="" coords="700,310,849,335"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="617,339,702,331,697,333,619,344"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="678,360,870,416"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="603,448,628,441,708,415,703,417,629,446,605,453"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="678,440,870,496"/>
+<area shape="poly" id="edge17_Node000015_Node000018" title=" " alt="" coords="644,465,680,467,675,469,645,470"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="678,520,870,576"/>
+<area shape="poly" id="edge19_Node000015_Node000020" title=" " alt="" coords="581,483,688,519,683,520,581,489"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="678,600,870,656"/>
+<area shape="poly" id="edge21_Node000015_Node000022" title=" " alt="" coords="551,489,608,537,678,586,702,600,696,599,675,590,605,541,550,494"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1AddOperator.html" title=" " alt="" coords="923,375,1049,401"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="886,385,925,387,920,388,887,390"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1MulOperator.html" title=" " alt="" coords="924,455,1048,481"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="886,465,926,467,921,468,887,470"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1ShlOperator.html" title=" " alt="" coords="925,535,1047,561"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="886,545,928,547,922,548,886,550"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1SubOperator.html" title=" " alt="" coords="923,615,1049,641"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="886,625,925,628,920,628,887,630"/>
+<area shape="rect" id="Node000025" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="689,680,860,736"/>
+<area shape="poly" id="edge24_Node000024_Node000025" title=" " alt="" coords="633,705,691,708,686,708,634,710"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="689,760,860,816"/>
+<area shape="poly" id="edge26_Node000024_Node000027" title=" " alt="" coords="582,723,691,761,686,761,581,729"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1AShrOperator.html" title=" " alt="" coords="920,695,1052,721"/>
+<area shape="poly" id="edge25_Node000025_Node000026" title=" " alt="" coords="875,705,922,708,917,708,875,710"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1LShrOperator.html" title=" " alt="" coords="921,775,1051,801"/>
+<area shape="poly" id="edge27_Node000027_Node000028" title=" " alt="" coords="875,785,923,788,918,788,875,790"/>
+</map>

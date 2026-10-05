@@ -1,0 +1,71 @@
+<map id="llvm::MCObjectFileInfo" name="llvm::MCObjectFileInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,522,161,548"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RISCVMCObjectFileInfo.html" title=" " alt="" coords="210,497,408,522"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,522,212,519,208,523,178,527"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1TargetLoweringObjectFile.html" title=" " alt="" coords="209,546,409,572"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,543,210,547,206,550,178,547"/>
+<area shape="rect" id="Node000004" href="$classDXILTargetObjectFile.html" title=" " alt="" coords="480,325,627,350"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="405,535,407,533,423,513,430,492,430,448,431,404,439,382,455,360,482,345,478,349,459,364,443,384,436,405,436,448,435,493,428,515,411,537,409,539"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1NVPTXTargetObjectFile.html" title=" " alt="" coords="457,374,650,400"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="404,536,407,533,420,519,426,504,430,473,435,441,442,425,455,409,475,399,471,402,459,413,446,427,440,442,436,473,432,505,424,522,411,537,408,539"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SPIRVTargetObjectFile.html" title=" " alt="" coords="459,424,648,449"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="401,537,407,533,423,516,431,497,438,478,455,460,481,448,477,452,459,464,443,481,436,499,428,519,411,537,404,541"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1TargetLoweringObjectFileCOFF.html" title=" " alt="" coords="464,473,643,514"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="380,540,408,532,484,513,480,516,410,538,383,544"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1TargetLoweringObjectFileELF.html" title=" " alt="" coords="464,539,643,579"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="423,557,466,558,461,560,426,561"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1TargetLoweringObjectFileGOFF.html" title=" " alt="" coords="464,604,643,645"/>
+<area shape="poly" id="edge27_Node000003_Node000028" title=" " alt="" coords="374,574,477,602,472,605,375,579"/>
+<area shape="rect" id="Node000029" href="$classllvm_1_1TargetLoweringObjectFileMachO.html" title=" " alt="" coords="464,941,643,982"/>
+<area shape="poly" id="edge28_Node000003_Node000029" title=" " alt="" coords="328,583,542,940,537,942,325,588"/>
+<area shape="rect" id="Node000033" href="$classllvm_1_1TargetLoweringObjectFileWasm.html" title=" " alt="" coords="464,1007,643,1047"/>
+<area shape="poly" id="edge32_Node000003_Node000033" title=" " alt="" coords="312,585,323,666,345,775,364,833,388,890,420,944,459,992,476,1007,471,1006,455,996,415,947,384,893,359,835,340,776,317,667,311,590"/>
+<area shape="rect" id="Node000035" href="$classllvm_1_1TargetLoweringObjectFileXCOFF.html" title=" " alt="" coords="464,1072,643,1113"/>
+<area shape="poly" id="edge34_Node000003_Node000035" title=" " alt="" coords="311,585,318,676,325,736,337,802,356,870,381,938,415,1001,459,1057,475,1072,470,1071,455,1061,411,1004,376,940,350,872,332,803,320,737,312,677,309,590"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1AArch64__COFFTargetObjectFile.html" title="This implementation is used for AArch64 COFF targets." alt="" coords="723,5,906,46"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="648,461,648,460,666,434,678,409,684,384,687,359,682,309,670,259,659,209,655,159,657,133,665,108,677,82,696,56,725,37,721,41,700,60,682,85,670,110,663,134,660,159,664,208,676,258,687,308,692,359,690,385,683,411,671,437,652,463,652,464"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1AArch64__ELFTargetObjectFile.html" title="This implementation is used for AArch64 ELF targets (Linux in particular)." alt="" coords="700,70,929,96"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="646,526,648,524,666,497,678,470,685,444,687,418,681,366,668,314,656,262,651,210,654,184,662,158,676,131,696,105,713,94,710,98,700,109,681,134,667,160,660,185,657,210,661,261,673,313,686,365,692,418,690,445,683,472,671,500,652,527,650,530"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1AMDGPUTargetObjectFile.html" title=" " alt="" coords="711,120,918,145"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="646,526,648,524,665,500,675,477,681,454,683,431,679,385,669,339,659,293,655,247,658,224,666,201,678,178,696,154,713,144,710,148,700,158,683,181,671,203,664,225,661,247,664,292,674,338,684,384,689,431,686,455,680,479,669,503,652,527,650,530"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1ARMElfTargetObjectFile.html" title=" " alt="" coords="717,169,912,194"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="646,526,648,524,663,504,672,484,680,443,677,404,669,364,661,324,659,284,669,244,680,224,696,204,719,190,715,194,700,208,685,227,674,246,665,284,667,323,674,363,682,403,685,444,677,485,667,506,652,527,650,530"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1AVRTargetObjectFile.html" title="Lowering for an AVR ELF32 object file." alt="" coords="727,218,902,244"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="646,527,648,524,669,490,677,457,675,423,670,390,664,356,664,322,673,288,696,255,710,243,729,236,725,240,713,248,700,258,678,290,669,323,670,355,675,389,681,423,682,457,674,492,652,527,649,531"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1BPFTargetLoweringObjectFileELF.html" title=" " alt="" coords="712,268,917,309"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="646,527,648,524,665,498,673,473,673,448,671,422,668,397,670,371,678,345,696,319,714,307,710,311,700,322,683,347,675,372,674,397,676,422,679,448,678,474,670,501,652,527,649,531"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1CSKYELFTargetObjectFile.html" title=" " alt="" coords="710,333,919,358"/>
+<area shape="poly" id="edge14_Node000009_Node000015" title=" " alt="" coords="645,527,648,524,662,505,669,486,670,446,673,407,681,387,697,368,715,357,711,361,700,372,685,390,678,408,676,447,674,487,667,507,652,527,649,531"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1HexagonTargetObjectFile.html" title=" " alt="" coords="714,382,915,408"/>
+<area shape="poly" id="edge15_Node000009_Node000016" title=" " alt="" coords="643,528,648,524,660,511,666,498,671,471,677,444,684,430,697,417,718,407,713,410,700,421,688,433,682,445,676,472,671,500,664,514,652,528,647,532"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1LanaiTargetObjectFile.html" title=" " alt="" coords="725,432,904,457"/>
+<area shape="poly" id="edge16_Node000009_Node000017" title=" " alt="" coords="640,529,649,524,663,510,672,496,681,481,697,467,727,456,722,459,700,472,685,485,676,498,667,513,652,528,643,533"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1LoongArchELFTargetObjectFile.html" title="This implementation is used for LoongArch ELF targets." alt="" coords="727,481,902,522"/>
+<area shape="poly" id="edge17_Node000009_Node000018" title=" " alt="" coords="657,534,729,520,724,522,660,538"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1M68kELFTargetObjectFile.html" title=" " alt="" coords="712,546,917,572"/>
+<area shape="poly" id="edge18_Node000009_Node000019" title=" " alt="" coords="658,556,714,558,709,560,660,562"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1MipsTargetObjectFile.html" title=" " alt="" coords="726,596,903,621"/>
+<area shape="poly" id="edge19_Node000009_Node000020" title=" " alt="" coords="658,576,745,594,740,596,659,581"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1PPC64LinuxTargetObjectFile.html" title="PPC64LinuxTargetObjectFile &#45; This implementation is used for 64&#45;bit PowerPC Linux." alt="" coords="704,645,925,670"/>
+<area shape="poly" id="edge20_Node000009_Node000021" title=" " alt="" coords="638,583,652,590,666,601,676,612,685,622,700,631,728,644,723,645,697,636,682,626,672,615,663,605,649,595,639,589"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1RISCVELFTargetObjectFile.html" title="This implementation is used for RISC&#45;V ELF targets." alt="" coords="707,694,922,720"/>
+<area shape="poly" id="edge21_Node000009_Node000022" title=" " alt="" coords="644,585,652,590,670,614,676,638,683,660,700,681,719,693,714,694,697,685,678,663,671,639,665,616,648,594,644,590"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1SparcELFTargetObjectFile.html" title=" " alt="" coords="711,744,918,769"/>
+<area shape="poly" id="edge22_Node000009_Node000023" title=" " alt="" coords="646,586,652,591,666,609,673,627,676,663,679,698,686,714,700,730,717,743,711,743,697,734,682,717,674,699,671,664,668,628,661,611,648,594,646,591"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1SystemZELFTargetObjectFile.html" title="This implementation is used for SystemZ ELF targets." alt="" coords="702,793,927,818"/>
+<area shape="poly" id="edge23_Node000009_Node000024" title=" " alt="" coords="647,587,652,591,669,615,676,640,675,689,674,712,675,735,683,758,700,780,716,793,710,792,696,784,678,760,670,736,668,712,670,688,671,641,664,618,648,594,647,592"/>
+<area shape="rect" id="Node000025" href="$classllvm_1_1X86ELFTargetObjectFile.html" title="This implementation is used for X86 ELF targets that don&#39;t have a further specialization (and as a ba..." alt="" coords="717,842,912,868"/>
+<area shape="poly" id="edge24_Node000009_Node000025" title=" " alt="" coords="648,587,652,591,672,622,680,653,679,684,675,714,671,743,671,772,680,801,700,829,719,844,714,844,696,833,675,803,666,773,666,743,670,713,674,683,674,654,667,624,648,594,647,592"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1XCoreTargetObjectFile.html" title=" " alt="" coords="722,892,907,917"/>
+<area shape="poly" id="edge26_Node000009_Node000027" title=" " alt="" coords="648,587,652,591,675,628,683,666,681,703,675,739,668,775,667,809,676,844,700,878,724,896,719,896,696,882,671,846,662,810,663,774,669,738,676,702,678,666,670,630,648,594,648,592"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1X86__64ELFTargetObjectFile.html" title="This implementation is used for X86_64 ELF targets, and defers to X86ELFTargetObjectFile for commonal..." alt="" coords="979,842,1195,868"/>
+<area shape="poly" id="edge25_Node000025_Node000026" title=" " alt="" coords="928,852,981,855,976,855,928,858"/>
+<area shape="rect" id="Node000030" href="$classllvm_1_1AArch64__MachoTargetObjectFile.html" title="AArch64_MachoTargetObjectFile &#45; This TLOF implementation is used for Darwin." alt="" coords="722,941,907,982"/>
+<area shape="poly" id="edge29_Node000029_Node000030" title=" " alt="" coords="658,959,724,961,719,962,659,964"/>
+<area shape="rect" id="Node000031" href="$classllvm_1_1RISCVMachOTargetObjectFile.html" title=" " alt="" coords="698,1006,931,1032"/>
+<area shape="poly" id="edge30_Node000029_Node000031" title=" " alt="" coords="659,982,699,991,755,1006,750,1006,698,996,659,988"/>
+<area shape="rect" id="Node000032" href="$classllvm_1_1X86__64MachoTargetObjectFile.html" title="X86_64MachoTargetObjectFile &#45; This TLOF implementation is used for Darwin x86&#45;64." alt="" coords="699,1056,930,1081"/>
+<area shape="poly" id="edge31_Node000029_Node000032" title=" " alt="" coords="641,987,652,993,667,1006,676,1019,685,1031,700,1042,726,1055,720,1055,697,1047,681,1035,672,1022,663,1009,649,997,640,992"/>
+<area shape="rect" id="Node000034" href="$classllvm_1_1WebAssemblyTargetObjectFile.html" title=" " alt="" coords="698,1105,931,1130"/>
+<area shape="poly" id="edge33_Node000033_Node000034" title=" " alt="" coords="637,1051,652,1058,676,1075,700,1091,732,1105,727,1104,697,1096,673,1080,649,1063,636,1056"/>
+</map>

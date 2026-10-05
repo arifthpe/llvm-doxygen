@@ -1,0 +1,13 @@
+<map id="llvm::MachineRegisterInfo::defusechain_iterator&lt; ReturnUses, ReturnDefs, SkipDebug, ByOperand, ByInstr &gt;" name="llvm::MachineRegisterInfo::defusechain_iterator&lt; ReturnUses, ReturnDefs, SkipDebug, ByOperand, ByInstr &gt;">
+<area shape="rect" id="Node000001" title="reg_begin/reg_end &#45; Provide iteration support to walk over all definitions and uses of a register wit..." alt="" coords="5,195,230,265"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__iterator.html" title=" " alt="" coords="396,5,569,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,182,200,140,252,102,323,72,397,53,393,56,325,77,255,107,204,144,161,185"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__iterator.html" title=" " alt="" coords="396,100,569,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,187,253,178,398,147,393,151,254,183,227,192"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__iterator.html" title=" " alt="" coords="396,195,569,265"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,227,398,229,393,231,246,233"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__iterator.html" title=" " alt="" coords="396,289,569,360"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="227,268,254,276,397,309,393,311,253,281,227,273"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__iterator.html" title=" " alt="" coords="396,384,569,455"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="159,274,204,316,255,352,325,383,398,405,393,405,323,388,252,357,200,320,158,279"/>
+</map>

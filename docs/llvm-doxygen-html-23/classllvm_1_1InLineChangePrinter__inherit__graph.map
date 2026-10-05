@@ -1,0 +1,13 @@
+<map id="llvm::InLineChangePrinter" name="llvm::InLineChangePrinter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="114,319,285,344"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TextChangeReporter.html" title=" " alt="" coords="107,229,292,269"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,283,202,320,197,317,197,286"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ChangeReporter.html" title=" " alt="" coords="5,117,191,158"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,167,184,228,179,229,126,172"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ChangeReporter.html" title=" " alt="" coords="24,5,172,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,59,101,117,95,116,97,64"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1TextChangeReporter.html" title=" " alt="" coords="215,117,389,158"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="275,168,219,230,216,226,271,171"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ChangeReporter.html" title=" " alt="" coords="228,5,376,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="303,59,304,118,300,116,301,64"/>
+</map>

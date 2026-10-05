@@ -1,0 +1,23 @@
+<map id="llvm::GenericScheduler" name="llvm::GenericScheduler">
+<area shape="rect" id="Node000001" title="GenericScheduler shrinks the unscheduled zone using heuristics to balance the schedule." alt="" coords="476,161,632,187"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1GCNSchedStrategy.html" title="This is a minimal scheduler strategy." alt="" coords="711,83,881,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="594,152,679,117,717,110,722,108,681,122,596,157"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1PPCPreRASchedStrategy.html" title="A MachineSchedStrategy implementation for PowerPC pre RA scheduling." alt="" coords="693,132,899,158"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="647,160,695,157,690,158,648,166"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1RISCVPreRAMachineSchedStrategy.html" title="A GenericScheduler implementation for RISCV pre RA scheduling." alt="" coords="686,182,906,222"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="647,182,688,189,683,189,647,188"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1SystemZPreRASchedStrategy.html" title="A MachineSchedStrategy implementation for SystemZ pre RA scheduling." alt="" coords="680,247,912,272"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="593,192,635,213,681,232,725,246,719,246,679,237,633,218,592,197"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1GenericSchedulerBase.html" title="Base class for GenericScheduler." alt="" coords="242,161,428,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,172,478,174,473,174,444,177"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MachineSchedStrategy.html" title="MachineSchedStrategy &#45; Interface to the scheduling algorithm used by ScheduleDAGMI." alt="" coords="5,161,194,187"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="209,172,244,173,239,175,210,177"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1AMDGPUCoExecSchedStrategy.html" title=" " alt="" coords="960,5,1205,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="847,75,959,40,1008,31,1003,32,960,45,849,80"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1GCNMaxILPSchedStrategy.html" title="The goal of this scheduling strategy is to maximize ILP for a single wave (i.e." alt="" coords="975,55,1190,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="896,83,977,78,972,78,897,88"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1GCNMaxMemoryClauseSchedStrategy.html" title="The goal of this scheduling strategy is to maximize memory clause for a single wave." alt="" coords="984,104,1180,145"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="896,103,986,115,981,115,896,108"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1GCNMaxOccupancySchedStrategy.html" title="The goal of this scheduling strategy is to maximize kernel occupancy (i.e." alt="" coords="977,170,1188,210"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="896,110,913,117,928,126,938,136,947,145,961,154,992,170,987,169,958,159,944,150,934,140,924,131,910,122,896,116"/>
+</map>

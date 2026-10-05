@@ -1,0 +1,11 @@
+<map id="llvm::MachinePassRegistryListener&lt; PassCtorTy &gt;" name="llvm::MachinePassRegistryListener&lt; PassCtorTy &gt;">
+<area shape="rect" id="Node000001" title="MachinePassRegistryListener &#45; Listener to adds and removals of nodes in registration list." alt="" coords="5,85,187,126"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MachinePassRegistryListener.html" title=" " alt="" coords="405,5,586,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,78,210,75,406,43,402,47,211,80,194,83"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MachinePassRegistryListener.html" title=" " alt="" coords="397,85,594,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,103,399,103,395,107,202,108"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MachinePassRegistryListener.html" title=" " alt="" coords="396,150,595,191"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="191,127,211,131,397,159,393,162,210,136,191,132"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1RegisterPassParser.html" title="RegisterPassParser class &#45; Handle the addition of new machine passes." alt="" coords="644,13,815,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="601,31,646,33,641,34,602,36"/>
+</map>

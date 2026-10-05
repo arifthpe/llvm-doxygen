@@ -1,0 +1,25 @@
+<map id="llvm::MCAsmInfoCOFF" name="llvm::MCAsmInfoCOFF">
+<area shape="rect" id="Node000001" title=" " alt="" coords="177,177,336,203"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MCAsmInfoGNUCOFF.html" title=" " alt="" coords="384,104,573,130"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="311,169,439,129,435,131,313,174"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1MCAsmInfoMicrosoft.html" title=" " alt="" coords="390,227,567,252"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="333,204,420,226,415,226,333,210"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCAsmInfo.html" title="This class is intended to be used as a base class for asm properties and features specific to the tar..." alt="" coords="5,177,129,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,188,179,189,174,191,145,193"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1AArch64MCAsmInfoGNUCOFF.html" title=" " alt="" coords="633,5,873,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="512,93,562,65,620,40,661,31,656,33,622,45,565,70,515,98"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ARMCOFFMCAsmInfoGNU.html" title=" " alt="" coords="643,55,863,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="568,98,680,80,675,82,570,103"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MipsCOFFMCAsmInfo.html" title=" " alt="" coords="659,104,847,130"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="589,114,661,116,656,117,589,119"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1X86MCAsmInfoGNUCOFF.html" title=" " alt="" coords="647,153,859,179"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="569,130,680,152,675,153,569,136"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1AArch64MCAsmInfoMicrosoftCOFF.html" title=" " alt="" coords="621,203,885,228"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="582,228,623,227,618,227,583,233"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1ARMCOFFMCAsmInfoMicrosoft.html" title=" " alt="" coords="631,252,875,278"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="583,246,634,254,628,254,583,252"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1X86MCAsmInfoMicrosoft.html" title=" " alt="" coords="653,301,853,327"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="527,256,622,288,670,301,665,301,621,293,526,261"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1X86MCAsmInfoMicrosoftMASM.html" title=" " alt="" coords="933,301,1173,327"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="869,312,935,314,929,314,869,317"/>
+</map>

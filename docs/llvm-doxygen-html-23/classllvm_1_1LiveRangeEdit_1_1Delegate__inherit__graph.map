@@ -1,0 +1,7 @@
+<map id="llvm::LiveRangeEdit::Delegate" name="llvm::LiveRangeEdit::Delegate">
+<area shape="rect" id="Node000001" title="Callback methods for LiveRangeEdit owners." alt="" coords="56,5,194,46"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RABasic.html" title="RABasic provides a minimal implementation of the basic register allocation algorithm." alt="" coords="5,94,111,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,57,70,95,66,91,96,59"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1RAGreedy.html" title=" " alt="" coords="134,94,248,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,55,184,94,178,93,150,60"/>
+</map>

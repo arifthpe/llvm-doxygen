@@ -1,0 +1,13 @@
+<map id="llvm::LibcallLoweringModuleAnalysis" name="llvm::LibcallLoweringModuleAnalysis">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1175,41,1359,82"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AnalysisInfoMixin.html" title=" " alt="" coords="899,41,1125,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1141,59,1177,62,1171,62,1141,64"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="412,8,638,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="654,34,901,54,896,54,653,40"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,8,151,49"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,26,412,26,410,31,166,31"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes." alt="" coords="447,73,603,114"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="618,88,875,74,896,75,901,74,875,79,619,93"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1detail_1_1InfoMixin.html" title=" " alt="" coords="5,73,151,114"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="166,91,446,91,446,96,166,96"/>
+</map>

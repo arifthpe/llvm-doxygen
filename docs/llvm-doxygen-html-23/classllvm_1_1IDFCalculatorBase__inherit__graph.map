@@ -1,0 +1,23 @@
+<map id="llvm::IDFCalculatorBase&lt; NodeTy, IsPostDom &gt;" name="llvm::IDFCalculatorBase&lt; NodeTy, IsPostDom &gt;">
+<area shape="rect" id="Node000001" title="Determine the iterated dominance frontier, given a set of defining blocks, and optionally,..." alt="" coords="5,157,170,198"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1IDFCalculatorBase.html" title=" " alt="" coords="414,101,600,142"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,162,415,132,412,136,186,167"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1IDFCalculatorBase.html" title=" " alt="" coords="390,220,624,261"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="160,200,194,209,294,225,392,235,386,236,293,230,193,214,160,206"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1IDFCalculator.html" title=" " alt="" coords="989,5,1124,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="565,92,617,71,673,52,746,34,805,24,865,20,941,20,991,23,986,24,941,26,865,26,806,29,748,39,674,58,618,76,567,97"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1IDFCalculator.html" title=" " alt="" coords="989,108,1124,149"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="615,120,991,127,986,128,615,126"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1IDFCalculator.html" title=" " alt="" coords="698,67,832,107"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="614,105,700,95,695,97,616,110"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="847,67,991,39,986,40,848,72"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="847,96,991,119,986,119,847,101"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MachineIDFCalculator.html" title=" " alt="" coords="965,204,1148,245"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="639,221,673,218,807,209,941,211,967,215,962,215,941,216,807,214,674,223,640,226"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1MachineIDFCalculator.html" title=" " alt="" coords="965,285,1148,326"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="589,263,674,282,827,298,967,306,962,306,826,303,673,287,588,268"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1MachineIDFCalculator.html" title=" " alt="" coords="673,232,857,273"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="639,244,675,248,670,248,640,249"/>
+<area shape="poly" id="edge11_Node000009_Node000007" title=" " alt="" coords="872,240,940,234,962,235,967,234,941,239,872,246"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="873,269,967,289,961,289,872,275"/>
+</map>

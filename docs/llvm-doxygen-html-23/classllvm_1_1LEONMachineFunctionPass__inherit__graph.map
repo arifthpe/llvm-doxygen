@@ -1,0 +1,15 @@
+<map id="llvm::LEONMachineFunctionPass" name="llvm::LEONMachineFunctionPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="173,226,392,252"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DetectRoundChange.html" title=" " alt="" coords="5,300,181,326"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="239,259,126,302,124,297,234,257"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1FixAllFDIVSQRT.html" title=" " alt="" coords="205,300,360,326"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="284,266,284,301,280,298,280,269"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1InsertNOPLoad.html" title=" " alt="" coords="384,300,527,326"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="326,256,429,299,423,299,325,261"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MachineFunctionPass.html" title="MachineFunctionPass &#45; This class adapts the FunctionPass interface to allow convenient creation of pa..." alt="" coords="191,153,374,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,192,285,227,280,225,281,196"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1FunctionPass.html" title="FunctionPass class &#45; This class is used to implement most global optimizations." alt="" coords="216,79,349,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="284,118,285,153,280,151,281,122"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;." alt="" coords="241,5,324,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="284,44,285,79,280,78,281,49"/>
+</map>

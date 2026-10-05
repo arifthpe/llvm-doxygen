@@ -1,0 +1,9 @@
+<map id="llvm::MatchResultDiag" name="llvm::MatchResultDiag">
+<area shape="rect" id="Node000001" title="Abstract base class for recording a FileCheck diagnostic that reports a match result for a pattern." alt="" coords="91,79,245,105"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MatchFoundDiag.html" title="MatchResultDiag for a pattern that matched the input." alt="" coords="5,153,158,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,114,97,155,94,150,139,115"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MatchNoneDiag.html" title="MatchResultDiag for a pattern that did not match the input." alt="" coords="181,153,328,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,112,243,152,238,152,194,117"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1FileCheckDiag.html" title="Abstract base class for recording a FileCheck diagnostic for a pattern (e.g., CHECK&#45;NEXT directive or..." alt="" coords="98,5,238,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,44,171,80,166,78,167,49"/>
+</map>

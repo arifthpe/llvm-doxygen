@@ -1,0 +1,7 @@
+<map id="llvm::MatchFuzzyDiag" name="llvm::MatchFuzzyDiag">
+<area shape="rect" id="Node000001" title="MatchNoteDiag for a fuzzy match that serves as a suggestion for the next intended match for an expect..." alt="" coords="5,153,158,178"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MatchNoteDiag.html" title="Abstract base class for recording a FileCheck diagnostic that provides an additional note (possibly a..." alt="" coords="9,79,154,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,118,84,153,79,151,80,122"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1FileCheckDiag.html" title="Abstract base class for recording a FileCheck diagnostic for a pattern (e.g., CHECK&#45;NEXT directive or..." alt="" coords="12,5,151,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,44,84,79,79,78,80,49"/>
+</map>

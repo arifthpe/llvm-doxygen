@@ -1,0 +1,11 @@
+<map id="llvm::MCPseudoProbeInlineTreeBase&lt; ProbesType, DerivedProbeInlineTreeType, InlinedProbeTreeMap &gt;" name="llvm::MCPseudoProbeInlineTreeBase&lt; ProbesType, DerivedProbeInlineTreeType, InlinedProbeTreeMap &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,112,255,168"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCPseudoProbeInlineTreeBase.html" title=" " alt="" coords="591,40,908,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,111,278,110,439,94,593,87,587,88,439,99,279,115,271,116"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MCPseudoProbeInlineTreeBase.html" title=" " alt="" coords="592,155,907,240"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,172,239,188,279,199,358,210,439,215,518,216,588,215,594,215,518,221,439,221,358,216,278,204,237,193,199,178"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MCDecodedPseudoProbeInlineTree.html" title=" " alt="" coords="960,63,1164,103"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="923,80,962,83,957,83,924,85"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MCPseudoProbeInlineTree.html" title=" " alt="" coords="957,185,1167,210"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="923,195,960,197,954,198,923,200"/>
+</map>

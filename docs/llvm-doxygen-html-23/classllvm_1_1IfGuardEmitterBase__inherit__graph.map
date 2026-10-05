@@ -1,0 +1,9 @@
+<map id="llvm::IfGuardEmitterBase" name="llvm::IfGuardEmitterBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="174,5,342,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1IfDefGuardEmitter.html" title=" " alt="" coords="5,79,165,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,38,115,81,114,76,212,36"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1IfGuardEmitter.html" title=" " alt="" coords="189,79,328,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,45,261,80,256,77,256,48"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1IfNDefGuardEmitter.html" title=" " alt="" coords="351,79,520,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="303,35,408,78,403,79,302,40"/>
+</map>
